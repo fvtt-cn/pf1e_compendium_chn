@@ -11,18 +11,18 @@ stages:
 test:
   stage: test
   script:
-    - python -mjson.tool 'dnd5e_cn/cn.json' > /dev/null
-    - python -mjson.tool 'dnd5e_cn/module.json' > /dev/null
+    - python -mjson.tool 'pf1e_chn/cn.json' > /dev/null
+    - python -mjson.tool 'pf1e_chn/module.json' > /dev/null
 
 build:
   stage: build
   script:
-    - zip dnd5e_cn.zip -r dnd5e_cn -x ".*"
+    - zip pf1e_chn.zip -r pf1e_chn -x ".*"
   artifacts:
-    name: dnd5e_cn
+    name: pf1e_chn
     when: on_success
     paths:
-      - dnd5e_cn.zip
+      - pf1e_chn.zip
   when: on_success
   only:
     - tags
