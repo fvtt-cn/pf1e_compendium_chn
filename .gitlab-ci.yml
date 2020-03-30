@@ -11,18 +11,18 @@ stages:
 test:
   stage: test
   script:
-    - python -mjson.tool 'pf1e_chn/cn.json' > /dev/null
-    - python -mjson.tool 'pf1e_chn/module.json' > /dev/null
+    - python -mjson.tool 'pf1e_cn/cn.json' > /dev/null
+    - python -mjson.tool 'pf1e_cn/module.json' > /dev/null
 
 build:
   stage: build
   script:
-    - zip pf1e_chn.zip -r pf1e_chn -x ".*"
+    - zip pf1e_cn.zip -r pf1e_cn -x ".*"
   artifacts:
-    name: pf1e_chn
+    name: pf1e_cn
     when: on_success
     paths:
-      - pf1e_chn.zip
+      - pf1e_cn.zip
   when: on_success
   only:
     - tags
