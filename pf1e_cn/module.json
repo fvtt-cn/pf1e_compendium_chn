@@ -21,7 +21,7 @@
     ],
     
     "url": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn",
-	  "manifest": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn/raw/master/pf1e_chn/module.json",
-	  "download": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn/-/jobs/artifacts/master/raw/pf1e_chn.zip?job=build"
+	"manifest": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn/raw/master/pf1e_chn/module.json",
+	"download": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn/-/jobs/artifacts/master/raw/pf1e_chn.zip?job=build"
   }
   
