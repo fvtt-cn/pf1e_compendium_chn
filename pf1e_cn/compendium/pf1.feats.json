@@ -704,7 +704,7 @@
 		{
 			"id": "Skill Focus",
 			"name": "技能专攻",
-			"description": "<p><em>选择一项技能。你特别擅长该技能。</em></p>\n<p><strong>专长效果：</strong>: You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6.</p>\n<p><strong>特殊说明：</strong>: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new skill.</p>"
+			"description": "<p><em>选择一项技能。你特别擅长该技能。</em></p>\n<p><strong>专长效果：</strong>你在所有涉及该技能的检定上获得+3加值。如果你该技能的等级为10或更高，此加值提升为+6。</p>\n<p><strong>特殊说明：</strong>你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新技能。</p>"
 		},
 		{
 			"id": "Snatch Arrows",
@@ -843,7 +843,7 @@
 		},
 		{
 			"id": "Weapon Specialization",
-			"name": "Weapon Specialization",
+			"name": "武器专精",
 			"description": "<p><em>你善于使用特定类型的武器造成伤害。从已有“武器专攻”的武器中选择一个（包括徒手击打和擒抱），使用此种武器将可造成更多伤害。</em></p>\n<p><strong>先决条件：</strong>擅长对应武器，武器专攻，战士4级。</p>\n<p><strong>专长效果：</strong>使用专精的武器时伤害检定+2。</p>\n<p><strong>特殊说明：</strong>你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。</p>"
 		},
 		{
