@@ -1,0 +1,105 @@
+{
+	"label": "通用BUFF",
+	"entries": [
+		{
+			"id": "Aid",
+			"name": "援助术",
+			"description": "<p>You have a +1 morale bonus to attack rolls and saves against fear effects.</p>"
+		},
+		{
+			"id": "Bane",
+			"name": "灾祸",
+			"description": "<p>You take a -1 penalty on attack rolls and saving throws vs fear effects.</p>"
+		},
+		{
+			"id": "Barkskin",
+			"name": "树肤术",
+			"description": "<p>Your skin is toughened, granting you an enhancement bonus to your natural armor.</p>"
+		},
+		{
+			"id": "Bear's Endurance",
+			"name": "熊之坚韧",
+			"description": "<p>The subject has a +4 enhancement bonus to Constitution.</p>"
+		},
+		{
+			"id": "Bless",
+			"name": "祝福术",
+			"description": "<p>You have a +1 morale bonus to attack rolls and saves against fear effects.</p>"
+		},
+		{
+			"id": "Bull's Strength",
+			"name": "牛之力量",
+			"description": "<p>The subject has a +4 enhancement bonus to Strength.</p>"
+		},
+		{
+			"id": "Cat's Grace",
+			"name": "猫之优雅",
+			"description": "<p>The subject has a +4 enhancement bonus to Dexterity.</p>"
+		},
+		{
+			"id": "Divine Favor",
+			"name": "神恩",
+			"description": "<p>You have a luck bonus to attack rolls and weapon damage rolls equal to the buff's level.</p>"
+		},
+		{
+			"id": "Eagle's Splendor",
+			"name": "鹰之威仪",
+			"description": "<p>The subject has a +4 enhancement bonus to Charisma.</p>"
+		},
+		{
+			"id": "Fox's Cunning",
+			"name": "狐之狡黠",
+			"description": "<p>The subject has a +4 enhancement bonus to Intelligence.</p>"
+		},
+		{
+			"id": "Haste",
+			"name": "加速术",
+			"description": "<p>When making a full attack action, you may make one extra attack with one natural or manufactured weapon at your highest base attack bonus. This effect is not cumulative with similar effects, such as that provided by a&nbsp;<a href=\"https://www.d20pfsrd.com/magic-items/magic-weapons#TOC-Speed\" rel=\"nofollow\">speed</a> weapon.</p>\n<p>You also gain a +1 bonus on attack rolls, dodge AC and Reflex saves.</p>\n<p>All your modes of movement (including land, fly, burrow, climb and swim) increase by 30ft, to a maximum of twice your normal speed using that form of movement.&nbsp;This increase counts as an enhancement bonus, and it affects the creature’s jumping distance as normal for increased speed</p>"
+		},
+		{
+			"id": "Heroism",
+			"name": "英雄气概",
+			"description": "<p>You gain a +2 <a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Morale-Bonus\">morale bonus</a> on attack rolls, saves, and skill checks.</p>"
+		},
+		{
+			"id": "Inspire Courage",
+			"name": "激发勇气",
+			"description": "<p>Someone is inspiring you with courage. You have the following benefits:</p>\n<ul>\n<li>A morale bonus on saves vs charm and fear effects equal to the buff's level.</li>\n<li>A competence bonus on attack rolls and weapon damage rolls equal to the buff's level.</li>\n</ul>"
+		},
+		{
+			"id": "Mage Armor",
+			"name": "法师护甲",
+			"description": "<p>An invisible but tangible field of force surrounds you, providing a +4 armor bonus to AC.</p>\n<p>Since&nbsp;mage armor&nbsp;is made of force,&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/conditions#TOC-Incorporeal\">incorporeal</a>&nbsp;creatures can’t bypass it the way they do normal armor.</p>"
+		},
+		{
+			"id": "Owl's Wisdom",
+			"name": "枭之睿智",
+			"description": "<p>The subject has a +4 enhancement bonus to Wisdom.</p>"
+		},
+		{
+			"id": "Prayer (Negative)",
+			"name": "祈祷术 (负)",
+			"description": "<p>You have a +1 luck bonus on attack rolls, weapon damage rolls, saves and skill checks.</p>"
+		},
+		{
+			"id": "Prayer (Positive)",
+			"name": "祈祷术 (正)",
+			"description": "<p>You have a +1 luck bonus on attack rolls, weapon damage rolls, saves and skill checks.</p>"
+		},
+		{
+			"id": "Shield",
+			"name": "护盾术",
+			"description": "<p>An invisible shield of force hovers in front of you, with the following effects:</p>\n<ul>\n<li>+4 Shield Bonus to AC</li>\n<li>Negates Magic Missile attacks direct at you</li>\n</ul>\n<p>These bonuses apply to incorporeal touch attacks.</p>"
+		},
+		{
+			"id": "Shield of Faith",
+			"name": "虔诚护盾",
+			"description": "<p>You have a deflection bonus to AC equal to this buff's level.</p>"
+		},
+		{
+			"id": "Slow",
+			"name": "缓慢术",
+			"description": "<p>You are&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/conditions#TOC-Staggered\">staggered</a>, and you have a -1 penalty to attack rolls, AC and Reflex saves.</p>\n<p>In addition, you move at half speed (round down to the next 5-foot increment).</p>"
+		}
+	]
+}
