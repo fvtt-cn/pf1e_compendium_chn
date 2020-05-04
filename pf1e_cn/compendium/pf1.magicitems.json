@@ -1,0 +1,80 @@
+{
+	"label": "魔法物品",
+	"entries": [
+		{
+			"id": "Amulet of Natural Armor +1",
+			"name": "天生护甲护符 +1",
+			"description": "<p><strong>Aura</strong>&nbsp;faint&nbsp;<a href=\"https://www.d20pfsrd.com/magic#TOC-Transmutation\">transmutation</a>;&nbsp;<strong>CL</strong>&nbsp;5th</p>\n<p>This amulet, usually containing some type of magically preserved monster hide or other natural armor—such as bone, horn, carapace, or beast scales—toughens the wearer’s body and flesh, giving him an&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus\">enhancement bonus</a>&nbsp;to his&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus\">natural armor</a>&nbsp;from +1 to +5, depending on the kind of amulet.</p>"
+		},
+		{
+			"id": "Amulet of Natural Armor +2",
+			"name": "天生护甲护符 +2",
+			"description": "<p><strong>Aura</strong> moderate <a href=\"https://www.d20pfsrd.com/magic#TOC-Transmutation\">transmutation</a>;&nbsp;<strong>CL</strong> 6th</p>\n<p>This amulet, usually containing some type of magically preserved monster hide or other natural armor—such as bone, horn, carapace, or beast scales—toughens the wearer’s body and flesh, giving him an&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus\">enhancement bonus</a>&nbsp;to his&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus\">natural armor</a>&nbsp;from +1 to +5, depending on the kind of amulet.</p>"
+		},
+		{
+			"id": "Amulet of Natural Armor +3",
+			"name": "天生护甲护符 +3",
+			"description": "<p><strong>Aura</strong> moderate <a href=\"https://www.d20pfsrd.com/magic#TOC-Transmutation\">transmutation</a>;&nbsp;<strong>CL</strong> 9th</p>\n<p>This amulet, usually containing some type of magically preserved monster hide or other natural armor—such as bone, horn, carapace, or beast scales—toughens the wearer’s body and flesh, giving him an&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus\">enhancement bonus</a>&nbsp;to his&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus\">natural armor</a>&nbsp;from +1 to +5, depending on the kind of amulet.</p>"
+		},
+		{
+			"id": "Amulet of Natural Armor +4",
+			"name": "天生护甲护符 +4",
+			"description": "<p><strong>Aura</strong> strong <a href=\"https://www.d20pfsrd.com/magic#TOC-Transmutation\">transmutation</a>;&nbsp;<strong>CL</strong> 12th</p>\n<p>This amulet, usually containing some type of magically preserved monster hide or other natural armor—such as bone, horn, carapace, or beast scales—toughens the wearer’s body and flesh, giving him an&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus\">enhancement bonus</a>&nbsp;to his&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus\">natural armor</a>&nbsp;from +1 to +5, depending on the kind of amulet.</p>"
+		},
+		{
+			"id": "Amulet of Natural Armor +5",
+			"name": "天生护甲护符 +5",
+			"description": "<p><strong>Aura</strong> strong <a href=\"https://www.d20pfsrd.com/magic#TOC-Transmutation\">transmutation</a>;&nbsp;<strong>CL</strong> 15th</p>\n<p>This amulet, usually containing some type of magically preserved monster hide or other natural armor—such as bone, horn, carapace, or beast scales—toughens the wearer’s body and flesh, giving him an&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus\">enhancement bonus</a>&nbsp;to his&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus\">natural armor</a>&nbsp;from +1 to +5, depending on the kind of amulet.</p>"
+		},
+		{
+			"id": "Cloak of Resistance +1",
+			"name": "抗力斗篷 +1",
+			"description": "<p><strong>Aura</strong>&nbsp;faint&nbsp;<a href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong>CL</strong>&nbsp;5th</p>\n<p>This garment offers magic protection in the form of a +1 to +5&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Resistance-Bonus\">resistance bonus</a>&nbsp;on all saving throws (<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude\">Fortitude</a>,&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex\">Reflex</a>, and&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Will\">Will</a>).</p>"
+		},
+		{
+			"id": "Cloak of Resistance +2",
+			"name": "抗力斗篷 +2",
+			"description": "<p><strong>Aura</strong> moderate <a href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong>CL</strong> 6th</p>\n<p>This garment offers magic protection in the form of a +1 to +5&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Resistance-Bonus\">resistance bonus</a>&nbsp;on all saving throws (<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude\">Fortitude</a>,&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex\">Reflex</a>, and&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Will\">Will</a>).</p>"
+		},
+		{
+			"id": "Cloak of Resistance +3",
+			"name": "抗力斗篷 +3",
+			"description": "<p><strong>Aura</strong> moderate <a href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong>CL</strong> 9th</p>\n<p>This garment offers magic protection in the form of a +1 to +5&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Resistance-Bonus\">resistance bonus</a>&nbsp;on all saving throws (<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude\">Fortitude</a>,&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex\">Reflex</a>, and&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Will\">Will</a>).</p>"
+		},
+		{
+			"id": "Cloak of Resistance +4",
+			"name": "抗力斗篷 +4",
+			"description": "<p><strong>Aura</strong> strong <a href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong>CL</strong> 12th</p>\n<p>This garment offers magic protection in the form of a +1 to +5&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Resistance-Bonus\">resistance bonus</a>&nbsp;on all saving throws (<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude\">Fortitude</a>,&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex\">Reflex</a>, and&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Will\">Will</a>).</p>"
+		},
+		{
+			"id": "Cloak of Resistance +5",
+			"name": "抗力斗篷 +5",
+			"description": "<p><strong>Aura</strong> strong <a href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong>CL</strong> 15th</p>\n<p>This garment offers magic protection in the form of a +1 to +5&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Resistance-Bonus\">resistance bonus</a>&nbsp;on all saving throws (<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude\">Fortitude</a>,&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex\">Reflex</a>, and&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Will\">Will</a>).</p>"
+		},
+		{
+			"id": "Ring of Protection +1",
+			"name": "防护戒指 +1",
+			"description": "<p><strong>Aura</strong>&nbsp;faint&nbsp;<a href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong>CL</strong>&nbsp;5th</p>\n<p>This ring offers continual magical protection in the form of a&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-\">deflection</a>&nbsp;bonus of +1 to +5 to&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class\" rel=\"nofollow\">AC</a>.</p>"
+		},
+		{
+			"id": "Ring of Protection +2",
+			"name": "防护戒指 +2",
+			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Aura</strong> moderate <a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong style=\"box-sizing: border-box; user-select: text;\">CL</strong> 6th</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This ring offers continual magical protection in the form of a&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-\">deflection</a>&nbsp;bonus of +1 to +5 to&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class\" rel=\"nofollow\">AC</a>.</p>"
+		},
+		{
+			"id": "Ring of Protection +3",
+			"name": "防护戒指 +3",
+			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Aura</strong> moderate <a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong style=\"box-sizing: border-box; user-select: text;\">CL</strong> 9th</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This ring offers continual magical protection in the form of a&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-\">deflection</a>&nbsp;bonus of +1 to +5 to&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class\" rel=\"nofollow\">AC</a>.</p>"
+		},
+		{
+			"id": "Ring of Protection +4",
+			"name": "防护戒指 +4",
+			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Aura</strong> strong <a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong style=\"box-sizing: border-box; user-select: text;\">CL</strong> 12th</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This ring offers continual magical protection in the form of a&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-\">deflection</a>&nbsp;bonus of +1 to +5 to&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class\" rel=\"nofollow\">AC</a>.</p>"
+		},
+		{
+			"id": "Ring of Protection +5",
+			"name": "防护戒指 +5",
+			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Aura</strong> strong <a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/magic#TOC-Abjuration\">abjuration</a>;&nbsp;<strong style=\"box-sizing: border-box; user-select: text;\">CL</strong> 15th</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This ring offers continual magical protection in the form of a&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Bonus-Deflection-\">deflection</a>&nbsp;bonus of +1 to +5 to&nbsp;<a style=\"box-sizing: border-box; user-select: text;\" href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class\" rel=\"nofollow\">AC</a>.</p>"
+		}
+	]
+}
