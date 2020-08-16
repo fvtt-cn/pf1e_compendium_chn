@@ -18,8 +18,8 @@
 		},
 		{
 			"id": "Ankus",
-			"name": "Ankus",
-			"description": "<p><em>Also known as an elephant goad, this tool consists of a 2- to 3-foot rod ending in a spearhead and a backward-facing hook. Traditionally used to train and direct large animals, the ankus can be used as a weapon in a pinch.</em></p>"
+			"name": "训象钩",
+			"description": "<p><em>以刺激大象而广为人知，这个2~3尺长的木棒有一个矛尖，矛尖下有一个回型倒钩。基本上就是用来训练大象用的，当然可以用作武器玩玩。</em></p>"
 		},
 		{
 			"id": "Armor Spikes",
@@ -88,18 +88,18 @@
 		},
 		{
 			"id": "Blade Boot",
-			"name": "Blade Boot",
-			"description": "<p><em>Blade boots come with a spring-mounted knife that pops out when triggered with the right combination of toe presses.</em></p>\n<p>You can use a blade boot as an off-hand weapon. Releasing the knife is a swift action; rearming it is a full-round action. When the blade is extended, you treat normal terrain as difficult and difficult terrain as impassable.</p>"
+			"name": "刀锋靴",
+			"description": "<p><em>刀锋靴配有一把弹簧安装的刀，当脚趾按压的正确组合触发时会弹出。</em></p>\n<p>你可以将刀锋靴作为副手武器。弹出刀刃是一个迅速的动作；重新填装它是一个全回合动作。当刀刃弹出时，你将正常地形视为困难地形，无法在困难地形上移动。</p>"
 		},
 		{
 			"id": "Bladed Scarf",
-			"name": "Bladed Scarf",
+			"name": "刃巾",
 			"description": "<p><em>The skill required in using bladed scarves effectively and not revealing their deadly nature makes them exotic weapons.</em></p>\n<p>If you are proficient with a bladed scarf, you deal 1d4 points of slashing damage to any creature that makes a successful&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple\">grapple</a>&nbsp;check against you while you wield the scarf.</p>\n<p>You can use the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat\">Weapon Finesse</a>&nbsp;feat to apply your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-\">Dexterity</a>&nbsp;modifier instead of your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-\">Strength</a>&nbsp;modifier on&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>&nbsp;with a bladed scarf sized for you, even though it isn’t a light weapon.</p>"
 		},
 		{
 			"id": "Bleeding Arrow",
 			"name": "流血箭",
-			"description": "<p><strong>Benefit</strong>: A bleeding arrow deals normal damage when it hits a creature. Each round thereafter, the creature bleeds for 1 point of damage until the bleeding is stopped by a DC 10 Heal check or the application of a cure spell or some other healing magic. A critical hit does not multiply the bleed damage. Creatures immune to critical hits (such as plants and constructs) are immune to the bleed damage dealt by this weapon.</p>"
+			"description": "<p><strong>Benefit</strong>: 流血箭击中生物时会造成正常伤害。此后每回合，该生物因流血造成1点伤害，直到通过DC 10医疗检定或应用治疗法术或其他治疗魔法停止流血为止。重击不会增加流血伤害。对重击免疫的生物（如植物和建筑）对这种武器造成的流血伤害免疫。</p>"
 		},
 		{
 			"id": "Blowgun",
@@ -133,8 +133,8 @@
 		},
 		{
 			"id": "Boarding Pike",
-			"name": "Boarding Pike",
-			"description": "<p><em>A boarding pike is an 8-foot-long pole topped with a foot-long tapered metal tip. Boarding pikes look much like longspears, but the metal pike is designed to flow into the wooden haft, leaving no grooves, collars, or spikes that could trap salt water and cause rust. Boarding pikes are mainly used defensively, to repel boarding actions. The pikes are kept in brackets around the mast, so sailors can quickly grab pikes and brace them against the gunwale to repel boarders.</em></p>"
+			"name": "登舰矛",
+			"description": "<p><em>登舰矛是一根8英尺长的杆子，顶端有一英尺长的锥形金属尖端。登舰矛看起来很像长梨，但金属长矛设计成融入木柄，不会留下凹槽、项圈或钉子，这些都会因为浸泡海水并导致生锈。登舰矛主要用于防御，击退登舰的敌人。这些登舰矛被放在桅杆周围的支架上，因此水手们可以迅速抓住长矛，并将它们靠在舷墙上以击退登舰者。</em></p>"
 		},
 		{
 			"id": "Bola",
@@ -148,8 +148,8 @@
 		},
 		{
 			"id": "Brass Knife",
-			"name": "Brass Knife",
-			"description": "<p>Pirates often carry long brass knives for working aboard a ship. Though brass doesn’t hold as sharp an edge as steel, it isn’t vulnerable to rust like steel is. In a pinch, a pirate can use his brass knife as a weapon. Mostly, though, they are used for cutting ropes, cleaning fish, and other sundry tasks.</p>"
+			"name": "黄铜刀",
+			"description": "<p>海盗经常携带黄铜刀在船上工作，尽管黄铜不像钢那样锋利，但它不像钢那样容易生锈。在紧要关头，海盗可以用他的黄铜刀作为武器。不过，它们大多用于割断绳索、清洁鱼和其他杂活。</p>"
 		},
 		{
 			"id": "Brass Knuckles",
@@ -163,8 +163,8 @@
 		},
 		{
 			"id": "Brutal Bola",
-			"name": "Brutal Bola",
-			"description": "<p>These bolas function as standard&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/bolas\">bolas</a>, but they deal lethal damage rather than&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Nonlethal-Damage\">nonlethal damage</a>.</p>"
+			"name": "残暴套牛索",
+			"description": "<p>这个套牛索与标准套牛索相同，但是它可以造成致命伤害，还而不是非致命伤害。</p>"
 		},
 		{
 			"id": "Butchering Axe",
@@ -198,8 +198,8 @@
 		},
 		{
 			"id": "Claw Blades",
-			"name": "Claw Blades",
-			"description": "<p><em>These subtle blades can only be used by catfolk with the cat’s claws racial trait. Bought in a set of five, they fit over the wearer’s claws on one hand.</em></p>\n<p>The blades grant the wearer a +1&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus\">enhancement bonus</a>&nbsp;on claw&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>&nbsp;with that hand and change the weapon type from a&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks\">natural weapon</a>&nbsp;to a light slashing weapon.&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#subtype-catfolk\">Catfolk</a>&nbsp;with the cat’s claws racial trait are proficient with this weapon. The claw blades can be enhanced like a masterwork weapon for the normal costs. The listed cost of the item is for one set of five claws for one hand.</p>"
+			"name": "爪刃",
+			"description": "<p><em>这种特殊的刀刃只有拥有【猫爪】种族特性的猫族才能使用。一套5件，按在穿戴者的一只手爪上。</em></p>\n<p>这种刀刃基於穿戴者用爪的攻击骰上获得+1增强加值，并且将武器类型由天生武器改变为轻型挥砍武器。拥有【猫爪】种族特性的猫族擅长这种武器。爪刃可以像正常武器一般附魔，计算成本时将一只手爪上的5枚刀刃视为一组计算。</p>"
 		},
 		{
 			"id": "Club",
@@ -208,13 +208,13 @@
 		},
 		{
 			"id": "Collapsible Kumade",
-			"name": "Collapsible Kumade",
-			"description": "<p>This weapon acts as a kumade, but the handle consists of bamboo sections held together by a taut rope running through the center. Releasing the rope is a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions\">standard action</a>&nbsp;that provokes&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity\">attacks of opportunity</a>&nbsp;and causes the weapon to collapse into a bundle that fits into a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/goods-and-services/containers-bags-boxes-more#TOC-Backpack\">backpack</a>. Reassembling the collapsible kumade requires a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;that provokes attacks of opportunity.</p>"
+			"name": "折叠熊手",
+			"description": "<p>它跟熊手一样，但是竹制把手中心有一根绷紧的绳索相连。释放绳索是一个会引发藉机攻击的标准动作，会立刻将熊手折叠成一捆，可以方便的塞进背包。将折叠好的熊手重组需要一个会引发藉机攻击的全回合动作。</p>"
 		},
 		{
 			"id": "Combat Scabbard",
-			"name": "Combat Scabbard",
-			"description": "<p>This combat scabbard has a sharp blade on the outer edge, allowing you to use it as a weapon.</p>"
+			"name": "战斗刀鞘",
+			"description": "<p>这个刀鞘的边缘是一把锋利的刀刃，你可以将它当做武器。</p>"
 		},
 		{
 			"id": "Composite Longbow",
@@ -228,8 +228,8 @@
 		},
 		{
 			"id": "Crook",
-			"name": "Crook",
-			"description": "<p><em>This common herder’s tool is a wooden pole with a hooked end.</em></p>\n<p>When using a crook, you can ignore the penalty for not having two hands free when making a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers\">combat maneuver</a>&nbsp;check to initiate a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple\">grapple</a>&nbsp;against a creature you threaten.</p>"
+			"name": "牧钩",
+			"description": "<p><em>这个顶部弯成勾型的木杆一般作为牧民的工具存在。</em></p>\n<p>使用牧钩可以在双手未空出情形下对威胁的单位进行擒抱战技检定时，忽略一般将要承受的-4罚值。</p>"
 		},
 		{
 			"id": "Crossbow Bolt",
@@ -253,8 +253,8 @@
 		},
 		{
 			"id": "Deer Horn Knife",
-			"name": "Deer Horn Knife",
-			"description": "<p><em>This flat, metal weapon consists of two joined crescent-shaped blades overlapping to form a hollow center with four projecting points. The blades can differ in length. One side of the center is wrapped to serve as a grip while the other acts as a guard. Deer horn knives are traditionally used in pairs.</em></p>"
+			"name": "鹿角刃（鸳鸯钺）",
+			"description": "<p><em>这个扁平的金属武器看起来就像两枚月牙刃叠放在一起焊接好，中间留出了持握的空间。武器的四个刃尖可以各有所长。中心一端包裹起来用於持握，另一端则制作厚实些用於防御。鹿角刃基本上成对使用。</em></p>"
 		},
 		{
 			"id": "Dire Flail",
@@ -278,13 +278,13 @@
 		},
 		{
 			"id": "Double Sling",
-			"name": "Double Sling",
-			"description": "<p><em>At first glance resembling a baton-like stick with a sling dangling from each end, this weapon requires extraordinary skill, or halfling acrobatics, to use to full effect.</em></p>\n<p>You can use a double sling as a normal sling, or use the second end to make one additional ranged attack each round. You take the normal penalties for fighting with two weapons when you use both ends of a double sling (as if it were a double weapon); the Two- Weapon Fighting feat reduces these penalties as normal. Reloading one end of a double sling is a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Move-Actions\">move action</a>&nbsp;( just like a normal sling), so unless you have an ability or feat (such as Ammo Drop) that allows you to quickly reload a sling, you cannot normally make multiple attacks per round for several consecutive rounds with this weapon.</p>\n<p>You can hurl ordinary stones with a double sling, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you, and you take a &ndash;1 penalty on&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>.</p>"
+			"name": "双头投石索",
+			"description": "<p><em>第一眼看上去，这是个像指挥棒一样的棍棍，两头各栓着一根晃来晃去的投石索。这种武器需要特殊的技巧，或半身人的灵巧，才能完全发挥功用。你可以如同普通投石索一般使用它，或使用其另一头，每轮额外做一次远程攻击。当你同时使用两端的投石索战斗时，你如同使用两把武器战斗一般受到减值，双武器战斗专长如常减少减值。为双头投石索的一端装弹是移动动作（如同普通投石索），所以除非你有特殊的快速装弹技巧（比如Ammo Drop专长），你无法连续每轮都进行多次攻击。</p>\n<p>你可以使用普通的石头作为弹药装填进来，但石头无法和弹药相比。因此只会造成小一级体型的武器的伤害，并且你的攻击检定-1。</p>"
 		},
 		{
 			"id": "Double Spear",
-			"name": "Double Spear",
-			"description": "<p>This long, heavy&nbsp;<a href=\"https://www.d20pfsrd.com/equipment---final/weapons/weapon-descriptions/spear\">spear</a>&nbsp;has a point at each end, allowing it to be used as a double weapon.</p>"
+			"name": "双头矛",
+			"description": "<p>这个又长又重的矛，它的两端个有一个枪尖，可以作为双武器使用。</p>"
 		},
 		{
 			"id": "Drow Poison Crossbow Bolt",
@@ -303,13 +303,13 @@
 		},
 		{
 			"id": "Dueling Sword",
-			"name": "Dueling Sword",
-			"description": "<p><em>These slightly curved swords measure just over 3 feet in length.</em></p>\n<p>An&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>&nbsp;can be used as a martial weapon (in which case it functions as a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/longsword\">longsword</a>), but if you have the feat&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/exotic-weapon-proficiency/\">Exotic Weapon Proficiency</a>&nbsp;(<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>), you can use the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat\">Weapon Finesse</a>&nbsp;feat to apply your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-\">Dexterity</a>&nbsp;modifier instead of your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-\">Strength</a>&nbsp;modifier to&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>&nbsp;with a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>&nbsp;sized for you, even though it isn’t a light weapon. You can also wield a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>&nbsp;in two hands to apply 1-1/2 times your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-\">Strength</a>&nbsp;bonus to damage rolls.</p>"
+			"name": "决斗剑",
+			"description": "<p><em>这柄稍微弯曲的剑只有3英尺多长。</em></p>\n<p>An&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>&nbsp;can be used as a martial weapon (in which case it functions as a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/longsword\">longsword</a>), but if you have the feat&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/exotic-weapon-proficiency/\">Exotic Weapon Proficiency</a>&nbsp;(<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>), you can use the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat\">Weapon Finesse</a>&nbsp;feat to apply your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-\">Dexterity</a>&nbsp;modifier instead of your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-\">Strength</a>&nbsp;modifier to&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>&nbsp;with a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>&nbsp;sized for you, even though it isn’t a light weapon. You can also wield a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-dueling\">dueling sword</a>&nbsp;in two hands to apply 1-1/2 times your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-\">Strength</a>&nbsp;bonus to damage rolls.</p>"
 		},
 		{
 			"id": "Durable Arrow",
 			"name": "耐用箭",
-			"description": "<p>效果：耐用弹药不会因为正常使用而损坏，无论是否击中了目标；除非耐用弹药丢失，一发弹药可以被取回并重新使用。耐用弹药可以被其他方式破坏（例如刻意折断，击中一个火元素等等）。一发拥有增强加值或魔法武器特殊效果的魔法耐用弹药只会在第一次使用时获得这些效果，然后耐用弹药变成非魔法性弹药，并且它可以被再次使用或附魔。</p>"
+			"description": "<p><strong>优点</strong>: 无论是否命中目标，耐用箭都不会因正常使用而折断；除非箭头丢失，否则弓箭手可以一次又一次地取回并重复使用耐用箭头。耐用的箭可以通过其他方式折断（如故意折断、击中火元素等）。</p>\n<p><strong>缺点</strong>: 如果使用附魔制作（如毒药），魔法只能持续使用一次箭，但非魔法箭仍然可以重复使用或再次注入魔法。</p>"
 		},
 		{
 			"id": "Dwarven Boulder Helmet",
@@ -353,13 +353,13 @@
 		},
 		{
 			"id": "Dwarven Longaxe",
-			"name": "Dwarven Longaxe",
+			"name": "矮人长战斧",
 			"description": "<p><em>These ornate and heavy blades are mounted atop a long, steel-shod haft for greater reach. They are rare among cave-dwelling&nbsp;<a href=\"https://www.d20pfsrd.com/races/core-races/dwarf\">dwarves</a>&nbsp;but common in mountain&nbsp;<a href=\"https://www.d20pfsrd.com/races/core-races/dwarf\">dwarf</a>&nbsp;clans that commonly feud with&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants\">giants</a>.</em></p>"
 		},
 		{
 			"id": "Dwarven Longhammer",
-			"name": "Dwarven Longhammer",
-			"description": "<p><em>These heavy-headed bludgeons are often carved or cast with monstrous faces or drilled with tiny holes to create a menacing whistling as they are swung through the air.</em></p>"
+			"name": "矮人长战鎚",
+			"description": "<p><em>这柄沉重的战槌通常是雕刻或铸造出可怕的人脸或钻满微小的洞，以在挥舞时发出尖锐的口哨声。</em></p>"
 		},
 		{
 			"id": "Dwarven Maulaxe",
@@ -403,8 +403,8 @@
 		},
 		{
 			"id": "Elven Branched Spear",
-			"name": "Elven Branched Spear",
-			"description": "<p><em>Behind this long pole weapon’s spearhead, several short branches project from the shaft at irregular intervals, each angled forward and tipped with a smaller leaf-like blade.</em></p>\n<p>When you make&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity\">attacks of opportunity</a>&nbsp;provoked by movement, you gain a +2 bonus on&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>.</p>\n<p>You can use the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat\">Weapon Finesse</a>&nbsp;feat to apply your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-\">Dexterity</a>&nbsp;modifier instead of your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-\">Strength</a>&nbsp;modifier on attack rolls with an elven branched spear sized for you, even though it isn’t a light weapon.</p>\n<p>Elves treat elven branched spears as martial weapons.</p>"
+			"name": "精灵分叉矛",
+			"description": "<p><em>这根细长的尖矛顶部下面，依次伸出了不少尖细的倒刺，就像开叉的树枝一样，与矛尖共同伸向前方。</em></p>\n<p>当目标因移动而引发你的藉机攻击时，该武器进行的藉机攻击AB得到+2加值。使用符合体型的精灵分叉矛时，虽然它不是轻型武器，但可以将武器娴熟专长适用於该武器，即使用敏捷代替力量来计算攻击。精灵将精灵分叉矛视为军用武器。</p>"
 		},
 		{
 			"id": "Elven Curve Blade",
@@ -413,8 +413,8 @@
 		},
 		{
 			"id": "Estoc",
-			"name": "Estoc",
-			"description": "<p><em>An estoc is a sword about as long as a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/sword-bastard\">bastard sword</a>, but designed exclusively for thrusting attacks. Its “blade” is a steel spike with a triangular, square, or hexagonal cross-section.</em></p>\n<p>Like the bastard sword, an estoc requires special training to use it one handed, but it can also be wielded as a two-handed martial weapon.</p>\n<p>When you wield an estoc with one hand, treat it as a one-handed weapon; when you wield an estoc with two hands, treat it as a two-handed weapon. If you can use the estoc proficiently with one hand, you can also use the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat\">Weapon Finesse</a>&nbsp;feat to apply your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-\">Dexterity</a>&nbsp;modifier instead of your&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-\">Strength</a>&nbsp;modifier on&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>&nbsp;when wielding an estoc sized for you with one or two hands, even though it isn’t a light weapon.</p>"
+			"name": "锥剑",
+			"description": "<p><em>锥剑跟重剑一样长，但它被设计用来刺击。它的「剑刃」就是一根三棱锥刺，有的时候甚至会做成六棱。</em></p>\n<p>就像重剑一样，锥剑经过异种武器训练可以单手使用，但它同样也可以当做双手军用武器来使用。单手持用时，就视为单手武器；双手持用时，就视为双手武器。当你擅长单手使用锥剑，则在使用符合体型的锥剑时，无论单手持用还是双手持用，无论它不是轻型武器，都可以将武器娴熟专长适用於锥剑上，即用敏捷代替力量来计算攻击。</p>"
 		},
 		{
 			"id": "Falcata",
@@ -443,8 +443,8 @@
 		},
 		{
 			"id": "Flailpole",
-			"name": "Flailpole",
-			"description": "<p><em>This is simply a heavy flail mounted on the end of a long polearm.</em></p>"
+			"name": "长柄连枷",
+			"description": "<p><em>这只不过是一个沉重的连枷，安装在一个长柄的末端。</em></p>"
 		},
 		{
 			"id": "Flambard",
@@ -483,8 +483,8 @@
 		},
 		{
 			"id": "Gandasa",
-			"name": "Gandasa",
-			"description": "<p><em>A gandasa is a wide, single-edged dagger on a 2-foot handle and is wielded in combat like an axe. This weapon is also known as an elephant knife because the connection between the blade and the handle is often decorated to resemble a stylized elephant head.</em></p>"
+			"name": "斧匕",
+			"description": "<p><em>这把宽匕首单面开刃，把手约2尺长，用起来如同斧头一般。这把武器也被称呼为象匕，因为刃与柄的连接处经常装饰有象头一般的图纹。</em></p>"
 		},
 		{
 			"id": "Garrote",
@@ -523,8 +523,8 @@
 		},
 		{
 			"id": "Gnome Pincher",
-			"name": "Gnome Pincher",
-			"description": "<p><em>This odd weapon is a 2-foot rod topped with four blunt claws. Squeezing the handle causes the claws to close.</em></p>\n<p>You can use the gnome pincher to attempt a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm\">disarm</a>&nbsp;or&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Steal\">steal</a>&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers\">combat maneuver</a>&nbsp;with a +2 bonus. You can transfer an object from the pincher to your free hand as a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions\">free action</a>. Gnomes treat gnome pinchers as martial weapons.</p>"
+			"name": "侏儒耙",
+			"description": "<p><em>这是一种奇妙的武器，2尺长的木杆顶部有着4个钝钩，看起来就像一个老人抓背器。</em></p>\n<p>握紧杆上的手柄可以使钩子收紧。可以使用侏儒耙进行卸武或窃取战技，并可以获得+2加值。将侏儒耙上的物品转移到自己手中是一个自由动作。侏儒将侏儒耙视为军用武器。</p>"
 		},
 		{
 			"id": "Gnome Piston Maul",
@@ -573,8 +573,8 @@
 		},
 		{
 			"id": "Halfling Rope-Shot",
-			"name": "Halfling Rope-Shot",
-			"description": "<p><em>One end of this short rope has a sling bullet wrapped in a monkey&rsquo;s fist knot, and the other end is tied in a small loop.</em></p>\n<p>You wrap the loop around your wrist as a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;and swing the weighted end like a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/halfling-rope-shot/flail\">flail</a>. If the loop is properly attached to your wrist and you drop the rope-shot or are disarmed, you can recover it as a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions\">swift action</a>. Removing the weapon&rsquo;s loop is a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>. You get a +2 bonus on&nbsp;<a href=\"https://www.d20pfsrd.com/skills/sleight-of-hand\">Sleight of Hand</a>&nbsp;checks made to conceal a rope-shot on your body.</p>\n<p>Halflings treat rope-shots as martial weapons.</p>"
+			"name": "半身人旋绳",
+			"description": "<p><em>这根短绳的一端用猴拳结系着一个投石索弹药，另一端则是一个圆环。以一个全回合动作将圆环套上自己的手腕后，将它旋转起来可以像连枷一般使用。当圆环好好套在手腕上时，无论旋绳是被卸武还是自己丢掉，都可以用迅捷动作立刻恢复持用。脱下旋绳也是一个全回合动作。将旋绳藏在身上的巧手检定获得+2加值。半身人将旋绳视为军用武器。</em></p>"
 		},
 		{
 			"id": "Halfling Sling Staff",
@@ -603,8 +603,8 @@
 		},
 		{
 			"id": "Heavy Crank Crossbow",
-			"name": "Heavy Crank Crossbow",
-			"description": "<p><em>This heavy crossbow has a winch mounted below the stock.</em></p>\n<p>Up to 50 feet of silk rope can be wound onto the winch as a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;that provokes&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity\">attacks of opportunity</a>. The wound&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/goods-and-services/hunting-camping-survival-gear#TOC-Rope\">rope</a>&nbsp;can be attached to a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/ammunition/arrow-barbed\">barbed bolt</a>&nbsp;or&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple\">grappling</a>&nbsp;bolt as part of a loading action. After firing such a bolt, the wielder can use the winch to retract the&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/goods-and-services/hunting-camping-survival-gear#TOC-Rope\">rope</a>&nbsp;or pull herself along the rope if the bolt is secure.</p>\n<p>When used with a barbed bolt, the winch provides a +2 bonus on grapple&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers\">combat maneuver</a>&nbsp;checks to pull the target toward you.</p>\n<p>When used with a grappling bolt, the winch provides a +2 bonus on&nbsp;<a href=\"https://www.d20pfsrd.com/skills/climb\">Climb</a>&nbsp;checks.</p>"
+			"name": "重型轮轴十字弓",
+			"description": "<p><em>重型轮轴十字弓握柄下面装有一个轮轴绞盘。以一个会引发藉机攻击的全回合动作，可以在轮轴上固定缠上至多50尺的丝绳。缠上绳索一段可以通过一个装填动作，连上一只倒钩箭（见本书新弹药）或爪钩箭（UE）。射出该矢后，使用者可以通过绞盘将绳子拉回来，或者在箭射出固定后，通过绳索将自己拉过去。使用倒钩箭时，将命中目标拉近自己的擒抱战技检定获得+2加值。使用爪钩箭时，使用轮轴和绞盘可让自己进行的攀爬检定获得+2加值。</em></p>"
 		},
 		{
 			"id": "Heavy Crossbow",
@@ -673,8 +673,8 @@
 		},
 		{
 			"id": "Hurlbat",
-			"name": "Hurlbat",
-			"description": "<p><em>A hurlbat is a throwing axe made from a single piece of flat metal. Every extremity of the hurlbat is sharpened, including the point of the handle.</em></p>\n<p>You can wield the hurlbat as a melee weapon, but it&rsquo;s not designed for such use; you take a &ndash;1 penalty on melee&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>&nbsp;with the weapon, and you must succeed at a DC 15&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex\">Reflex</a>&nbsp;save when making melee attacks to avoid cutting yourself on an edge and taking 1 point of slashing damage. You don&rsquo;t need to attempt this save while wearing heavy armor.</p>"
+			"name": "飞掷钺",
+			"description": "<p><em>飞掷钺是用一块平铁打造而成的投掷飞斧。飞掷钺的每个边都被打磨锋利，包括持握部位。你可以将飞掷钺当做近战武器使用，但它并非被设计如此；故如此使用时攻击承受-1罚值，且每次做近战攻击都必须通过DC15反射豁免检定，否则会因切到自己受1点挥砍伤害。若身穿重甲，则如此近战时不会受到该武器的这种自我伤害.</em></p>"
 		},
 		{
 			"id": "Incendiary Arrow",
@@ -683,8 +683,8 @@
 		},
 		{
 			"id": "Incendiary Bolt",
-			"name": "火箭",
-			"description": "<p>火箭上绑着一个金属包，里面装着易燃物质。使用火箭的攻击承受-1罚值。你可以用一个引发藉机攻击的全回合动作点燃至多6支火箭（若使用火柴则可以改为标准动作）。点燃后，火箭可以燃烧2轮。用燃烧的火箭命中会额外造成1点火焰伤害。若该次攻击重击成功，则目标必须通过DC15反射豁免，否则会着火。火箭存在弩矢版本。</p>"
+			"name": "火矢",
+			"description": "<p><em>火矢上绑着一个金属包，里面装着易燃物质。使用火矢的攻击承受-1罚值。你可以用一个引发藉机攻击的全回合动作点燃至多6支火矢（若使用火柴则可以改为标准动作）。点燃后，火矢可以燃烧2轮。用燃烧的火矢命中会额外造成1点火焰伤害。若该次攻击重击成功，则目标必须通过DC15反射豁免，否则会着火。</em></p>"
 		},
 		{
 			"id": "Javelin",
@@ -713,8 +713,8 @@
 		},
 		{
 			"id": "Knobkerrie",
-			"name": "Knobkerrie",
-			"description": "<p><em>A knobkerrie, or iwisa, is carved from a single piece of hardwood with a shaft 2 to 4 feet long surmounted by a bulbous knob. The knobkerrie is a traditional hunting weapon, but it’s also used as a symbol of authority. Many tribal elders use decorated knobkerries as scepters or canes. A knobkerrie is thrown end-over-end.</em></p>\n<p>If you are proficient, you gain a +1 bonus on ranged&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll\">attack rolls</a>&nbsp;with a knobkerrie against opponents using bucklers, light shields, or heavy shields. If you aren’t proficient with a knobkerrie, treat it as a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/club\">club</a>.</p>"
+			"name": "圆头棒",
+			"description": "<p><em>圆头棒，或者叫球头掷杖iwisa，是将一整块硬木削成二到四英尺长的木棍后，在其上雕出许多球状疙瘩制成。圆头棒是居于芒吉荒原中芒吉人的一种传统狩猎武器，同时也是一种权利的象征。许多部落长者将装饰好的圆头棒当做权杖或代步杖。投掷出的圆头棒会旋转着飞行。若你擅长它，用它对使用小圆盾、轻盾或重盾的目标进行远程攻击时，攻击获得+1加值。若你不擅长它，则视它为木棒。</em></p>"
 		},
 		{
 			"id": "Knuckle Axe",
@@ -723,28 +723,28 @@
 		},
 		{
 			"id": "Kobold Tail Attachment (Long Lash)",
-			"name": "Kobold Tail Attachment (Long Lash)",
-			"description": "<p><em>This slender cord has tiny bits of glass and stone embedded in its length.</em></p>\n<p>A kobold with the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/racial-feats/tail-terror-combat-kobold\">Tail Terror</a>&nbsp;feat can slip this device over the tip of his tail to augment his&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks\">natural attack</a>. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. While a kobold is wearing a kobold tail attachment, its tail attack deals the tail attachment damage, and some attachments gain a special feature. Tail attachments are light weapons and can be improved by feats that can improve weapon attacks (such as&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat\">Weapon Focus</a>&nbsp;and&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-specialization-combat\">Weapon Specialization</a>).</p>\n<p>There are five types of common tail attachments. All kobold tail attachments make up a kobold tail attachment weapon group that can be improved by the&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/fighter\">fighter’s</a>&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/weapon-training\">weapon training</a>&nbsp;class ability. Tail attachments can be constructed of special material and made into masterwork or magic items.</p>\n<p>It takes a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;to slip on a kobold tail attachment, and the kobold gains a +4 bonus against&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm\">disarm</a>&nbsp;attempts made to remove his tail attachment.</p>"
+			"name": "狗头人尾部附属武器（长尾鞭）",
+			"description": "<p><em>这细绳上每隔一定长度就嵌有小块的石头或者玻璃碎片。</em></p>\n<p>当狗头人佩戴狗头人尾部附属武器后，攻击造成武器的伤害，部分尾部附属武器还拥有特性。尾部附属武器均为轻武器，并且可以应用提高攻击的专长（比如“武器专攻”与“武器专精”）。所有狗头人尾部附属武器均属于＜狗头人尾部附属武器组＞，同时适用于战士的【武器训练】职业能力。尾部附属武器也可以使用特殊材料制作，制成精制品或魔法物品.</p>\n<p>拥有“惊骇之尾（Tail Terror, ARG）”专长的狗头人可以在其尾巴尖端装置这些武器以强化他们的天生武器攻击。每件尾部附属武器都给他的尾巴拍击提供足够的重量、平衡和力道以加强伤害。装上狗头人尾部附属武器需要一个整轮动作，以此方法装置使得狗头人在对抗卸武时获得+4加值.</p>"
 		},
 		{
 			"id": "Kobold Tail Attachment (Pounder)",
-			"name": "Kobold Tail Attachment (Pounder)",
-			"description": "<p><em>This squat ball is made from some sort of dull metal.</em></p>\n<p>A kobold with the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/racial-feats/tail-terror-combat-kobold\">Tail Terror</a>&nbsp;feat can slip this device over the tip of his tail to augment his&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks\">natural attack</a>. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. While a kobold is wearing a kobold tail attachment, its tail attack deals the tail attachment damage, and some attachments gain a special feature. Tail attachments are light weapons and can be improved by feats that can improve weapon attacks (such as&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat\">Weapon Focus</a>&nbsp;and&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-specialization-combat\">Weapon Specialization</a>).</p>\n<p>There are five types of common tail attachments. All kobold tail attachments make up a kobold tail attachment weapon group that can be improved by the&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/fighter\">fighter’s</a>&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/weapon-training\">weapon training</a>&nbsp;class ability. Tail attachments can be constructed of special material and made into masterwork or magic items.</p>\n<p>It takes a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;to slip on a kobold tail attachment, and the kobold gains a +4 bonus against&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm\">disarm</a>&nbsp;attempts made to remove his tail attachment.</p>"
+			"name": "狗头人尾部附属武器（尾锤）",
+			"description": "<p><em>这个扁粗的类球体是由无光泽的金属金属制成的.</em></p>\n<p>当狗头人佩戴狗头人尾部附属武器后，攻击造成武器的伤害，部分尾部附属武器还拥有特性。尾部附属武器均为轻武器，并且可以应用提高攻击的专长（比如“武器专攻”与“武器专精”）。所有狗头人尾部附属武器均属于＜狗头人尾部附属武器组＞，同时适用于战士的【武器训练】职业能力。尾部附属武器也可以使用特殊材料制作，制成精制品或魔法物品.</p>\n<p>拥有“惊骇之尾（Tail Terror, ARG）”专长的狗头人可以在其尾巴尖端装置这些武器以强化他们的天生武器攻击。每件尾部附属武器都给他的尾巴拍击提供足够的重量、平衡和力道以加强伤害。装上狗头人尾部附属武器需要一个整轮动作，以此方法装置使得狗头人在对抗卸武时获得+4加值.</p>"
 		},
 		{
 			"id": "Kobold Tail Attachment (Razored)",
-			"name": "Kobold Tail Attachment (Razored)",
-			"description": "<p><em>This metal wedge has a prickly edge on one of its sides.</em></p>\n<p>A kobold with the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/racial-feats/tail-terror-combat-kobold\">Tail Terror</a>&nbsp;feat can slip this device over the tip of his tail to augment his&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks\">natural attack</a>. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. While a kobold is wearing a kobold tail attachment, its tail attack deals the tail attachment damage, and some attachments gain a special feature. Tail attachments are light weapons and can be improved by feats that can improve weapon attacks (such as&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat\">Weapon Focus</a>&nbsp;and&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-specialization-combat\">Weapon Specialization</a>).</p>\n<p>There are five types of common tail attachments. All kobold tail attachments make up a kobold tail attachment weapon group that can be improved by the&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/fighter\">fighter’s</a>&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/weapon-training\">weapon training</a>&nbsp;class ability. Tail attachments can be constructed of special material and made into masterwork or magic items.</p>\n<p>It takes a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;to slip on a kobold tail attachment, and the kobold gains a +4 bonus against&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm\">disarm</a>&nbsp;attempts made to remove his tail attachment.</p>"
+			"name": "狗头人尾部附属武器（尾锋）",
+			"description": "<p><em>这块楔形的金属的一侧充满了锯齿.</em></p>\n<p>当狗头人佩戴狗头人尾部附属武器后，攻击造成武器的伤害，部分尾部附属武器还拥有特性。尾部附属武器均为轻武器，并且可以应用提高攻击的专长（比如“武器专攻”与“武器专精”）。所有狗头人尾部附属武器均属于＜狗头人尾部附属武器组＞，同时适用于战士的【武器训练】职业能力。尾部附属武器也可以使用特殊材料制作，制成精制品或魔法物品.</p>\n<p>拥有“惊骇之尾（Tail Terror, ARG）”专长的狗头人可以在其尾巴尖端装置这些武器以强化他们的天生武器攻击。每件尾部附属武器都给他的尾巴拍击提供足够的重量、平衡和力道以加强伤害。装上狗头人尾部附属武器需要一个整轮动作，以此方法装置使得狗头人在对抗卸武时获得+4加值.</p>"
 		},
 		{
 			"id": "Kobold Tail Attachment (Spiked)",
-			"name": "Kobold Tail Attachment (Spiked)",
-			"description": "<p><em>This narrow spike tapers to a sharp point.</em></p>\n<p>A kobold with the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/racial-feats/tail-terror-combat-kobold\">Tail Terror</a>&nbsp;feat can slip this device over the tip of his tail to augment his&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks\">natural attack</a>. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. While a kobold is wearing a kobold tail attachment, its tail attack deals the tail attachment damage, and some attachments gain a special feature. Tail attachments are light weapons and can be improved by feats that can improve weapon attacks (such as&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat\">Weapon Focus</a>&nbsp;and&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-specialization-combat\">Weapon Specialization</a>).</p>\n<p>There are five types of common tail attachments. All kobold tail attachments make up a kobold tail attachment weapon group that can be improved by the&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/fighter\">fighter’s</a>&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/weapon-training\">weapon training</a>&nbsp;class ability. Tail attachments can be constructed of special material and made into masterwork or magic items.</p>\n<p>It takes a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;to slip on a kobold tail attachment, and the kobold gains a +4 bonus against&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm\">disarm</a>&nbsp;attempts made to remove his tail attachment.</p>"
+			"name": "狗头人尾部附属武器（尾钉）",
+			"description": "<p><em>这个钉子形状的物体有着锋利的尖刺.</em></p>\n<p>当狗头人佩戴狗头人尾部附属武器后，攻击造成武器的伤害，部分尾部附属武器还拥有特性。尾部附属武器均为轻武器，并且可以应用提高攻击的专长（比如“武器专攻”与“武器专精”）。所有狗头人尾部附属武器均属于＜狗头人尾部附属武器组＞，同时适用于战士的【武器训练】职业能力。尾部附属武器也可以使用特殊材料制作，制成精制品或魔法物品.</p>\n<p>拥有“惊骇之尾（Tail Terror, ARG）”专长的狗头人可以在其尾巴尖端装置这些武器以强化他们的天生武器攻击。每件尾部附属武器都给他的尾巴拍击提供足够的重量、平衡和力道以加强伤害。装上狗头人尾部附属武器需要一个整轮动作，以此方法装置使得狗头人在对抗卸武时获得+4加值.</p>"
 		},
 		{
 			"id": "Kobold Tail Attachment (Sweeper)",
-			"name": "Kobold Tail Attachment (Sweeper)",
-			"description": "<p><em>When properly used, this sharply curved piece of metal can knock opponents off their feet. Unlike most&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip\">trip</a>&nbsp;weapons, you cannot drop it if you are&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip\">tripped</a>&nbsp;during your own&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip\">trip</a>&nbsp;attempt.</em></p>\n<p>A kobold with the&nbsp;<a href=\"https://www.d20pfsrd.com/feats/racial-feats/tail-terror-combat-kobold\">Tail Terror</a>&nbsp;feat can slip this device over the tip of his tail to augment his&nbsp;<a href=\"https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks\">natural attack</a>. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. While a kobold is wearing a kobold tail attachment, its tail attack deals the tail attachment damage, and some attachments gain a special feature. Tail attachments are light weapons and can be improved by feats that can improve weapon attacks (such as&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat\">Weapon Focus</a>&nbsp;and&nbsp;<a href=\"https://www.d20pfsrd.com/feats/combat-feats/weapon-specialization-combat\">Weapon Specialization</a>).</p>\n<p>There are five types of common tail attachments. All kobold tail attachments make up a kobold tail attachment weapon group that can be improved by the&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/fighter\">fighter’s</a>&nbsp;<a href=\"https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/weapon-training\">weapon training</a>&nbsp;class ability. Tail attachments can be constructed of special material and made into masterwork or magic items.</p>\n<p>It takes a&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions\">full-round action</a>&nbsp;to slip on a kobold tail attachment, and the kobold gains a +4 bonus against&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm\">disarm</a>&nbsp;attempts made to remove his tail attachment.</p>"
+			"name": "狗头人尾部附属武器（尾钩）",
+			"description": "<p><em>当你正确使用尾钩的时候，你可以用这明显弯曲的金属将对手拽倒。与大多数绊摔武器不同，当你尝试失败而反被绊摔时无法丢掉武器</em></p>\n<p>当狗头人佩戴狗头人尾部附属武器后，攻击造成武器的伤害，部分尾部附属武器还拥有特性。尾部附属武器均为轻武器，并且可以应用提高攻击的专长（比如“武器专攻”与“武器专精”）。所有狗头人尾部附属武器均属于＜狗头人尾部附属武器组＞，同时适用于战士的【武器训练】职业能力。尾部附属武器也可以使用特殊材料制作，制成精制品或魔法物品.</p>\n<p>拥有“惊骇之尾（Tail Terror, ARG）”专长的狗头人可以在其尾巴尖端装置这些武器以强化他们的天生武器攻击。每件尾部附属武器都给他的尾巴拍击提供足够的重量、平衡和力道以加强伤害。装上狗头人尾部附属武器需要一个整轮动作，以此方法装置使得狗头人在对抗卸武时获得+4加值.</p>"
 		},
 		{
 			"id": "Kukri",
@@ -753,13 +753,13 @@
 		},
 		{
 			"id": "Kumade",
-			"name": "Kumade",
-			"description": "<p><em>Adapted from a garden rake, the kumade consists of a wood or bamboo pole topped with a metal claw. The rake head doubles as a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/goods-and-services/tools-kits#TOC-Hook-Grappling\">grappling hook</a>. When a kumade is secured to a surface, such as a rafter or window sill, its handle can be climbed as a 5-foot length of&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/goods-and-services/hunting-camping-survival-gear#TOC-Rope\">rope</a>.</em></p>"
+			"name": "熊手",
+			"description": "<p><em>基于园丁耙改制，这东西就是在木或竹竿上钉一个爪钩上去。头部可以当做爪钩（grappling hook）使用。将熊手固定在表面，比如门梁或窗檐时，可以将它当做5尺长的绳索来辅助攀爬.</em></p>"
 		},
 		{
 			"id": "Kunai",
-			"name": "Kunai",
-			"description": "<p><em>Crafted from a single piece of iron, a kunai has a leaf-shaped blade and a ring for a pommel. Adapted from the common trowel, the kunai has a thick blade that is sharpened only near the tip.</em></p>\n<p><strong>Benefit</strong>: Unlike finer weapons, the kunai can readily substitute for a crowbar or piton without being damaged in the process.</p>"
+			"name": "苦无",
+			"description": "<p><em>用一块铁制成的苦无有着一个十分尖细的锋尖和一个环形底部。虽然长得有点像小铲子，不过苦无的尖端边缘锋利头尖如针。而且比起其它武器，苦无可以直接被当做撬棍或岩钉使用，而不会因此受损</em></p>"
 		},
 		{
 			"id": "Lance",
@@ -783,8 +783,8 @@
 		},
 		{
 			"id": "Light Crank Crossbow",
-			"name": "Light Crank Crossbow",
-			"description": "<p>This weapon functions as a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crank-crossbow-heavy\">heavy crank crossbow</a>, except that its damage, critical, and range values are equivalent to those of a&nbsp;<a href=\"https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/crossbow-light\">light crossbow</a>.</p>\n<p>Its lighter construction means it provides only a +1 bonus on&nbsp;<a href=\"https://www.d20pfsrd.com/skills/climb\">Climb</a>&nbsp;checks and&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple\">grapple</a>&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers\">combat maneuver</a>&nbsp;checks to pull the target toward you.</p>"
+			"name": "轻型轮轴十字弓",
+			"description": "<p>该武器与重型轮轴十字弓很像，除了伤害、重击倍数射程上的区别，正如轻型十字弓和重型十字弓的区别。还有，轻型轮轴十字弓在使用倒钩箭和爪钩箭时分别只会提供+1加值，而非+2.</p>"
 		},
 		{
 			"id": "Light Crossbow",
@@ -833,13 +833,13 @@
 		},
 		{
 			"id": "Little Starstone",
-			"name": "Little Starstone",
-			"description": "<p>Though they are technically sling ammunition, these thread- or cloth-wrapped pebbles are mainly used for signaling or celebration rather than battle, as they barely hit hard enough to sting. When soaked in oil or strong alcohol, they burn brightly for 1 round, illuminating an area like a candle and creating brief streaks of light as they fly through the air. They generally aren’t hot enough and burn out too quickly to ignite combustibles.</p>"
+			"name": "小星星石 (10)",
+			"description": "<p>经管这些石头在工艺上可以认为是投石索弹药，但是这些织物包裹的鹅卵石主要是用于发信号或庆典而不是战斗，因为它们实在不足以让被击中的人感到疼痛。当浸入油或者高浓度酒精，它们会燃烧发光持续1轮，如同一支蜡烛一样照亮一片区域，并在飞行中划出一条光带。它们通常并不足够热而且燃烧得太快因此不能用于点燃可燃物。</p>\n<p>这些石头用于攻击时只会造成1点钝击伤害</p>"
 		},
 		{
 			"id": "Lodestone Arrow",
 			"name": "磁石箭",
-			"description": "<p>效果：你使用磁石弹药对穿戴金属盔甲或者由金属制成的生物时，会在攻击检定中获得+4环境加值，但是这个有磁性的弹药在成功击中目标时只会造成一半的伤害。在你激活一发磁石弹药1轮之后，它的增强磁性会褪去，之后变回一发普通的弹药。</p>"
+			"description": "<p><strong>Action</strong>: 拉动绳子来打破封印并激活箭头中的反应是一个移动动作。</p>\n<p><strong>好处</strong>：当你向穿着大量金属盔甲（至少链甲或金属盾牌）或金属制成的目标发射磁石箭时，攻击骰获得+4加值。增加的磁性在激活后会消失1圈，之后是正常箭头。</p>\n<p><strong>特殊</strong>：在有大量磁性金属的区域，攻击加成可能会下降到0，甚至成为一个惩罚，因为有竞争的来源使箭远离你的目标。</p>\n<p><strong>缺点</strong>：磁化箭只造成一半伤害.</p>"
 		},
 		{
 			"id": "Longbow",
