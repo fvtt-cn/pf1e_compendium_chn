@@ -2,7 +2,7 @@
     "name": "pf1e_cn",
     "title": "Pathfinder1E中文游戏系统",
     "description": "为FVTT中的PF1E添加了中文。",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "minimumCoreVersion" : "0.6.0",
     "author": "Chivell",
         
