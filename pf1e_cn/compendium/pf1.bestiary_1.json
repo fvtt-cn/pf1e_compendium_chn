@@ -1,0 +1,2505 @@
+{
+	"label": "Bestiary - Part 1",
+	"entries": [
+		{
+			"id": "Abaia",
+			"name": "阿拜亚",
+			"description": ""
+		},
+		{
+			"id": "Abandoned Armory",
+			"name": "Abandoned Armory",
+			"description": ""
+			},
+		{
+			"id": "Accuser",
+			"name": "Accuser",
+			"description": ""
+			},
+		{
+			"id": "Adamantine Golem",
+			"name": "精金魔像",
+			"description": ""
+		},
+		{
+			"id": "Adaptive Ooze",
+			"name": "Adaptive Ooze",
+			"description": ""
+		},
+		{
+			"id": "Adaro",
+			"name": "鲛人",
+			"description": ""
+		},
+		{
+			"id": "Adlet",
+			"name": "狼妖",
+			"description": ""
+		},
+		{
+			"id": "Adult Forest Dragon",
+			"name": "成年地龙",
+			"description": ""
+		},
+		{
+			"id": "Adult Rift Dragon",
+			"name": "成年深渊龙",
+			"description": ""
+		},
+		{
+			"id": "Advodaza Devil",
+			"name": "Advodaza Devil",
+			"description": ""
+	},
+		{
+			"id": "Aether Wysp",
+			"name": "Aether Wysp",
+			"description": ""
+		},
+		{
+			"id": "Aghasura",
+			"name": "巨蛇修罗",
+			"description": ""
+		},
+		{
+			"id": "Agyra",
+			"name": "阿格拉",
+			"description": ""
+			},
+		{
+			"id": "Ahool",
+			"name": "猿蝠",
+			"description": ""
+		},
+		{
+			"id": "Air Mephit",
+			"name": "Air Mephit",
+			"description": ""
+		},
+		{
+			"id": "Akata",
+			"name": "阿卡塔",
+			"description": ""
+		},
+		{
+			"id": "Akvan",
+			"name": "崇至妖",
+			"description": ""
+		},
+		{
+			"id": "Amarok",
+			"name": "冰原灵狼",
+			"description": ""
+		},
+		{
+			"id": "Amoeba, Giant",
+			"name": "巨型变形虫",
+			"description": ""
+		},
+		{
+			"id": "Ancient Bliss Dragon",
+			"name": "Ancient Bliss Dragon",
+			"description": ""
+		},
+		{
+			"id": "Ancient Brass Dragon",
+			"name": "古黄铜龙",
+			"description": ""
+		},
+		{
+			"id": "Ancient Bronze Dragon",
+			"name": "古青铜龙",
+			"description": ""
+		},
+		{
+			"id": "Ancient Copper Dragon",
+			"name": "古赤铜龙",
+			"description": ""
+			},
+		{
+			"id": "Ancient Gold Dragon",
+			"name": "古金龙",
+			"description": ""
+		},
+		{
+			"id": "Ancient Havoc Dragon",
+			"name": "古狂欢龙",
+			"description": ""
+		},
+		{
+			"id": "Ancient Rift Dragon",
+			"name": "古深渊龙",
+			"description": ""
+		},
+		{
+			"id": "Ancient Vortex Dragon",
+			"name": "古漩涡龙",
+			"description": ""
+		},
+		{
+			"id": "Andrazku",
+			"name": "Andrazku",
+			"description": ""
+		},
+		{
+			"id": "Anhana",
+			"name": "Anhana",
+			"description": ""
+		},
+		{
+			"id": "Anisydaemon",
+			"name": "Anisydaemon",
+			"description": ""
+		},
+		{
+			"id": "Ankheg",
+			"name": "掘地虫",
+			"description": ""
+		},
+		{
+			"id": "Ankou",
+			"name": "死魂精",
+			"description": ""
+		},
+		{
+			"id": "Anunnaki",
+			"name": "Anunnaki",
+			"description": ""
+		},
+		{
+			"id": "Apocalypse Locust",
+			"name": "末日蝗虫",
+			"description": ""
+		},
+		{
+			"id": "Ardoc Moilant",
+			"name": "Ardoc Moilant",
+			"description": ""
+		},
+		{
+			"id": "Arsinoitherium",
+			"name": "Arsinoitherium",
+			"description": ""
+		},
+		{
+			"id": "Ash Giant",
+			"name": "灰烬巨人",
+			"description": ""
+		},
+		{
+			"id": "Ashen Forgemaster",
+			"name": "Ashen Forgemaster",
+			"description": ""
+		},
+		{
+			"id": "Aspidochelone",
+			"name": "Aspidochelone",
+			"description": ""
+		},
+		{
+			"id": "Atomie",
+			"name": "微粒精",
+			"description": ""
+		},
+		{
+			"id": "Axial Monitor",
+			"name": "Axial Monitor",
+			"description": ""
+		},
+		{
+			"id": "Babau",
+			"name": "巴布魔",
+			"description": ""
+		},
+		{
+			"id": "Badger",
+			"name": "獾",
+			"description": ""
+		},
+		{
+			"id": "Bagman",
+			"name": "Bagman",
+			"description": ""
+		},
+		{
+			"id": "Balor",
+			"name": "巴洛炎魔",
+			"description": ""
+	},
+		{
+			"id": "Banelight",
+			"name": "Banelight",
+			"description": ""
+			},
+		{
+			"id": "Baphomet",
+			"name": "Baphomet",
+			"description": ""
+		},
+		{
+			"id": "Barrier Breaker Troop",
+			"name": "Barrier Breaker Troop",
+			"description": ""
+		},
+		{
+			"id": "Baykok",
+			"name": "猎生尸",
+			"description": ""
+	},
+		{
+			"id": "Bearded Devil",
+			"name": "倒钩魔",
+			"description": ""
+		},
+		{
+			"id": "Beastmaster Troop",
+			"name": "Beastmaster Troop",
+			"description": ""
+		},
+		{
+			"id": "Bebilith",
+			"name": "狩魔蛛",
+			"description": ""
+	},
+		{
+			"id": "Being Of Ib",
+			"name": "Being Of Ib",
+			"description": ""
+		},
+		{
+			"id": "Bhuta",
+			"name": "浮陀",
+			"description": ""
+		},
+		{
+			"id": "Black Butterfly",
+			"name": "黑蝴蝶",
+			"description": ""
+	},
+		{
+			"id": "Black Scorpion",
+			"name": "黑蝎",
+			"description": ""
+		},
+		{
+			"id": "Black Shuck",
+			"name": "Black Shuck",
+			"description": ""
+		},
+		{
+			"id": "Black Spot",
+			"name": "Black Spot",
+			"description": ""
+	},
+		{
+			"id": "Blighted Fey Satyr",
+			"name": "Blighted Fey Satyr",
+			"description": ""
+		},
+		{
+			"id": "Blood Algae Swarm",
+			"name": "Blood Algae Swarm",
+			"description": ""
+	},
+		{
+			"id": "Blood Hag",
+			"name": "血鬼婆",
+			"description": ""
+	},
+		{
+			"id": "Blood Lily",
+			"name": "Blood Lily",
+			"description": ""
+		},
+		{
+			"id": "Blood Maize",
+			"name": "Blood Maize",
+			"description": ""
+		},
+		{
+			"id": "Bog Strider",
+			"name": "Bog Strider",
+			"description": ""
+			},
+		{
+			"id": "Boggle",
+			"name": "Boggle",
+			"description": ""
+	},
+		{
+			"id": "Bone Idol",
+			"name": "Bone Idol",
+			"description": ""
+		},
+		{
+			"id": "Boruta",
+			"name": "Boruta",
+			"description": ""
+		},
+		{
+			"id": "Brain Mole Monarch",
+			"name": "脑鼠王",
+			"description": ""
+			},
+		{
+			"id": "Brain Ooze",
+			"name": "脑泥怪",
+			"description": ""
+		},
+		{
+			"id": "Bramble Throne",
+			"name": "Bramble Throne",
+			"description": ""
+		},
+		{
+			"id": "Brambleblight",
+			"name": "Brambleblight",
+			"description": ""
+		},
+		{
+			"id": "Brass Golem",
+			"name": "黄铜魔像",
+			"description": ""
+		},
+		{
+			"id": "Brijidine",
+			"name": "红焰使",
+			"description": ""
+		},
+		{
+			"id": "Bronze Sentinel",
+			"name": "Bronze Sentinel",
+			"description": ""
+	},
+		{
+			"id": "Brush Thylacine",
+			"name": "Brush Thylacine",
+			"description": ""
+		},
+		{
+			"id": "Bythos",
+			"name": "时空御衡者",
+			"description": ""
+		},
+		{
+			"id": "Cactus Leshy",
+			"name": "Cactus Leshy",
+			"description": ""
+	},
+		{
+			"id": "Cairn Linnorm",
+			"name": "石冢蛇龙",
+			"description": ""
+	},
+		{
+			"id": "Canopy Troll",
+			"name": "Canopy Troll",
+			"description": ""
+		},
+		{
+			"id": "Capramace",
+			"name": "Capramace",
+			"description": ""
+		},
+		{
+			"id": "Cauldron Bloom",
+			"name": "Cauldron Bloom",
+			"description": ""
+		},
+		{
+			"id": "Cave Blight",
+			"name": "Cave Blight",
+			"description": ""
+		},
+		{
+			"id": "Centaur",
+			"name": "人马",
+			"description": ""
+		},
+		{
+			"id": "Cetus",
+			"name": "塞特斯",
+			"description": ""
+		},
+		{
+			"id": "Charda",
+			"name": "黑水怪",
+			"description": ""
+		},
+		{
+			"id": "Charybdis",
+			"name": "卡律布狄斯",
+			"description": ""
+		},
+		{
+			"id": "Chicken",
+			"name": "Chicken",
+			"description": ""
+			},
+		{
+			"id": "Chon Chon Swarm",
+			"name": "Chon Chon Swarm",
+			"description": ""
+		},
+		{
+			"id": "Clockwork Angel",
+			"name": "Clockwork Angel",
+			"description": ""
+		},
+		{
+			"id": "Clockwork Goliath",
+			"name": "发条巨兵",
+			"description": ""
+			},
+		{
+			"id": "Clockwork Overseer",
+			"name": "Clockwork Overseer",
+			"description": ""
+		},
+		{
+			"id": "Clockwork Steed",
+			"name": "发条坐骑",
+			"description": ""
+		},
+		{
+			"id": "Clockwork Vivisectionist",
+			"name": "Clockwork Vivisectionist",
+			"description": ""
+		},
+		{
+			"id": "Colour Out Of Space",
+			"name": "Colour Out Of Space",
+			"description": ""
+		},
+		{
+			"id": "Coloxus",
+			"name": "蝇魔",
+			"description": ""
+				},
+		{
+			"id": "Constrictor Snake",
+			"name": "大蟒",
+			"description": ""
+		},
+		{
+			"id": "Contemplative",
+			"name": "默思族",
+			"description": ""
+		},
+		{
+			"id": "Copsewight",
+			"name": "Copsewight",
+			"description": ""
+			},
+		{
+			"id": "Coral Capuchin",
+			"name": "Coral Capuchin",
+			"description": ""
+			},
+		{
+			"id": "Cordulegaster",
+			"name": "Cordulegaster",
+			"description": ""
+		},
+		{
+			"id": "Coven Ooze",
+			"name": "Coven Ooze",
+			"description": ""
+		},
+		{
+			"id": "Crimson Jellyfish",
+			"name": "Crimson Jellyfish",
+			"description": ""
+		},
+		{
+			"id": "Crimson Whale",
+			"name": "Crimson Whale",
+			"description": ""
+			},
+		{
+			"id": "Crucidaemon",
+			"name": "拷问邪魔",
+			"description": ""
+			},
+		{
+			"id": "Crystal Golem",
+			"name": "水晶魔像",
+			"description": ""
+		},
+		{
+			"id": "Cutlass Spider",
+			"name": "Cutlass Spider",
+			"description": ""
+		},
+		{
+			"id": "Dagon",
+			"name": "大衮",
+			"description": ""
+		},
+		{
+			"id": "Dallo",
+			"name": "Dallo",
+			"description": ""
+			},
+		{
+			"id": "Danava",
+			"name": "Danava",
+			"description": ""
+			},
+		{
+			"id": "Dark Creeper",
+			"name": "幽暗匍匐者",
+			"description": ""
+		},
+		{
+			"id": "Dark Dancer",
+			"name": "幽暗狂舞者",
+			"description": ""
+		},
+		{
+			"id": "Deadfall Scorpion",
+			"name": "陷阱蝎",
+			"description": ""
+			},
+		{
+			"id": "Death Coach",
+			"name": "Death Coach",
+			"description": ""
+		},
+		{
+			"id": "Deathtrap Ooze",
+			"name": "死亡陷阱怪",
+			"description": ""
+		},
+		{
+			"id": "Deathweb",
+			"name": "死亡之网",
+			"description": ""
+		},
+		{
+			"id": "Derro",
+			"name": "德洛人",
+			"description": ""
+		},
+		{
+			"id": "Devilfish",
+			"name": "魔鬼鱼",
+			"description": ""
+			},
+		{
+			"id": "Digmaul",
+			"name": "钉锤猞猁",
+			"description": ""
+			},
+		{
+			"id": "Dire Boar",
+			"name": "凶暴野猪",
+			"description": ""
+		},
+		{
+			"id": "Dire Crocodile",
+			"name": "凶暴鳄鱼",
+			"description": ""
+		},
+		{
+			"id": "Dire Lion",
+			"name": "凶暴狮",
+			"description": ""
+		},
+		{
+			"id": "Dire Weasel",
+			"name": "Dire Weasel",
+			"description": ""
+		},
+		{
+			"id": "Dire Wolverine",
+			"name": "凶暴狼獾",
+			"description": ""
+		},
+		{
+			"id": "Dolphin",
+			"name": "海豚",
+			"description": ""
+		},
+		{
+			"id": "Doppeldrek",
+			"name": "Doppeldrek",
+			"description": ""
+		},
+		{
+			"id": "Doppelganger",
+			"name": "变形怪",
+			"description": ""
+		},
+		{
+			"id": "Dracolisk",
+			"name": "Dracolisk",
+			"description": ""
+			},
+		{
+			"id": "Draconal",
+			"name": "龙首神使",
+			"description": ""
+			},
+		{
+			"id": "Dragon Turtle",
+			"name": "龙龟",
+			"description": ""
+		},
+		{
+			"id": "Dragonkin",
+			"name": "座龙",
+			"description": ""
+		},
+		{
+			"id": "Dweomercat Cub",
+			"name": "Dweomercat Cub",
+			"description": ""
+		},
+		{
+			"id": "Dybbuk",
+			"name": "附鬼",
+			"description": ""
+		},
+		{
+			"id": "Earth Wysp",
+			"name": "Earth Wysp",
+			"description": ""
+		},
+		{
+			"id": "Ebon Acolytus",
+			"name": "Ebon Acolytus",
+			"description": ""
+		},
+		{
+			"id": "Elder Cordulegaster",
+			"name": "Elder Cordulegaster",
+			"description": ""
+			},
+		{
+			"id": "Elder Earth Elemental",
+			"name": "土元素长老",
+			"description": ""
+		},
+		{
+			"id": "Elder Magma Elemental",
+			"name": "熔岩元素长老",
+			"description": ""
+		},
+		{
+			"id": "Elder Sphinx",
+			"name": "Elder Sphinx",
+			"description": ""
+		},
+		{
+			"id": "Elder Wyrm",
+			"name": "Elder Wyrm",
+			"description": ""
+		},
+		{
+			"id": "Elk",
+			"name": "麋鹿",
+			"description": ""
+		},
+		{
+			"id": "Elohim",
+			"name": "造物主",
+			"description": ""
+		},
+		{
+			"id": "Embolotherium",
+			"name": "Embolotherium",
+			"description": ""
+		},
+		{
+			"id": "Erelim",
+			"name": "Erelim",
+			"description": ""
+	},
+		{
+			"id": "Erinyes Devil",
+			"name": "欲魔",
+			"description": ""
+			},
+		{
+			"id": "Estuarine Worm",
+			"name": "Estuarine Worm",
+			"description": ""
+			},
+		{
+			"id": "Etiainen",
+			"name": "忆灵",
+			"description": ""
+		},
+		{
+			"id": "Euryale",
+			"name": "Euryale",
+			"description": ""
+			},
+		{
+			"id": "Faceless Stalker",
+			"name": "无面潜伏者",
+			"description": ""
+			},
+		{
+			"id": "Fastachee",
+			"name": "法斯塔奇",
+			"description": ""
+			},
+		{
+			"id": "Festering Ulunat, The Unholy First",
+			"name": "Festering Ulunat, The Unholy First",
+			"description": ""
+		},
+		{
+			"id": "Festrog",
+			"name": "犬化丧尸",
+			"description": ""
+		},
+		{
+			"id": "Fetchling",
+			"name": "窃影鬼",
+			"description": ""
+		},
+		{
+			"id": "Fey Giant Toad",
+			"name": "Fey Giant Toad",
+			"description": ""
+		},
+		{
+			"id": "Fjord Linnorm",
+			"name": "峡湾蛇龙",
+			"description": ""
+		},
+		{
+			"id": "Fleshdreg Swarm",
+			"name": "Fleshdreg Swarm",
+			"description": ""
+			},
+		{
+			"id": "Flumph",
+			"name": "坐垫怪",
+			"description": ""
+		},
+		{
+			"id": "Flying Polyp",
+			"name": "Flying Polyp",
+			"description": ""
+		},
+		{
+			"id": "Fomorian Titan",
+			"name": "暗界提坦",
+			"description": ""
+		},
+		{
+			"id": "Foo Dog",
+			"name": "Foo Dog",
+			"description": ""
+			},
+		{
+			"id": "Forest Drake",
+			"name": "森林龙兽",
+			"description": ""
+			},
+		{
+			"id": "Formian Myrmarch",
+			"name": "Formian Myrmarch",
+			"description": ""
+		},
+		{
+			"id": "Formian Worker",
+			"name": "Formian Worker",
+			"description": ""
+		},
+		{
+			"id": "Forsaken Defender",
+			"name": "Forsaken Defender",
+			"description": ""
+			},
+		{
+			"id": "Fukujin",
+			"name": "Fukujin",
+			"description": ""
+		},
+		{
+			"id": "Fungal Crawler",
+			"name": "真菌爬行者",
+			"description": ""
+		},
+		{
+			"id": "Fungus Queen",
+			"name": "Fungus Queen",
+			"description": ""
+		},
+		{
+			"id": "Gaki",
+			"name": "饿鬼",
+			"description": ""
+		},
+		{
+			"id": "Gale Spirit",
+			"name": "Gale Spirit",
+			"description": ""
+		},
+		{
+			"id": "Gallowdead",
+			"name": "Gallowdead",
+			"description": ""
+		},
+		{
+			"id": "Galluvix",
+			"name": "Galluvix",
+			"description": ""
+		},
+		{
+			"id": "Gammenore",
+			"name": "Gammenore",
+			"description": ""
+			},
+		{
+			"id": "Gate Archon",
+			"name": "天门神使",
+			"description": ""
+			},
+		{
+			"id": "Geryon",
+			"name": "格殷永",
+			"description": ""
+		},
+		{
+			"id": "Ghatanothoa",
+			"name": "Ghatanothoa",
+			"description": ""
+		},
+		{
+			"id": "Ghawwas",
+			"name": "鲉鳍妖",
+			"description": ""
+		},
+		{
+			"id": "Gholdako",
+			"name": "独目鬼",
+			"description": ""
+			},
+		{
+			"id": "Ghorazagh",
+			"name": "古拉扎格",
+			"description": ""
+			},
+		{
+			"id": "Ghost",
+			"name": "幽魂",
+			"description": ""
+		},
+		{
+			"id": "Ghost Scorpion",
+			"name": "幽灵蝎",
+			"description": ""
+		},
+		{
+			"id": "Giant Belostomatid",
+			"name": "Giant Belostomatid",
+			"description": ""
+		},
+		{
+			"id": "Giant Black Widow Spider",
+			"name": "Giant Black Widow Spider",
+			"description": ""
+		},
+		{
+			"id": "Giant Cockroach",
+			"name": "巨蟑螂",
+			"description": ""
+			},
+		{
+			"id": "Giant Flytrap",
+			"name": "巨捕蝇草",
+			"description": ""
+		},
+		{
+			"id": "Giant Frog",
+			"name": "巨蛙",
+			"description": ""
+		},
+		{
+			"id": "Giant Gecko",
+			"name": "巨壁虎",
+			"description": ""
+		},
+		{
+			"id": "Giant Isopod",
+			"name": "Giant Isopod",
+			"description": ""
+		},
+		{
+			"id": "Giant Locust",
+			"name": "Giant Locust",
+			"description": ""
+		},
+		{
+			"id": "Giant Maggot",
+			"name": "巨蛆",
+			"description": ""
+		},
+		{
+			"id": "Giant Octopus",
+			"name": "巨章鱼",
+			"description": ""
+		},
+		{
+			"id": "Giant Owl",
+			"name": "巨枭",
+			"description": ""
+		},
+		{
+			"id": "Giant Porcupine",
+			"name": "巨豪猪",
+			"description": ""
+			},
+		{
+			"id": "Giant Queen Bee",
+			"name": "Giant Queen Bee",
+			"description": ""
+		},
+		{
+			"id": "Giant Scarab",
+			"name": "Giant Scarab",
+			"description": ""
+			},
+		{
+			"id": "Giant Seahorse",
+			"name": "巨海马",
+			"description": ""
+		},
+		{
+			"id": "Giant Tick",
+			"name": "巨扁虱",
+			"description": ""
+		},
+		{
+			"id": "Giant Toad",
+			"name": "巨蟾蜍",
+			"description": ""
+		},
+		{
+			"id": "Giant Vulture",
+			"name": "巨秃鹫",
+			"description": ""
+		},
+		{
+			"id": "Giant Whiptail Centipede",
+			"name": "Giant Whiptail Centipede",
+			"description": ""
+		},
+		{
+			"id": "Giganotosaurus",
+			"name": "南方巨兽龙",
+			"description": ""
+			},
+		{
+			"id": "Girallon",
+			"name": "四臂猩猩",
+			"description": ""
+		},
+		{
+			"id": "Girtablilu",
+			"name": "半蝎人",
+			"description": ""
+		},
+		{
+			"id": "Glacier Toad",
+			"name": "Glacier Toad",
+			"description": ""
+		},
+		{
+			"id": "Glaistig",
+			"name": "Glaistig",
+			"description": ""
+		},
+		{
+			"id": "Gliding Turtle",
+			"name": "Gliding Turtle",
+			"description": ""
+			},
+		{
+			"id": "Gorgon",
+			"name": "铜牛",
+			"description": ""
+		},
+		{
+			"id": "Gorilla",
+			"name": "大猩猩",
+			"description": ""
+			},
+		{
+			"id": "Gorynych",
+			"name": "三头龙",
+			"description": ""
+		},
+		{
+			"id": "Gowrow",
+			"name": "Gowrow",
+			"description": ""
+		},
+		{
+			"id": "Graeae",
+			"name": "格赖埃",
+			"description": ""
+		},
+		{
+			"id": "Gravebound",
+			"name": "Gravebound",
+			"description": ""
+		},
+		{
+			"id": "Gray",
+			"name": "Gray",
+			"description": ""
+		},
+		{
+			"id": "Gray Goo",
+			"name": "灰黏黏",
+			"description": ""
+		},
+		{
+			"id": "Great Diadem Urchin",
+			"name": "Great Diadem Urchin",
+			"description": ""
+		},
+		{
+			"id": "Great Elder Iuu",
+			"name": "Great Elder Iuu",
+			"description": ""
+		},
+		{
+			"id": "Great White Shark",
+			"name": "大白鲨",
+			"description": ""
+		},
+		{
+			"id": "Greater Barghest",
+			"name": "Greater Barghest",
+			"description": ""
+		},
+		{
+			"id": "Greater Ice Elemental",
+			"name": "菁英冰元素",
+			"description": ""
+			},
+		{
+			"id": "Greater Mud Elemental",
+			"name": "菁英泥元素",
+			"description": ""
+			},
+		{
+			"id": "Grick",
+			"name": "穴居攫怪",
+			"description": ""
+			},
+		{
+			"id": "Griffon",
+			"name": "狮鹫",
+			"description": ""
+			},
+		{
+			"id": "Grothlut",
+			"name": "胶化人",
+			"description": ""
+		},
+		{
+			"id": "Ground Wasp Swarm",
+			"name": "Ground Wasp Swarm",
+			"description": ""
+		},
+		{
+			"id": "Guardian Phantom Armor",
+			"name": "Guardian Phantom Armor",
+			"description": ""
+		},
+		{
+			"id": "Gug",
+			"name": "古革",
+			"description": ""
+		},
+		{
+			"id": "Gynosphinx",
+			"name": "Gynosphinx",
+			"description": ""
+		},
+		{
+			"id": "Hag Eye Ooze",
+			"name": "鬼婆眼泥怪",
+			"description": ""
+		},
+		{
+			"id": "Hala",
+			"name": "Hala",
+			"description": ""
+		},
+		{
+			"id": "Half-Celestial Unicorn",
+			"name": "Half-Celestial Unicorn",
+			"description": ""
+			},
+		{
+			"id": "Hastur",
+			"name": "哈斯塔",
+			"description": ""
+			},
+		{
+			"id": "Hell Gigas",
+			"name": "Hell Gigas",
+			"description": ""
+		},
+		{
+			"id": "Hishandura",
+			"name": "Hishandura",
+			"description": ""
+		},
+		{
+			"id": "Homunculus",
+			"name": "人造人",
+			"description": ""
+		},
+		{
+			"id": "Hookfang Worm",
+			"name": "Hookfang Worm",
+			"description": ""
+		},
+		{
+			"id": "Horn Caterpillar",
+			"name": "Horn Caterpillar",
+			"description": ""
+		},
+		{
+			"id": "Horned Devil",
+			"name": "角魔",
+			"description": ""
+			},
+		{
+			"id": "Hound of Tindalos",
+			"name": "廷达洛斯之犬",
+			"description": ""
+		},
+		{
+			"id": "Huecuva",
+			"name": "休库瓦",
+			"description": ""
+		},
+		{
+			"id": "Huge Fire Elemental",
+			"name": "超大型火元素",
+			"description": ""
+			},
+		{
+			"id": "Humbaba",
+			"name": "洪巴巴",
+			"description": ""
+		},
+		{
+			"id": "Hundun",
+			"name": "混沌",
+			"description": ""
+			},
+		{
+			"id": "Hunting Horror",
+			"name": "Hunting Horror",
+			"description": ""
+			},
+		{
+			"id": "Hydrodaemon",
+			"name": "冥河邪魔",
+			"description": ""
+		},
+		{
+			"id": "Hypnalis",
+			"name": "Hypnalis",
+			"description": ""
+			},
+		{
+			"id": "Ice Mephit",
+			"name": "Ice Mephit",
+			"description": ""
+		},
+		{
+			"id": "Ice Yai",
+			"name": "冰巨鬼",
+			"description": ""
+		},
+		{
+			"id": "Immortal Ichor",
+			"name": "不朽灵液",
+			"description": ""
+		},
+		{
+			"id": "Incutilis",
+			"name": "摄人螺",
+			"description": ""
+		},
+		{
+			"id": "Intellect Devourer",
+			"name": "心智吞噬者",
+			"description": ""
+			},
+		{
+			"id": "Iron Golem",
+			"name": "铁魔像",
+			"description": ""
+		},
+		{
+			"id": "Ironfang Yzobu Rider Troop",
+			"name": "Ironfang Yzobu Rider Troop",
+			"description": ""
+		},
+		{
+			"id": "Isitoq",
+			"name": "飞翔眼",
+			"description": ""
+		},
+		{
+			"id": "Isonade",
+			"name": "Isonade",
+			"description": ""
+			},
+		{
+			"id": "Ithaqua",
+			"name": "Ithaqua",
+			"description": ""
+			},
+		{
+			"id": "Ja Noi",
+			"name": "Ja Noi",
+			"description": ""
+		},
+		{
+			"id": "Jinkin",
+			"name": "蹑影小魔怪",
+			"description": ""
+		},
+		{
+			"id": "Jitterbone Mortic",
+			"name": "Jitterbone Mortic",
+			"description": ""
+		},
+		{
+			"id": "Jubjub Bird",
+			"name": "贾布贾布鸟",
+			"description": ""
+		},
+		{
+			"id": "Kaprosuchus",
+			"name": "野猪鳄",
+			"description": ""
+		},
+		{
+			"id": "Karkadann",
+			"name": "独角羊",
+			"description": ""
+			},
+		{
+			"id": "Karkinoi",
+			"name": "人蟹",
+			"description": ""
+		},
+		{
+			"id": "Kastamut",
+			"name": "Kastamut",
+			"description": ""
+			},
+		{
+			"id": "Kawa Akago",
+			"name": "Kawa Akago",
+			"description": ""
+			},
+		{
+			"id": "Kech",
+			"name": "食人猿",
+			"description": ""
+			},
+		{
+			"id": "Kelpie",
+			"name": "马形水怪",
+			"description": ""
+			},
+		{
+			"id": "Kelpie's Wrath",
+			"name": "Kelpie's Wrath",
+			"description": ""
+		},
+		{
+			"id": "Ketesthius",
+			"name": "Ketesthius",
+			"description": ""
+		},
+		{
+			"id": "Khala",
+			"name": "卡拉三头龙",
+			"description": ""
+		},
+		{
+			"id": "King Ragworm",
+			"name": "King Ragworm",
+			"description": ""
+			},
+		{
+			"id": "Kongamato",
+			"name": "康加马托",
+			"description": ""
+			},
+		{
+			"id": "Korred",
+			"name": "Korred",
+			"description": ""
+			},
+		{
+			"id": "Kostchtchie",
+			"name": "科斯彻奇",
+			"description": ""
+		},
+		{
+			"id": "Koto-Furunishi",
+			"name": "Koto-Furunishi",
+			"description": ""
+			},
+		{
+			"id": "Krampus",
+			"name": "Krampus",
+			"description": ""
+		},
+		{
+			"id": "Kronosaurus",
+			"name": "Kronosaurus",
+			"description": ""
+		},
+		{
+			"id": "Kurshu The Undying",
+			"name": "Kurshu The Undying",
+			"description": ""
+		},
+		{
+			"id": "Lamia",
+			"name": "拉米亚",
+			"description": ""
+		},
+		{
+			"id": "Lammasu",
+			"name": "拉玛苏",
+			"description": ""
+		},
+		{
+			"id": "Lamp Blighter",
+			"name": "Lamp Blighter",
+			"description": ""
+		},
+		{
+			"id": "Large Air Elemental",
+			"name": "大型气元素",
+			"description": ""
+		},
+		{
+			"id": "Large Magma Elemental",
+			"name": "大型熔岩元素",
+			"description": ""
+		},
+		{
+			"id": "Large Water Elemental",
+			"name": "大型水元素",
+			"description": ""
+		},
+		{
+			"id": "Larval Chuul",
+			"name": "Larval Chuul",
+			"description": ""
+		},
+		{
+			"id": "Lead Golem",
+			"name": "铅魔像",
+			"description": ""
+	},
+		{
+			"id": "Leukodaemon",
+			"name": "疫病邪魔",
+			"description": ""
+		},
+		{
+			"id": "Lion",
+			"name": "狮子",
+			"description": ""
+		},
+		{
+			"id": "Living Rune",
+			"name": "Living Rune",
+			"description": ""
+		},
+		{
+			"id": "Lizardfolk",
+			"name": "蜥蜴人",
+			"description": ""
+	},
+		{
+			"id": "Locust Plague Swarm",
+			"name": "Locust Plague Swarm",
+			"description": ""
+		},
+		{
+			"id": "Lotus Leshy",
+			"name": "莲花莱西",
+			"description": ""
+		},
+		{
+			"id": "Lukwata",
+			"name": "Lukwata",
+			"description": ""
+		},
+		{
+			"id": "Lunar Naga",
+			"name": "月娜迦",
+			"description": ""
+		},
+		{
+			"id": "Lurker Above",
+			"name": "Lurker Above",
+			"description": ""
+		},
+		{
+			"id": "Magma Ooze",
+			"name": "岩浆怪",
+			"description": ""
+		},
+		{
+			"id": "Malbolgian Cerberi",
+			"name": "Malbolgian Cerberi",
+			"description": ""
+		},
+		{
+			"id": "Mammoth Flea",
+			"name": "猛犸跳蚤",
+			"description": ""
+	},
+		{
+			"id": "Manticore",
+			"name": "蝎狮",
+			"description": ""
+	},
+		{
+			"id": "Medium Air Elemental",
+			"name": "中型气元素",
+			"description": ""
+		},
+		{
+			"id": "Melfesh Monster",
+			"name": "Melfesh Monster",
+			"description": ""
+		},
+		{
+			"id": "Mimic",
+			"name": "拟形怪",
+			"description": ""
+		},
+		{
+			"id": "Mite",
+			"name": "螨精",
+			"description": ""
+		},
+		{
+			"id": "Mngwa",
+			"name": "夜狮",
+			"description": ""
+		},
+		{
+			"id": "Moa",
+			"name": "摩亚鸟",
+			"description": ""
+	},
+		{
+			"id": "Mokele-Mbembe",
+			"name": "Mokele-Mbembe",
+			"description": ""
+		},
+		{
+			"id": "Monkey Goblin",
+			"name": "猴地精",
+			"description": ""
+			},
+		{
+			"id": "Moon Dog",
+			"name": "Moon Dog",
+			"description": ""
+			},
+		{
+			"id": "Moon Giant",
+			"name": "Moon Giant",
+			"description": ""
+		},
+		{
+			"id": "Mummified Baboon",
+			"name": "Mummified Baboon",
+			"description": ""
+		},
+		{
+			"id": "Mummy",
+			"name": "木乃伊",
+			"description": ""
+		},
+		{
+			"id": "Myrmidon Robot",
+			"name": "护卫机",
+			"description": ""
+		},
+		{
+			"id": "Nekomata",
+			"name": "Nekomata",
+			"description": ""
+		},
+		{
+			"id": "Nephilim",
+			"name": "涅法雷姆",
+			"description": ""
+			},
+		{
+			"id": "Nereid",
+			"name": "海妖精",
+			"description": ""
+	},
+		{
+			"id": "Nessian Warhound",
+			"name": "奈瑟斯战犬",
+			"description": ""
+		},
+		{
+			"id": "Nightmare",
+			"name": "梦魇",
+			"description": ""
+		},
+		{
+			"id": "Nightwing",
+			"name": "暗夜之翼",
+			"description": ""
+		},
+		{
+			"id": "Ningen",
+			"name": "Ningen",
+			"description": ""
+		},
+		{
+			"id": "Ningyo",
+			"name": "人鱼",
+			"description": ""
+		},
+		{
+			"id": "Ninkonda",
+			"name": "Ninkonda",
+			"description": ""
+		},
+		{
+			"id": "Nisid",
+			"name": "Nisid",
+			"description": ""
+		},
+		{
+			"id": "Nocticula",
+			"name": "Nocticula",
+			"description": ""
+		},
+		{
+			"id": "Nue",
+			"name": "鵺",
+			"description": ""
+		},
+		{
+			"id": "Nulmind",
+			"name": "Nulmind",
+			"description": ""
+		},
+		{
+			"id": "Nuno",
+			"name": "Nuno",
+			"description": ""
+		},
+		{
+			"id": "Nymph Water Strider",
+			"name": "Nymph Water Strider",
+			"description": ""
+		},
+		{
+			"id": "Obambo",
+			"name": "Obambo",
+			"description": ""
+		},
+		{
+			"id": "Oblivion",
+			"name": "Oblivion",
+			"description": ""
+		},
+		{
+			"id": "Ocean Giant",
+			"name": "Ocean Giant",
+			"description": ""
+		},
+		{
+			"id": "Octopus",
+			"name": "章鱼",
+			"description": ""
+		},
+		{
+			"id": "Ogre",
+			"name": "食人魔",
+			"description": ""
+		},
+		{
+			"id": "Ogre Spider",
+			"name": "食人魔蛛",
+			"description": ""
+		},
+		{
+			"id": "Ogrekin",
+			"name": "食人魔裔",
+			"description": ""
+		},
+		{
+			"id": "Onyx Scourge",
+			"name": "Onyx Scourge",
+			"description": ""
+		},
+		{
+			"id": "Ophiotaurus",
+			"name": "Ophiotaurus",
+			"description": ""
+			},
+		{
+			"id": "Oracular Cyclops",
+			"name": "Oracular Cyclops",
+			"description": ""
+		},
+		{
+			"id": "Oread",
+			"name": "土元素裔",
+			"description": ""
+			},
+		{
+			"id": "Oshageros",
+			"name": "Oshageros",
+			"description": ""
+			},
+		{
+			"id": "Ossumental",
+			"name": "Ossumental",
+			"description": ""
+		},
+		{
+			"id": "Ossumental",
+			"name": "Ossumental",
+			"description": ""
+		},
+		{
+			"id": "Ossumental",
+			"name": "Ossumental",
+			"description": ""
+		},
+		{
+			"id": "Ostovite",
+			"name": "奥尼特",
+			"description": ""
+			},
+		{
+			"id": "Ouroboros",
+			"name": "Ouroboros",
+			"description": ""
+		},
+		{
+			"id": "Pale Stranger",
+			"name": "苍陌客",
+			"description": ""
+		},
+		{
+			"id": "Pard",
+			"name": "Pard",
+			"description": ""
+		},
+		{
+			"id": "Pazuzu",
+			"name": "帕祖祖",
+			"description": ""
+		},
+		{
+			"id": "Pech",
+			"name": "岩精",
+			"description": ""
+		},
+		{
+			"id": "Pegasus",
+			"name": "飞马",
+			"description": ""
+		},
+		{
+			"id": "Peluda",
+			"name": "Peluda",
+			"description": ""
+			},
+		{
+			"id": "Peuchen",
+			"name": "Peuchen",
+			"description": ""
+		},
+		{
+			"id": "Phoenix",
+			"name": "凤凰",
+			"description": ""
+		},
+		{
+			"id": "Pig",
+			"name": "Pig",
+			"description": ""
+		},
+		{
+			"id": "Pilo",
+			"name": "Pilo",
+			"description": ""
+			},
+		{
+			"id": "Pit Fiend",
+			"name": "Pit Fiend",
+			"description": ""
+		},
+		{
+			"id": "Pixie Circle",
+			"name": "Pixie Circle",
+			"description": ""
+		},
+		{
+			"id": "Plagued Horse",
+			"name": "Plagued Horse",
+			"description": ""
+		},
+		{
+			"id": "Plasma Ooze",
+			"name": "电浆泥怪",
+			"description": ""
+			},
+		{
+			"id": "Poison Frog",
+			"name": "Poison Frog",
+			"description": ""
+			},
+		{
+			"id": "Procyal",
+			"name": "Procyal",
+			"description": ""
+			},
+		{
+			"id": "Proto-Shoggoth",
+			"name": "Proto-Shoggoth",
+			"description": ""
+		},
+		{
+			"id": "Psychic Stalker",
+			"name": "Psychic Stalker",
+			"description": ""
+		},
+		{
+			"id": "Pteranodon",
+			"name": "翼龙",
+			"description": ""
+			},
+		{
+			"id": "Pukwudgie",
+			"name": "魒骻吉",
+			"description": ""
+		},
+		{
+			"id": "Pyropiscis",
+			"name": "Pyropiscis",
+			"description": ""
+		},
+		{
+			"id": "Quetzalcoatlus",
+			"name": "风神翼龙",
+			"description": ""
+		},
+		{
+			"id": "Raelis",
+			"name": "睿理使",
+			"description": ""
+		},
+		{
+			"id": "Ragathiel",
+			"name": "拉贾瑟尔",
+			"description": ""
+			},
+		{
+			"id": "Raiju",
+			"name": "Raiju",
+			"description": ""
+			},
+		{
+			"id": "Rast",
+			"name": "炭渣怪",
+			"description": ""
+			},
+		{
+			"id": "Ratfolk",
+			"name": "鼠族",
+			"description": ""
+		},
+		{
+			"id": "Ravenous Urchin Swarm",
+			"name": "Ravenous Urchin Swarm",
+			"description": ""
+		},
+		{
+			"id": "Razormouth",
+			"name": "Razormouth",
+			"description": ""
+		},
+		{
+			"id": "Red Wyrm Ravener",
+			"name": "Red Wyrm Ravener",
+			"description": ""
+		},
+		{
+			"id": "Redcap",
+			"name": "Redcap",
+			"description": ""
+		},
+		{
+			"id": "Rhu-Chalik",
+			"name": "入-切里克",
+			"description": ""
+		},
+		{
+			"id": "Rock Tuatara",
+			"name": "Rock Tuatara",
+			"description": ""
+		},
+		{
+			"id": "Roiling Oil",
+			"name": "Roiling Oil",
+			"description": ""
+		},
+		{
+			"id": "Rot Grub Swarm",
+			"name": "Rot Grub Swarm",
+			"description": ""
+		},
+		{
+			"id": "Rune Giant",
+			"name": "符文巨人",
+			"description": ""
+		},
+		{
+			"id": "Sabosan",
+			"name": "蝠翼人",
+			"description": ""
+		},
+		{
+			"id": "Salt Mephit",
+			"name": "Salt Mephit",
+			"description": ""
+		},
+		{
+			"id": "Sangudaemon",
+			"name": "Sangudaemon",
+			"description": ""
+		},
+		{
+			"id": "Saumen Kar",
+			"name": "Saumen Kar",
+			"description": ""
+		},
+		{
+			"id": "Scarlet Spider",
+			"name": "猩红蜘蛛",
+			"description": ""
+			},
+		{
+			"id": "Scrag",
+			"name": "Scrag",
+			"description": ""
+		},
+		{
+			"id": "Scythe Glass Swarm",
+			"name": "Scythe Glass Swarm",
+			"description": ""
+		},
+		{
+			"id": "Sea Hag",
+			"name": "海鬼婆",
+			"description": ""
+		},
+		{
+			"id": "Severed Head",
+			"name": "Severed Head",
+			"description": ""
+			},
+		{
+			"id": "Shadow",
+			"name": "幽影",
+			"description": ""
+		},
+		{
+			"id": "Shadow Roper",
+			"name": "Shadow Roper",
+			"description": ""
+		},
+		{
+			"id": "Shaitan",
+			"name": "土巨灵",
+			"description": ""
+		},
+		{
+			"id": "Shard Slag",
+			"name": "熔刃泥怪",
+			"description": ""
+		},
+		{
+			"id": "Shark-Eating Crab",
+			"name": "Shark-Eating Crab",
+			"description": ""
+		},
+		{
+			"id": "Shocker Lizard",
+			"name": "闪电蜥蜴",
+			"description": ""
+		},
+		{
+			"id": "Shoki",
+			"name": "Shoki",
+			"description": ""
+		},
+		{
+			"id": "Shredskin",
+			"name": "撕皮魔",
+			"description": ""
+		},
+		{
+			"id": "Shriezyx Queen",
+			"name": "Shriezyx Queen",
+			"description": ""
+		},
+		{
+			"id": "Sifkesh",
+			"name": "Sifkesh",
+			"description": ""
+		},
+		{
+			"id": "Sin Seeker",
+			"name": "Sin Seeker",
+			"description": ""
+		},
+		{
+			"id": "Skaveling",
+			"name": "Skaveling",
+			"description": ""
+		},
+		{
+			"id": "Skeletal Champion",
+			"name": "骷髅勇士",
+			"description": ""
+		},
+		{
+			"id": "Skincrawler",
+			"name": "Skincrawler",
+			"description": ""
+		},
+		{
+			"id": "Slithering Pit",
+			"name": "Slithering Pit",
+			"description": ""
+		},
+		{
+			"id": "Small Fire Elemental",
+			"name": "小型火元素",
+			"description": ""
+		},
+		{
+			"id": "Small Ice Elemental",
+			"name": "小型冰元素",
+			"description": ""
+	},
+		{
+			"id": "Small Lightning Elemental",
+			"name": "小型闪电元素",
+			"description": ""
+		},
+		{
+			"id": "Small Magma Elemental",
+			"name": "小型熔岩元素",
+			"description": ""
+		},
+		{
+			"id": "Snark",
+			"name": "Snark",
+			"description": ""
+		},
+		{
+			"id": "Sodden Draugr Troop",
+			"name": "Sodden Draugr Troop",
+			"description": ""
+		},
+		{
+			"id": "Solar Pitri",
+			"name": "烈日祖灵",
+			"description": ""
+	},
+		{
+			"id": "Sorico",
+			"name": "Sorico",
+			"description": ""
+		},
+		{
+			"id": "Soulpierced",
+			"name": "Soulpierced",
+			"description": ""
+		},
+		{
+			"id": "Spear Urchin",
+			"name": "Spear Urchin",
+			"description": ""
+		},
+		{
+			"id": "Spiny Eurypterid",
+			"name": "Spiny Eurypterid",
+			"description": ""
+		},
+		{
+			"id": "Spitting Eurypterid",
+			"name": "Spitting Eurypterid",
+			"description": ""
+	},
+		{
+			"id": "Sprite",
+			"name": "小妖精",
+			"description": ""
+		},
+		{
+			"id": "Stabbing Beast",
+			"name": "Stabbing Beast",
+			"description": ""
+		},
+		{
+			"id": "Star Vampire",
+			"name": "Star Vampire",
+			"description": ""
+		},
+		{
+			"id": "Stone Idol",
+			"name": "Stone Idol",
+			"description": ""
+		},
+		{
+			"id": "Storm Aurochs",
+			"name": "Storm Aurochs",
+			"description": ""
+		},
+		{
+			"id": "Sturzstromer",
+			"name": "Sturzstromer",
+			"description": ""
+		},
+		{
+			"id": "Stymphalidies",
+			"name": "Stymphalidies",
+			"description": ""
+		},
+		{
+			"id": "Styracosaurus",
+			"name": "戟龙",
+			"description": ""
+		},
+		{
+			"id": "Su",
+			"name": "Su",
+			"description": ""
+		},
+		{
+			"id": "Suijin",
+			"name": "Suijin",
+			"description": ""
+		},
+		{
+			"id": "Sun Giant",
+			"name": "Sun Giant",
+			"description": ""
+		},
+		{
+			"id": "Sunflower Leshy",
+			"name": "Sunflower Leshy",
+			"description": ""
+		},
+		{
+			"id": "Surgeon Robot",
+			"name": "Surgeon Robot",
+			"description": ""
+		},
+		{
+			"id": "Svirfneblin",
+			"name": "地底侏儒",
+			"description": ""
+		},
+		{
+			"id": "Szuriel",
+			"name": "祖瑞尔",
+			"description": ""
+		},
+		{
+			"id": "Taniniver",
+			"name": "Taniniver",
+			"description": ""
+		},
+		{
+			"id": "Tarrasque",
+			"name": "泰拉斯奎兽",
+			"description": ""
+		},
+		{
+			"id": "Tendriculos",
+			"name": "触手魔藤",
+			"description": ""
+		},
+		{
+			"id": "Tengu",
+			"name": "天狗",
+			"description": ""
+		},
+		{
+			"id": "Tetrolimulus",
+			"name": "Tetrolimulus",
+			"description": ""
+		},
+		{
+			"id": "Thalassic Behemoth",
+			"name": "深海比蒙",
+			"description": ""
+	},
+		{
+			"id": "Thanadaemon",
+			"name": "死役邪魔",
+			"description": ""
+		},
+		{
+			"id": "The Black Horse Apocalypse Horse",
+			"name": "The Black Horse Apocalypse Horse",
+			"description": ""
+		},
+		{
+			"id": "The Pale Horse Apocalypse Horse",
+			"name": "The Pale Horse Apocalypse Horse",
+			"description": ""
+		},
+		{
+			"id": "The Red Horse Apocalypse Horse",
+			"name": "The Red Horse Apocalypse Horse",
+			"description": ""
+		},
+		{
+			"id": "Thrasfyr",
+			"name": "熊蛇怪",
+			"description": ""
+		},
+		{
+			"id": "Thriae Constructor",
+			"name": "Thriae Constructor",
+			"description": ""
+		},
+		{
+			"id": "Thunderbird",
+			"name": "雷鸟",
+			"description": ""
+		},
+		{
+			"id": "Tiberolith",
+			"name": "Tiberolith",
+			"description": ""
+	},
+		{
+			"id": "Titan Centipede",
+			"name": "Titan Centipede",
+			"description": ""
+		},
+		{
+			"id": "Tojanida",
+			"name": "突蟹龟",
+			"description": ""
+	},
+		{
+			"id": "Tomb Giant",
+			"name": "古墓巨人",
+			"description": ""
+		},
+		{
+			"id": "Toshigami",
+			"name": "岁神",
+			"description": ""
+		},
+		{
+			"id": "Trench Mist",
+			"name": "Trench Mist",
+			"description": ""
+		},
+		{
+			"id": "Trench Zombie",
+			"name": "Trench Zombie",
+			"description": ""
+	},
+		{
+			"id": "Tsathoggua",
+			"name": "Tsathoggua",
+			"description": ""
+		},
+		{
+			"id": "Tundra Blight",
+			"name": "Tundra Blight",
+			"description": ""
+		},
+		{
+			"id": "Twilight Pitri",
+			"name": "暮光祖灵",
+			"description": ""
+		},
+		{
+			"id": "Typhilipede",
+			"name": "Typhilipede",
+			"description": ""
+		},
+		{
+			"id": "Uintatherium",
+			"name": "犹因他兽",
+			"description": ""
+		},
+		{
+			"id": "Ukobach",
+			"name": "Ukobach",
+			"description": ""
+		},
+		{
+			"id": "Umdhlebi",
+			"name": "Umdhlebi",
+			"description": ""
+		},
+		{
+			"id": "Undigested Swarm",
+			"name": "Undigested Swarm",
+			"description": ""
+		},
+		{
+			"id": "Upasunda",
+			"name": "乌跋修罗",
+			"description": ""
+			},
+		{
+			"id": "Uraeus",
+			"name": "Uraeus",
+			"description": ""
+		},
+		{
+			"id": "Vampiric Mist",
+			"name": "吸血雾魔",
+			"description": ""
+		},
+		{
+			"id": "Vavakia",
+			"name": "Vavakia",
+			"description": ""
+		},
+		{
+			"id": "Velociraptor",
+			"name": "迅猛龙",
+			"description": ""
+		},
+		{
+			"id": "Venomroach",
+			"name": "Venomroach",
+			"description": ""
+	},
+		{
+			"id": "Vexenion",
+			"name": "Vexenion",
+			"description": ""
+	},
+		{
+			"id": "Vilderavn",
+			"name": "黑鸦爵",
+			"description": ""
+		},
+		{
+			"id": "Vishkanya",
+			"name": "蝮血裔",
+			"description": ""
+		},
+		{
+			"id": "Voidstick Zombie",
+			"name": "Voidstick Zombie",
+			"description": ""
+		},
+		{
+			"id": "Vorgozen",
+			"name": "Vorgozen",
+			"description": ""
+		},
+		{
+			"id": "Vrykolakas",
+			"name": "Vrykolakas",
+			"description": ""
+		},
+		{
+			"id": "Vukodlak",
+			"name": "Vukodlak",
+			"description": ""
+		},
+		{
+			"id": "Warpglass Ooze",
+			"name": "Warpglass Ooze",
+			"description": ""
+		},
+		{
+			"id": "Water Leaper",
+			"name": "Water Leaper",
+			"description": ""
+		},
+		{
+			"id": "Water Mephit",
+			"name": "Water Mephit",
+			"description": ""
+		},
+		{
+			"id": "Weaverworm",
+			"name": "Weaverworm",
+			"description": ""
+		},
+		{
+			"id": "Wereshark",
+			"name": "鲨鱼人",
+			"description": ""
+		},
+		{
+			"id": "Werespider",
+			"name": "蜘蛛人",
+			"description": ""
+		},
+		{
+			"id": "Werewasp",
+			"name": "黄蜂人",
+			"description": ""
+		},
+		{
+			"id": "Werewasp",
+			"name": "黄蜂人",
+			"description": ""
+		},
+		{
+			"id": "Wikkawak",
+			"name": "Wikkawak",
+			"description": ""
+	},
+		{
+			"id": "Wild Hunt Archer",
+			"name": "Wild Hunt Archer",
+			"description": ""
+		},
+		{
+			"id": "Wolf",
+			"name": "狼",
+			"description": ""
+		},
+		{
+			"id": "Worg",
+			"name": "座狼",
+			"description": ""
+		},
+		{
+			"id": "Wraith",
+			"name": "缚灵",
+			"description": ""
+	},
+		{
+			"id": "Wretchghost",
+			"name": "Wretchghost",
+			"description": ""
+		},
+		{
+			"id": "Wyvaran",
+			"name": "翼龙人",
+			"description": ""
+		},
+		{
+			"id": "Xill",
+			"name": "锡尔族",
+			"description": ""
+},
+		{
+			"id": "Yaenit",
+			"name": "Yaenit",
+			"description": ""
+		},
+		{
+			"id": "Yeth Hound",
+			"name": "夜嘶猎犬",
+			"description": ""
+		},
+		{
+			"id": "Yig",
+			"name": "Yig",
+			"description": ""
+		},
+		{
+			"id": "Young Apocalypse Dragon",
+			"name": "Young Apocalypse Dragon",
+			"description": ""
+		},
+		{
+			"id": "Young Astral Dragon",
+			"name": "少年星界龙",
+			"description": ""
+		},
+		{
+			"id": "Young Blue Dragon",
+			"name": "少年蓝龙",
+			"description": ""
+		},
+		{
+			"id": "Young Brine Dragon",
+			"name": "少年洋龙",
+			"description": ""
+		},
+		{
+			"id": "Young Green Dragon",
+			"name": "少年绿龙",
+			"description": ""
+		},
+		{
+			"id": "Young Paradise Dragon",
+			"name": "少年天界龙",
+			"description": ""
+		},
+		{
+			"id": "Young Red Dragon",
+			"name": "少年红龙",
+			"description": ""
+		},
+		{
+			"id": "Young Rift Dragon",
+			"name": "少年深渊龙",
+			"description": ""
+		},
+		{
+			"id": "Young Sea Dragon",
+			"name": "少年蛟龙",
+			"description": ""
+		},
+		{
+			"id": "Young Tumult Dragon",
+			"name": "Young Tumult Dragon",
+			"description": ""
+		},
+		{
+			"id": "Young Umbral Dragon",
+			"name": "少年影龙",
+			"description": ""
+		},
+		{
+			"id": "Zalyakavat",
+			"name": "Zalyakavat",
+			"description": ""
+		}
+	]
+}
