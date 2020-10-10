@@ -20,8 +20,8 @@
       }
     ],
     
-    "url": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn",
-	"manifest": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn/raw/master/pf1e_cn/module.json",
-	"download": "https://gitlab.com/xtlcme/foundry-vtt-pf1e-chn/-/jobs/artifacts/master/raw/pf1e_cn.zip?job=build"
+    "url": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn",
+	"manifest": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn/raw/master/pf1e_cn/module.json",
+	"download": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn/-/jobs/artifacts/master/raw/pf1e_cn.zip?job=build"
   }
   
