@@ -4,7 +4,7 @@
     "description": "为FVTT中的PF1E添加了合集包汉化。",
     "version": "0.1.0",
     "minimumCoreVersion" : "0.6.0",
-    "compatibleCoreVersion": "0.6.6",
+    "compatibleCoreVersion": "0.7.5",
     "author": "bnp800",
     "systems": ["pf1"],
     "scripts": [
