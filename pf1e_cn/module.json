@@ -1,27 +1,17 @@
 {
     "name": "pf1e_cn",
-    "title": "中文游戏系统(Pathfinder1E)",
-    "description": "为FVTT中的PF1E添加了中文支持。",
-    "version": "0.1.7",
+    "title": "合集包汉化(Pathfinder1E)",
+    "description": "为FVTT中的PF1E添加了合集包汉化。",
+    "version": "0.1.0",
     "minimumCoreVersion" : "0.6.0",
-    "author": "Chivell",
-        
+    "compatibleCoreVersion": "0.6.6",
+    "author": "bnp800",
+    "systems": ["pf1"],
     "scripts": [
     	"./babele-register.js"
     ],
-    "styles": [],
-    "packs": [],
-    
-    "languages": [
-      {
-        "lang": "cn",
-        "name": "中文",
-        "path": "cn.json"
-      }
-    ],
-    
+
     "url": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn",
 	"manifest": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn/raw/master/pf1e_cn/module.json",
 	"download": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn/-/jobs/artifacts/master/raw/pf1e_cn.zip?job=build"
   }
-  
