@@ -11,7 +11,6 @@ stages:
 test:
   stage: test
   script:
-    - python -mjson.tool 'pf1e_cn/cn.json' > /dev/null
     - python -mjson.tool 'pf1e_cn/module.json' > /dev/null
 
 build:
