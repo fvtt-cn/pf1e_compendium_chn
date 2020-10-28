@@ -2,7 +2,7 @@
     "name": "pf1e_cn_compendium",
     "title": "合集包汉化(Pathfinder1E)",
     "description": "为FVTT中的PF1E添加了合集包汉化。",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "minimumCoreVersion" : "0.6.0",
     "compatibleCoreVersion": "0.7.5",
     "author": "bnp800",
