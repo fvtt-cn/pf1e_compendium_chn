@@ -11,7 +11,7 @@
     	"./babele-register.js"
     ],
 
-    "url": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn",
-	"manifest": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn/raw/master/pf1e_cn/module.json",
+    "url": "https://github.com/bnp800/Foundry-VTT-PF1E-CHN",
+	"manifest": "https://github.com/bnp800/Foundry-VTT-PF1E-CHN/raw/master/pf1e_cn/module.json",
 	"download": "https://gitlab.com/bnp800onsteam/foundry-vtt-pf1e-chn/-/jobs/artifacts/master/raw/pf1e_cn.zip?job=build"
   }
