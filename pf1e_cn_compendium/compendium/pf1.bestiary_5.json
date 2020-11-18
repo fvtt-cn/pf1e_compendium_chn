@@ -1,1350 +1,1353 @@
 {
     "label": "怪物图鉴-5",
+    		"mapping": {
+			"token_name": "token.name"
+	},
     "entries": [
         {
             "id": "12-Headed Pyrohydra",
             "name": "12-Headed Pyrohydra",
-            "description": ""
+			 "token_name": "12-Headed Pyrohydra"
         },
         {
             "id": "Abhominal",
             "name": "Abhominal",
-            "description": ""
+			 "token_name": "Abhominal"
         },
         {
             "id": "Adhukait",
             "name": "暴跳修罗",
-            "description": ""
+			 "token_name": "暴跳修罗"
         },
         {
             "id": "Adult Black Dragon",
             "name": "成年黑龙",
-            "description": ""
+			 "token_name": "成年黑龙"
         },
         {
             "id": "Adult Brine Dragon",
             "name": "成年洋龙",
-            "description": ""
+			 "token_name": "成年洋龙"
         },
         {
             "id": "Adult Crystal Dragon",
             "name": "成年晶龙",
-            "description": ""
+			 "token_name": "成年晶龙"
         },
         {
             "id": "Adult Dream Dragon",
             "name": "成年梦境龙",
-            "description": ""
+			 "token_name": "成年梦境龙"
         },
         {
             "id": "Adult Lunar Dragon",
             "name": "成年月龙",
-            "description": ""
+			 "token_name": "成年月龙"
         },
         {
             "id": "Adult Paradise Dragon",
             "name": "成年天界龙",
-            "description": ""
+			 "token_name": "成年天界龙"
         },
         {
             "id": "Adult Time Dragon",
             "name": "成年时间龙",
-            "description": ""
+			 "token_name": "成年时间龙"
         },
         {
             "id": "Adult Tumult Dragon",
             "name": "Adult Tumult Dragon",
-            "description": ""
+			 "token_name": "Adult Tumult Dragon"
         },
         {
             "id": "Adult White Dragon",
             "name": "成年白龙",
-            "description": ""
+			 "token_name": "成年白龙"
         },
         {
             "id": "Ahkhat",
             "name": "Ahkhat",
-            "description": ""
+			 "token_name": "Ahkhat"
         },
         {
             "id": "Ahuizotl",
             "name": "水猴",
-            "description": ""
+			 "token_name": "水猴"
         },
         {
             "id": "Akhana",
             "name": "生死御衡者",
-            "description": ""
+			 "token_name": "生死御衡者"
         },
         {
             "id": "Allosaurus",
             "name": "异龙",
-            "description": ""
+			 "token_name": "异龙"
         },
         {
             "id": "Alpluachra",
             "name": "懒馋精",
-            "description": ""
+			 "token_name": "懒馋精"
         },
         {
             "id": "Amphisbaena",
             "name": "双头蛇",
-            "description": ""
+			 "token_name": "双头蛇"
         },
         {
             "id": "Ancient Apocalypse Dragon",
             "name": "Ancient Apocalypse Dragon",
-            "description": ""
+			 "token_name": "Ancient Apocalypse Dragon"
         },
         {
             "id": "Ancient Black Dragon",
             "name": "古黑龙",
-            "description": ""
+			 "token_name": "古黑龙"
         },
         {
             "id": "Ancient Crystal Dragon",
             "name": "古晶龙",
-            "description": ""
+			 "token_name": "古晶龙"
         },
         {
             "id": "Ancient Infernal Dragon",
             "name": "古炼狱龙",
-            "description": ""
+			 "token_name": "古炼狱龙"
         },
         {
             "id": "Angheuvore Mortic",
             "name": "Angheuvore Mortic",
-            "description": ""
+			 "token_name": "Angheuvore Mortic"
         },
         {
             "id": "Animated Object",
             "name": "活化物体",
-            "description": ""
+			 "token_name": "活化物体"
         },
         {
             "id": "Aoandon",
             "name": "青行灯",
-            "description": ""
+			 "token_name": "青行灯"
         },
         {
             "id": "Astradaemon",
             "name": "星界邪魔",
-            "description": ""
+			 "token_name": "星界邪魔"
         },
         {
             "id": "Astral Deva",
             "name": "星界神使",
-            "description": ""
+			 "token_name": "星界神使"
         },
         {
             "id": "Atamahuta",
             "name": "Atamahuta",
-            "description": ""
+			 "token_name": "Atamahuta"
         },
         {
             "id": "Athach",
             "name": "三臂巨怪",
-            "description": ""
+			 "token_name": "三臂巨怪"
         },
         {
             "id": "Atuikakura",
             "name": "Atuikakura",
-            "description": ""
+			 "token_name": "Atuikakura"
         },
         {
             "id": "Balisse",
             "name": "Balisse",
-            "description": ""
+			 "token_name": "Balisse"
         },
         {
             "id": "Belostomatid",
             "name": "Belostomatid",
-            "description": ""
+			 "token_name": "Belostomatid"
         },
         {
             "id": "Birelu",
             "name": "Birelu",
-            "description": ""
+			 "token_name": "Birelu"
         },
         {
             "id": "Bloody Bones",
             "name": "Bloody Bones",
-            "description": ""
+			 "token_name": "Bloody Bones"
         },
         {
             "id": "Bogeyman",
             "name": "怪蜀黍",
-            "description": ""
+			 "token_name": "怪蜀黍"
         },
         {
             "id": "Bokrug",
             "name": "波库鲁格",
-            "description": ""
+			 "token_name": "波库鲁格"
         },
         {
             "id": "Bonewrought Willow",
             "name": "Bonewrought Willow",
-            "description": ""
+			 "token_name": "Bonewrought Willow"
         },
         {
             "id": "Brain Mole",
             "name": "脑鼠",
-            "description": ""
+			 "token_name": "脑鼠"
         },
         {
             "id": "Bull Shark",
             "name": "牛鲨",
-            "description": ""
+			 "token_name": "牛鲨"
         },
         {
             "id": "Bunyip",
             "name": "班依普",
-            "description": ""
+			 "token_name": "班依普"
         },
         {
             "id": "Cambion",
             "name": "坎比翁恶魔",
-            "description": ""
+			 "token_name": "坎比翁恶魔"
         },
         {
             "id": "Cat",
             "name": "Cat",
-            "description": ""
+			 "token_name": "Cat"
         },
         {
             "id": "Cecaelia",
             "name": "赛卡利亚",
-            "description": ""
+			 "token_name": "赛卡利亚"
         },
         {
             "id": "Cerynitis",
             "name": "Cerynitis",
-            "description": ""
+			 "token_name": "Cerynitis"
         },
         {
             "id": "Changeling",
             "name": "替换儿",
-            "description": ""
+			 "token_name": "替换儿"
         },
         {
             "id": "Chelarac",
             "name": "Chelarac",
-            "description": ""
+			 "token_name": "Chelarac"
         },
         {
             "id": "Chelarac Broodling",
             "name": "Chelarac Broodling",
-            "description": ""
+			 "token_name": "Chelarac Broodling"
         },
         {
             "id": "Chernobue",
             "name": "触手眼魔",
-            "description": ""
+			 "token_name": "触手眼魔"
         },
         {
             "id": "Clawbat",
             "name": "Clawbat",
-            "description": ""
+			 "token_name": "Clawbat"
         },
         {
             "id": "Clockwork Golem",
             "name": "发条魔像",
-            "description": ""
+			 "token_name": "发条魔像"
         },
         {
             "id": "Clockwork Leviathan",
             "name": "发条海兽",
-            "description": ""
+			 "token_name": "发条海兽"
         },
         {
             "id": "Cloud Giant",
             "name": "云巨人",
-            "description": ""
+			 "token_name": "云巨人"
         },
         {
             "id": "Collector Robot",
             "name": "Collector Robot",
-            "description": ""
+			 "token_name": "Collector Robot"
         },
         {
             "id": "Compsognathus",
             "name": "秀颌龙",
-            "description": ""
+			 "token_name": "秀颌龙"
         },
         {
             "id": "Contract Devil",
             "name": "Contract Devil",
-            "description": ""
+			 "token_name": "Contract Devil"
         },
         {
             "id": "Criosphinx",
             "name": "羊面斯芬克斯",
-            "description": ""
+			 "token_name": "羊面斯芬克斯"
         },
         {
             "id": "Crypt Thing",
             "name": "守墓怪",
-            "description": ""
+			 "token_name": "守墓怪"
         },
         {
             "id": "Cuero",
             "name": "Cuero",
-            "description": ""
+			 "token_name": "Cuero"
         },
         {
             "id": "Cytillipede",
             "name": "Cytillipede",
-            "description": ""
+			 "token_name": "Cytillipede"
         },
         {
             "id": "Dark Slayer",
             "name": "幽暗屠戮者",
-            "description": ""
+			 "token_name": "幽暗屠戮者"
         },
         {
             "id": "Deathsnatcher",
             "name": "死亡掠夺者",
-            "description": ""
+			 "token_name": "死亡掠夺者"
         },
         {
             "id": "Decapus",
             "name": "十腕章鱼",
-            "description": ""
+			 "token_name": "十腕章鱼"
         },
         {
             "id": "Deep One",
             "name": "深潜者",
-            "description": ""
+			 "token_name": "深潜者"
         },
         {
             "id": "Derro Magister",
             "name": "Derro Magister",
-            "description": ""
+			 "token_name": "Derro Magister"
         },
         {
             "id": "Deskari",
             "name": "Deskari",
-            "description": ""
+			 "token_name": "Deskari"
         },
         {
             "id": "Devil, Possession Greater",
             "name": "Devil, Possession Greater",
-            "description": ""
+			 "token_name": "Devil, Possession Greater"
         },
         {
             "id": "Dimensional Shambler",
             "name": "Dimensional Shambler",
-            "description": ""
+			 "token_name": "Dimensional Shambler"
         },
         {
             "id": "Dimetrodon",
             "name": "帆龙",
-            "description": ""
+			 "token_name": "帆龙"
         },
         {
             "id": "Dire Corby",
             "name": "恶鸦人",
-            "description": ""
+			 "token_name": "恶鸦人"
         },
         {
             "id": "Dire Wolf",
             "name": "恐狼",
-            "description": ""
+			 "token_name": "恐狼"
         },
         {
             "id": "Dodo",
             "name": "Dodo",
-            "description": ""
+			 "token_name": "Dodo"
         },
         {
             "id": "Dosojin",
             "name": "Dosojin",
-            "description": ""
+			 "token_name": "Dosojin"
         },
         {
             "id": "Dretch",
             "name": "怯魔",
-            "description": ""
+			 "token_name": "怯魔"
         },
         {
             "id": "Drexin Gremlin",
             "name": "Drexin Gremlin",
-            "description": ""
+			 "token_name": "Drexin Gremlin"
         },
         {
             "id": "Drider",
             "name": "蛛化精灵",
-            "description": ""
+			 "token_name": "蛛化精灵"
         },
         {
             "id": "Drocha Swarm",
             "name": "Drocha Swarm",
-            "description": ""
+			 "token_name": "Drocha Swarm"
         },
         {
             "id": "Dullahan",
             "name": "无头骑士",
-            "description": ""
+			 "token_name": "无头骑士"
         },
         {
             "id": "Eagle",
             "name": "鹰",
-            "description": ""
+			 "token_name": "鹰"
         },
         {
             "id": "Elasmosaurus",
             "name": "薄片龙",
-            "description": ""
+			 "token_name": "薄片龙"
         },
         {
             "id": "Elder Air Elemental",
             "name": "气元素长老",
-            "description": ""
+			 "token_name": "气元素长老"
         },
         {
             "id": "Elder Ice Elemental",
             "name": "Elder Ice Elemental",
-            "description": ""
+			 "token_name": "Elder Ice Elemental"
         },
         {
             "id": "Elder Mud Elemental",
             "name": "泥元素长老",
-            "description": ""
+			 "token_name": "泥元素长老"
         },
         {
             "id": "Emperor of Scales",
             "name": "Emperor of Scales",
-            "description": ""
+			 "token_name": "Emperor of Scales"
         },
         {
             "id": "Erodaemon",
             "name": "爱欲邪魔",
-            "description": ""
+			 "token_name": "爱欲邪魔"
         },
         {
             "id": "Estuarine Worm",
             "name": "Estuarine Worm",
-            "description": ""
+			 "token_name": "Estuarine Worm"
         },
         {
             "id": "Ettin",
             "name": "双头巨人",
-            "description": ""
+			 "token_name": "双头巨人"
         },
         {
             "id": "Exscinder Archon",
             "name": "Exscinder Archon",
-            "description": ""
+			 "token_name": "Exscinder Archon"
         },
         {
             "id": "Ez-Azael",
             "name": "Ez-Azael",
-            "description": ""
+			 "token_name": "Ez-Azael"
         },
         {
             "id": "Fachen",
             "name": "Fachen",
-            "description": ""
+			 "token_name": "Fachen"
         },
         {
             "id": "Faun",
             "name": "法翁羊人",
-            "description": ""
+			 "token_name": "法翁羊人"
         },
         {
             "id": "Festering Spirit",
             "name": "溃亡怨灵",
-            "description": ""
+			 "token_name": "溃亡怨灵"
         },
         {
             "id": "Fleshdreg",
             "name": "血肉残渣",
-            "description": ""
+			 "token_name": "血肉残渣"
         },
         {
             "id": "Fluxwraith",
             "name": "Fluxwraith",
-            "description": ""
+			 "token_name": "Fluxwraith"
         },
         {
             "id": "Forsaken Lich",
             "name": "Forsaken Lich",
-            "description": ""
+			 "token_name": "Forsaken Lich"
         },
         {
             "id": "Frost Drake",
             "name": "霜龙兽",
-            "description": ""
+			 "token_name": "霜龙兽"
         },
         {
             "id": "Frost Fir",
             "name": "Frost Fir",
-            "description": ""
+			 "token_name": "Frost Fir"
         },
         {
             "id": "Frost Wight",
             "name": "Frost Wight",
-            "description": ""
+			 "token_name": "Frost Wight"
         },
         {
             "id": "Gallerok",
             "name": "Gallerok",
-            "description": ""
+			 "token_name": "Gallerok"
         },
         {
             "id": "Ghul",
             "name": "鬼巨灵",
-            "description": ""
+			 "token_name": "鬼巨灵"
         },
         {
             "id": "Giant Assassin Bug",
             "name": "巨猎蝽",
-            "description": ""
+			 "token_name": "巨猎蝽"
         },
         {
             "id": "Giant Chameleon",
             "name": "巨变色龙",
-            "description": ""
+			 "token_name": "巨变色龙"
         },
         {
             "id": "Giant Crab",
             "name": "巨蟹",
-            "description": ""
+			 "token_name": "巨蟹"
         },
         {
             "id": "Giant Crawling Hand",
             "name": "伏行巨手",
-            "description": ""
+			 "token_name": "伏行巨手"
         },
         {
             "id": "Giant Gar",
             "name": "巨雀鳝",
-            "description": ""
+			 "token_name": "巨雀鳝"
         },
         {
             "id": "Giant Leech",
             "name": "巨水蛭",
-            "description": ""
+			 "token_name": "巨水蛭"
         },
         {
             "id": "Giant Tortoise",
             "name": "巨陆龟",
-            "description": ""
+			 "token_name": "巨陆龟"
         },
         {
             "id": "Giraffe",
             "name": "长颈鹿",
-            "description": ""
+			 "token_name": "长颈鹿"
         },
         {
             "id": "Glabrezu",
             "name": "迷诱魔",
-            "description": ""
+			 "token_name": "迷诱魔"
         },
         {
             "id": "Glimmerhollow",
             "name": "Glimmerhollow",
-            "description": ""
+			 "token_name": "Glimmerhollow"
         },
         {
             "id": "Globster",
             "name": "浮尸泥怪",
-            "description": ""
+			 "token_name": "浮尸泥怪"
         },
         {
             "id": "Goliath Spider",
             "name": "巨人蜘蛛",
-            "description": ""
+			 "token_name": "巨人蜘蛛"
         },
         {
             "id": "Gourd Leshy",
             "name": "葫芦莱西",
-            "description": ""
+			 "token_name": "葫芦莱西"
         },
         {
             "id": "Gravedragger",
             "name": "Gravedragger",
-            "description": ""
+			 "token_name": "Gravedragger"
         },
         {
             "id": "Greater Earth Elemental",
             "name": "菁英土元素",
-            "description": ""
+			 "token_name": "菁英土元素"
         },
         {
             "id": "Green Hag",
             "name": "Green Hag",
-            "description": ""
+			 "token_name": "Green Hag"
         },
         {
             "id": "Hamadryad",
             "name": "林精",
-            "description": ""
+			 "token_name": "林精"
         },
         {
             "id": "Hegessik",
             "name": "Hegessik",
-            "description": ""
+			 "token_name": "Hegessik"
         },
         {
             "id": "Hippocampus",
             "name": "海马",
-            "description": ""
+			 "token_name": "海马"
         },
         {
             "id": "Hobgoblin Troop",
             "name": "Hobgoblin Troop",
-            "description": ""
+			 "token_name": "Hobgoblin Troop"
         },
         {
             "id": "Hooded Harbinger",
             "name": "Hooded Harbinger",
-            "description": ""
+			 "token_name": "Hooded Harbinger"
         },
         {
             "id": "Huge Mud Elemental",
             "name": "超大型泥元素",
-            "description": ""
+			 "token_name": "超大型泥元素"
         },
         {
             "id": "Hungry Fog",
             "name": "饥饿之雾",
-            "description": ""
+			 "token_name": "饥饿之雾"
         },
         {
             "id": "Hunter Urchin",
             "name": "Hunter Urchin",
-            "description": ""
+			 "token_name": "Hunter Urchin"
         },
         {
             "id": "Immense Tortoise",
             "name": "无界陆龟",
-            "description": ""
+			 "token_name": "无界陆龟"
         },
         {
             "id": "Inkariax",
             "name": "Inkariax",
-            "description": ""
+			 "token_name": "Inkariax"
         },
         {
             "id": "Jack-O'-Lantern",
             "name": "Jack-O'-Lantern",
-            "description": ""
+			 "token_name": "Jack-O'-Lantern"
         },
         {
             "id": "Jackalwere",
             "name": "化豺",
-            "description": ""
+			 "token_name": "化豺"
         },
         {
             "id": "Japalisura",
             "name": "Japalisura",
-            "description": ""
+			 "token_name": "Japalisura"
         },
         {
             "id": "Juggernaut",
             "name": "巨神辇",
-            "description": ""
+			 "token_name": "巨神辇"
         },
         {
             "id": "Jungle Giant",
             "name": "丛林巨人",
-            "description": ""
+			 "token_name": "丛林巨人"
         },
         {
             "id": "Junk Golem",
             "name": "垃圾魔像",
-            "description": ""
+			 "token_name": "垃圾魔像"
         },
         {
             "id": "Kikituk",
             "name": "Kikituk",
-            "description": ""
+			 "token_name": "Kikituk"
         },
         {
             "id": "Killer Seahorse",
             "name": "杀手海马",
-            "description": ""
+			 "token_name": "杀手海马"
         },
         {
             "id": "Kimenhul",
             "name": "阴死魔",
-            "description": ""
+			 "token_name": "阴死魔"
         },
         {
             "id": "Kitsune",
             "name": "狐妖",
-            "description": ""
+			 "token_name": "狐妖"
         },
         {
             "id": "Korada",
             "name": "孔冉达",
-            "description": ""
+			 "token_name": "孔冉达"
         },
         {
             "id": "Kudimmu",
             "name": "Kudimmu",
-            "description": ""
+			 "token_name": "Kudimmu"
         },
         {
             "id": "Kuwa",
             "name": "骇鬼",
-            "description": ""
+			 "token_name": "骇鬼"
         },
         {
             "id": "Lacridaemon",
             "name": "Lacridaemon",
-            "description": ""
+			 "token_name": "Lacridaemon"
         },
         {
             "id": "Lantern Archon",
             "name": "圣光神使",
-            "description": ""
+			 "token_name": "圣光神使"
         },
         {
             "id": "Latten Mechanism",
             "name": "Latten Mechanism",
-            "description": ""
+			 "token_name": "Latten Mechanism"
         },
         {
             "id": "Lemure",
             "name": "Lemure",
-            "description": ""
+			 "token_name": "Lemure"
         },
         {
             "id": "Lhaksharut",
             "name": "巡守者",
-            "description": ""
+			 "token_name": "巡守者"
         },
         {
             "id": "Living Effigy",
             "name": "Living Effigy",
-            "description": ""
+			 "token_name": "Living Effigy"
         },
         {
             "id": "Living Mirage",
             "name": "Living Mirage",
-            "description": ""
+			 "token_name": "Living Mirage"
         },
         {
             "id": "Lythirium",
             "name": "Lythirium",
-            "description": ""
+			 "token_name": "Lythirium"
         },
         {
             "id": "Man-Eating Aurochs",
             "name": "Man-Eating Aurochs",
-            "description": ""
+			 "token_name": "Man-Eating Aurochs"
         },
         {
             "id": "Megalania",
             "name": "Megalania",
-            "description": ""
+			 "token_name": "Megalania"
         },
         {
             "id": "Mithral Golem",
             "name": "秘银魔像",
-            "description": ""
+			 "token_name": "秘银魔像"
         },
         {
             "id": "Moloch",
             "name": "Moloch",
-            "description": ""
+			 "token_name": "Moloch"
         },
         {
             "id": "Monadic Deva",
             "name": "元素使徒",
-            "description": ""
+			 "token_name": "元素使徒"
         },
         {
             "id": "Moon-Beast",
             "name": "Moon-Beast",
-            "description": ""
+			 "token_name": "Moon-Beast"
         },
         {
             "id": "Mothman",
             "name": "天蛾人",
-            "description": ""
+			 "token_name": "天蛾人"
         },
         {
             "id": "Mummified Hippopotamus",
             "name": "Mummified Hippopotamus",
-            "description": ""
+			 "token_name": "Mummified Hippopotamus"
         },
         {
             "id": "Munavri",
             "name": "Munavri",
-            "description": ""
+			 "token_name": "Munavri"
         },
         {
             "id": "Naiad",
             "name": "水泽之灵",
-            "description": ""
+			 "token_name": "水泽之灵"
         },
         {
             "id": "Nalfeshnee",
             "name": "判魂魔",
-            "description": ""
+			 "token_name": "判魂魔"
         },
         {
             "id": "Nixudaemon",
             "name": "Nixudaemon",
-            "description": ""
+			 "token_name": "Nixudaemon"
         },
         {
             "id": "Nuckelavee",
             "name": "海人马",
-            "description": ""
+			 "token_name": "海人马"
         },
         {
             "id": "Nymph",
             "name": "宁芙",
-            "description": ""
+			 "token_name": "宁芙"
         },
         {
             "id": "Oaur-Ooung",
             "name": "Oaur-Ooung",
-            "description": ""
+			 "token_name": "Oaur-Ooung"
         },
         {
             "id": "Obsidian Golem",
             "name": "Obsidian Golem",
-            "description": ""
+			 "token_name": "Obsidian Golem"
         },
         {
             "id": "Oceanid",
             "name": "Oceanid",
-            "description": ""
+			 "token_name": "Oceanid"
         },
         {
             "id": "Ochre Jelly",
             "name": "赭冻怪",
-            "description": ""
+			 "token_name": "赭冻怪"
         },
         {
             "id": "Omox",
             "name": "泥魔",
-            "description": ""
+			 "token_name": "泥魔"
         },
         {
             "id": "Oni, Earth Yai",
             "name": "Oni, Earth Yai",
-            "description": ""
+			 "token_name": "Oni, Earth Yai"
         },
         {
             "id": "Ooze Mephit",
             "name": "Ooze Mephit",
-            "description": ""
+			 "token_name": "Ooze Mephit"
         },
         {
             "id": "Othaos",
             "name": "光暗御衡者",
-            "description": ""
+			 "token_name": "光暗御衡者"
         },
         {
             "id": "Ourdivar",
             "name": "Ourdivar",
-            "description": ""
+			 "token_name": "Ourdivar"
         },
         {
             "id": "Pachycephalosaurus",
             "name": "肿头龙",
-            "description": ""
+			 "token_name": "肿头龙"
         },
         {
             "id": "Papinijuwari",
             "name": "Papinijuwari",
-            "description": ""
+			 "token_name": "Papinijuwari"
         },
         {
             "id": "Peri",
             "name": "堕天女",
-            "description": ""
+			 "token_name": "堕天女"
         },
         {
             "id": "Petitioner",
             "name": "祈并者",
-            "description": ""
+			 "token_name": "祈并者"
         },
         {
             "id": "Phase Spider",
             "name": "相位蜘蛛",
-            "description": ""
+			 "token_name": "相位蜘蛛"
         },
         {
             "id": "Phycomid",
             "name": "酸蚀蘑菇",
-            "description": ""
+			 "token_name": "酸蚀蘑菇"
         },
         {
             "id": "Pickled Punk",
             "name": "罐中畸胎",
-            "description": ""
+			 "token_name": "罐中畸胎"
         },
         {
             "id": "Piranha Swarm",
             "name": "Piranha Swarm",
-            "description": ""
+			 "token_name": "Piranha Swarm"
         },
         {
             "id": "Pixie",
             "name": "皮克精",
-            "description": ""
+			 "token_name": "皮克精"
         },
         {
             "id": "Pleroma",
             "name": "存灭御衡者",
-            "description": ""
+			 "token_name": "存灭御衡者"
         },
         {
             "id": "Plesiosaurus",
             "name": "蛇颈龙",
-            "description": ""
+			 "token_name": "蛇颈龙"
         },
         {
             "id": "Polevik",
             "name": "Polevik",
-            "description": ""
+			 "token_name": "Polevik"
         },
         {
             "id": "Possession Lesser",
             "name": "Possession Lesser",
-            "description": ""
+			 "token_name": "Possession Lesser"
         },
         {
             "id": "Psychemental",
             "name": "Psychemental",
-            "description": ""
+			 "token_name": "Psychemental"
         },
         {
             "id": "Quickwood",
             "name": "Quickwood",
-            "description": ""
+			 "token_name": "Quickwood"
         },
         {
             "id": "Rat Plague Swarm",
             "name": "Rat Plague Swarm",
-            "description": ""
+			 "token_name": "Rat Plague Swarm"
         },
         {
             "id": "Remorhaz",
             "name": "百足魔虫",
-            "description": ""
+			 "token_name": "百足魔虫"
         },
         {
             "id": "Reptoid",
             "name": "Reptoid",
-            "description": ""
+			 "token_name": "Reptoid"
         },
         {
             "id": "Rukh",
             "name": "双头鹫",
-            "description": ""
+			 "token_name": "双头鹫"
         },
         {
             "id": "Sahuagin",
             "name": "沙华鱼人",
-            "description": ""
+			 "token_name": "沙华鱼人"
         },
         {
             "id": "Sapphire Jellyfish",
             "name": "蓝宝石水母",
-            "description": ""
+			 "token_name": "蓝宝石水母"
         },
         {
             "id": "Sargassum Fiend",
             "name": "Sargassum Fiend",
-            "description": ""
+			 "token_name": "Sargassum Fiend"
         },
         {
             "id": "Sea Cat",
             "name": "海猫",
-            "description": ""
+			 "token_name": "海猫"
         },
         {
             "id": "Sepid",
             "name": "墟言妖",
-            "description": ""
+			 "token_name": "墟言妖"
         },
         {
             "id": "Serpentfolk",
             "name": "蛇人",
-            "description": ""
+			 "token_name": "蛇人"
         },
         {
             "id": "Set Guardian",
             "name": "Set Guardian",
-            "description": ""
+			 "token_name": "Set Guardian"
         },
         {
             "id": "Shadow Giant",
             "name": "阴影巨人",
-            "description": ""
+			 "token_name": "阴影巨人"
         },
         {
             "id": "Shadow Mastiff",
             "name": "暗影獒犬",
-            "description": ""
+			 "token_name": "暗影獒犬"
         },
         {
             "id": "Shae",
             "name": "无拘影民",
-            "description": ""
+			 "token_name": "无拘影民"
         },
         {
             "id": "Shield Archon",
             "name": "坚盾神使",
-            "description": ""
+			 "token_name": "坚盾神使"
         },
         {
             "id": "Shipmind",
             "name": "Shipmind",
-            "description": ""
+			 "token_name": "Shipmind"
         },
         {
             "id": "Sinspawn",
             "name": "罪生怪",
-            "description": ""
+			 "token_name": "罪生怪"
         },
         {
             "id": "Skapraun",
             "name": "Skapraun",
-            "description": ""
+			 "token_name": "Skapraun"
         },
         {
             "id": "Skull Swarm",
             "name": "Skull Swarm",
-            "description": ""
+			 "token_name": "Skull Swarm"
         },
         {
             "id": "Skum",
             "name": "鱼化人",
-            "description": ""
+			 "token_name": "鱼化人"
         },
         {
             "id": "Sleipnir",
             "name": "八足驹",
-            "description": ""
+			 "token_name": "八足驹"
         },
         {
             "id": "Slurk",
             "name": "泥蛙",
-            "description": ""
+			 "token_name": "泥蛙"
         },
         {
             "id": "Small Aether Elemental",
             "name": "小型以太元素",
-            "description": ""
+			 "token_name": "小型以太元素"
         },
         {
             "id": "Snake Swarm",
             "name": "蛇群",
-            "description": ""
+			 "token_name": "蛇群"
         },
         {
             "id": "Soulbound Mannequin",
             "name": "缚魂偶",
-            "description": ""
+			 "token_name": "缚魂偶"
         },
         {
             "id": "Spellgorger",
             "name": "Spellgorger",
-            "description": ""
+			 "token_name": "Spellgorger"
         },
         {
             "id": "Spinosaurus",
             "name": "棘龙",
-            "description": ""
+			 "token_name": "棘龙"
         },
         {
             "id": "Spring-Heeled Jack",
             "name": "弹簧腿杰克",
-            "description": ""
+			 "token_name": "弹簧腿杰克"
         },
         {
             "id": "Star Archon",
             "name": "星辰神使",
-            "description": ""
+			 "token_name": "星辰神使"
         },
         {
             "id": "Stone Golem",
             "name": "石魔像",
-            "description": ""
+			 "token_name": "石魔像"
         },
         {
             "id": "Swimming Eye Swarm",
             "name": "Swimming Eye Swarm",
-            "description": ""
+			 "token_name": "Swimming Eye Swarm"
         },
         {
             "id": "Swordfish",
             "name": "Swordfish",
-            "description": ""
+			 "token_name": "Swordfish"
         },
         {
             "id": "Taiga Giant",
             "name": "寒林巨人",
-            "description": ""
+			 "token_name": "寒林巨人"
         },
         {
             "id": "Tarry Demodand",
             "name": "墨油魔孽",
-            "description": ""
+			 "token_name": "墨油魔孽"
         },
         {
             "id": "Tataka",
             "name": "暴掠罗剎",
-            "description": ""
+			 "token_name": "暴掠罗剎"
         },
         {
             "id": "Tenome",
             "name": "Tenome",
-            "description": ""
+			 "token_name": "Tenome"
         },
         {
             "id": "Tentamort",
             "name": "死亡缠体",
-            "description": ""
+			 "token_name": "死亡缠体"
         },
         {
             "id": "Thriae Dancer",
             "name": "Thriae Dancer",
-            "description": ""
+			 "token_name": "Thriae Dancer"
         },
         {
             "id": "Thriae Queen",
             "name": "特里埃蜂后",
-            "description": ""
+			 "token_name": "特里埃蜂后"
         },
         {
             "id": "Time Dimensional",
             "name": "Time Dimensional",
-            "description": ""
+			 "token_name": "Time Dimensional"
         },
         {
             "id": "Trelmarixian",
             "name": "Trelmarixian",
-            "description": ""
+			 "token_name": "Trelmarixian"
         },
         {
             "id": "Troglodyte",
             "name": "战蜥人",
-            "description": ""
+			 "token_name": "战蜥人"
         },
         {
             "id": "Trollhound",
             "name": "巨魔犬",
-            "description": ""
+			 "token_name": "巨魔犬"
         },
         {
             "id": "Trox",
             "name": "卓克斯虫族",
-            "description": ""
+			 "token_name": "卓克斯虫族"
         },
         {
             "id": "Trumpet Archon",
             "name": "号角神使",
-            "description": ""
+			 "token_name": "号角神使"
         },
         {
             "id": "Tsaalgrend",
             "name": "Tsaalgrend",
-            "description": ""
+			 "token_name": "Tsaalgrend"
         },
         {
             "id": "Tuatara",
             "name": "Tuatara",
-            "description": ""
+			 "token_name": "Tuatara"
         },
         {
             "id": "Tupilaq",
             "name": "骨偶",
-            "description": ""
+			 "token_name": "骨偶"
         },
         {
             "id": "Uinuja",
             "name": "Uinuja",
-            "description": ""
+			 "token_name": "Uinuja"
         },
         {
             "id": "Unrisen",
             "name": "Unrisen",
-            "description": ""
+			 "token_name": "Unrisen"
         },
         {
             "id": "Urhag",
             "name": "Urhag",
-            "description": ""
+			 "token_name": "Urhag"
         },
         {
             "id": "Vespergaunt",
             "name": "Vespergaunt",
-            "description": ""
+			 "token_name": "Vespergaunt"
         },
         {
             "id": "Vildeis",
             "name": "薇尔迪斯",
-            "description": ""
+			 "token_name": "薇尔迪斯"
         },
         {
             "id": "Vilsteth",
             "name": "Vilsteth",
-            "description": ""
+			 "token_name": "Vilsteth"
         },
         {
             "id": "Walrus",
             "name": "海象",
-            "description": ""
+			 "token_name": "海象"
         },
         {
             "id": "Warden Robot",
             "name": "Warden Robot",
-            "description": ""
+			 "token_name": "Warden Robot"
         },
         {
             "id": "Warmonger Devil",
             "name": "Warmonger Devil",
-            "description": ""
+			 "token_name": "Warmonger Devil"
         },
         {
             "id": "Water Orm",
             "name": "水涡龙",
-            "description": ""
+			 "token_name": "水涡龙"
         },
         {
             "id": "Water Wysp",
             "name": "Water Wysp",
-            "description": ""
+			 "token_name": "Water Wysp"
         },
         {
             "id": "Wayang",
             "name": "剪影人",
-            "description": ""
+			 "token_name": "剪影人"
         },
         {
             "id": "Weasel",
             "name": "Weasel",
-            "description": ""
+			 "token_name": "Weasel"
         },
         {
             "id": "Wendigo",
             "name": "温迪戈雪魔",
-            "description": ""
+			 "token_name": "温迪戈雪魔"
         },
         {
             "id": "Werebear",
             "name": "熊人",
-            "description": ""
+			 "token_name": "熊人"
         },
         {
             "id": "Werecrocodile",
             "name": "鳄鱼人",
-            "description": ""
+			 "token_name": "鳄鱼人"
         },
         {
             "id": "Weremantis",
             "name": "螳螂人",
-            "description": ""
+			 "token_name": "螳螂人"
         },
         {
             "id": "Wereraptor",
             "name": "Wereraptor",
-            "description": ""
+			 "token_name": "Wereraptor"
         },
         {
             "id": "Whaler Jellyfish",
             "name": "Whaler Jellyfish",
-            "description": ""
+			 "token_name": "Whaler Jellyfish"
         },
         {
             "id": "Whisperer",
             "name": "Whisperer",
-            "description": ""
+			 "token_name": "Whisperer"
         },
         {
             "id": "Wickerman",
             "name": "柳条人",
-            "description": ""
+			 "token_name": "柳条人"
         },
         {
             "id": "Winter Wolf",
             "name": "冬狼",
-            "description": ""
+			 "token_name": "冬狼"
         },
         {
             "id": "Wolf-In-Sheep's-Clothing",
             "name": "Wolf-In-Sheep's-Clothing",
-            "description": ""
+			 "token_name": "Wolf-In-Sheep's-Clothing"
         },
         {
             "id": "Wolliped",
             "name": "沃力派",
-            "description": ""
+			 "token_name": "沃力派"
         },
         {
             "id": "Wolverine",
             "name": "狼獾",
-            "description": ""
+			 "token_name": "狼獾"
         },
         {
             "id": "Wyvern",
             "name": "双足飞龙",
-            "description": ""
+			 "token_name": "双足飞龙"
         },
         {
             "id": "Xiao",
             "name": "Xiao",
-            "description": ""
+			 "token_name": "Xiao"
         },
         {
             "id": "Xoveron",
             "name": "Xoveron",
-            "description": ""
+			 "token_name": "Xoveron"
         },
         {
             "id": "Yah-Thelgaad",
             "name": "Yah-Thelgaad",
-            "description": ""
+			 "token_name": "Yah-Thelgaad"
         },
         {
             "id": "Yamabushi Tengu",
             "name": "Yamabushi Tengu",
-            "description": ""
+			 "token_name": "Yamabushi Tengu"
         },
         {
             "id": "Young Adult Time Dragon",
             "name": "Young Adult Time Dragon",
-            "description": ""
+			 "token_name": "Young Adult Time Dragon"
         },
         {
             "id": "Young Etheric Dragon",
             "name": "少年以太龙",
-            "description": ""
+			 "token_name": "少年以太龙"
         },
         {
             "id": "Young Solar Dragon",
             "name": "少年日龙",
-            "description": ""
+			 "token_name": "少年日龙"
         },
         {
             "id": "Young Vortex Dragon",
             "name": "少年漩涡龙",
-            "description": ""
+			 "token_name": "少年漩涡龙"
         },
         {
             "id": "Yrthak",
             "name": "角翼魔兽",
-            "description": ""
+			 "token_name": "角翼魔兽"
         },
         {
             "id": "Zoog",
             "name": "祖各",
-            "description": ""
+			 "token_name": "祖各"
         },
         {
             "id": "Zygomind",
             "name": "Zygomind",
-            "description": ""
+			 "token_name": "Zygomind"
         }
     ]
 }
