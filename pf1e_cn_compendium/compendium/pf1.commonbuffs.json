@@ -4,102 +4,102 @@
 		{
 			"id": "Aid",
 			"name": "援助术",
-			"description": "<p>你的攻击检定与对抗恐惧效果的豁免检定提供+1士气加值</p>"
+			"description": "<p>&emsp;&emsp;你的攻击检定与对抗恐惧效果的豁免检定提供+1士气加值</p>"
 		},
 		{
 			"id": "Bane",
 			"name": "绝望术",
-			"description": "<p>你的攻击检定受到-1减值，对抗恐惧效果的豁免检定受到-1减值。</p>"
+			"description": "<p>&emsp;&emsp;你的攻击检定受到-1减值，对抗恐惧效果的豁免检定受到-1减值。</p>"
 		},
 		{
 			"id": "Barkskin",
 			"name": "树肤术",
-			"description": "<p>你的皮肤变得坚韧。该效果会使生物现有的天生护甲加值获得+2增强加值</p>"
+			"description": "<p>&emsp;&emsp;你的皮肤变得坚韧。该效果会使生物现有的天生护甲加值获得+2增强加值</p>"
 		},
 		{
 			"id": "Bear's Endurance",
 			"name": "熊之坚韧",
-			"description": "<p>受术者的体质获得+4的增强加值</p>"
+			"description": "<p>&emsp;&emsp;受术者的体质获得+4的增强加值</p>"
 		},
 		{
 			"id": "Bless",
 			"name": "祝福术",
-			"description": "<p>你的攻击检定和对抗恐惧的豁免检定中获得+1士气加值</p>"
+			"description": "<p>&emsp;&emsp;你的攻击检定和对抗恐惧的豁免检定中获得+1士气加值</p>"
 		},
 		{
 			"id": "Bull's Strength",
 			"name": "牛之力量",
-			"description": "<p>受术者的力量获得+4的增强加值</p>"
+			"description": "<p>&emsp;&emsp;受术者的力量获得+4的增强加值</p>"
 		},
 		{
 			"id": "Cat's Grace",
 			"name": "猫之优雅",
-			"description": "<p>受术者的敏捷获得+4的增强加值</p>"
+			"description": "<p>&emsp;&emsp;受术者的敏捷获得+4的增强加值</p>"
 		},
 		{
 			"id": "Divine Favor",
 			"name": "神恩",
-			"description": "<p>你的攻击和武器伤害检定上获得每三个CL +1点幸运加值</p>"
+			"description": "<p>&emsp;&emsp;你的攻击和武器伤害检定上获得每三个CL +1点幸运加值</p>"
 		},
 		{
 			"id": "Eagle's Splendor",
 			"name": "鹰之威仪",
-			"description": "<p>受术者的魅力获得+4的增强加值</p>"
+			"description": "<p>&emsp;&emsp;受术者的魅力获得+4的增强加值</p>"
 		},
 		{
 			"id": "Fox's Cunning",
 			"name": "狐之狡黠",
-			"description": "<p>受术者的智力获得+4的增强加值</p>"
+			"description": "<p>&emsp;&emsp;受术者的智力获得+4的增强加值</p>"
 		},
 		{
 			"id": "Haste",
 			"name": "加速术",
-			"description": "<p>在进行全力攻击时，加速后的生物可以进行一次额外的攻击，该次攻击可以使用天生武器或人造武器进行。这次攻击使用该生物完整的BAB，附加任何符合该情况的修正。该效果无法与类似能力叠加，例如〈追击〉武器\n<p>加速生物的攻击检定获得+1加值，并且AC和反射豁免获得+1闪避加值。</p>\n<p>加速生物的所有移动方式 (包括陆上移动、掘地、攀爬、飞行、游泳) 的速度均会增加30尺，最高达到受术者该移动方式正常速度的两倍。增加的速度是增强加值，同时也会按正常方式影响该生物的跳跃距离。</p>"
+			"description": "<p>&emsp;&emsp;在进行全力攻击时，加速后的生物可以进行一次额外的攻击，该次攻击可以使用天生武器或人造武器进行。这次攻击使用该生物完整的BAB，附加任何符合该情况的修正。该效果无法与类似能力叠加，例如〈追击〉武器\n<p>&emsp;&emsp;加速生物的攻击检定获得+1加值，并且AC和反射豁免获得+1闪避加值。</p>\n<p>&emsp;&emsp;加速生物的所有移动方式 (包括陆上移动、掘地、攀爬、飞行、游泳) 的速度均会增加30尺，最高达到受术者该移动方式正常速度的两倍。增加的速度是增强加值，同时也会按正常方式影响该生物的跳跃距离。</p>"
 		},
 		{
 			"id": "Heroism",
 			"name": "英雄气概",
-			"description": "<p>你的攻击检定、豁免和技能检定获得+2士气加值。</p>"
+			"description": "<p>&emsp;&emsp;你的攻击检定、豁免和技能检定获得+2士气加值。</p>"
 		},
 		{
 			"id": "Inspire Courage",
 			"name": "激发勇气",
-			"description": "<p>有人激发了你的勇气. 你获得以下好处:</p>\n<ul>\n<li>对抗魅惑和恐惧时豁免检定有+1士气加值</li>\n<li>在攻击和武器伤害检定上有+1表现加值</li>\n</ul>"
+			"description": "<p>&emsp;&emsp;有人激发了你的勇气. 你获得以下好处:</p>\n<ul>\n<li>对抗魅惑和恐惧时豁免检定有+1士气加值</li>\n<li>在攻击和武器伤害检定上有+1表现加值</li>\n</ul>"
 		},
 		{
 			"id": "Mage Armor",
 			"name": "法师护甲",
-			"description": "<p>一层隐形但确实存在的力场在你的周围出现，给AC提供+4护甲加值。</p>\n<p>法师护甲由力场构成，因此虚体生物无法像忽视普通护甲那样忽视它。</p>"
+			"description": "<p>&emsp;&emsp;一层隐形但确实存在的力场在你的周围出现，给AC提供+4护甲加值。</p>\n<p>&emsp;&emsp;法师护甲由力场构成，因此虚体生物无法像忽视普通护甲那样忽视它。</p>"
 		},
 		{
 			"id": "Owl's Wisdom",
 			"name": "枭之睿智",
-			"description": "<p>受术者的感知获得+4的增强加值</p>"
+			"description": "<p>&emsp;&emsp;受术者的感知获得+4的增强加值</p>"
 		},
 		{
 			"id": "Prayer (Negative)",
 			"name": "祈祷术 (负)",
-			"description": "<p>你在攻击检定、武器伤害检定、豁免检定和技能检定上都获得+1幸运加值</p>"
+			"description": "<p>&emsp;&emsp;你在攻击检定、武器伤害检定、豁免检定和技能检定上都获得+1幸运加值</p>"
 		},
 		{
 			"id": "Prayer (Positive)",
 			"name": "祈祷术 (正)",
-			"description": "<p>你在攻击检定、武器伤害检定、豁免检定和技能检定上都获得+1幸运加值</p>"
+			"description": "<p>&emsp;&emsp;你在攻击检定、武器伤害检定、豁免检定和技能检定上都获得+1幸运加值</p>"
 		},
 		{
 			"id": "Shield",
 			"name": "护盾术",
-			"description": "<p>护盾术创造出一面隐形的力场盾牌徘徊在你身前, 获得以下效果:</p>\n<ul>\n<li>AC获得+4的盾牌加值</li>\n<li>抵挡指向你的魔法飞弹</li>\n</ul>\n<p>此加值可用于对抗虚体的接触攻击</p>"
+			"description": "<p>&emsp;&emsp;护盾术创造出一面隐形的力场盾牌徘徊在你身前, 获得以下效果:</p>\n<ul>\n<li>AC获得+4的盾牌加值</li>\n<li>抵挡指向你的魔法飞弹</li>\n</ul>\n<p>&emsp;&emsp;此加值可用于对抗虚体的接触攻击</p>"
 		},
 		{
 			"id": "Shield of Faith",
 			"name": "虔诚护盾",
-			"description": "<p>的AC获得等同于该增益等级的偏斜加值</p>"
+			"description": "<p>&emsp;&emsp;的AC获得等同于该增益等级的偏斜加值</p>"
 		},
 		{
 			"id": "Slow",
 			"name": "缓慢术",
-			"description": "<p>你陷入恍惚, 你的攻击检定、AC和反射豁免受到-1减值</p>\n<p>缓慢的生物只能以正常速度的一半移动 (以5尺为单位，向下取整)</p>"
+			"description": "<p>&emsp;&emsp;你陷入恍惚, 你的攻击检定、AC和反射豁免受到-1减值</p>\n<p>&emsp;&emsp;缓慢的生物只能以正常速度的一半移动 (以5尺为单位，向下取整)</p>"
 		}
 	]
 }
