@@ -2,7 +2,7 @@
     "name": "pf1e_cn_compendium",
     "title": "合集包汉化(Pathfinder1E)",
     "description": "为FVTT中的PF1E添加了合集包汉化。",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "minimumCoreVersion" : "0.6.0",
     "compatibleCoreVersion": "0.7.7",
     "author": "bnp800",
@@ -13,5 +13,5 @@
 
     "url": "https://github.com/bnp800/Foundry-VTT-PF1E-CHN",
 	"manifest": "https://github.com/bnp800/Foundry-VTT-PF1E-CHN/raw/master/pf1e_cn_compendium/module.json",
-	"download": "https://github.com/bnp800/Foundry-VTT-PF1E-CHN/archive/v0.1.5.zip"
+	"download": "https://github.com/bnp800/Foundry-VTT-PF1E-CHN/archive/v0.1.6.zip"
   }
