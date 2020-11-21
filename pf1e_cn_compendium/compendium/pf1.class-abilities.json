@@ -233,12 +233,12 @@
 		},
 		{
 			"id": "Acid Dart (CLE)",
-			"name": "Acid Dart (CLE)",
-			"description": "<p>&emsp;&emsp;As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage + 1 point for every two cleric levels you possess. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.</p>"
+			"name": "酸镖 (牧师)",
+			"description": "<p>&emsp;&emsp;你能用标准动作发出一道酸镖。通过远程接触攻击一个30尺以内的敌人，酸镖造成“1d6+1/2牧师等级”的强酸伤害。你每天可以使用此能力次数“3+感知修正”。</p>"
 		},
 		{
 			"id": "Acid Dart (WIZ)",
-			"name": "强酸镖",
+			"name": "强酸镖（法师）",
 			"description": "<p>&emsp;&emsp;你能通过一个标准动作释放一道强酸飞镖，通过一次远程接触攻击30尺以内的任何敌人。此强酸镖造成“1d6+1/2法师等级”强酸伤害。你每天可以使用此能力次数为“3+智力修正”。此攻击无视法术抗力。</p>"
 		},
 		{
