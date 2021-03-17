@@ -2,7 +2,7 @@
     "name": "pf1e_cn_compendium",
     "title": "合集包汉化(Pathfinder1E)",
     "description": "为FVTT中的PF1E添加了合集包汉化。",
-    "version": "0.1.9-1",
+    "version": "0.1.9-2",
     "minimumCoreVersion" : "0.6.0",
     "compatibleCoreVersion": "0.7.9",
     "author": "bnp800",
@@ -10,8 +10,14 @@
     "scripts": [
     	"./babele-register.js"
     ],
-
+    "dependencies": [
+        {
+            "name": "babele",
+            "type": "module",
+            "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+        }
+    ]
     "url": "https://github.com/fvtt-cn/pf1e_compendium_chn",
-	"manifest": "https://github.com/fvtt-cn/pf1e_compendium_chn/blob/master/pf1e_cn_compendium/module.json",
-	"download": "https://github.com/fvtt-cn/pf1e_compendium_chn/archive/v0.1.9-1.zip"
+    "manifest": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json",
+    "download": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/0.1.9-2/download/module.json"
   }
