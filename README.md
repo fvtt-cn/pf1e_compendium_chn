@@ -2,6 +2,10 @@
 
 本 MOD 为 FVTT 的 Pathfinder 1E 系统合集包加入了中文。
 
+![downloads](https://img.shields.io/github/downloads/fvtt-cn/pf1e_compendium_chn/total)
+
+By FVTT-CN
+
 ## 使用说明
 
 1. 首先在安装界面MOD安装中，安装本MOD。
