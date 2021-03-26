@@ -9,7 +9,7 @@ By FVTT-CN
 ## 使用说明
 
 1. 首先在安装界面MOD安装中，安装本MOD。
-   - 安装链接：https://github.com/fvtt-cn/Foundry-VTT-PF1E-CHN/blob/master/pf1e_cn_compendium/module.json
+   - 安装链接：https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json
 2. 进入游戏世界（PF1E），在【设置-管理MOD】中勾选本MOD。
 3. 在【设置-语言】中选择【Chinese】。
 4. 重启游戏世界。
