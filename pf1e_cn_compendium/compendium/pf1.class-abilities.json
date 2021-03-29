@@ -11620,8 +11620,8 @@
 		},
 		{
 			"id": "Maker's Call",
-			"name": "Maker's Call",
-			"description": "<p>&emsp;&emsp;At 6th level, as a standard action, a summoner can call his eidolon to his side. This functions as&nbsp;dimension door, using the summoner閳ユ獨 caster level. When used, the eidolon appears adjacent to the summoner (or as close as possible if all adjacent spaces are occupied). If the eidolon is out of range, the ability is wasted. The summoner can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.</p>"
+			"name": "主宰呼唤",
+			"description": "<p>&emsp;&emsp;6级起，以标准动作，召唤师能够将幻灵召唤到自己的身边。这个效果的功能就如同任意门（Dimension Door）一般，使用召唤师的施法者等级。在使用该能力之后，幻灵会出现在与召唤师相邻的位置（如果所有与召唤师相邻的空间都被占据，则尽可能地靠近召唤师）。若幻灵在该能力的范围之外，则该次能力被浪费掉。召唤师在6级时每日能够使用1次主宰呼唤，在6级之后的每4个等级，该能力的每日使用次数会额外增加1次。</p>"
 		},
 		{
 			"id": "Malevolent Ectoplasm",
