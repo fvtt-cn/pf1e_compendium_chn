@@ -123,8 +123,8 @@
 		},
 		{
 			"id": "Abundant Step (UC)",
-			"name": "Abundant Step (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ki power can slip magically between spaces, as if using the spell&nbsp;dimension door. Using this ability is a move action that consumes 2 points from his ki pool. The monk&rsquo;s caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability.</p>\n<p>&emsp;&emsp;A monk must be at least 8th level before selecting this ki power.</p>"
+			"name": "天遁术",
+			"description": "<p>&emsp;&emsp;学习此绝学的武僧可以神奇地穿行于空间中，如同法术【任意门Dimension Door】。使用该能力是一个移动动作，需消耗２点气。使用此法时武僧的施法者等级等于武僧等级。武僧无法携带其它生物一同穿行。武僧必须至少８级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Abyssal Blood",
@@ -183,8 +183,8 @@
 		},
 		{
 			"id": "AC Bonus (UMK)",
-			"name": "AC Bonus (UMK)",
-			"description": "<p>&emsp;&emsp;When unarmored and unencumbered, the monk adds his&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-\">Wisdom</a>&nbsp;bonus (if any) to his&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-class\">AC</a>&nbsp;and his&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Defense\">CMD</a>. In addition, a monk gains a +1 bonus to&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class\">AC</a>&nbsp;and&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Defense\">CMD</a>&nbsp;at 4th level. This bonus increases by 1 for every four monk levels thereafter, up to a maximum of +5 at 20th level.</p>\n<p>&emsp;&emsp;These bonuses to&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class\">AC</a>&nbsp;apply even against touch attacks or when the monk is&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed\">flat-footed</a>. He loses these bonuses when he is immobilized or&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/conditions#TOC-Helpless\">helpless</a>, when he wears any&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus\">armor</a>, when he carries a shield, or when he carries a medium or heavy load.</p>"
+			"name": "AC加值",
+			"description": "<p>&emsp;&emsp;当不穿甲也无过度负重时，武僧可以将其感知加值（如果有）加在他的AC与CMD上。另外，武僧４级时ＡＣ与ＣＭＤ＋１，而之后每４个武僧等级该加值都会再增加１点，直到２０级时的＋５。</p><p>&emsp;&emsp;该加值在武僧对抗接触攻击或者措手不及时依然起效。当他无法动作时、无助时、穿戴任何护甲、携带盾牌、负重达到中载或重载时都将失去此加值。</p>"
 		},
 		{
 			"id": "Acceleration of Form",
@@ -203,8 +203,8 @@
 		},
 		{
 			"id": "Accurate Stance (UC)",
-			"name": "Accurate Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can focus her strikes. She gains a +1 competence bonus on melee attack rolls and thrown weapon attack rolls. This bonus increases by 1 for every 4 levels the barbarian has.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>"
+			"name": "精准战姿",
+			"description": "<p>&emsp;&emsp;野蛮人专注于她的打击，她在近战攻击骰和投掷攻击骰获得+1的表现加值。这个加值每4个等级便会提升1点。该狂暴之力是一种战姿。</p>"
 		},
 		{
 			"id": "Accurate Strike",
@@ -770,8 +770,8 @@
 		},
 		{
 			"id": "Animal Fury (UC)",
-			"name": "Animal Fury (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains a bite attack. This is a primary natural attack that deals 1d4 points of damage (if the barbarian is Medium; 1d3 if the barbarian is Small) plus the barbarian閳ユ獨 Strength modifier. If made as part of a fullattack action with manufactured weapons, the bite attack is made at the barbarian閳ユ獨 full base attack bonus 閳?5, and she adds only 1/2 her Strength modifier to the damage roll. The barbarian can make a bite attack as part of the action to maintain or break free from a grapple. If the bite attack hits, grapple checks attempted by the barbarian against the target until the end of the round gain a +2 bonus.</p>"
+			"name": "兽性之怒",
+			"description": "<p>&emsp;&emsp;野蛮人获得一种啮咬攻击。这是一种主要天生武器，可以造成1d4点伤害（如果她是中体型的话；小体型则为1d3），并且在伤害上加入力量修正。如果是作为使用人工武器的全力攻击的一部分，该啮咬攻击使用-5的满基本攻击加值，并且只能在伤害骰上加入一半的力量修正。野蛮人可以将啮咬攻击作为维持或挣脱擒抱动作的一部分，如果野蛮人成功咬中，在本回合结束之前，她在对目标的擒抱检定中+2。</p>"
 		},
 		{
 			"id": "Animal Fury, Greater",
@@ -1483,8 +1483,8 @@
 		},
 		{
 			"id": "Auspicious Mark (UC)",
-			"name": "Auspicious Mark (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian has been marked by the spirits, as indicated by an impressive tattoo, scar, or birthmark she possesses. As a swift action, she can call upon the spirits閳?favor to increase any d20 roll she just made by rolling 1d6 and adding it to the result. This bonus increases by 1 for every 4 levels she has. She can call on the auspicious mark after seeing the result of the d20 roll. This ability can be used only once per day.</p>"
+			"name": "吉祥印记",
+			"description": "<p>&emsp;&emsp;这个野蛮人被精魂们留下了印记，此印记通常表现为一个醒目的纹身，刺青或者是胎记。以一个迅捷动作，野蛮人可以祈求精魂的恩惠，在任意的单次d20的投骰中加上1d6的加值。该加值每4个等级便会提升1点，他可以在得知投骰结果之后才使用【吉祥印记】。野蛮人每天只能使用一次该能力。</p>"
 		},
 		{
 			"id": "Automatic Writing",
@@ -1998,8 +1998,8 @@
 		},
 		{
 			"id": "Bleeding Attack (UC)",
-			"name": "Bleeding Attack (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue閳ユ獨 sneak attack (e.g., 4d6 equals 4 points of bleed). Bleeding creatures take that amount of damage every round at the start of each of their turns.</p>\n<p>&emsp;&emsp;The bleeding can be stopped by a successful DC 15 Heal check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any damage reduction the creature might possess.</p>"
+			"name": "流血攻击",
+			"description": "<p>&emsp;&emsp;具有该能力的盗贼能够在偷袭命中身为活物的敌人之后，使其血流如注。该能力会使目标在每轮开始时受到额外伤害，数值为每个盗贼偷袭攻击骰数1点（例如，4d6的偷袭为4点出血）。出血的生物每轮会在其回合开始时受到上述数额的伤害。成功进行DC15的医疗检定或者受到任何治疗生命值伤害的效果均会停止出血。以此能力造成的出血伤害不会与自身叠加。出血伤害会忽略生物所具有的任何伤害减免（damage reduction）。</p>"
 		},
 		{
 			"id": "Bleeding Blow",
@@ -2008,8 +2008,8 @@
 		},
 		{
 			"id": "Bleeding Blow (UC)",
-			"name": "Bleeding Blow (UC)",
-			"description": "<p>&emsp;&emsp;While in the powerful stance, the barbarian can make an attack that causes her enemies to bleed profusely. Once per round, she can have one of her attacks deal an amount of bleed damage equal to 1/2 her bonus damage from powerful stance. This bleed damage bypasses damage reduction. This bleed damage doesn閳ユ獩 stack with itself.</p>\n<p>&emsp;&emsp;A barbarian must have the powerful stance rage power and be at least 8th level to select this rage power.</p>"
+			"name": "出血打击",
+			"description": "<p>&emsp;&emsp;当处于威力战姿时，野蛮人可以使她的一次攻击造成敌人流血。每回合1次，野蛮人可以使她的一次攻击额外造成相当于威力战姿的伤害加值的1/2的流血伤害。该流血伤害无视伤害减免。此流血伤害不能与它自身相叠加。野蛮人至少要达到8级后且拥有【威力战姿】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Bleeding Touch",
@@ -2673,8 +2673,8 @@
 		},
 		{
 			"id": "Calm Stance (UC)",
-			"name": "Calm Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can enter a state of calm. While in this stance, the barbarian doesn閳ユ獩 gain any benefits from rage other than the temporary hit points, but she doesn閳ユ獩 take any of the penalties from rage (including the penalty to AC and the restriction on actions she can take). Rounds spent in a calm stance still count against her total number of rounds of rage per day.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>"
+			"name": "冷静战姿",
+			"description": "<p>&emsp;&emsp;野蛮人可以进入一种平静状态，当处于这种战姿时，野蛮人不会获得临时生命值以外的狂暴增益，但是她也不会受到任何狂暴减益（包括AC减值和可采用的动作限制）。保持在冷静战姿中的轮数计入每日的狂暴轮数。该狂暴之力是一种战姿。</p>"
 		},
 		{
 			"id": "Calming Presence",
@@ -2698,8 +2698,8 @@
 		},
 		{
 			"id": "Camouflage (UC)",
-			"name": "Camouflage (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent can craft simple but effective camouflage from the surrounding foliage. The rogue needs 1 minute to prepare the camouflage, but once she does, it is effective for the rest of the day or until the rogue fails a saving throw against an area-effect spell that deals acid, cold, or fire damage, whichever comes first.</p>\n<p>&emsp;&emsp;The rogue gains a +4 bonus on Stealth checks while within terrain that matches the foliage used to make the camouflage. This ability cannot be used in areas without natural foliage.</p>"
+			"name": "伪装",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够从周围的植被中取材，制作简单但行之有效的伪装。盗贼需要1分钟准备这个伪装，不过一旦她做完，伪装便能够在接下来的一天里生效，或者直至盗贼在对抗造成强酸、寒冷或火焰伤害的影响区域法术的豁免中失败为止，以较先发生者为准。盗贼只要身处与制作伪装的植被相符合的地形内，便会在潜行检定上获得+4加值。该能力无法在不具有自然植被（natural foliage）的区域中使用。</p>"
 		},
 		{
 			"id": "Canine Ferocity",
@@ -2866,8 +2866,8 @@
 		},
 		{
 			"id": "Certainty (UC)",
-			"name": "Certainty (UC)",
-			"description": "<p>&emsp;&emsp;The rogue chooses one of the skills she selected with rogue閳ユ獨 edge. Once per day, the rogue can reroll a skill check she just made with the selected skill and take the better result. She can use this reroll with the selected skill one additional time per day at 10th level and every 5 levels thereafter.</p>\n<p>&emsp;&emsp;A rogue can select this talent multiple times. Each time, the rogue must choose a different skill.</p>\n<p>&emsp;&emsp;A rogue must have the rogue閳ユ獨 edge class feature before selecting this talent.</p>"
+			"name": "万无一失",
+			"description": "<p>&emsp;&emsp;盗贼从她的盗贼绝艺（Rogue's Edge）能力选取的技能中选取一项。每日1次，盗贼在使用上述选择的技能时，可以在刚做出的技能检定之后进行重掷，并取较好的结果。在10级以及之后的每5个等级，她每日重掷该项技能的次数会额外增加1次。盗贼可以多次选择该项盗贼天赋。每次选取这项天赋时，盗贼都必须选取不同的技能。盗贼必须具有盗贼绝艺职业能力时才能选取这项盗贼天赋。</p>"
 		},
 		{
 			"id": "Chain Infusion",
@@ -3185,8 +3185,8 @@
 		},
 		{
 			"id": "Clear Mind (UC)",
-			"name": "Clear Mind (UC)",
-			"description": "<p>&emsp;&emsp;When the barbarian fails a Will saving throw, she can attempt another Will saving throw at the end of her next turn (using the original DC). If the second saving throw is successful, the barbarian is treated as if she succeeded at the first saving throw, negating or reducing the effect as determined by the spell or effect. If this second saving throw fails, the barbarian suffers the full effects of the spell or effect as normal.</p>\n<p>&emsp;&emsp;A barbarian must be at least 8th level to select this rage power.</p>"
+			"name": "心若明镜",
+			"description": "<p>&emsp;&emsp;当野蛮人在意志豁免检定中失败，她可以尝试在她下个回合结束时进行第二次意志豁免检定（仍然使用原先的DC）。如果第二次检定成功，则被视为在第一次检定中成功一样来减少或避免减益效果。如果第二次检定失败则野蛮人要承受全部的减益效果。野蛮人至少要达到第8级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Climb (1 pt)",
@@ -3295,13 +3295,13 @@
 		},
 		{
 			"id": "Coax Information (UC)",
-			"name": "Coax Information (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent can use Bluff or Diplomacy in place of Intimidate to force an opponent to act friendly toward her. When the duration of the attitude shift ends, that opponents閳?attitude toward the rogue returns to its previous level, rather than dropping one level.</p>"
+			"name": "虚假情报",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够使用唬骗或交涉来替代威吓技能，来迫使一个敌人友好地对待她。当态度被改变的持续时间经过之后，该名敌人对盗贼的态度会转变回之前的等级，而非降低1级。</p>"
 		},
 		{
 			"id": "Cobra Breath (UC)",
-			"name": "Cobra Breath (UC)",
-			"description": "<p>&emsp;&emsp;Whenever a monk with this ki power uses diamond body to neutralize a poison, he can instead release that poison as a ranged touch attack against a single foe within 30 feet. If the attack hits, the foe must succeed at a saving throw (using the poison閳ユ獨 original DC) or suffer the poison閳ユ獨 effects, even if it was not originally a contact poison.</p>\n<p>&emsp;&emsp;A monk must be at least 12th level and must possess the diamond body ki power before selecting this ki power.</p>"
+			"name": "蝮蛇息",
+			"description": "<p>&emsp;&emsp;当武僧使用金刚体绝学中和毒素时，他可以选择将中和的毒素喷射而出，对３０尺内一个目标进行一次远程接触攻击。若攻击命中，该目标必须进行豁免检定（ＤＣ使用毒素原本的ＤＣ），失败则会受到毒素效果影响。非接触式的毒素亦可用此法进行攻击。武僧必须至少１２级且习得金刚体才能学习此绝学。</p>"
 		},
 		{
 			"id": "Cognatogen",
@@ -3405,8 +3405,8 @@
 		},
 		{
 			"id": "Combat Swipe (UC)",
-			"name": "Combat Swipe (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent gains Improved Steal as a bonus feat.</p>\n<p>&emsp;&emsp;At 6th level, she is treated as if she met all the prerequisites for Greater Steal (although she must take the feat as normal).</p>"
+			"name": "战斗舞步",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼会获得精通盗取（Improved Steal）作为奖励专长。在6级时，她还会被视为满足高等盗取（Greater Steal）专长的先决条件（不过她仍旧需要如常选取该专长才能使用）。</p>"
 		},
 		{
 			"id": "Combat Trick",
@@ -3415,8 +3415,8 @@
 		},
 		{
 			"id": "Combat Trick (UC)",
-			"name": "Combat Trick (UC)",
-			"description": "<p>&emsp;&emsp;A rogue who selects this talent gains a bonus combat feat.</p>"
+			"name": "战斗窍门",
+			"description": "<p>&emsp;&emsp;选择该天赋的盗贼获得一个奖励战斗专长。</p>"
 		},
 		{
 			"id": "Combine Extracts",
@@ -3802,8 +3802,8 @@
 		},
 		{
 			"id": "Crippling Blow (UC)",
-			"name": "Crippling Blow (UC)",
-			"description": "<p>&emsp;&emsp;Once per day when the barbarian hits with an attack, she can deal 1 point of ability damage to the target閳ユ獨 Strength or Dexterity score. This damage increases by 1 point for every 4 levels the barbarian has.</p>\n<p>&emsp;&emsp;A barbarian must be at least 8th level to select this rage power.</p>"
+			"name": "致残打击",
+			"description": "<p>&emsp;&emsp;每日一次，当野蛮人命中时，她可以额外造成1点力量或敏捷的属性伤害。该伤害值每4级提升1点。野蛮人至少要达到第8级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Crippling Strike",
@@ -3812,8 +3812,8 @@
 		},
 		{
 			"id": "Crippling Strike (UC)",
-			"name": "Crippling Strike (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this ability can sneak attack opponents with such precision that her blows weaken and hamper them. An opponent damaged by one of her sneak attacks also takes 2 points of Strength damage.</p>"
+			"name": "致残攻击",
+			"description": "<p>&emsp;&emsp;具有该能力的盗贼能够以极高的精确度进行偷袭，削弱并妨碍她的敌人。盗贼每次对敌人造成偷袭伤害时还会额外造成2点力量伤害。</p>"
 		},
 		{
 			"id": "Critical Precision",
@@ -3992,8 +3992,8 @@
 		},
 		{
 			"id": "Cutting Edge (UC)",
-			"name": "Cutting Edge (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this ability immediately selects two additional skills with her rogue閳ユ獨 edge ability. She can select this advanced talent multiple times.</p>"
+			"name": "技高一筹",
+			"description": "<p>&emsp;&emsp;具有该能力的盗贼立刻从她的盗贼绝艺（Rogue's Edge）能力中选取两个额外的技能。盗贼可以多次选取这个高等天赋。</p>"
 		},
 		{
 			"id": "Cyclone Infusion",
@@ -4107,8 +4107,8 @@
 		},
 		{
 			"id": "Danger Sense",
-			"name": "Danger Sense",
-			"description": "<p>&emsp;&emsp;At 3rd level, a barbarian gains a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks by traps. In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe. These bonuses increase by 1 every 3 levels thereafter (to a maximum of +6 at 18th level).</p>\n<p>&emsp;&emsp;his ability counts as trap sense for any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense. The bonuses gained from this ability stack with those gained from trap sense (if the barbarian has trap sense from another class).</p>"
+			"name": "危险感知",
+			"description": "<p>&emsp;&emsp;3级起，野蛮人躲避陷阱的反射豁免和对抗陷阱攻击的闪避AC都获得+1加值。另外，在避免突袭的察觉鉴定上也获得+1的加值。这些加值在之后的每3个等级都会提升1点（直到18级时的最高6点加值）。这项能力可以被视为【陷阱感知】来符合专长和职业的先决条件，而且可以被替换【陷阱感知】能力的变体替换。该能力的加值可以与【陷阱感知】能力的加值相叠加（如果野蛮人从其他职业获得了【陷阱感知】能力）。</p>"
 		},
 		{
 			"id": "Danger Sight",
@@ -4256,8 +4256,8 @@
 		},
 		{
 			"id": "Deadly Accuracy (UC)",
-			"name": "Deadly Accuracy (UC)",
-			"description": "<p>&emsp;&emsp;If the barbarian scores a critical threat while in the accurate stance, she applies double the accurate stance閳ユ獨 bonus when rolling to confirm the critical.</p>\n<p>&emsp;&emsp;A barbarian must have the accurate stance rage power and be at least 4th level to select this rage power.</p>"
+			"name": "死亡精准",
+			"description": "<p>&emsp;&emsp;当野蛮人在精准战姿状态下造成重击威胁时，她可以将双倍的精准战姿的加值加到重击确认当中去。野蛮人至少要达到第4级后且拥有【精准战姿】狂暴之力才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Deadly Cocktail",
@@ -4301,8 +4301,8 @@
 		},
 		{
 			"id": "Deadly Sneak (UC)",
-			"name": "Deadly Sneak (UC)",
-			"description": "<p>&emsp;&emsp;When a rogue with this talent uses the powerful sneak talent, she rerolls all sneak attack dice that resulted in 1s or 2s. She can reroll multiple dice, but she can閳ユ獩 reroll any individual die more than once per attack.</p>\n<p>&emsp;&emsp;A rogue must have the powerful sneak talent before selecting this talent.</p>"
+			"name": "致死突袭",
+			"description": "<p>&emsp;&emsp;当具有该天赋的盗贼使用强袭猛击盗贼天赋时，她可以重掷所有结果为1点或2点的偷袭伤害骰。她能够重掷多个骰子，但是她在每次攻击中对特定的骰子仅能重掷1次。盗贼必须具有强袭猛击（Powerful Sneak）盗贼天赋才能选取这个高等天赋。</p>"
 		},
 		{
 			"id": "Deadly Weather",
@@ -4391,8 +4391,8 @@
 		},
 		{
 			"id": "Debilitating Injury (UC)",
-			"name": "Debilitating Injury (UC)",
-			"description": "<p>&emsp;&emsp;At 4th level, whenever a rogue deals sneak attack damage to a foe, she can also debilitate the target of her attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue talent or other special ability). The rogue can choose to apply any one of the following penalties when the damage is dealt.<br><br><em>Bewildered:</em> The target becomes bewildered, taking a 閳? penalty to AC. The target takes an additional 閳? penalty to AC against all attacks made by the rogue. At 10th level and 16th level, the penalty to AC against attacks made by the rogue increases by 閳? (to a total maximum of 閳?).<br><br><em>Disoriented:</em> The target takes a 閳? penalty on attack rolls. In addition, the target takes an additional 閳? penalty on all attack rolls it makes against the rogue. At 10th level and 16th level, the penalty on attack rolls made against the rogue increases by 閳? (to a total maximum of 閳?).<br><br><em>Hampered:</em> All of the target閳ユ獨 speeds are reduced by half (to a minimum of 5 feet). In addition, the target cannot take a 5-foot step.<br><br>These penalties do not stack with themselves, but additional attacks that deal sneak attack damage extend the duration by 1 round. A creature cannot suffer from more than one penalty from this ability at a time. If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a target suffering from one of these penalties also removes the penalty.</p>"
+			"name": "衰弱之创",
+			"description": "<p>&emsp;&emsp;4级起，每当盗贼对一个敌人造成偷袭伤害时，她还能够让被自己攻击的目标变得更加虚弱，使其在1轮内承受一些惩罚（该效果独立于盗贼天赋或其他特殊能力造成的惩罚）。盗贼在造成伤害时，能够从后述惩罚中任意选择一种应用至敌人身上。</p><p>&emsp;&emsp;失衡（Bewildered (UC)）</p><p>&emsp;&emsp;目标变得失衡，AC受到-2减值。目标在对抗盗贼做出的攻击时，AC会额外受到-2减值。在10级以及16级，对抗由盗贼做出的攻击时，AC所承受的减值增加2点（合计最高为-8点）。</p><p>&emsp;&emsp;失向（Disoriented (UC)）</p><p>&emsp;&emsp;目标的攻击检定受到-2减值。此外，目标对盗贼做出的所有攻击检定还会受到额外-2减值。在10级以及16级，对盗贼做出的攻击检定所承受的减值增加2点（合计最高为-8点）。</p><p>&emsp;&emsp;缚足（Hampered (UC)）</p><p>&emsp;&emsp;目标的所有速度都会减半（最低降至5尺）。此外，目标还无法进行五尺快步。</p>"
 		},
 		{
 			"id": "Decadence Patron",
@@ -4496,13 +4496,13 @@
 		},
 		{
 			"id": "Defensive Roll (UC)",
-			"name": "Defensive Roll (UC)",
-			"description": "<p>&emsp;&emsp;The rogue can roll with a potentially lethal blow to take less damage from it than she otherwise would. When she would be reduced to 0 or fewer hit points by damage in combat (from a weapon or other blow, not a spell or special ability), the rogue can attempt to roll with the damage. To use this ability, the rogue must attempt a Reflex saving throw (DC = damage dealt). If she succeeds, the rogue takes only half damage from the blow; if she fails, she takes full damage. She must be aware of the attack and able to react to it in order to execute her defensive roll; if she is denied her Dexterity bonus to AC, she can閳ユ獩 use this ability.</p>\n<p>&emsp;&emsp;Since such damage would not normally allow a character to attempt a Reflex save for half damage, the rogue閳ユ獨 evasion ability does not apply to the defensive roll.</p>"
+			"name": "防御翻滚",
+			"description": "<p>&emsp;&emsp;盗贼可以顺着有可能致命的打击进行翻滚，以减轻她可能会受到的伤害。当盗贼在战斗中可能由于伤害（来自武器或其他打击，而非法术或特殊能力）而使得生命值降至0点或更低时，她能够尝试顺着攻击的势头进行翻滚。要使用该能力，盗贼必须尝试一次反射豁免（DC = 造成的伤害）。若她成功，盗贼就仅会从打击中承受半额伤害；若失败，则承受全额伤害。为了使用防御翻滚，她必须意识到攻击，而且能够对其作出反应；若盗贼失去了AC的敏捷加值，就无法使用该能力。由于此类伤害在正常情况下并不允许角色尝试反射豁免来减半，所以盗贼的反射闪避能力并不会应用至防御翻滚。</p>"
 		},
 		{
 			"id": "Defensive Spin (UC)",
-			"name": "Defensive Spin (UC)",
-			"description": "<p>&emsp;&emsp;The monk spins about, confounding his foe. If the attack hits, the monk gains a +4 dodge bonus to AC against any attacks made by the target of the style strike until the start of his next turn. This bonus does not stack with itself.</p>\n<p>&emsp;&emsp;The monk must attack with a fist to use this style strike.</p>"
+			"name": "缠丝劲",
+			"description": "<p>&emsp;&emsp;武僧依靠缠字诀混淆敌人。若攻击命中，直到武僧下一回合开始前，武僧对抗目标敌人所有攻击时ＡＣ都能获得＋４闪避加值。该次真劲击必须使用拳头打出。</p>"
 		},
 		{
 			"id": "Deflect Arrows",
@@ -4820,18 +4820,18 @@
 		},
 		{
 			"id": "Diamond Body (UC)",
-			"name": "Diamond Body (UC)",
-			"description": "<p>&emsp;&emsp;By spending 1 point from his ki pool, a monk with this power can remove one toxin from his body as if using&nbsp;neutralize poison, using his monk level as his caster level. He can remove only one poison in this way per use of this ability.</p>\n<p>&emsp;&emsp;A monk must be at least 8th level before selecting this ki power.</p>"
+			"name": "金刚体",
+			"description": "<p>&emsp;&emsp;通过消耗１点气，武僧可以从体内移除一种毒素，如同法术【中和毒素Neutralize Poison】，使用武僧等级作为施法者等级。每次使用该能力都只能移除1种毒素。武僧必须至少8级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Diamond Mind (UC)",
-			"name": "Diamond Mind (UC)",
-			"description": "<p>&emsp;&emsp;By spending 1 point from his ki pool as a swift action, a monk with this power can suppress a fear effect affecting him as if using&nbsp;remove fear, using his monk level as his caster level. He can spend 2 ki points to activate this ability even when frightened or panicked.</p>\n<p>&emsp;&emsp;A monk must be at least 6th level before selecting this ki power.</p>"
+			"name": "琉璃心",
+			"description": "<p>&emsp;&emsp;通过迅捷动作消耗１点气，武僧可以压制住自身所受的一个恐惧效果，如同法术【移除恐惧Remove Fear】，使用武僧等级作为施法者等级。处于恐慌或惊惧状态中的武僧可以通过消耗２点气而非１点来使用该能力。武僧必须至少６级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Diamond Resilience (UC)",
-			"name": "Diamond Resilience (UC)",
-			"description": "<p>&emsp;&emsp;By spending 1 ki point as a swift action, the monk gains DR 2/閳? This DR lasts for 1 minute.</p>\n<p>&emsp;&emsp;At 16th level, the damage reduction increases to 4/閳?</p>\n<p>&emsp;&emsp;At 19th level, it increases to DR 6/閳?</p>\n<p>&emsp;&emsp;A monk must be at least 12th level before selecting this ki power.</p>"
+			"name": "金钟罩",
+			"description": "<p>&emsp;&emsp;通过迅捷动作消耗１点气，武僧获得ＤＲ２/－。１６级时，增加为ＤＲ４/ －。１９级时，增加为ＤＲ６/－。该ＤＲ持续１分钟。武僧必须至少１２级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Diamond Soul",
@@ -4840,8 +4840,8 @@
 		},
 		{
 			"id": "Diamond Soul (UC)",
-			"name": "Diamond Soul (UC)",
-			"description": "<p>&emsp;&emsp;A monk can spend 2 points from his ki pool as a swift action to gain spell resistance equal to his monk level + 10. This spell resistance lasts for a number of rounds equal to the monk閳ユ獨 level.</p>\n<p>&emsp;&emsp;A monk must be at least 12th level before selecting this ki power.</p>"
+			"name": "金刚魂",
+			"description": "<p>&emsp;&emsp;通过迅捷动作消耗２点气，武僧获得等于【武僧等级＋１０】的法术抗力。持续轮数等于武僧等级。武僧必须至少１２级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Didactic Strike",
@@ -4985,8 +4985,8 @@
 		},
 		{
 			"id": "Dispelling Attack (UC)",
-			"name": "Dispelling Attack (UC)",
-			"description": "<p>&emsp;&emsp;An opponent that is dealt sneak attack damage by a rogue with this ability is affected by a targeted&nbsp;dispel magic&nbsp;affecting the lowest-level spell effect active on the target. The caster level for this ability is equal to the rogue閳ユ獨 level.</p>\n<p>&emsp;&emsp;A rogue must have the major magic rogue talent to select this advanced talent.</p>"
+			"name": "驱散攻击",
+			"description": "<p>&emsp;&emsp;具有该能力的盗贼若对目标造成偷袭伤害的话，受到目标型解除魔法（targeted dispel magic）的影响，解除正在影响目标的最低等级的法术效果。该能力的施法者等级等同于盗贼的等级。盗贼必须具有高等魔法（Major Magic）盗贼天赋才能选取这个高等天赋。</p>"
 		},
 		{
 			"id": "Dispelling Bomb",
@@ -5270,8 +5270,8 @@
 		},
 		{
 			"id": "Double Debilitation (UC)",
-			"name": "Double Debilitation (UC)",
-			"description": "<p>&emsp;&emsp;Whenever the rogue inflicts a penalty against a target using the debilitating injury class feature, she can select two penalties to inflict. The target can never be subject to more than two penalties in this way at one time. If any additional penalties are inflicted, any previous penalties immediately end.</p>\n<p>&emsp;&emsp;Any effect that heals damage to the target negates both of the penalties.</p>"
+			"name": "双重弱化",
+			"description": "<p>&emsp;&emsp;每当盗贼使用衰弱之创（Debilitating Injury）能力对目标造成一种惩罚时，她可以选取两种惩罚施加给目标。同一时间，目标仅能以此方式受到两种惩罚的受术者。若它遭受了额外的惩罚，任何先前的惩罚会立即结束。对目标使用任何治疗伤害的效果均可以使两个惩罚同时无效化。</p>"
 		},
 		{
 			"id": "Double Time",
@@ -5588,8 +5588,8 @@
 		},
 		{
 			"id": "Eater of Magic (UC)",
-			"name": "Eater of Magic (UC)",
-			"description": "<p>&emsp;&emsp;When the barbarian succeeds at a saving throw to resist a spell, supernatural ability, or spell-like ability, she gains temporary hit points equal to the spell閳ユ獨 level (in the case of spells or spell-like abilities) or 1/2 the CR of the effect閳ユ獨 creator (in the case of supernatural abilities). These temporary hit points disappear when the barbarian閳ユ獨 rage ends, and they stack with her temporary hit points from rage but not with other temporary hit points gained from this rage power.</p>\n<p>&emsp;&emsp;A barbarian must have the superstition rage power and be at least 10th level to select this rage power.</p>"
+			"name": "享用魔力",
+			"description": "<p>&emsp;&emsp;若野蛮人在对抗法术，类法术能力，超自然能力的豁免检定中胜出，她将获得等同于法术等级（面对法术或类法术能力时）或对手1/2CR（面对超自然能力时）的临时生命。这些临时生命能与狂暴带来的临时生命相叠加，但是不能与其他狂暴之力带来的临时生命相叠加。野蛮人至少要达到第10级后且拥有【神秘迷信】狂暴之力才能选择此狂暴之力"
 		},
 		{
 			"id": "Eclipsing Blade",
@@ -5687,13 +5687,13 @@
 		},
 		{
 			"id": "Eidolon (UC)",
-			"name": "Eidolon (UC)",
-			"description": "<p>&emsp;&emsp;A summoner begins play with the ability to summon to his side a powerful outsider called an eidolon. The eidolon forms a link with the summoner, who forever after summons an aspect of the same creature. Each eidolon has a subtype, chosen when the eidolon is first summoned, that determines its origin and many of its abilities. An eidolon must be within one alignment step of the summoner who calls it (so a neutral good summoner can call a neutral, lawful good, or chaotic good eidolon) and can speak all of his languages. An eidolon is treated as a summoned creature, except it is not sent back to its home plane until reduced to a number of negative hit points equal to or greater than its Constitution score. In addition, due to its tie to its summoner, an eidolon can touch and attack creatures warded by&nbsp;protection from evil&nbsp;and similar effects that prevent contact with summoned creatures.<br><br>A summoner can summon his eidolon in a ritual that takes 1 minute to perform. When summoned in this way, the eidolon閳ユ獨 hit points are unchanged from the last time it was summoned. The only exception to this is if the eidolon was slain, in which case it returns with half its normal hit points. The eidolon does not heal naturally. The eidolon remains until dismissed by the summoner (a standard action). If the eidolon is sent back to its home plane due to death, it cannot be summoned again until the following day. The eidolon cannot be sent back to its home plane by means of&nbsp;dispel magic, but spells such as&nbsp;dismissal&nbsp;and&nbsp;banishment&nbsp;function normally. If the summoner is unconscious, asleep, or killed, his eidolon is immediately banished.<br><br>The eidolon takes a form shaped by the summoner閳ユ獨 desires. The eidolon閳ユ獨 Hit Dice, saving throws, skills, feats, and abilities are tied to the summoner閳ユ獨 class level and increase as the summoner gains levels. In addition, each eidolon gains a pool of evolution points based on the summoner閳ユ獨 class level that can be used to give the eidolon different abilities and powers. Whenever the summoner gains a level, he must decide how these points are spent, and they are set until he gains another level of summoner.<br><br>The eidolon閳ユ獨 physical appearance is up to the summoner, but it always appears as some sort of fantastical creature appropriate to its subtype. This control is not fine enough to make the eidolon appear like a specific creature. The eidolon also bears a glowing rune that is identical to a rune that appears on the summoner閳ユ獨 forehead as long as the eidolon is summoned. While this rune can be hidden through mundane means, it cannot be concealed through magic that changes appearance, such as&nbsp;alter self&nbsp;or&nbsp;polymorph&nbsp;(although&nbsp;invisibility&nbsp;does conceal it as long as the spell lasts).</p>"
+			"name": "幻灵",
+			"description": "<p>&emsp;&emsp;召唤师在游戏开始时会获得一种能力，可以在身边召唤出一只被称为幻灵的强大异界生物。幻灵与召唤师之间会形成一种联系，在此之后召唤师召唤出的总是同一个生物。每个幻灵都具有一个亚种（subtype），由召唤师在初次召唤时进行选择，亚种决定了许多幻灵的初始能力。幻灵和呼唤它的召唤师的阵营差距必须在1阶之内（因此中立善良的召唤师能够呼唤出1只绝对中立、守序善良或者混乱善良的幻灵），而且可以说出所有召唤师理解的语言。幻灵被视为一个被召唤的生物，不过直至生命值降至其体质属性的负值以下之前，幻灵不会被送返至其原属位面。此外，得益于幻灵和召唤师之间的联系，即便是被防护邪恶（protection from evil）或者其他类似的防止召唤生物碰触的效果所保护的生物，幻灵也能够接触或者攻击它们。</p><p>&emsp;&emsp;召唤师能够通过一种仪式来召唤幻灵，这个仪式要花费1分钟来执行。若以此方式召唤幻灵，那么幻灵与它最后一次被遣返时的生命值相同。对于这一点来说，幻灵被杀死是唯一例外的情况，在这种时候，幻灵的生命值会恢复至正常的一半。幻灵不会得到自然恢复（heal naturally）。直至被召唤师遣返（以标准动作）为止，幻灵会一直存在。若幻灵由于死亡而被遣返回其原属位面，那么在接下来的1天里，召唤师都无法再次召唤幻灵。幻灵无法被解除魔法（dispel magic）的方式遣返回其原属位面，但是驱逐术（Dismissal）和放逐术（Banishment）会如常生效。若召唤师陷入昏迷（unconscious）、睡觉（asleep）或被杀死（killed），他的幻灵会被立刻放逐。</p><p>&emsp;&emsp;幻灵所呈现的形态会按照召唤师的意愿而重塑。幻灵的生命骰（Hit Dice）、豁免（saving throws）、技能（skills）、专长（feats）和能力都与召唤师的职业等级相关，并且会随着召唤师的等级提升而得到加强。此外，每个幻灵都会获得一个进化点数池，这取决于召唤师的职业等级，并且可以用于赋予幻灵不同的能力和力量。每当召唤师获得新的等级时，他必须决定如何分配这些进化点，而且直至召唤师再次获得新的等级之前无法更改。</p><p>&emsp;&emsp;幻灵的外貌由召唤者决定，但它总是会呈现出某些与其亚种相应的特征。召唤师对幻灵外貌的掌控不足以让它呈现出某个特定生物的样子。幻灵身上还有一个发光的符文，只要召唤师将幻灵召唤出来，召唤师的额头便会显现出相同的符文。尽管这个符文可以用一般的方式进行隐藏，但它无法被改变样子的魔法所藏匿，比如变身术（Alter Self）或者变形术（Polymorph），不过隐身术仍可以在法术生效期间隐藏符文。</p>"
 		},
 		{
 			"id": "Elbow Smash (UC)",
-			"name": "Elbow Smash (UC)",
-			"description": "<p>&emsp;&emsp;The monk follows up a punch with a strike from his elbow. If the attack hits, the monk can make an additional attack using the same attack bonus as the punch at a 閳? penalty. If this second attack hits, it deals damage as normal, but all of the damage is nonlethal.</p>\n<p>&emsp;&emsp;The monk must attack with a fist to use this style strike.</p>"
+			"name": "肘裂击",
+			"description": "<p>&emsp;&emsp;武僧用自己的手肘猛烈击打对方。若攻击命中，武僧可以相同攻击加值再承受－５罚值后对目标再攻击一次。第二次攻击命中后正常造成伤害，但类型为瘀伤。该次真劲击必须使用拳头打出。</p>"
 		},
 		{
 			"id": "Eldritch Blast",
@@ -5797,8 +5797,8 @@
 		},
 		{
 			"id": "Elemental Burst (UC)",
-			"name": "Elemental Burst (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability can spend 4 ki points to unleash a gout of energy in a 30-foot cone. Creatures within the cone take 20d6 points of damage of the same type as the monk閳ユ獨 elemental fury ki power. A Reflex save (DC = 10 + 1/2 the monk閳ユ獨 level + his Wisdom modifier) halves the damage.</p>\n<p>&emsp;&emsp;A monk must be at least 18th level and must possess the elemental fury ki power before selecting this ki power.</p>"
+			"name": "四象爆",
+			"description": "<p>&emsp;&emsp;武僧可以消耗４点气，喷射出３０尺锥形范围的能量爆。处于锥形范围内的生物受到２０ｄ６点所选能量类型（于四象怒能力中选取）的伤害。通过ＤＣ＝（１０＋１/２武僧等级＋感知调整值）的反射豁免可以减半所受伤害。武僧必须至少１８级且习得四象怒才能学习此绝学。</p>"
 		},
 		{
 			"id": "Elemental Channeling",
@@ -5857,8 +5857,8 @@
 		},
 		{
 			"id": "Elemental Fury (UC)",
-			"name": "Elemental Fury (UC)",
-			"description": "<p>&emsp;&emsp;A monk who selects this ki power must select one type of energy: acid, cold, electricity, or fire. Once this choice is made, it cannot be changed.</p>\n<p>&emsp;&emsp;The monk can expend 1 point from his ki pool as a swift action to imbue his natural attacks with this energy, causing them to deal 1d6 points of damage of the chosen type for a number of rounds equal to 1/2 his monk level.</p>\n<p>&emsp;&emsp;A monk must be at least 6th level before selecting this ki power.</p>"
+			"name": "四象怒",
+			"description": "<p>&emsp;&emsp;习得此绝学时武僧需从酸、冰、电、火中选择一种能量类型。选定之后无法更改。武僧可通过迅捷动作消耗１点气，将自己所有天生武器灌注进元素之力，使天武攻击命中后可以造成所选定能量类型的１ｄ６点伤害。持续轮数为１/２武僧等级。武僧必须至少６级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Elemental Gap",
@@ -5972,8 +5972,8 @@
 		},
 		{
 			"id": "Elemental Stance (UC)",
-			"name": "Elemental Stance (UC)",
-			"description": "<p>&emsp;&emsp;When the barbarian adopts this stance, she chooses an energy type (acid, cold, electricity, or fire). Her melee attacks deal 1 additional point of damage of the chosen type.</p>\n<p>&emsp;&emsp;This damage increases to 1d6 points at 8th level.</p>\n<p>&emsp;&emsp;At 12th level, the barbarian閳ユ獨 critical hits deal an additional 1d10 points of energy damage of the same type (2d10 if the weapon deals 鑴? damage on a critical hit, 3d10 if the weapon deals 鑴? damage on a critical hit).</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>\n<p>&emsp;&emsp;A barbarian must be at least 4th level to select this rage power.</p>"
+			"name": "元素战姿",
+			"description": "<p>&emsp;&emsp;当野蛮人采取这种战姿时，她选择一种能量类型（酸，寒，电，火）。她的近战攻击额外造成1点该能量类型伤害，在8级时提升为1d6，12级时重击会造成额外1d10该能量类型伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。该狂暴之力是一种战姿。野蛮人至少要达到4级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Elemental Strikes",
@@ -6092,8 +6092,8 @@
 		},
 		{
 			"id": "Empty Body (UC)",
-			"name": "Empty Body (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ki power gains the ability to assume an ethereal state for 1 minute as though using the spell @Compendium[pf1.spells.gw9bes9othfqm7mi]{同游灵界}, using his monk level as his caster level.</p>\n<p>&emsp;&emsp;Using this ability is a move action that consumes 3 points from the monk閳ユ獨 ki pool.</p>\n<p>&emsp;&emsp;This ability affects only the monk and cannot be used to make other creatures ethereal.</p>"
+			"name": "空灵体",
+			"description": "<p>&emsp;&emsp;此能力允许武僧变成持续１分钟的灵体状态，如同法术【同游灵界Etherealness】，使用武僧等级作为施法者等级。使用该能力是一个移动动作，消耗３点气。该能力只能是武僧变为灵体，无法影响其它生物变成灵体。</p>"
 		},
 		{
 			"id": "Empty Mind",
@@ -6187,8 +6187,8 @@
 		},
 		{
 			"id": "Energy Absorption (UC)",
-			"name": "Energy Absorption (UC)",
-			"description": "<p>&emsp;&emsp;Once per day, the barbarian can absorb the energy from a single attack that deals damage of the energy type she resists with the energy resistance rage power. She takes no damage from the attack and doesn閳ユ獩 attempt a saving throw. Instead, she increases the temporary hit points from her rage by an amount equal to 1/2 the damage she would have taken (ignoring her energy resistance).</p>\n<p>&emsp;&emsp;If the barbarian is at least 16th level, once before her rage ends, she can unleash the stored energy as a breath weapon in either a 60-foot line or a 30-foot cone. The breath weapon deals an amount of damage equal to the full amount the barbarian would have taken from the absorbed effect. Creatures affected by the breath weapon can attempt a Reflex save for half damage (DC = 10 + 1/2 the barbarian閳ユ獨 level + her Constitution modifier).</p>\n<p>&emsp;&emsp;She retains the temporary hit points from this ability even if she unleashes this breath weapon.</p>\n<p>&emsp;&emsp;A barbarian must have the energy resistance rage power and be at least 12th level to select this rage power.</p>"
+			"name": "能量吸收",
+			"description": "<p>&emsp;&emsp;每日一次，野蛮人能吸收一次攻击的能量伤害。这个能量必须是她【能量抵抗】所选择的同类型能量。她不能尝试豁免，也不会受到伤害。她反而会增加来自【狂暴】的临时生命，增加量等同于她原本应受到的能量伤害（忽视她的能量抗力）。16级起，每次狂暴一次，野蛮人可以释放她所储存的能量。这是一种60尺线形或者30尺锥形的喷吐武器。能量伤害量等同于她所吸收的能量伤害量。通过一个反射检定可以只受一半的伤害（DC=1/2野蛮人等级+体质修正）。她仍然可以保留此能力带来的临时生命，即使她使用了此喷吐武器。野蛮人至少要达到12级且拥有【能量抵抗】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Energy Attacks (2 pts)",
@@ -6247,8 +6247,8 @@
 		},
 		{
 			"id": "Energy Resistance (UC)",
-			"name": "Energy Resistance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains resistance to one energy type (acid, cold, electricity, fire, or sonic) equal to 1/2 her barbarian level (minimum 1). At 8th level, she gains limited immunity to the same type of energy, as protection from energy. She can absorb 2 points of damage per level, and she applies her energy resistance first.</p>\n<p>&emsp;&emsp;The energy type is chosen when this rage power is selected, and it can閳ユ獩 be changed.</p>\n<p>&emsp;&emsp;This rage power can be selected more than once; each time, it applies to a different energy type.</p>"
+			"name": "能量抵抗",
+			"description": "<p>&emsp;&emsp;野蛮人选择一种能量类型（酸，寒，火，电），她获得等同于1/2野蛮人等级（最小为1）的该种能量类型的能量抗力。8级起，她获得对该种能量类型的有限的能量免疫，如同防护能量伤害一样。她可以吸收每等级2点的能量伤害，而且她要首先应用她的能量抗力。该能量类型在选择狂暴之力时确定且不能更改。该狂暴之力可以多次选择，每次选择不同的能量类型。</p>"
 		},
 		{
 			"id": "Energy Resistance, Greater",
@@ -6436,8 +6436,8 @@
 		},
 		{
 			"id": "Esoteric Scholar (UC)",
-			"name": "Esoteric Scholar (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent can attempt any Knowledge skill check, even if she is not trained in that Knowledge skill.</p>"
+			"name": "学者密传",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够尝试任何知识技能检定，即便她没有在该项知识技能上受训也可以。</p>"
 		},
 		{
 			"id": "Espionage Subdomain",
@@ -6620,8 +6620,8 @@
 		},
 		{
 			"id": "Expert Leaper (UC)",
-			"name": "Expert Leaper (UC)",
-			"description": "<p>&emsp;&emsp;When using the Acrobatics skill to jump, a rogue with this talent is always considered to have a running start and adds her rogue level to the check result. Whenever she deliberately falls, a successful DC 15 Acrobatics check allows her to ignore the first 20 feet fallen. For every 5 by which she exceeds the DC of this check, she can ignore an additional 10 feet of distance fallen.</p>"
+			"name": "平步登天",
+			"description": "<p>&emsp;&emsp;当具有该天赋的盗贼使用特技动作技能跳跃（jump）时，她总是被视为已经进行过助跑，而且能够将她的盗贼等级加到检定结果上。每当她故意坠落（deliberately falls）时，成功通过DC15的特技动作检定可以让她忽略前20尺的坠落高度。该次检定的结果每比DC高5点，她便可以额外忽略10尺坠落距离。</p>"
 		},
 		{
 			"id": "Expert Trainer",
@@ -6920,8 +6920,8 @@
 		},
 		{
 			"id": "Fast Movement (UMK)",
-			"name": "Fast Movement (UMK)",
-			"description": "<p>&emsp;&emsp;At 3rd level, a monk gains an&nbsp;<a href=\"https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus\">enhancement bonus</a>&nbsp;to his land speed, as shown on&nbsp;Table: monk. A monk in armor or carrying a medium or heavy load loses this extra speed.</p>"
+			"name": "快速移动",
+			"description": "<p>&emsp;&emsp;３级时，武僧的陆地移动速度获得增强加值，如表。穿甲或处于中、重载状态下的武僧失去该额外速度。</p>"
 		},
 		{
 			"id": "Fast Picks",
@@ -6935,8 +6935,8 @@
 		},
 		{
 			"id": "Fast Stealth (UC)",
-			"name": "Fast Stealth (UC)",
-			"description": "<p>&emsp;&emsp;This ability allows a rogue to move at full speed using the Stealth skill without penalty.</p>"
+			"name": "快速潜行",
+			"description": "<p>&emsp;&emsp;该能力使得盗贼能在使用潜行技能时以全速（full speed）移动而不会承受任何减值。</p>"
 		},
 		{
 			"id": "Fast Tumble",
@@ -7029,8 +7029,8 @@
 		},
 		{
 			"id": "Fearless Rage (UC)",
-			"name": "Fearless Rage (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian is immune to the shaken and frightened conditions (but not the panicked condition).</p>\n<p>&emsp;&emsp;A barbarian must be at least 12th level to select this rage power.</p>"
+			"name": "无畏狂暴",
+			"description": "<p>&emsp;&emsp;野蛮人免疫战栗和惊惧（但不包括恐慌）。野蛮人至少要达到12级才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Fearsome Guise",
@@ -7064,13 +7064,13 @@
 		},
 		{
 			"id": "Feat (UC)",
-			"name": "Feat (UC)",
-			"description": "<p>&emsp;&emsp;A rogue can gain any feat that she qualifies for in place of a rogue talent.</p>"
+			"name": "专长",
+			"description": "<p>&emsp;&emsp;盗贼能够获得任何有资格选取的专长以取代一个盗贼天赋。</p>"
 		},
 		{
 			"id": "Feather Balance (UC)",
-			"name": "Feather Balance (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability can spend 1 ki point as a swift action to achieve perfect balance. While this is active, the monk treats any Acrobatics attempt made to balance as if he had rolled a 20.</p>\n<p>&emsp;&emsp;This ability lasts for 1 minute.</p>"
+			"name": "轻羽衡",
+			"description": "<p>&emsp;&emsp;通过迅捷动作消耗１点气，武僧将获得完美的平衡感。激活该能力后，武僧可以将１分钟内所有的尝试平衡的特技检定视为骰出２０。</p>"
 		},
 		{
 			"id": "Feather Fall",
@@ -7324,8 +7324,8 @@
 		},
 		{
 			"id": "Finesse Training (UC)",
-			"name": "Finesse Training (UC)",
-			"description": "<p>&emsp;&emsp;At 1st level, a rogue gains Weapon Finesse as a bonus feat. In addition, starting at 3rd level, she can select any one type of weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it cannot be changed. Whenever she makes a successful melee attack with the selected weapon, she adds her Dexterity modifier instead of her Strength modifier to the damage roll. If any effect would prevent the rogue from adding her Strength modifier to the damage roll, she does not add her Dexterity modifier.</p>\n<p>&emsp;&emsp;The rogue can select a second weapon at 11th level and a third at 19th level.</p>"
+			"name": "巧技训练",
+			"description": "<p>&emsp;&emsp;1级起，盗贼获得武器娴熟（Weapon Finesse）作为奖励专长。此外，从3级起，她可以选择任意一种可以使用武器娴熟专长的武器（比如细剑或匕首）。一旦做出选择，便无法更改。每当她成功使用自身选择的武器做出近战攻击时，她便可以用敏捷调整值来取代力量调整值加到伤害检定上。若有任何效果会妨碍盗贼将她的力量调整值加到伤害检定上，那么她也无法将敏捷调整值加到伤害检定上。盗贼可以在11级时选择第二种武器，并在19级时选择第三种武器。</p>"
 		},
 		{
 			"id": "Fire Blessing: Armor of Flame",
@@ -7513,8 +7513,8 @@
 		},
 		{
 			"id": "Flawless Mind (UC)",
-			"name": "Flawless Mind (UC)",
-			"description": "<p>&emsp;&emsp;At 19th level, a monk gains total control over his mental faculties. Whenever he attempts a Will save, he can roll twice and take the better result. If he fails a Will saving throw against a spell or effect that has a duration longer than 1 hour, the monk can attempt a new saving throw at the end of each hour to end the effect.</p>"
+			"name": "无垢识",
+			"description": "<p>&emsp;&emsp;１９级时，武僧将可以完全掌控自己的心灵。当武僧进行意志豁免检定时，可以骰两次并取较好的结果。在对抗一个持续时间长于１小时的法术或效果的意志豁免失败后，武僧可在每经过一个小时后，重新进行一次意志豁免检定，成功可提前结束该法术或效果。</p>"
 		},
 		{
 			"id": "Fleet",
@@ -7563,8 +7563,8 @@
 		},
 		{
 			"id": "Flesh Wound (UC)",
-			"name": "Flesh Wound (UC)",
-			"description": "<p>&emsp;&emsp;Once per day, the barbarian can avoid serious harm from an attack. She attempts a Fortitude save with a DC equal to the damage that would be dealt by the attack. If she succeeds, she takes no damage from the attack. If she fails, she takes half damage from the attack and the damage is nonlethal. The barbarian must elect to use this ability after the attack roll is made, but before the damage is rolled.</p>\n<p>&emsp;&emsp;A barbarian must be at least 10th level to select this rage power.</p>"
+			"name": "皮外小伤",
+			"description": "<p>&emsp;&emsp;每日一次，野蛮人可以避免一次严重的攻击伤害。她可以做一次强韧检定，检定DC等同于该次伤害数值。如果成功，她将免受此次伤害；如果失败，她只受一半伤害且伤害类型为瘀伤。野蛮人必须在攻击命中后、伤害检定前决定是否使用此能力。野蛮人至少要达到10级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Flesh-Eating Bomb",
@@ -7661,8 +7661,8 @@
 		},
 		{
 			"id": "Flurry of Blows (UC)",
-			"name": "Flurry of Blows (UC)",
-			"description": "<p>&emsp;&emsp;At 1st level, a monk can make a flurry of blows as a full-attack action. When making a flurry of blows, the monk can make one additional attack at his highest base attack bonus. This additional attack stacks with the bonus attacks from haste and other similar effects. When using this ability, the monk can make these attacks with any combination of his unarmed strikes and weapons that have the monk special weapon quality. He takes no penalty for using multiple weapons when making a flurry of blows, but he does not gain any additional attacks beyond what閳ユ獨 already granted by the flurry for doing so. (He can still gain additional attacks from a high base attack bonus, from this ability, and from haste and similar effects).<br><br>At 11th level, a monk can make an additional attack at his highest base attack bonus whenever he makes a flurry of blows. This stacks with the first attack from this ability and additional attacks from&nbsp;haste&nbsp;and similar effects.</p>"
+			"name": "疾风连击",
+			"description": "<p>&emsp;&emsp;１级时，武僧可以用全力攻击动作发动疾风连击。发动疾风连击时，他可以最高ＢＡＢ进行一次额外攻击。该次额外攻击可与加速术或类似效果提供的额外攻击次数叠加。他可以并用徒手打击或者是特殊武僧武器来使出疾风连击。在持用多把武器进行疾风连击时，他无需承受双武器减值或多武器减值，但他亦无法在获得疾风连击所给予额外攻击后，再获得任何额外攻击（他依然可以因高ＢＡＢ、本能力、加速术或类似效果而获得额外攻击次数）。</p><p>&emsp;&emsp;１１级时，武僧在发动疾风连击时可以再获得１次以最高ＢＡＢ进行的额外攻击。该次攻击与本能力１级时获得的额外攻击、加速术或类似效果提供的额外攻击次数叠加。</p>"
 		},
 		{
 			"id": "Flurry of Stars",
@@ -7671,8 +7671,8 @@
 		},
 		{
 			"id": "Flying Kick (UC)",
-			"name": "Flying Kick (UC)",
-			"description": "<p>&emsp;&emsp;The monk leaps through the air to strike a foe with a kick. Before the attack, the monk can move a distance equal to his fast movement bonus. This movement is made as part of the monk閳ユ獨 flurry of blows attack and does not require an additional action. At the end of this movement, the monk must make an attack against an adjacent foe.</p>\n<p>&emsp;&emsp;This movement may be between attacks.&nbsp;This movement provokes an attack of opportunity as normal.</p>\n<p>&emsp;&emsp;The attack made after the movement must be a kick.</p>"
+			"name": "无影脚",
+			"description": "<p>&emsp;&emsp;武僧腾空而起，飞踢目标。攻击前，武僧可移动等于他快速移动速度加值的距离。该次移动作为疾风连击的一部分且不花费动作。该移动结束后，武僧必须对邻接一个敌人发动一次攻击。该次移动可在疾风连击中两次攻击之间。该次移动正常引发藉机攻击。移动后的该次真劲击必须用腿打出。</p>"
 		},
 		{
 			"id": "Flying Stunt",
@@ -7751,8 +7751,8 @@
 		},
 		{
 			"id": "Follow Clues (UC)",
-			"name": "Follow Clues (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent can use Perception to follow tracks as per the Survival skill.</p>"
+			"name": "线索追踪",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够使用察觉技能追踪痕迹，就如同使用生存技能一般。</p>"
 		},
 		{
 			"id": "Fool's Privilege",
@@ -7766,8 +7766,8 @@
 		},
 		{
 			"id": "Foot Stomp (UC)",
-			"name": "Foot Stomp (UC)",
-			"description": "<p>&emsp;&emsp;The monk stomps on a foe閳ユ獨 foot, preventing the opponent from escaping. If the attack hits and the monk ends his turn adjacent to that foe, the foe閳ユ獨 movement is restricted. Until the start of the monk閳ユ獨 next turn, the target of this attack can move only in such a way that the space it occupies is adjacent to the monk. Alternatively, it can attempt a combat maneuver check (against the monk閳ユ獨 CMD) as a standard action to break free. This strike does not work against foes that cannot be tripped.</p>\n<p>&emsp;&emsp;The monk must attack with a kick to use this style strike.</p>"
+			"name": "拐子腿",
+			"description": "<p>&emsp;&emsp;武僧踢击目标的腿，防止敌人逃离自身。若攻击命中且武僧结束回合时邻接该敌人，则该敌人的移动将受到限制。直到武僧下一回合开始，该目标只能在邻接武僧的格子内移动。或者，目标选择用标准动作机进行一次战技检定（对抗武僧的ＣＭＤ）来打破这种限制。对于无法被摔绊的敌人，该能力无效。该次真劲击必须用腿打出。</p>"
 		},
 		{
 			"id": "For the Faith",
@@ -7886,8 +7886,8 @@
 		},
 		{
 			"id": "Formless Mastery (UC)",
-			"name": "Formless Mastery (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability varies his styles, never repeating the same move twice and capitalizing on the weaknesses of an opponent閳ユ獨 style. As long as he does not possess any style feat, the monk can spend 1 point from his ki pool as an immediate action to gain the following against opponents in the stance of a style feat: a +4 dodge bonus to AC, a +4 circumstance bonus on attack rolls, and a bonus equal to his monk level on damage rolls. These bonuses last until the end of the monk閳ユ獨 next turn (or his current turn if he uses this ability on his own turn).</p>\n<p>&emsp;&emsp;The monk can activate this ability and the furious defense ki power with the same immediate action for a total cost of 3 ki points.</p>\n<p>&emsp;&emsp;A monk must be at least 7th level before selecting this ki power.</p>"
+			"name": "无极式",
+			"description": "<p>&emsp;&emsp;开启无极式的武僧将不再固定同一流派，不会再用相同的套路，从而发现那些保有流派姿势敌人的弱点。当武僧没有使用任何流派专长时，可以直觉动作消耗１点气，使得在对抗处于流派专长状态下的敌人，获得以下好处：ＡＣ＋４闪避加值，攻击＋４环境加值，伤害获得等同于武僧等级的加值。这些加值持续到武僧下一回合结束。若武僧在自己回合内开启无极式，则持续到自己改回合结束。武僧可以用一个直觉动作消耗３点气同时激活【无极式Formless Mastery】和【集心守Furious Defense】两个绝学。武僧必须至少７级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Fortification Subdomain",
@@ -8064,8 +8064,8 @@
 		},
 		{
 			"id": "Furious Defense (UC)",
-			"name": "Furious Defense (UC)",
-			"description": "<p>&emsp;&emsp;By spending 1 point from his ki pool as an immediate action, a monk with this ki power can grant himself a +4 dodge bonus to AC until the end of his next turn.</p>\n<p>&emsp;&emsp;The monk can activate this ability and the formless mastery ki power with the same immediate action for a total cost of 3 ki points.</p>\n<p>&emsp;&emsp;A monk must be at least 7th level before selecting this ki power.</p>"
+			"name": "集心守",
+			"description": "<p>&emsp;&emsp;通过直觉动作消耗１点气，直到武僧的下一回合结束，武僧的ＡＣ获得＋４闪避加值。武僧可以用一个直觉动作消耗３点气同时激活【无极式Formless Mastery】和【集心守Furious Defense】两个绝学。武僧必须至少７级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Furious Draw",
@@ -8664,8 +8664,8 @@
 		},
 		{
 			"id": "Greater Rage (UC)",
-			"name": "Greater Rage (UC)",
-			"description": "<p>&emsp;&emsp;At 11th level, a barbarian閳ユ獨 bonus on melee attack rolls, melee damage rolls, thrown weapon damage rolls, and Will saves while raging increases to +3. In addition, the amount of temporary hit points gained when entering a rage increases to 3 per Hit Die.</p>"
+			"name": "大狂暴",
+			"description": "<p>&emsp;&emsp;11级起，野蛮人在狂暴时的近战攻击骰，近战伤害骰，投掷伤害骰和意志豁免都获得+3加值。另外，在进入狂暴时的临时生命值也变为每生命骰3点。</p>"
 		},
 		{
 			"id": "Greater Rasugen",
@@ -8753,8 +8753,8 @@
 		},
 		{
 			"id": "Ground Breaker (UC)",
-			"name": "Ground Breaker (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can attack the floor around her as a full-round action. This attack automatically hits and deals damage normally. If the barbarian deals more damage than the floor閳ユ獨 hardness, the space she occupies and all of the squares adjacent to her become difficult terrain. Creatures in those squares, except the barbarian, must succeed at DC 15 Reflex saves or be knocked prone.</p>\n<p>&emsp;&emsp;A barbarian must be at least 6th level to select this rage power.</p>"
+			"name": "撼地一击",
+			"description": "<p>&emsp;&emsp;野蛮人以一个全回合动作对地面发起一次攻击，该攻击自动命中且如常造成伤害。如果该伤害大于地面硬度，则野蛮人所占据和周围邻接的方格变为困难地形。除了野蛮人以外，所有在该区域的生物都要做一次DC15的反射检定以避免被击倒。野蛮人至少要达到6级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Ground Breaker, Greater",
@@ -8763,8 +8763,8 @@
 		},
 		{
 			"id": "Ground Breaker, Greater (UC)",
-			"name": "Ground Breaker, Greater (UC)",
-			"description": "<p>&emsp;&emsp;When using the ground breaker rage power, the barbarian can extend the radius of the effect by 5 feet. This rage power can be selected up to three times, and its effects stack.</p>\n<p>&emsp;&emsp;A barbarian must be at least 8th level and have the ground breaker rage power to select this rage power.</p>"
+			"name": "神牛撼地",
+			"description": "<p>&emsp;&emsp;当野蛮人使用【撼地一击】时，影响范围扩大5尺。该狂暴之力可以最多选择3次，效果叠加。野蛮人至少要达到8级后且拥有【撼地一击】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Grounding Goo",
@@ -8808,8 +8808,8 @@
 		},
 		{
 			"id": "Guarded Stance (UC)",
-			"name": "Guarded Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can take on a more defensive posture. This grants her a +1 dodge bonus to her Armor Class for the duration of her current rage. This bonus increases by 1 for every 4 levels the barbarian has.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>"
+			"name": "防卫战姿",
+			"description": "<p>&emsp;&emsp;野蛮人可以使用一种更具防守性的姿态来战斗。她在狂暴期间获得+1的闪避AC。该加值每4级提升1点。该狂暴之力是一种战姿。</p>"
 		},
 		{
 			"id": "Guardian of the North",
@@ -8918,8 +8918,8 @@
 		},
 		{
 			"id": "Hammerblow (UC)",
-			"name": "Hammerblow (UC)",
-			"description": "<p>&emsp;&emsp;The monk links his hands together, swinging both arms like a club and dealing tremendous damage. If the attack hits, the monk rolls his unarmed strike damage twice, adding both rolls together before applying Strength and other modifiers to the damage. This bonus damage is not multiplied on a critical hit.</p>\n<p>&emsp;&emsp;The monk must attack with a fist to use this style strike, but must have both hands free.</p>"
+			"name": "震地捶",
+			"description": "<p>&emsp;&emsp;武僧将双手互握，如同大锤一般抡击敌人，造成巨大的伤害。若攻击命中，武僧需骰徒手攻击伤害骰２次，相加后再计算力量及其它伤害调整值。该额外伤害不能被重击翻倍。该次真劲击必须用拳打出，且需双手全空。</p>"
 		},
 		{
 			"id": "Hampering Hex",
@@ -9037,8 +9037,8 @@
 		},
 		{
 			"id": "Head-Butt (UC)",
-			"name": "Head-Butt (UC)",
-			"description": "<p>&emsp;&emsp;The monk slams his head into his enemy閳ユ獨 head, leaving his foe reeling. If the attack hits and the foe is of the same size or one size smaller than the monk, the monk can make a free combat maneuver check against the target of this strike (using the base attack bonus of the attack used to hit the foe). If the foe is not of the same creature type as the monk, the monk takes a 閳? penalty on this check. If the check is successful, the target is staggered for 1 round. Creatures without a discernible head are not affected by this style strike (subject to GM discretion).</p>\n<p>&emsp;&emsp;The monk must attack with a head-butt to use this style strike.</p>"
+			"name": "铁头功",
+			"description": "<p>&emsp;&emsp;武僧鼓起劲力头槌目标大脑，以图撞晕目标。若攻击命中且目标与武僧体型相同或小一级，则武僧可进行一次战技检定对抗该目标（使用该次真劲击的ＢＡＢ）。若目标与武僧不是同一种生物类型，则该次战技检定承受－８罚值。若战技检定成功，目标恍惚１轮。没有明显头部的生物不受该真劲击影响（具体由ＧＭ裁定）。该次真劲击必须用头槌打出。</p>"
 		},
 		{
 			"id": "Heads Up",
@@ -9332,8 +9332,8 @@
 		},
 		{
 			"id": "High Jump (UC)",
-			"name": "High Jump (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ki power adds his level as a bonus on all Acrobatics checks to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when attempting Acrobatics checks to jump.</p>\n<p>&emsp;&emsp;By spending 1 point from his ki pool as a swift action, the monk gains a +20 bonus on Acrobatics checks to jump for 1 round.</p>"
+			"name": "轻身纵",
+			"description": "<p>&emsp;&emsp;习得此绝学的武僧可以将武僧等级作为加值添加到跳高和跳远时进行的特技检定中。武僧进行所有跳跃时的特技检定都视为已进行了助跑。通过迅捷动作消耗１点气，１轮内武僧用以跳跃的特技检定获得＋２０加值。</p>"
 		},
 		{
 			"id": "High Jumper",
@@ -9377,8 +9377,8 @@
 		},
 		{
 			"id": "Hold Breath (UC)",
-			"name": "Hold Breath (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent doubles the amount of time she can hold her breath.</p>"
+			"name": "屏息",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够屏息（hold her breath）的时间翻倍。</p>"
 		},
 		{
 			"id": "Holy Bombs",
@@ -9725,8 +9725,8 @@
 		},
 		{
 			"id": "Improved Evasion (UC)",
-			"name": "Improved Evasion (UC)",
-			"description": "<p>&emsp;&emsp;This works like evasion, except while the rogue still takes no damage on a successful Reflex saving throw against an attack, she also takes only half damage on a failed save.</p>\n<p>&emsp;&emsp;A helpless rogue does not gain the benefit of improved evasion.</p>"
+			"name": "精通反射闪避",
+			"description": "<p>&emsp;&emsp;９级时，武僧的【反射闪避】能力更加强大。在遭受一些通过反射检定可以减少一半伤害的攻击时，武僧通过反射豁免后将不受伤害，如果未通过也只受到一半伤害。无助状态下的武僧不能进行反射闪避。</p>"
 		},
 		{
 			"id": "Improved Fire Steed",
@@ -9830,8 +9830,8 @@
 		},
 		{
 			"id": "Increased Damage Reduction (UC)",
-			"name": "Increased Damage Reduction (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian閳ユ獨 damage reduction increases by 2/閳?whenever she is raging. A barbarian can select this rage power up to three times. Its effects stack.</p>\n<p>&emsp;&emsp;A barbarian must be at least 8th level to select this rage power.</p>"
+			"name": "伤害减免",
+			"description": "<p>&emsp;&emsp;7级起，野蛮人获得伤害减免的能力。在受到武器或天生武器攻击时，野蛮人受到的伤害要减少1点。10级起的每3级（13，16，19级）该伤害减免都会增加1点。伤害减免可以让伤害降低至0，但是不能低于0。</p>"
 		},
 		{
 			"id": "Incredible Renown",
@@ -10002,8 +10002,8 @@
 		},
 		{
 			"id": "Insightful Wisdom (UC)",
-			"name": "Insightful Wisdom (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability can spend 2 ki points as an immediate action to give another ally within 30 feet just the right word of advice to prevent disaster. If the ally can hear the monk, she can reroll a single attack roll or saving throw. The ally must take the second result, even if it is worse.</p>\n<p>&emsp;&emsp;A monk must be at least 8th level before selecting this ki power.</p>"
+			"name": "洞见识",
+			"description": "<p>&emsp;&emsp;通过直觉动作消耗２点气，指定３０尺内一名其他盟友，给予其正确的指示远离灾害。若该盟友可以听到武僧的话，则其可以重骰１次攻击检定或豁免检定。该盟友必须介绍哪怕更糟的重骰结果。武僧必须至少８级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Inspiration",
@@ -10042,8 +10042,8 @@
 		},
 		{
 			"id": "Inspire Ferocity (UC)",
-			"name": "Inspire Ferocity (UC)",
-			"description": "<p>&emsp;&emsp;While in the reckless stance, the barbarian imparts the stance閳ユ獨 bonus and penalty to all willing allies within 30 feet of her.</p>\n<p>&emsp;&emsp;A barbarian must have the reckless stance rage power to select this rage power.</p>"
+			"name": "狂怒之示",
+			"description": "<p>&emsp;&emsp;当野蛮人处于鲁莽战姿时，她可以把鲁莽战姿的加值和罚值传给30尺内所有愿意接受的友军。野蛮人必须拥有【鲁莽战姿】后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Inspire Greatness",
@@ -10192,8 +10192,8 @@
 		},
 		{
 			"id": "Internal Fortitude (UC)",
-			"name": "Internal Fortitude (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian is immune to the sickened and nauseated conditions.</p>\n<p>&emsp;&emsp;A barbarian must be at least 8th level to select this rage power.</p>"
+			"name": "内在强韧",
+			"description": "<p>&emsp;&emsp;野蛮人免疫恶心和反胃状态。野蛮人至少要达到8级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Interstellar Void",
@@ -10212,8 +10212,8 @@
 		},
 		{
 			"id": "Intimidating Glare (UC)",
-			"name": "Intimidating Glare (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian adds her Strength modifier in place of her Charisma modifier on all Intimidate checks to demoralize a foe. She can attempt an Intimidate check to demoralize an adjacent foe as a move action instead of a standard action.</p>\n<p>&emsp;&emsp;If the barbarian successfully demoralizes an adjacent foe, that foe is shaken for the remainder of the barbarian閳ユ獨 current rage.</p>"
+			"name": "威吓怒视",
+			"description": "<p>&emsp;&emsp;野蛮人将她的力量修正代替魅力修正用于所有的挫败敌人的威吓检定中。野蛮人可以以一个移动动作而不是标准动作对邻接的敌人发动挫败士气。如果野蛮人在检定中胜出，该敌人将会在其余下的狂暴时间内持续战栗。</p>"
 		},
 		{
 			"id": "Intrigue Feats",
@@ -10490,8 +10490,8 @@
 		},
 		{
 			"id": "Ki Blocker (UC)",
-			"name": "Ki Blocker (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability can spend 1 ki point as a free action before making an unarmed strike against a foe. If the attack hits, the monk can interrupt the target閳ユ獨 flow of ki. If the monk successfully damages the target of his attack, that opponent閳ユ獨 cost to activate abilities with ki increases by 1 ki point for 1 hour.</p>\n<p>&emsp;&emsp;If the monk spends 2 points from his ki pool, he can use this ability to affect the target閳ユ獨 arcane pool, arcane reservoir, grit points, inspiration, or panache points instead of its ki pool. The effects of this ability do not stack, but multiple hits increase the duration by 1 hour for each hit.</p>\n<p>&emsp;&emsp;A monk must be at least 10th level before selecting this ki power.</p>"
+			"name": "断流气",
+			"description": "<p>&emsp;&emsp;武僧可以在１次徒手攻击敌人之前以自由动作消耗１点气使用该能力。若该次徒手攻击命中，武僧将会阻断目标体内气脉的流动。若该次攻击成功对目标造成伤害，目标１小时内所有消耗气的行为中，气的消耗都会增加１点。若攻击前武僧选择消耗２点气，则该能力可以在命中造成伤害后对目标的奥能力池、奥能源泉、勇毅池、灵感池、派头造成影响，而非对气池。多次该能力影响不会叠加，但每次被该能力附加的徒手攻击命中都会使得原效果持续时间增加１小时。武僧必须至少１０级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Ki Charge",
@@ -10500,13 +10500,13 @@
 		},
 		{
 			"id": "Ki Guardian (UC)",
-			"name": "Ki Guardian (UC)",
-			"description": "<p>&emsp;&emsp;As an immediate action before he rolls a saving throw against a targeted effect that also targets other allies or an area effect whose area includes other allies, a monk with this ability can spend any number of ki points and designate a number of adjacent allies equal to the number of ki points spent. The monk rolls one saving throw for each designated ally, using his bonus instead of the ally閳ユ獨. For each successful saving throw, the corresponding ally treats the effect as if that ally had succeeded at the saving throw, and for each saving throw failed, the corresponding ally treats the effect as if that ally had failed the saving throw. If the monk fails any of the saving throws (including his own original saving throw), the monk treats the effect as if he had failed the saving throw.</p>\n<p>&emsp;&emsp;A monk must be at least 6th level before selecting this ki power.</p>"
+			"name": "天罡气",
+			"description": "<p>&emsp;&emsp;当武僧处于一个覆盖了自己和其他盟友的范围效果中，或被一个同时选中自己和其他盟友的目标法术影响，且该效果需要武僧与盟友都进行豁免检定时，可以直觉动作使用该能力。武僧先选择邻接自己的任意数量的盟友，该能力消耗气的数量即选中的盟友数量。武僧将使用自己的豁免数值和加值，来为选中的盟友依次进行豁免检定。为单个盟友进行的豁免检定成功时，则意味着该盟友在本次效果中的豁免检定成功；若为单个盟友进行的豁免检定失败，则意味着该盟友在本次效果中的豁免检定失败。若武僧在所有豁免检定中有过失败（当然包括武僧自己的豁免检定），则意味着武僧自己在本次效果中的豁免检定失败。武僧必须至少６级才能学习该绝学。</p>"
 		},
 		{
 			"id": "Ki Hurricane (UC)",
-			"name": "Ki Hurricane (UC)",
-			"description": "<p>&emsp;&emsp;As a full-round action, a monk with this ability can move up to twice his speed. At any point in that movement, the monk can spend 1 ki point to make the first attack in his flurry of blows. He can later spend another ki point to make the next attack in his flurry of blows, and so on, until he either stops spending ki points or has exhausted all the attacks from his flurry of blows.</p>\n<p>&emsp;&emsp;A monk must be at least 10th level and possess the sudden speed ki power before selecting this ki power.</p>"
+			"name": "飓风劲",
+			"description": "<p>&emsp;&emsp;以一个全回合动作，武僧激活此能力后可以移动至多两倍速度的距离。在移动中的任一个点上，他都可以消耗１点气进行疾风连击的第一次攻击。再之后移动中的任意点，他都可以消耗气来进行疾风连击剩下的攻击，每一次攻击都会消耗１点气。直到停止消耗气或疾风连击次数全部用完。武僧必须至少有１０级且习得【电瞬步Sudden Speed】才能学习该绝学。</p>"
 		},
 		{
 			"id": "Ki Meditation (UC)",
@@ -10520,8 +10520,8 @@
 		},
 		{
 			"id": "Ki Mount (UC)",
-			"name": "Ki Mount (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability can spend 1 ki point as a standard action to grant 2 temporary hit points per monk level he possesses to his mount for 1 hour per monk level. As long as the monk and his mount are adjacent or the monk is mounted, the mount shares the benefits of whichever of the AC bonus, evasion, high jump, improved evasion, ki strike, perfect self, and still mind abilities the monk possesses.</p>\n<p>&emsp;&emsp;A monk must be at least 6th level before selecting this ki power.</p>"
+			"name": "驭兽决",
+			"description": "<p>&emsp;&emsp;武僧可以用标准动作消耗１点气给自己的坐骑增加临时ｈｐ，数值等于每武僧等级２点，持续时间每武僧等级１小时。若武僧与自己坐骑邻接或正处于骑乘状态，武僧所拥有的下列能力都会共享给自己的坐骑：ＡＣ加值、反射闪避、轻身纵、精通反射闪避、斗气击、超凡入圣、心如止水。武僧必须至少６级才能学习该绝学。</p>"
 		},
 		{
 			"id": "ki Pool",
@@ -10540,18 +10540,18 @@
 		},
 		{
 			"id": "Ki Pool (UC)",
-			"name": "Ki Pool (UC)",
-			"description": "<p>&emsp;&emsp;At 3rd level, a monk gains a pool of ki points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk閳ユ獨 ki pool is equal to 1/2 his monk level + his Wisdom modifier. As long as he has at least 1 point in his ki pool, he can make a ki strike.</p>\n<p>&emsp;&emsp;At 3rd level, ki strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction.</p>\n<p>&emsp;&emsp;At 7th level, his unarmed attacks are also treated as cold iron and silver for the purpose of overcoming damage reduction.</p>\n<p>&emsp;&emsp;At 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming damage reduction.</p>\n<p>&emsp;&emsp;At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.<br><br>By spending 1 point from his ki pool as a swift action, a monk can make one additional unarmed strike at his highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus attacks gained from flurry of blows, as well as those from haste and similar effects.</p>\n<p>&emsp;&emsp;A monk gains additional powers that consume points from his ki pool as he gains levels.<br><br>The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive.</p>"
+			"name": "气池",
+			"description": "<p>&emsp;&emsp;３级时，武僧获得了一个丹田气池，当中流转的超自然能量──气，能使武僧完成神妙的技艺。武僧的气池大小等同于【1/2武僧等级+感知修正】。只要他的气池中至少还有1点气，他就能使用【斗气击（Ki Strike）】能力。３级起在穿透伤害减免时，斗气击能力能将武僧的徒手攻击视为魔法武器。７级起在穿透伤害减免时，武僧的徒手攻击亦视为寒铁和镀银武器。10级起在穿透伤害减免时，武僧的徒手攻击同样被视为秩序武器；而16级起在穿透伤害减免或对抗物品硬度的时候，武僧的徒手攻击则被视为精金武器。</p><p>&emsp;&emsp;迅捷动作从气池中消耗1点气，武僧可以在使用【疾风连击】时，再使用他最高的基础攻击加值的进行一次额外攻击。该次额外攻击与疾风连击给予的所有额外攻击、加速术或类似效果给予的额外攻击都可叠加。随着武僧等级提高，可以习得更多消耗气池来使用的绝学。</p><p>&emsp;&emsp;经过８小时休息或冥想后的早晨，气池会重新恢复至满；这些休息时间无需连续。</p>"
 		},
 		{
 			"id": "Ki powers (UC)",
-			"name": "Ki powers (UC)",
-			"description": "<p>&emsp;&emsp;At 4th level and every 2 levels thereafter, a monk can select one ki power. These powers allow the monk to perform amazing feats of mystical power and acrobatic prowess by expending points from his ki pool. Once a ki power is selected, it cannot be changed. Some ki powers require the monk to be of a specific level or higher before they can be chosen.</p>\n<p>&emsp;&emsp;Unless otherwise noted, a monk cannot select an individual ki power more than once.</p>"
+			"name": "绝学",
+			"description": "<p>&emsp;&emsp;在４级及之后每２级，武僧可以学习一种绝学。这些绝学通过从气池中消耗气，来展现出不可思议的力量。或是独门绝技，或是秘术奥义，或是无双轻功。一旦选定绝学，就无法再更改。某些绝学需要武僧达到一定等级才能选择学习。除非有特别说明，某种同一绝学无法选择学习两次。</p>"
 		},
 		{
 			"id": "Ki Range (UC)",
-			"name": "Ki Range (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability can spend 1 ki point as a swift action to increase the range increment of any thrown monk weapon by 20 feet.</p>\n<p>&emsp;&emsp;Apply this benefit before doubling the range increment with the Far Shot feat.</p>"
+			"name": "气灌矢",
+			"description": "<p>&emsp;&emsp;以一个迅捷动作消耗１点气，武僧可以将所有武僧投掷武器的射程增量提高２０尺。应用该能力增加了射程增量后，再计算【远程射击Far Shot】专长所应承受的距离减值。【译注：原文没持续时间，根据原版武僧变体可能为１轮，等待paizo修正】。</p>"
 		},
 		{
 			"id": "Ki Sunder (UC)",
@@ -10565,13 +10565,13 @@
 		},
 		{
 			"id": "Ki Visions (UC)",
-			"name": "Ki Visions (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ability often sees visions of spirits or hears the voice of his departed mentor in his dreams. On any given night during which the monk dreams, he can use this ability to gain the benefits of a @Compendium[pf1.spells.pwueht12qqo0268e]{预言术}. If he does, he spends 2 ki points from the next day閳ユ獨 total.</p>\n<p>&emsp;&emsp;A monk must be at least 10th level before selecting this ki power.</p>"
+			"name": "天灵视",
+			"description": "<p>&emsp;&emsp;习得该能力的武僧经常可以在梦中看见灵视或听见故去良师的教诲。在任意夜晚武僧做梦时，他都可选择获得一个【预言术Divination】法术的好处。如此做消耗２点气，从次日晨恢复的气中扣除。武僧必须至少１０级才能学习该绝学。</p>"
 		},
 		{
 			"id": "Ki Volley (UC)",
-			"name": "Ki Volley (UC)",
-			"description": "<p>&emsp;&emsp;When a targeted spell or spell-like ability fails to overcome the monk閳ユ獨 spell resistance from diamond soul, he can spend 2 ki points as an immediate action to send that spell back at its caster as&nbsp;spell turning.</p>\n<p>&emsp;&emsp;A monk must be 16th level or higher and possess the diamond soul ki power before selecting this ki power.</p>"
+			"name": "刚魂返",
+			"description": "<p>&emsp;&emsp;当一个以你为目标的单体法术或类法术没有击破你使用金刚魂能力获得的法术抗力时，你可用直觉动作消耗２点气将该法术反转给施法者，如同法术【法术反转Spell Turning】。武僧必须至少１６级且习得金刚魂才能学习该绝学。</p>"
 		},
 		{
 			"id": "Killing Blow",
@@ -10655,13 +10655,13 @@
 		},
 		{
 			"id": "Knockback (UC)",
-			"name": "Knockback (UC)",
-			"description": "<p>&emsp;&emsp;Once per round, the barbarian can attempt a bull rush against one target in place of a melee attack, using her full CMB regardless of the attack it replaces. If the bull rush is successful, the target takes an amount of damage equal to the barbarian閳ユ獨 Strength modifier and is knocked back as normal. The barbarian doesn閳ユ獩 move with the target.</p>\n<p>&emsp;&emsp;This bull rush doesn閳ユ獩 provoke an attack of opportunity.</p>"
+			"name": "一击即飞",
+			"description": "<p>&emsp;&emsp;每回合1次，野蛮人可以尝试冲撞一个目标来取代一次近战攻击。该次冲撞战技使用完整的CMB而不是被取代的攻击的。如果成功，目标承受等同于野蛮人力量修正的伤害，且如常地向后移动。野蛮人无须跟着目标移动。此动作不会引发藉机攻击。</p>"
 		},
 		{
 			"id": "Knockback Kick (UC)",
-			"name": "Knockback Kick (UC)",
-			"description": "<p>&emsp;&emsp;The monk attempts to knock his foe back with a powerful kick. If the attack hits, the monk can attempt a free combat maneuver check against the foe (using the base attack bonus of the attack used to hit the foe). If the check is successful, the foe is knocked 10 feet directly away from the monk. This distance increases by 10 feet for every 5 by which the check exceeds the foe閳ユ獨 CMD, to a maximum distance equal to the monk閳ユ獨 fast movement bonus.</p>\n<p>&emsp;&emsp;This movement does not provoke an attack of opportunity. The foe stops moving if it strikes another creature, barrier, or otherwise solid object. The creature is not knocked prone by this movement.</p>\n<p>&emsp;&emsp;The monk must attack with a kick to use this style strike.</p>"
+			"name": "穿山腿",
+			"description": "<p>&emsp;&emsp;武僧可尝试用强力的踢击踢飞对方。若攻击命中，武僧可以对目标进行一次战技检定（使用该次真劲击的ＢＡＢ）。若战技检定成功，目标被直线踢飞１０尺远。战技检定结果每比ＣＭＤ多５，则可多踢飞１０尺远。最高可踢飞距离等于武僧的快速移动速度加值。被踢飞的敌人不会因该移动而引发藉机攻击。被踢飞的敌人会因撞到其他生物、墙壁或固体物品而停下。目标不会因此踢飞而倒地。该次真劲击必须用腿打出。</p>"
 		},
 		{
 			"id": "Knockdown",
@@ -10670,8 +10670,8 @@
 		},
 		{
 			"id": "Knockdown Stance (UC)",
-			"name": "Knockdown Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can focus on toppling her foes. Once per round, she can make a trip attack against one target in place of a melee attack. If she succeeds, the target is knocked prone. This trip attempt doesn閳ユ獩 provoke an attack of opportunity.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>"
+			"name": "击倒战姿",
+			"description": "<p>&emsp;&emsp;野蛮人能够专注于击倒敌人。每回合1次，她可以用绊摔来取代一次近战攻击。如果成功，该目标将会被击倒。该动作不会引发藉机攻击。该狂暴之力是一种战姿。</p>"
 		},
 		{
 			"id": "Knockout",
@@ -10779,8 +10779,8 @@
 		},
 		{
 			"id": "Lasting Poison (UC)",
-			"name": "Lasting Poison (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent can apply poison to a weapon in such a way that it is effective for a number of successful attacks equal to her Dexterity modifier (minimum two) instead of one. This poison has a reduced effect, however, and saves made against the poison gain a +2 circumstance bonus.</p>\n<p>&emsp;&emsp;Applying poison in this way is a full-round action, or a standard action if the rogue has the swift poison rogue talent.</p>"
+			"name": "持久毒药",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够以另一种方式涂毒，如此涂毒可以在多次成功的攻击中生效，生效次数等同于她的敏捷调整值（最低2次）而非正常的1次。这种毒素的效果变弱，对抗此类毒素做出的豁免检定获得+2环境加值。以此方式涂毒是整轮动作（full-round action），对于具有迅捷上毒（Swift Poison）盗贼天赋的盗贼来说则是标准动作。</p>"
 		},
 		{
 			"id": "Lasting Tinctures",
@@ -10859,13 +10859,13 @@
 		},
 		{
 			"id": "Ledge Walker (UC)",
-			"name": "Ledge Walker (UC)",
-			"description": "<p>&emsp;&emsp;This ability allows a rogue to move along narrow, uneven, or slippery surfaces (such as ice) at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along such surfaces, and retains her Dexterity bonus to AC.</p>"
+			"name": "稳行者",
+			"description": "<p>&emsp;&emsp;该能力使得盗贼能够使用特技动作技能在狭窄的表面、坑洼不平的表面或者滑溜（比如冰面）的表面上全速移动而不会承受惩罚。此外，具有该天赋的盗贼在使用特技动作技能沿着此类平面行走时不被视为措手不及，并且能够保持AC上的敏捷加值。</p>"
 		},
 		{
 			"id": "Leg Sweep (UC)",
-			"name": "Leg Sweep (UC)",
-			"description": "<p>&emsp;&emsp;The monk attempts to sweep his foe閳ユ獨 leg, knocking the opponent down. If the attack hits, the monk can make a free trip attempt against the target of this strike (using the base attack bonus of the attack used to hit the foe). This trip attempt does not provoke an attack of opportunity.</p>\n<p>&emsp;&emsp;The monk must attack with a kick to use this style strike.</p>"
+			"name": "扫堂腿",
+			"description": "<p>&emsp;&emsp;武僧尝试扫击目标的腿，将其踢倒。若攻击命中，武僧对目标进行一次摔绊战技检定（使用该次真劲击的ＢＡＢ）。该次摔绊战技不会引发藉机攻击。该次真劲击必须用腿打出。</p>"
 		},
 		{
 			"id": "Legacy Conduit",
@@ -10951,8 +10951,8 @@
 		},
 		{
 			"id": "Lethal Accuracy (UC)",
-			"name": "Lethal Accuracy (UC)",
-			"description": "<p>&emsp;&emsp;While in the accurate stance, the barbarian閳ユ獨 critical multiplier for damage increases by 1 (a 鑴? multiplier becomes 鑴?, a 鑴? multiplier becomes 鑴?, and a 鑴? multiplier becomes 鑴?).</p>\n<p>&emsp;&emsp;A barbarian must have the accurate stance and deadly accuracy rage powers and be at least 16th level to select this rage power.</p>"
+			"name": "致命精准",
+			"description": "<p>&emsp;&emsp;当处于精准战姿时，野蛮人的重击倍数提升1（2倍重击变为3倍，3倍重击变为4倍。4倍重击变为5倍）。野蛮人至少要达到16级后且拥有【精准战姿】和【死亡精准】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Lethal Grace",
@@ -11101,8 +11101,8 @@
 		},
 		{
 			"id": "Light Steps (UC)",
-			"name": "Light Steps (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ki power can move effortlessly across nearly any surface. Whenever the monk activates his feather balance ki power, he can also ignore all difficult terrain. In addition, while active, he can cross any solid surface, even if it would normally not support his weight. This does not allow him to walk on liquids.</p>\n<p>&emsp;&emsp;A monk must be at least 8th level and have the feather balance ki power before selecting this ki power.</p>"
+			"name": "凌波步",
+			"description": "<p>&emsp;&emsp;习得该能力的武僧可以几乎不沾地面地进行移动。当武僧激活轻羽衡能力时，他可以同时忽略所有困难地形。另外，激活能力时，他可以穿行任何平常无法支撑自己体重的固态平面。这无法让武僧行走于水面。武僧必须至少８级且习得轻羽衡才能学习该绝学。</p>"
 		},
 		{
 			"id": "Light Subdomain",
@@ -11111,8 +11111,8 @@
 		},
 		{
 			"id": "Light Walker (UC)",
-			"name": "Light Walker (UC)",
-			"description": "<p>&emsp;&emsp;The rogue can move at full speed through difficult terrain and can take 5-foot steps into difficult terrain.</p>\n<p>&emsp;&emsp;A rogue must have the ledge walker rogue talent before choosing light walker.</p>"
+			"name": "身轻如燕",
+			"description": "<p>&emsp;&emsp;盗贼能够在困难地形（difficult terrain）上以全速移动，而且可以在困难地形中进行五尺快步。盗贼必须具有稳行者（Ledge Walker）盗贼天赋才能选取这个高等天赋。</p>"
 		},
 		{
 			"id": "Lightning Arc",
@@ -11386,8 +11386,8 @@
 		},
 		{
 			"id": "Low-Light Vision (UC)",
-			"name": "Low-Light Vision (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian閳ユ獨 senses sharpen, and she gains low-light vision.</p>"
+			"name": "低光视力",
+			"description": "<p>&emsp;&emsp;野蛮人的感官变得更敏锐，她获得昏暗视觉能力。</p>"
 		},
 		{
 			"id": "Loyal Aid",
@@ -11615,8 +11615,8 @@
 		},
 		{
 			"id": "Major Magic (UC)",
-			"name": "Major Magic (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent gains the ability to cast a 1st-level spell from the sorcerer/wizard spell list once per day as a spell-like ability for every 2 rogue levels she possesses. The rogue閳ユ獨 caster level for this ability is equal to her rogue level. The save DC for this spell is 11 + the rogue閳ユ獨 Intelligence modifier.</p>\n<p>&emsp;&emsp;A rogue must have the minor magic rogue talent and an Intelligence score of at least 11 to select this talent.</p>"
+			"name": "高等魔法",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼具有以类法术能力施放术士/法师法术列表中的一个1级法术的能力，她每具有2个盗贼等级便获得1次每日使用次数。该能力中盗贼的施法者等级等同于她的盗贼等级。法术的DC为11 + 盗贼的智力调整值。盗贼必须具有次等魔法盗贼天赋，而且智力属性至少达到11点才能选取该天赋。</p>"
 		},
 		{
 			"id": "Maker's Call",
@@ -11850,8 +11850,8 @@
 		},
 		{
 			"id": "Master of Disguise (UC)",
-			"name": "Master of Disguise (UC)",
-			"description": "<p>&emsp;&emsp;Once per day, a rogue with this talent can don a disguise as a standard action. While wearing that disguise, she gains a +10 bonus on all Disguise checks.</p>\n<p>&emsp;&emsp;A rogue must have the Quick Disguise talent to select this talent.</p>"
+			"name": "易容大师",
+			"description": "<p>&emsp;&emsp;每日1次，具有该天赋的盗贼能够以标准动作完成一次易容。当盗贼使用这个伪装时，她会在所有易容检定上获得+10加值。盗贼必须具有迅速易容（Quick Disguise）盗贼天赋才能选择这个高等天赋。</p>"
 		},
 		{
 			"id": "Master of the Deep",
@@ -11880,8 +11880,8 @@
 		},
 		{
 			"id": "Master Strike (UC)",
-			"name": "Master Strike (UC)",
-			"description": "<p>&emsp;&emsp;At 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, paralyzed for 2d6 rounds, or slain.</p>\n<p>&emsp;&emsp;Regardless of the effect chosen, the target can attempt a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue閳ユ獨 level + the rogue閳ユ獨 Dexterity modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is successful, that creature is immune to that rogue閳ユ獨 master strike for 24 hours.</p>\n<p>&emsp;&emsp;Creatures that are immune to sneak attack damage are also immune to this ability.</p>"
+			"name": "大师之击",
+			"description": "<p>&emsp;&emsp;20级起，当盗贼造成偷袭伤害时，她会变得异常致命。每当盗贼造成偷袭伤害时，她能够从后述三种效果中选择其一：目标陷入持续1d4小时的睡眠（sleep）、被麻痹（paralyzed）2d6轮或者被杀死（slain）。无论选择何种效果，目标都能够尝试一次强韧豁免以避免这些额外效果。此次豁免DC为10 + 1/2盗贼的等级 + 盗贼的敏捷调整值。一旦一个生物成为了大师之击的目标，无论它的豁免是否成功，该名生物都会在24小时内免疫同一名盗贼的大师之击。免疫偷袭伤害的生物也会免疫该能力。</p>"
 		},
 		{
 			"id": "Master Tacitician",
@@ -12189,8 +12189,8 @@
 		},
 		{
 			"id": "Mighty Rage (UC)",
-			"name": "Mighty Rage (UC)",
-			"description": "<p>&emsp;&emsp;At 20th level, a barbarian閳ユ獨 bonus on melee attack rolls, melee damage rolls, thrown weapon damage rolls, and Will saves while raging increases to +4. In addition, the amount of temporary hit points gained when entering a rage increases to 4 per Hit Die.</p>"
+			"name": "强力狂暴",
+			"description": "<p>&emsp;&emsp;在20级时，野蛮人在狂暴时，她的近战攻击骰，近战伤害骰，投掷伤害骰和意志豁免都获得+4加值。另外，在进入狂暴时的临时生命值也变为每生命骰4点。</p>"
 		},
 		{
 			"id": "Mighty Swing",
@@ -12199,8 +12199,8 @@
 		},
 		{
 			"id": "Mighty Swing (UC)",
-			"name": "Mighty Swing (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian automatically confirms a critical hit. This power is used as an immediate action once a critical threat has been determined. This ability can be used only once per day.</p>\n<p>&emsp;&emsp;A barbarian must be at least 12th level to select this rage power.</p>"
+			"name": "猛力挥击",
+			"description": "<p>&emsp;&emsp;野蛮人可以自动通过重击确认。使用此狂暴之力是一个直觉动作，且必须在进入重击威胁时决定是否启用。该能力每日只能使用1次。野蛮人必须至少12级才能选取此狂暴之力。</p>"
 		},
 		{
 			"id": "Mimic Metamagic",
@@ -12289,8 +12289,8 @@
 		},
 		{
 			"id": "Minor Magic (UC)",
-			"name": "Minor Magic (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent gains the ability to cast a 0-level spell from the sorcerer/wizard spell list. This spell can be cast at will as a spell-like ability. The rogue閳ユ獨 caster level for this ability is equal to her rogue level. The save DC for this spell is 10 + the rogue閳ユ獨 Intelligence modifier.</p>\n<p>&emsp;&emsp;A rogue must have an Intelligence score of at least 10 to select this talent.</p>"
+			"name": "次等魔法",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼具有以类法术能力施放术士/法师法术列表中的一个0级法术的能力。该能力中盗贼的施法者等级等同于她的盗贼等级。法术的DC为10 + 盗贼的智力调整值。盗贼的智力属性必须至少达到10点才能选取该天赋。</p>"
 		},
 		{
 			"id": "Minor Prophecy",
@@ -12567,13 +12567,13 @@
 		},
 		{
 			"id": "Multitalented (UC)",
-			"name": "Multitalented (UC)",
-			"description": "<p>&emsp;&emsp;The rogue can use her rogue talents more often. Once per day, she can use a rogue talent that is normally only usable once per day one additional time.</p>\n<p>&emsp;&emsp;At 10th level and 18th level, she can use this talent one additional time per day (for a maximum total of 3 additional uses of a rogue talent that can normally only be used once per day). The uses of this talent do not have to be spent on the same rogue talent.</p>\n<p>&emsp;&emsp;This ability cannot be used with an advanced talent.</p>"
+			"name": "多面手",
+			"description": "<p>&emsp;&emsp;盗贼可以更加频繁地使用她的天赋。每日1次，她能够额外使用1次正常情况下每日只能使用1次的盗贼天赋。在10级以及18级时，她能够使用这个天赋的每日次数额外增加1次（至多为额外使用3次正常情况下每日只能使用1次的盗贼天赋）。该天赋的使用次数不需要花费在相同的盗贼天赋上。该能力无法应用至高等天赋上。</p>"
 		},
 		{
 			"id": "Multitalented, Greater (UC)",
-			"name": "Multitalented, Greater (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent can use the multitalented rogue talent to gain additional uses of advanced talents.</p>\n<p>&emsp;&emsp;A rogue must have the multitalented talent to select this talent.</p>"
+			"name": "万金油",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够使用多面手天赋来让高等天赋获得额外的使用次数。盗贼必须具有多面手（Multitalented）盗贼天赋才能选取这个高等天赋。</p>"
 		},
 		{
 			"id": "Mummification",
@@ -12802,8 +12802,8 @@
 		},
 		{
 			"id": "Night Vision (UC)",
-			"name": "Night Vision (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian閳ユ獨 senses grow incredibly sharp, and she gains darkvision out to a range of 60 feet. If she already has darkvision, the range of that darkvision increases by 60 feet.</p>\n<p>&emsp;&emsp;A barbarian must have a darkvision racial trait, low-light vision racial trait, or the low-light vision rage power to select this rage power.</p>"
+			"name": "夜之视觉",
+			"description": "<p>&emsp;&emsp;野蛮人的感官变得难以置信的敏锐。她获得60尺黑暗视觉。如果她已经拥有黑暗视觉能力，那么范围再提升60尺。野蛮人必须至少拥有黑暗视觉种族特性，昏暗视觉种族特性，【低光视力】其中之一才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Nightblindness (Stare)",
@@ -12852,8 +12852,8 @@
 		},
 		{
 			"id": "Nimble Climber (UC)",
-			"name": "Nimble Climber (UC)",
-			"description": "<p>&emsp;&emsp;Whenever the rogue fails a Climb check by 5 or more, she can attempt a Reflex save (using the same DC as the Climb check) to catch herself and avoid falling.</p>"
+			"name": "机敏攀岩者",
+			"description": "<p>&emsp;&emsp;每当盗贼在攀爬检定中失败5点或更多时，她都能够尝试一次反射豁免（使用与攀爬检定相同的DC）来稳住自己并且避免坠落。</p>"
 		},
 		{
 			"id": "Nimble Walker",
@@ -12892,8 +12892,8 @@
 		},
 		{
 			"id": "No Escape (UC)",
-			"name": "No Escape (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can move up to double her base speed as an immediate action. She can use this ability only when an adjacent foe uses a withdraw action to move away from her. She must end her movement adjacent to the enemy that used the withdraw action. The barbarian provokes attacks of opportunity as normal during this movement.</p>"
+			"name": "无处可逃",
+			"description": "<p>&emsp;&emsp;野蛮人能以一个直觉动作移动等同于他双倍正常速度的距离，但他只能在一名邻接敌人进行撤退动作时使用此能力。他必须在邻近该敌人的方格内结束他的移动。野蛮人在此移动中如常引发藉机攻击。</p>"
 		},
 		{
 			"id": "No Place Like Home",
@@ -13097,8 +13097,8 @@
 		},
 		{
 			"id": "One Touch (UC)",
-			"name": "One Touch (UC)",
-			"description": "<p>&emsp;&emsp;As long as he has at least 1 point remaining in his ki pool, as a standard action, a monk with this power can make an unarmed strike against a foe as a touch attack. He adds 1/2 his monk level as a bonus on the damage roll. He can spend 1 ki point to double this bonus for that attack.</p>\n<p>&emsp;&emsp;A monk must be at least 12th level before selecting this ki power.</p>"
+			"name": "无二打",
+			"description": "<p>&emsp;&emsp;只要武僧气池内还至少有１点气，他就可用标准动作，对一个目标进行一次徒手攻击近战接触攻击。本次攻击获得等同于１/２武僧等级的伤害加值。他可以选择消耗１点气翻倍该伤害加值。武僧必须至少１２级才能学习该绝学。</p>"
 		},
 		{
 			"id": "One with Abaddon",
@@ -13147,8 +13147,8 @@
 		},
 		{
 			"id": "Opportunist (UC)",
-			"name": "Opportunist (UC)",
-			"description": "<p>&emsp;&emsp;The rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as an attack of opportunity for that round and can閳ユ獩 be used more than once per round.</p>"
+			"name": "乘势攻击",
+			"description": "<p>&emsp;&emsp;盗贼能够对刚刚被其他角色造成近战伤害的敌人进行一次藉机攻击。此次攻击被计入该轮的藉机攻击次数中，而且每轮仅能使用1次。</p>"
 		},
 		{
 			"id": "Oppress",
@@ -13607,8 +13607,8 @@
 		},
 		{
 			"id": "Perfect Clarity (UC)",
-			"name": "Perfect Clarity (UC)",
-			"description": "<p>&emsp;&emsp;While in the calm stance, the barbarian can roll twice for any miss chances or Will saving throws to disbelieve illusions, taking the better result.</p>\n<p>&emsp;&emsp;A barbarian must have the calm stance rage power to select this rage power.</p>"
+			"name": "完美明晰",
+			"description": "<p>&emsp;&emsp;当野蛮人处在冷静战姿中时，她可以在判断失手和意志豁免检定中双骰取高。野蛮人必须拥有【冷静战姿】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Perfect Fall",
@@ -13627,8 +13627,8 @@
 		},
 		{
 			"id": "Perfect Self (UC)",
-			"name": "Perfect Self (UC)",
-			"description": "<p>&emsp;&emsp;At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than a humanoid (or whatever his original creature type was) for the purpose of spells and magical effects.</p>\n<p>&emsp;&emsp;Additionally, the monk gains damage reduction 10/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon.</p>\n<p>&emsp;&emsp;Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type.</p>\n<p>&emsp;&emsp;Finally, the monk gains the ability to enter a state of perfect calm. During this time, the monk can take no actions, but he does regain ki at the rate of 1 point per 10 minutes spent at calm. He cannot use this ability to gain an amount of ki in excess of his maximum.</p>"
+			"name": "超凡入圣",
+			"description": "<p>&emsp;&emsp;２０级时，武僧变成魔法生物。从此以后，在考虑法术和魔法效果时，武僧都将永远被视为异界生物而不是原来的类人生物（或武僧本来的生物类型）。同时，武僧获得了伤害减免【10/混乱】，即任何非“混乱武器”对武僧造成的伤害，武僧都可以忽略前１０点。和其他异界生物不同，武僧依然可以被复活，如同他还属于之前的生物类型一样。最后，武僧可以进入一种完美境界的状态。在该状态中，武僧无法进行任何行动，但每１０分钟都会恢复１点气。武僧无法因该能力让气的数量超过最大值。</p>"
 		},
 		{
 			"id": "Perfect Voice",
@@ -14224,13 +14224,13 @@
 		},
 		{
 			"id": "Powerful Sneak (UC)",
-			"name": "Powerful Sneak (UC)",
-			"description": "<p>&emsp;&emsp;Whenever a rogue with this talent takes a full-attack action, she can take a 閳? penalty on all attack rolls until the start of her next turn. If she does, she can reroll any sneak attack damage dice that result in 1s. She can reroll multiple dice, but she can閳ユ獩 reroll any individual die more than once per attack.</p>"
+			"name": "强袭猛击",
+			"description": "<p>&emsp;&emsp;每当具有该天赋的盗贼进行全力攻击（full-attack action）时，她可以在所有攻击检定上承受-2减值，持续至她的下个回合开始为止。若她这么做，便能够重掷任何结果为1点的偷袭伤害骰。她能够重掷多个骰子，但是她在每次攻击中对特定的骰子仅能重掷1次。</p>"
 		},
 		{
 			"id": "Powerful Stance (UC)",
-			"name": "Powerful Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can focus her ferocity. She gains a +1 bonus on melee damage rolls and thrown weapon damage rolls. This bonus increases by 1 for every 4 levels the barbarian has.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>"
+			"name": "威力战姿",
+			"description": "<p>&emsp;&emsp;野蛮人暴虐成性。她在近战伤害骰和投掷伤害骰上获得+1的加值。该加值每4个等级便会提升1点。该狂暴之力是一种战姿。</p>"
 		},
 		{
 			"id": "Powerless Prophecy Curse",
@@ -14424,8 +14424,8 @@
 		},
 		{
 			"id": "Protect Vitals (UC)",
-			"name": "Protect Vitals (UC)",
-			"description": "<p>&emsp;&emsp;While in the guarded stance, the barbarian gains an additional +4 dodge bonus to AC against attack rolls made to confirm critical hits.</p>\n<p>&emsp;&emsp;A barbarian must have the guarded stance rage power and be at least 8th level to select this rage power.</p>"
+			"name": "致死保护",
+			"description": "<p>&emsp;&emsp;当处在防卫战姿时，野蛮人获得+4的闪避AC以对抗重击确认。野蛮人至少要达到8级后且拥有【防卫战姿】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Protection Blessing; Aura of Protection",
@@ -14678,8 +14678,8 @@
 		},
 		{
 			"id": "Qinggong Power (UC)",
-			"name": "Qinggong Power (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this power selects any of the qinggong monk ki powers (Pathfinder RPG Ultimate Magic&nbsp;51) for which he qualifies based on his monk level.</p>\n<p>&emsp;&emsp;A monk can select this ability multiple times.&nbsp;Each time, he must select a different qinggong monk ki power.</p>"
+			"name": "内家力",
+			"description": "<p>&emsp;&emsp;武僧可以选择内家拳师变体中的任何符合等级的内功技法（出自ＵＭ）。武僧可以选择该绝学多次，每次都需学习不同的内功技法。</p>"
 		},
 		{
 			"id": "Quarry",
@@ -14708,8 +14708,8 @@
 		},
 		{
 			"id": "Quick Disable (UC)",
-			"name": "Quick Disable (UC)",
-			"description": "<p>&emsp;&emsp;It takes a rogue with this ability half the normal amount of time to disable a trap using the Disable Device skill (minimum 1 round). When she uses Disable Device to open a lock that would normally take a full-round action to open, she reduces the duration to a standard action.</p>"
+			"name": "快速解除",
+			"description": "<p>&emsp;&emsp;具有该能力的盗贼在使用解除装置技能解除陷阱时，仅需要使用正常时间的一半（最低1轮）。当她使用解除装置来开锁，且正常需要整轮动作才能打开时，可以将开锁时间缩短至标准动作。</p>"
 		},
 		{
 			"id": "Quick Disguise",
@@ -14728,8 +14728,8 @@
 		},
 		{
 			"id": "Quick Reflexes (UC)",
-			"name": "Quick Reflexes (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can make one additional attack of opportunity per round.</p>"
+			"name": "快速反射",
+			"description": "<p>&emps;&emsp;野蛮人可以每回合额外进行一次藉机攻击。</p>"
 		},
 		{
 			"id": "Quick Retort",
@@ -14743,8 +14743,8 @@
 		},
 		{
 			"id": "Quick Shot (UC)",
-			"name": "Quick Shot (UC)",
-			"description": "<p>&emsp;&emsp;Whenever the rogue rolls initiative, she can also make a single attack with a ranged weapon as a swift action. She can use this ability only if she has a weapon in hand and it is loaded (if applicable).</p>\n<p>&emsp;&emsp;If more than one rogue has this talent, their initiative check results determine the order in which they make their attacks. After these attacks are resolved, the round proceeds as normal.</p>"
+			"name": "先制射击",
+			"description": "<p>&emsp;&emsp;每当盗贼投掷先攻检定时，她还能够以迅捷动作使用一个远程武器做出单次攻击。盗贼只能在手上握有武器，而且武器已经被装填好（若需要装填的话）的时候才能使用该能力。若有多名盗贼具有这个天赋，则使用她们的先攻检定结果决定她们攻击的顺序。在这些攻击被结算之后，行动轮如常继续进行。</p>"
 		},
 		{
 			"id": "Quick Study",
@@ -14783,8 +14783,8 @@
 		},
 		{
 			"id": "Quivering Palm (UC)",
-			"name": "Quivering Palm (UC)",
-			"description": "<p>&emsp;&emsp;A monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. Using this ability is a standard action that costs 4 ki points, and the monk must announce his intent to use this ability (and spend the ki points) before making the attack roll. Creatures immune to critical hits cannot be affected. Otherwise, if the attack hits and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter, the monk can try to slay the victim at any time within a number of days equal to his monk level. To make such an attempt, the monk merely wills the target to die (a free action); unless the target succeeds at a Fortitude saving throw (DC = 10 + 1/2 the monk閳ユ獨 level + the monk閳ユ獨 Wisdom modifier), it dies. If the saving throw is successful, the target is no longer in danger from that particular quivering palm attack, but it can still be affected by another one at a later time. A monk can have no more than one quivering palm in effect at one time. If a monk uses quivering palm while another is still in effect, the previous one is negated.</p>\n<p>&emsp;&emsp;A monk must be at least 16th level before selecting this ki power.</p>"
+			"name": "渗透劲",
+			"description": "<p>&emsp;&emsp;武僧能在其他生物体内制造一种震荡，之后如果武僧愿意，这震动足以致命。使用该能力是一个消耗４点气的标准动作，且需要在攻击之前明确宣布使用该能力（并消耗掉气）。免疫重击的生物不受渗透劲影响。若该次攻击命中且目标因殴打而受到伤害，则渗透劲攻击成功。此后，武僧可以在等于武僧等级天数内的任一时点尝试激活渗透劲杀死目标。该种尝试仅仅只需武僧一个念头（自由动作）；若目标未通过ＤＣ＝（１０＋１/２武僧等级＋武僧感知调整值）的强韧豁免检定就会死亡。若豁免成功，目标将不再处于渗透劲威胁下；当然，此后依然可能被其它渗透劲击中。一名武僧同一时间只能保有一个渗透劲效果。若武僧在已对他人成功使用渗透劲后，对新的单位使用渗透劲攻击，则旧效果立刻解消。武僧必须至少１６级才能学习该绝学。</p>"
 		},
 		{
 			"id": "Rabbit Punch (UC)",
@@ -14832,8 +14832,8 @@
 		},
 		{
 			"id": "Rage (UC)",
-			"name": "Rage (UC)",
-			"description": "<p>&emsp;&emsp;A barbarian can call upon inner reserves of strength and ferocity, granting her additional combat prowess. At 1st level, a barbarian can rage for a number of rounds per day equal to 4 + her Constitution modifier. For each level after 1st she possesses, the barbarian can rage for 2 additional rounds per day. Temporary increases to Constitution, such as that gained from&nbsp;bear閳ユ獨 endurance, do not increase the total number of rounds that a barbarian can rage per day. A barbarian can enter a rage as a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, although these hours need not be consecutive.<br><br>While in a rage, a barbarian gains a +2 bonus on melee attack rolls, melee damage rolls, thrown weapon damage rolls, and Will saving throws. In addition, she takes a 閳? penalty to Armor Class. She also gains 2 temporary hit points per Hit Die. These temporary hit points are lost first when a character takes damage, disappear when the rage ends, and are not replenished if the barbarian enters a rage again within 1 minute of her previous rage. While in a rage, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skill (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration (such as spellcasting).<br><br>A barbarian can end her rage as a free action, and is fatigued for 1 minute after a rage ends. A barbarian can閳ユ獩 enter a new rage while fatigued or exhausted, but can otherwise enter a rage multiple times per day. If a barbarian falls unconscious, her rage immediately ends.</p>"
+			"name": "狂暴",
+			"description": "<p>&emsp;&emsp;野蛮人可以呼唤潜藏于本性中的力量和凶暴，以获取额外的战斗能力。1级时，1级时，野蛮人的每日狂暴轮数为“4+体质修正”。之后的每级，野蛮人的狂暴轮数都会再增加2轮。体质的暂时增加，例如得自熊之坚韧法术的加值，都不会让野蛮人每天的狂暴轮数有所增加。野蛮人可以用一个自由动作进入狂暴，他每天的狂暴轮数会在休息8小时之后自动回满，然而这8小时并不需要连贯。</p><p>&emsp;&emsp;狂暴时，野蛮人在近战攻击骰，近战伤害骰，投掷武器伤害骰和意志豁免上都获得+2加值。但她的AC-2。另外，她还获得每生命骰2点的临时生命值。这些临时生命值会在受到伤害时会首先失去，也会在狂暴结束后失去。同时，如果在一分钟内再次进入狂暴无法补充该生命值。在狂暴期间，野蛮人不能使用任何基于魅力、敏捷，或者智力的技能（除了特技、飞行、威吓和骑术），不能使用专注，也不能使用任何需要耐心或需要集中精神的能力（例如施法）。</p><p>&emsp;&emsp;野蛮人可以用一个自由动作结束狂暴，并陷入持续1分钟的疲乏或状态。野蛮人不能在他仍处于疲乏或力竭状态时启动另一次狂暴，但他可以在一天中多次进入狂暴。如果野蛮人在战斗中陷入昏迷，狂暴将立即中止。</p>"
 		},
 		{
 			"id": "Rage Powers",
@@ -14847,8 +14847,8 @@
 		},
 		{
 			"id": "Rage Powers (UC)",
-			"name": "Rage Powers (UC)",
-			"description": "<p>&emsp;&emsp;As a barbarian gains levels, she learns to use her rage in new ways. At 2nd level and every 2 levels thereafter, the barbarian gains a rage power. A barbarian gains the benefits of rage powers only while raging. Some of these powers are always active during a rage, and others require the barbarian to take an action to use them. Unless otherwise noted, a barbarian cannot select an individual power more than once.<br><br>Some of the following rage powers are stances. Activating a stance rage power is a move action. A barbarian can閳ユ獩 have more than one stance rage power active at a time. If she activates a stance rage power while another one is active, the current stance immediately ends. The stance can be intentionally ended at the beginning of the barbarian閳ユ獨 turn as a free action; otherwise, it lasts until the rage ends.</p>"
+			"name": "狂暴之力",
+			"description": "<p>&emsp;&emsp;当野蛮人变的更加老练时，他了解到驾驭自身狂暴之力的新方法。2级时，野蛮人会获得1个狂暴之力。之后的每偶数级，他都可以再习得1个额外的狂暴之力。野蛮人只能在他狂暴时才能获得狂暴之力的增益。有些狂暴之力会在狂暴时持续生效，有些则需要一个动作来使用。除非特殊写出，野蛮人不可以选择同一个狂暴之力多次。</p><p>&emsp;&emsp;下面的一些狂暴之力被称为战姿（stances），启动一个战姿需要一个移动动作。一个野蛮人不能同时使用多个的战姿。如果野蛮人正在使用一个战姿时启动了另一个战姿，那么现在使用的战姿将会立即结束。野蛮人可以在自己回合开始时以自由动作主动结束战姿；除此之外，战姿将会在狂暴结束时结束。</p>"
 		},
 		{
 			"id": "Rage Subdomain",
@@ -14862,8 +14862,8 @@
 		},
 		{
 			"id": "Raging Climber (UC)",
-			"name": "Raging Climber (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains a climb speed equal to 1/2 her base land speed, taking into account her fast movement class feature. She can閳ユ獩 use this climb speed to climb any surface with a DC higher than 20. She also gains a +8 enhancement bonus on Climb checks.</p>"
+			"name": "狂暴攀手",
+			"description": "<p>&emsp;&emsp;野蛮人获得等同于其1/2基础地面速度的攀爬速度，将野蛮人的快速移动能力加入其中计算。她不能在DC超过20的表面使用此攀爬速度。她还会在攀爬检定上获得+8的增强加值。</p>"
 		},
 		{
 			"id": "Raging Flier",
@@ -14887,8 +14887,8 @@
 		},
 		{
 			"id": "Raging Leaper (UC)",
-			"name": "Raging Leaper (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian is always considered to have a running start when attempting an Acrobatics check to jump.</p>\n<p>&emsp;&emsp;In addition, she gains a +8 bonus on Acrobatics checks to jump.</p>\n<p>&emsp;&emsp;Finally, if the barbarian falls, she halves the total distance fallen for the purposes of determining damage taken from the fall.</p>"
+			"name": "狂暴跃者",
+			"description": "<p>&emsp;&emsp;野蛮人在进行跳跃的特技检定中总被视为已经助跑，她还会在跳跃的特技检定中获得+8的增强加值。最后，如果野蛮人坠落，她在计算受到的伤害时的坠落距离被视为总坠落距离的一半。</p>"
 		},
 		{
 			"id": "Raging Song",
@@ -14902,8 +14902,8 @@
 		},
 		{
 			"id": "Raging Swimmer (UC)",
-			"name": "Raging Swimmer (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains a swim speed equal to 1/2 her base land speed (taking into account her fast movement class feature).</p>\n<p>&emsp;&emsp;She also gains a +8 enhancement bonus on Swim checks.</p>"
+			"name": "狂暴泳者",
+			"description": "<p>&emsp;&emsp;野蛮人获得等同于其1/2基础地面速度的游泳速度（将野蛮人的快速移动能力加入其中计算）。她还会在游泳检定上获得+8的增强加值。</p>"
 		},
 		{
 			"id": "Raging Whirlwind",
@@ -15087,8 +15087,8 @@
 		},
 		{
 			"id": "Reckless Stance (UC)",
-			"name": "Reckless Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can attack with abandon at the expense of her defense. She gains a +1 bonus on attack rolls, but takes a 閳? penalty to AC.</p>\n<p>&emsp;&emsp;This bonus and penalty increase by 1 at 4th level and every 4 levels thereafter.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>"
+			"name": "鲁莽战姿",
+			"description": "<p>&emsp;&emsp;野蛮人以忽视防守为代价强化了她的进攻。她在攻击骰上获得+1加值，并在AC上获得-1罚值。该加值与罚值在第4级和之后的每4级都会提升1点。该狂暴之力是一种战姿。</p>"
 		},
 		{
 			"id": "Reclusive Curse",
@@ -15166,8 +15166,8 @@
 		},
 		{
 			"id": "Reflexive Dodge (UC)",
-			"name": "Reflexive Dodge (UC)",
-			"description": "<p>&emsp;&emsp;While in the guarded stance, the barbarian can apply her dodge bonus to AC as a bonus on Reflex saving throws.</p>\n<p>&emsp;&emsp;A barbarian must have the guarded stance rage power and be at least 6th level to select this rage power.</p>"
+			"name": "自发闪避",
+			"description": "<p>&emsp;&emsp;当野蛮人处于防卫战姿时，她可以把闪避AC加到反射豁免检定上去。野蛮人至少要达到6级后且拥有【防卫战姿】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Reflexive Shadow Shield",
@@ -15201,8 +15201,8 @@
 		},
 		{
 			"id": "Regenerative Stance (UC)",
-			"name": "Regenerative Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can continually replenish her health. At the start of her turn, she regains 1 temporary hit point for every 4 levels she has (up to 5 hit points per round), but this cannot give her more than her maximum temporary hit points from rage.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>\n<p>&emsp;&emsp;A barbarian must be at least 4th level to select this rage power.</p>"
+			"name": "再起战姿",
+			"description": "<p>&emsp;&emsp;野蛮人能够持续地补充她的生命力。在她的回合开始时，她恢复1点临时生命。此临时生命每4个等级便会提升1点（最多5点）。她恢复的临时生命不能超过她狂暴之力带来的临时生命的最大值。该狂暴之力是一种战姿。野蛮人至少要达到4级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Regenerative Vigor",
@@ -15346,8 +15346,8 @@
 		},
 		{
 			"id": "Resiliency (UC)",
-			"name": "Resiliency (UC)",
-			"description": "<p>&emsp;&emsp;Once per day, a rogue with this ability can gain a number of temporary hit points equal to twice her rogue level. Activating this ability is an immediate action that can be performed only when the rogue is brought to below 0 hit points. This ability can be used to prevent the rogue from dying. These temporary hit points last for 1 minute. If the rogue閳ユ獨 hit points drop below 0 due to the loss of these temporary hit points, she falls unconscious and is dying as normal.</p>"
+			"name": "韧性",
+			"description": "<p>&emsp;&emsp;每日1次，具有该能力的盗贼能够获得数值等同于两倍于她的盗贼等级的临时生命值。只有盗贼的生命值降至0点时，该能力才会以不需要执行的直觉动作启动。该能够能够用于防止盗贼陷入濒死（dying）。这些临时生命值持续1分钟。若盗贼的生命值由于失去这些临时生命值而降至0点以下，那么她会如常陷入昏迷（falls unconscious）并且进入濒死状态。</p>"
 		},
 		{
 			"id": "Resist Energy (CAV)",
@@ -15651,8 +15651,8 @@
 		},
 		{
 			"id": "Rogue Crawl (UC)",
-			"name": "Rogue Crawl (UC)",
-			"description": "<p>&emsp;&emsp;While prone, a rogue with this ability can move at half speed. This movement provokes attacks of opportunity as normal. A rogue with this talent can take a 5-foot step while crawling, and she reduces her attack roll and AC penalties for being prone by 2.</p>"
+			"name": "盗贼匍匐术",
+			"description": "<p>&emsp;&emsp;处于倒地（prone）状态时，具有该能力的盗贼能够以半速（half speed）移动。这种移动方式会如常引起藉机攻击。具有该天赋的盗贼能够在匍匐时进行五尺快步，而且由于倒地而使攻击检定和AC承受的减值降低2点。</p>"
 		},
 		{
 			"id": "Rogue Talent",
@@ -15681,8 +15681,8 @@
 		},
 		{
 			"id": "Rogue's Edge (UC)",
-			"name": "Rogue's Edge (UC)",
-			"description": "<p>&emsp;&emsp;At 5th level, a rogue has mastered a single skill beyond that skill閳ユ獨 normal boundaries, gaining results that others can only dream about. She gains the skill unlock powers for that skill as appropriate for her number of ranks in that skill.</p>\n<p>&emsp;&emsp;At 10th, 15th, and 20th levels, she chooses an additional skill and gains skill unlock powers for that skill as well.</p>"
+			"name": "盗贼绝艺",
+			"description": "<p>&emsp;&emsp;5级起，盗贼对单项技能的领悟已经超越了正常的界限，这使得她能够做出一些他人不敢想像的事情。盗贼获得该项技能的技能解放（unlock powers），并按照她在技能中投入的技能点数量而获得合适的能力。在10级、15级和20级时，她还可以选择一项额外的技能，并且获得这些技能的技能解放。</p>"
 		},
 		{
 			"id": "Roiling Soil",
@@ -15731,8 +15731,8 @@
 		},
 		{
 			"id": "Roused Anger (UC)",
-			"name": "Roused Anger (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can enter a rage even when fatigued. If the barbarian enters a rage while fatigued, she loses the fatigued condition and she does not gain temporary hit points from rage.</p>\n<p>&emsp;&emsp;Once this rage ends, the barbarian is exhausted for 10 minutes.</p>"
+			"name": "激发怒意",
+			"description": "<p>&emsp;&emsp;野蛮人可以在疲乏时进入狂暴，一旦她进入狂暴，她将摆脱疲乏状态。她将不会获得狂暴带来的临时生命。在此狂暴结束后，她将力竭10分钟。</p>"
 		},
 		{
 			"id": "Rule Minds",
@@ -15963,8 +15963,8 @@
 		},
 		{
 			"id": "Scent (UC)",
-			"name": "Scent (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains the scent ability. She can use this ability to locate unseen foes.</p>"
+			"name": "灵敏嗅觉",
+			"description": "<p>&emsp;&emsp;野蛮人获得灵敏嗅觉能力，并可用于定位不可视的敌人（参见特殊能力中“灵敏嗅觉”的相关描述）。</p>"
 		},
 		{
 			"id": "Scent (UC) (1 pt)",
@@ -16571,8 +16571,8 @@
 		},
 		{
 			"id": "Sharpened Accuracy (UC)",
-			"name": "Sharpened Accuracy (UC)",
-			"description": "<p>&emsp;&emsp;While in the accurate stance, the barbarian ignores the miss chance for concealment and treats total concealment as concealment. She also ignores cover penalties except those from total cover.</p>\n<p>&emsp;&emsp;A barbarian must have the accurate stance rage power and be at least 8th level to select this rage power.</p>"
+			"name": "敏锐精准",
+			"description": "<p>&emsp;&emsp;在精准战姿内，野蛮人忽视隐蔽下的隐蔽失手率，并且将全隐蔽视为隐蔽。她同样忽视遮蔽惩罚，除非是全遮蔽。野蛮人至少要达到8级后且拥有【精准战姿】能力才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Shattered Psyche Curse",
@@ -16581,8 +16581,8 @@
 		},
 		{
 			"id": "Shattering Punch (UC)",
-			"name": "Shattering Punch (UC)",
-			"description": "<p>&emsp;&emsp;The monk delivers a brutal punch that can penetrate defenses. If the attack hits, it bypasses any damage reduction or hardness possessed by the target of that attack.</p>\n<p>&emsp;&emsp;The monk must attack with a fist to use this style strike.</p>"
+			"name": "破山击",
+			"description": "<p>&emsp;&emsp;武僧击打出极具破坏力的攻击，粉碎敌人防御。若攻击命中，该次攻击穿透目标一切伤害减免和硬度。该次真劲击必须用拳头打出。</p>"
 		},
 		{
 			"id": "Shed Skin",
@@ -16696,13 +16696,13 @@
 		},
 		{
 			"id": "Shove Aside (UC)",
-			"name": "Shove Aside (UC)",
-			"description": "<p>&emsp;&emsp;Whenever the barbarian charges, she may push past one of her allies. That ally does not block the path of the charge as long as the ally is not adjacent to the target of the charge. This does not move the ally閳ユ獨 position; it simply allows the barbarian to move past.</p>"
+			"name": "边路冲锋",
+			"description": "<p>&emsp;&emsp;野蛮人冲锋时可以穿越一名她的友军。该友军不会阻挡她的冲锋，就好像他们并未处在她与目标的冲锋路线上一样。这并不会移动友军的位置，仅仅是能够让野蛮人穿过去而已。</p>"
 		},
 		{
 			"id": "Shove Aside, Greater (UC)",
-			"name": "Shove Aside, Greater (UC)",
-			"description": "<p>&emsp;&emsp;This functions as shove aside, but it applies to any number of allies, so long as they are not adjacent to the target of the charge.</p>\n<p>&emsp;&emsp;A barbarian must have the shove aside rage power and be at least 8th level to select this rage power.</p>"
+			"name": "给我靠边",
+			"description": "<p>&emsp;&emsp;该能力如同【边路冲锋】。但是野蛮人可以穿越所有的友军，就好像他们并未处在她与目标的冲锋路线上一样。野蛮人至少要达到8级且拥有【边路冲锋】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Shrinewalk",
@@ -16881,8 +16881,8 @@
 		},
 		{
 			"id": "Skill Mastery (UC)",
-			"name": "Skill Mastery (UC)",
-			"description": "<p>&emsp;&emsp;The rogue becomes so confident in the use of certain skills that she can use them reliably even under adverse conditions. The rogue selects a number of skills equal to her Intelligence modifier. When making a skill check with one of the selected skills (or any of the skills selected through the rogue閳ユ獨 edge class feature), she can take 10 even if stress and distractions would normally prevent her from doing so.</p>\n<p>&emsp;&emsp;A rogue can gain this special ability multiple times, selecting additional skills for skill mastery to apply to each time.</p>"
+			"name": "技艺精湛",
+			"description": "<p>&emsp;&emsp;盗贼对于某个技能使用变得得心应手，即便在不利的环境中也能可靠地使用技能。盗贼选择数量相当于她的智力调整值个技能。当盗贼使用她所选择的技能进行技能检定时（或者任何通过盗贼绝艺职业能力选择的技能），即便承受压力和会分心这样通常无法取10的环境下，也可以取10。盗贼可以多次选取该项特殊能力，每次选取技艺精湛高等天赋时，都要选择额外的技能受到该项天赋的影响。</p>"
 		},
 		{
 			"id": "Skilled (1 pt)",
@@ -16980,8 +16980,8 @@
 		},
 		{
 			"id": "Slippery Mind (UC)",
-			"name": "Slippery Mind (UC)",
-			"description": "<p>&emsp;&emsp;This ability represents the rogue閳ユ獨 ability to wriggle free from magical effects that would otherwise control or compel her. If a rogue with slippery mind is affected by an enchantment spell or effect and fails her saving throw, she can attempt it again 1 round later at the same DC.</p>\n<p>&emsp;&emsp;She can attempt only one additional saving throw against any given effect using this ability.</p>"
+			"name": "心智灵活",
+			"description": "<p>&emsp;&emsp;该天赋体现了盗贼从可能会操控或胁迫她们的魔法效果中挣脱的能力。若具有心智灵活的盗贼被附魔系（enchantment）法术或效果所影响，而且她的豁免失败的话，盗贼可以再1轮后以相同的DC再次尝试进行豁免。盗贼使用该能力对特定的效果仅能进行一次额外的豁免检定。</p>"
 		},
 		{
 			"id": "Slow Fall",
@@ -16990,8 +16990,8 @@
 		},
 		{
 			"id": "Slow Fall (UC)",
-			"name": "Slow Fall (UC)",
-			"description": "<p>&emsp;&emsp;A monk within arm閳ユ獨 reach of a wall can use it to slow his descent by expending 1 point from his ki pool. When he uses this ability, he takes no damage from the fall (as if using&nbsp;feather fall), but he must be adjacent to a wall for the length of the fall (although this can be used to reduce the damage from a fall if only part of it is adjacent to a wall).</p>"
+			"name": "轻身坠",
+			"description": "<p>&emsp;&emsp;通过将手攀上墙壁和消耗１点气，武僧可以减缓自己的下坠。使用此能力时，武僧将不会因坠落受伤（如同【羽落术Feather Fall】），但必须邻接一堵足够长的墙体来使用此能力。若墙体不够长，则等于墙体长度的尺数不计算坠落伤害。</p>"
 		},
 		{
 			"id": "Slow Metabolism",
@@ -17005,8 +17005,8 @@
 		},
 		{
 			"id": "Slow Reactions (UC)",
-			"name": "Slow Reactions (UC)",
-			"description": "<p>&emsp;&emsp;Opponents damaged by the rogue閳ユ獨 sneak attack can閳ユ獩 make attacks of opportunity for 1 round.</p>"
+			"name": "扰乱反应",
+			"description": "<p>&emsp;&emsp;被盗贼的偷袭所伤害的敌人无法进行藉机攻击，持续1轮。</p>"
 		},
 		{
 			"id": "Slowing Strike",
@@ -17050,8 +17050,8 @@
 		},
 		{
 			"id": "Smasher (UC)",
-			"name": "Smasher (UC)",
-			"description": "<p>&emsp;&emsp;Whenever the barbarian attempts a sunder combat maneuver or makes an attack against an unattended object, she ignores 1 point of the object閳ユ獨 hardness per barbarian level she has.</p>"
+			"name": "野蛮破坏",
+			"description": "<p>&emsp;&emsp;当野蛮人使用破武战技或攻击无主物品时，她每个野蛮人等级可以忽视1点硬度。</p>"
 		},
 		{
 			"id": "Smite Evil",
@@ -17548,8 +17548,8 @@
 		},
 		{
 			"id": "Spin Kick (UC)",
-			"name": "Spin Kick (UC)",
-			"description": "<p>&emsp;&emsp;The monk spins about, delivering a kick his foe did not expect. The monk makes his attack against the foe閳ユ獨 flat-footed AC. Creatures with the uncanny dodge class feature or a similar effect cannot be caught flat-footed by this style strike.</p>\n<p>&emsp;&emsp;The monk must attack with a kick to use this style strike.</p>"
+			"name": "卧龙尾",
+			"description": "<p>&emsp;&emsp;武僧踢出的这一下，完全出乎敌人的意料。该次攻击会对抗目标的措手不及ＡＣ。拥有直觉闪避职业能力或类似效果的生物在被该真劲击攻击时不会措手不及。该次真劲击必须用腿打出。</p>"
 		},
 		{
 			"id": "Spindle Infusion",
@@ -17783,8 +17783,8 @@
 		},
 		{
 			"id": "Sprint (UC)",
-			"name": "Sprint (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian adds 1/2 her speed to the distance she can move when she runs or charges.</p>\n<p>&emsp;&emsp;A barbarian must have the swift foot rage power and be at least 4th level to select this rage power.</p>"
+			"name": "奋勇冲刺",
+			"description": "<p>&emsp;&emsp;野蛮人提升1/2的奔跑或者冲锋距离。野蛮人至少要达到4级后且拥有【迅捷脚步】才能够选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Spying Touchsight",
@@ -17873,8 +17873,8 @@
 		},
 		{
 			"id": "Stand Up (UC)",
-			"name": "Stand Up (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this ability can stand up from a prone position as a swift action without provoking attacks of opportunity, or as a free action that provokes attacks of opportunity.</p>"
+			"name": "鲤鱼打挺",
+			"description": "<p>&emsp;&emsp;拥有该能力的盗贼能够以迅捷动作从倒地（prone）状态起身，而且不会引起藉机攻击，或者她也可以选择以自由动作起身，但是这么做会引起藉机攻击。</p>"
 		},
 		{
 			"id": "Star Chart",
@@ -18197,8 +18197,8 @@
 		},
 		{
 			"id": "Strength Stance (UC)",
-			"name": "Strength Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can summon mighty strength. She gains a +1 competence bonus on combat maneuvers and to her CMD. These bonuses increase by 1 for every 4 levels the barbarian has. In addition, she gains a +8 competence bonus on Strength checks to lift, push, bend, or break objects (this does not apply to combat maneuvers).</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>"
+			"name": "力量战姿",
+			"description": "<p>&emsp;&emsp;野蛮人可以呼唤出强有力的力量。她获得+1的战技表现加值和战技防御。该加值每4个等级便会提升1点。另外，她在举起，弯折，推动和打破物品时的力量检定获得+8的表现加值（不可用于战技）。该狂暴之力是一种战姿。</p>"
 		},
 		{
 			"id": "Strength Surge",
@@ -18277,8 +18277,8 @@
 		},
 		{
 			"id": "Style Strikes (UC)",
-			"name": "Style Strikes (UC)",
-			"description": "<p>&emsp;&emsp;At 5th level, a monk can learn one type of style strike. Whenever he makes a flurry of blows, he can designate one of his unarmed strikes as a style strike. This attack is resolved as normal, but it has an additional effect depending on the type of strike chosen. He must choose which style strike to apply before the attack roll is made.</p>\n<p>&emsp;&emsp;At 9th level, and every 4 levels thereafter, a monk learns an additional style strike.</p>\n<p>&emsp;&emsp;At 15th level, he can designate up to two of his unarmed strikes each round as a style strike, and each one can be a different type.&nbsp;</p>"
+			"name": "真劲击",
+			"description": "<p>&emsp;&emsp;５级时，武僧可以学习到一种真劲击。当他进行疾风连击时，可以宣布其中一次徒手攻击为真劲击。该次攻击正常判定命中与否，但根据真劲击的选择不同，会附加上不同的效果。９级及之后的每４级，武僧都可再学习一种真劲击。武僧必须在指定徒手攻击骰掷前决定使用何种真劲击。１５级时，武僧至多可将疾风连击中２次徒手攻击指定为真劲击，且可为不同的类型。武僧可选真劲击如下所列。</p>"
 		},
 		{
 			"id": "Stylish Infusion",
@@ -18362,8 +18362,8 @@
 		},
 		{
 			"id": "Sudden Speed (UC)",
-			"name": "Sudden Speed (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ki power can spend 1 point from his ki pool as a swift action to grant himself a sudden burst of speed. This increases the monk閳ユ獨 base land speed by 30 feet for 1 minute.</p>"
+			"name": "电瞬步",
+			"description": "<p>&emsp;&emsp;武僧可迅捷动作消耗１点气爆发出急速。１分钟内武僧的基础陆地移动速度增加３０尺。</p>"
 		},
 		{
 			"id": "Sudden Sting",
@@ -18542,8 +18542,8 @@
 		},
 		{
 			"id": "Superstition (UC)",
-			"name": "Superstition (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains a +2 competence bonus on saving throws made to resist spells and spell-like abilities.</p>\n<p>&emsp;&emsp;This bonus increases by 1 for every 4 levels the barbarian has.</p>\n<p>&emsp;&emsp;The barbarian cannot be the willing target of any spell and must attempt saving throws to resist all spells, even those cast by allies.</p>"
+			"name": "神秘迷信",
+			"description": "<p>&emsp;&emsp;野蛮人在对抗法术和类法术能力的豁免检定上获得+2的表现加值。该加值每4个等级便会提升1点。野蛮人无法自愿成为法术目标，她必须都进行豁免检定，即使该法术是其友军施展的。</p>"
 		},
 		{
 			"id": "Suppress Poison",
@@ -18592,8 +18592,8 @@
 		},
 		{
 			"id": "Surprise Attack (UC)",
-			"name": "Surprise Attack (UC)",
-			"description": "<p>&emsp;&emsp;During the surprise round, a rogue with this ability always considers opponents flat-footed, even if they have already acted. A rogue with this ability adds 1/2 her rogue level to her sneak attack damage rolls made during the surprise round.</p>"
+			"name": "突袭攻击",
+			"description": "<p>&emsp;&emsp;在突袭轮内，具有该能力的盗贼总是将敌人视为措手不及，即便他们已经行动过也是如此。具有该能力的盗贼能够将她的盗贼等级的1/2加到突袭轮中做出的偷袭伤害检定上。</p>"
 		},
 		{
 			"id": "Surprise Strike",
@@ -18717,8 +18717,8 @@
 		},
 		{
 			"id": "Swift Foot (UC)",
-			"name": "Swift Foot (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains a 10-foot enhancement bonus to her base speed.</p>\n<p>&emsp;&emsp;A barbarian can select this rage power up to three times; its effects stack.</p>"
+			"name": "迅捷脚步",
+			"description": "<p>&emsp;&emsp;野蛮人获得10尺的基本移动速度的增强加值。野蛮人最多可以选择此狂暴之力3次，其效果相叠加。</p>"
 		},
 		{
 			"id": "Swift Poison",
@@ -18892,8 +18892,8 @@
 		},
 		{
 			"id": "Taunting Stance (UC)",
-			"name": "Taunting Stance (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can leave herself open to attacks while preparing devastating counterattacks. Enemies gain a +4 bonus on attack and damage rolls against the barbarian while she閳ユ獨 in this stance, but every attack against the barbarian provokes an attack of opportunity from her, which is resolved prior to each provoking attack.</p>\n<p>&emsp;&emsp;This is a stance rage power.</p>\n<p>&emsp;&emsp;A barbarian must be at least 12th level to select this rage power.</p>"
+			"name": "嘲讽战姿",
+			"description": "<p>&emsp;&emsp;野蛮人可以故意使自己防守出现破绽，并且准备好毁灭性的反击。当她处于此战姿时，她的敌人对其的攻击骰和伤害骰都获得+4加值。但是每次攻击都会引发野蛮人的藉机攻击，该藉机攻击在敌人攻击前结算。该狂暴之力是一种战姿。野蛮人至少要达到12级后才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Teaching Moment",
@@ -19062,13 +19062,13 @@
 		},
 		{
 			"id": "Terrain Mastery (UC)",
-			"name": "Terrain Mastery (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent gains a favored terrain, as the ranger class feature of the same name (Core Rulebook&nbsp;65), but the bonus does not increase with her level. A rogue can select this talent multiple times, each time applying it to a new terrain.</p>"
+			"name": "地形专家",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼获得一个偏好地形（favored terrain），就如同游侠（ranger）的同名职业能力一般（见核心手册65页），但是加值并不会随着她的等级提升而增加。盗贼可以多次选择该项天赋，每次选取都会应用至一种新的地形上。</p>"
 		},
 		{
 			"id": "Terrain Mastery, Greater (UC)",
-			"name": "Terrain Mastery, Greater (UC)",
-			"description": "<p>&emsp;&emsp;A rogue with this talent can select a single favored terrain. Her bonuses in that terrain increase to +4.</p>\n<p>&emsp;&emsp;At 13th level and 18th level, they increase by an additional +2 (to a maximum of +8).</p>\n<p>&emsp;&emsp;A rogue must have the terrain mastery talent to select this advanced talent.</p>"
+			"name": "高等地形专家",
+			"description": "<p>&emsp;&emsp;具有该天赋的盗贼能够从偏好地形（favored terrain）中选择一个。她在这个地形中的加值增加至+4点。在13级和18级，加值额外增加+2点（最高为+8点）。盗贼必须具有地形专家（Terrain Mastery）盗贼天赋才能选取这个高等天赋。</p>"
 		},
 		{
 			"id": "Terrain Training",
@@ -19082,8 +19082,8 @@
 		},
 		{
 			"id": "Terrifying Howl (UC)",
-			"name": "Terrifying Howl (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian unleashes a terrifying howl as a standard action. All enemies that have been shaken by the barbarian (usually through the Intimidate skill) within 30 feet must succeed at a Will save (DC = 10 + 1/2 the barbarian閳ユ獨 level + her Strength modifier) or be panicked for 1d4+1 rounds. Once an enemy has attempted a save versus this ability (whether successful or not), it閳ユ獨 immune to this power for 24 hours.</p>\n<p>&emsp;&emsp;A barbarian must be at least 8th level and have the intimidating glare rage power to select this rage power.</p>"
+			"name": "可怖狂嚎",
+			"description": "<p>&emsp;&emsp;野蛮人能够以一个标准动作释放出一声可怕的嚎叫声。30尺内的所有已战栗（通常是通过威吓）的敌人必须进行一次DC为10+1/2野蛮人等级+力量修正的意志豁免，失败者将恐慌1d4+1轮。当敌人对你的【可怖狂嚎】进行过检定（无论成功通过与否），则它在接下来的24小时内都将免疫此效果。野蛮人至少要达到8级且拥有【威吓怒视】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Terror",
@@ -19340,8 +19340,8 @@
 		},
 		{
 			"id": "Tireless Rage (UC)",
-			"name": "Tireless Rage (UC)",
-			"description": "<p>&emsp;&emsp;At 17th level, a barbarian is no longer fatigued at the end of her rage. If she enters a rage again within 1 minute of ending a rage, she doesn閳ユ獩 gain any temporary hit points from her rage.</p>"
+			"name": "不倦狂暴",
+			"description": "<p>&emsp;&emsp;17级起，野蛮人在狂暴结束后不再疲乏。如果她在1分钟内再次进入狂暴，她还是不会获得临时生命值。</p>"
 		},
 		{
 			"id": "Toil Subdomain",
@@ -19355,8 +19355,8 @@
 		},
 		{
 			"id": "Tongue of the Sun and Moon (UC)",
-			"name": "Tongue of the Sun and Moon (UC)",
-			"description": "<p>&emsp;&emsp;At 13th level, a monk can understand and speak with any living creature, as if under a permanent&nbsp;tongues&nbsp;effect.</p>"
+			"name": "天语通",
+			"description": "<p>&emsp;&emsp;13级时，武僧可与任何活物交谈和相互理解，如同处于永久的【巧言术Tongues】法术效果中。</p>"
 		},
 		{
 			"id": "Tongues (SHA)",
@@ -19689,8 +19689,8 @@
 		},
 		{
 			"id": "Trap Spotter (UC)",
-			"name": "Trap Spotter (UC)",
-			"description": "<p>&emsp;&emsp;Whenever a rogue with this talent comes within 10 feet of a trap, she can attempt an immediate Perception check to notice the trap. This check should be made in secret by the GM.</p>"
+			"name": "陷阱嗅觉",
+			"description": "<p>&emsp;&emsp;每当具有该天赋的盗贼进入到距离一个陷阱10尺的范围内时，她可以立即尝试一次察觉检定来发现陷阱。该检定应当由DM秘密地进行。</p>"
 		},
 		{
 			"id": "Trap Subdomain",
@@ -20196,8 +20196,8 @@
 		},
 		{
 			"id": "Unexpected Strike (UC)",
-			"name": "Unexpected Strike (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian can make an attack of opportunity against a foe that moves into any square threatened by the barbarian, regardless of whether that movement would normally provoke an attack of opportunity. The barbarian can use this ability only when there are no other foes in a square threatened by the barbarian.</p>\n<p>&emsp;&emsp;A barbarian must be at least 8th level to select this rage power.</p>"
+			"name": "意外之击",
+			"description": "<p>&emsp;&emsp;野蛮人可以对移动进他威胁范围内的敌人进行藉机攻击，无论该移动是否会正常的引发藉机攻击。野蛮人只有在她的威胁范围内没有其他敌人时才能使用此能力。野蛮人至少要达到8级才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Unexpected Whimsy",
@@ -20974,8 +20974,8 @@
 		},
 		{
 			"id": "Water Sprint (UC)",
-			"name": "Water Sprint (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ki power can spend 1 point from his ki pool as a swift action to gain the ability to walk on water, as if under the effects of @Compendium[pf1.spells.g2obld7y0lpyztes]{水面行走}. Once activated, this ability lasts for 1 minute per monk level.</p>\n<p>&emsp;&emsp;A monk must be at least 6th level before selecting this ki power.</p>"
+			"name": "水上漂",
+			"description": "<p>&emsp;&emsp;迅捷动作消耗１点气，武僧可以在水上行走，如同法术【水上行走Water Walk】。激活后该能力持续每武僧等级１分钟。武僧必须至少６级才能学习此绝学。</p>"
 		},
 		{
 			"id": "Water Totem",
@@ -21104,8 +21104,8 @@
 		},
 		{
 			"id": "Weapon Training (UC)",
-			"name": "Weapon Training (UC)",
-			"description": "<p>&emsp;&emsp;A rogue who selects this talent gains @Compendium[pf1.feats.n250dFlbykAIAg5Z]{武器专攻} as a bonus feat.</p>"
+			"name": "武器训练",
+			"description": "<p>&emsp;&emsp;选取该天赋的盗贼获得武器专攻（Weapon Focus）作为奖励专长。</p>"
 		},
 		{
 			"id": "Weapon Training (UC) (2 pts)",
@@ -21353,8 +21353,8 @@
 		},
 		{
 			"id": "Wind Jump (UC)",
-			"name": "Wind Jump (UC)",
-			"description": "<p>&emsp;&emsp;A monk with this ki power can spend 1 point from his ki pool as a move action to grant himself a fly speed (with perfect maneuverability) equal to his base land speed. He must end his movement each round on solid ground (or some other surface that can support his weight) or fall as normal. Once activated, this ability lasts for 1 minute.</p>\n<p>&emsp;&emsp;A monk must be at least 8th level and have the high jump ki power before selecting this ki power.</p>"
+			"name": "风行步",
+			"description": "<p>&emsp;&emsp;通过移动动作消耗１点气，武僧获得等同于自己基本陆地移动速度的飞行速度，机动性完美。武僧在自己每轮结束时都必须停留在固体地面上（或能够支撑自己体重的表面），否则还是会坠落。激活后该能力持续１分钟。武僧必须至少８级且习得轻身纵才能学习该绝学。</p>"
 		},
 		{
 			"id": "Wind Manipulator",
@@ -21518,8 +21518,8 @@
 		},
 		{
 			"id": "Witch Hunter (UC)",
-			"name": "Witch Hunter (UC)",
-			"description": "<p>&emsp;&emsp;The barbarian gains a +1 bonus on damage rolls against creatures possessing spells or spell-like abilities. This damage bonus increases by 1 for every 4 levels the barbarian has. In addition, if she confirms a critical hit against a creature affected by an ongoing beneficial spell effect, that effect is suppressed for 1 round (determined randomly if the creature is currently affected by more than one effect).</p>\n<p>&emsp;&emsp;A barbarian must have the superstition rage power to select this rage power.</p>"
+			"name": "女巫猎人",
+			"description": "<p>&emsp;&emsp;野蛮人对具有施法能力和类法术能力的敌人的伤害骰获得+1加值。该伤害加值每4个等级便会提升1点。另外，如果她重击确认了一名带有持续增益法术效果的敌人时，该效果将被抑制1轮。（如果敌人带有多个增益效果时则随机选择一个）。野蛮人必须拥有【神秘迷信】才能选择此狂暴之力。</p>"
 		},
 		{
 			"id": "Witch's Bottle",
