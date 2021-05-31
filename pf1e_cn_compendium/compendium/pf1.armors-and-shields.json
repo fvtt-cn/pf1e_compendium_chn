@@ -198,7 +198,7 @@
 		},
 		{
 			"id": "Light Steel Shield (Quickdraw)",
-			"name": "轻钢盾（快速装卸）",
+			"name": "轻钢盾（快速装卸）（Light Steel Shield (Quickdraw)）",
 			"description": "<p>&emsp;&emsp;这面特殊改造过的轻钢盾加装了一些额外的皮带，可以让擅长使用它的人以更快的速度将它举起或放回背上。如果你拥有+1或更高的基本攻击加值，你能以一个组合到正常移动中的迅捷动作将盾牌举起或卸下。如果你拥有“双武器格斗”专长，那么你也能以和拔出一把单手武器同样的时间，同时拔出一把单手或轻型武器、以及一面快速装卸轻钢盾。如果你拥有“即时备战”专长，那么你能以一个自由动作将盾牌举起或卸下。</p>"
 		},
 		{
@@ -208,7 +208,7 @@
 		},
 		{
 			"id": "Light Wooden Shield (Quickdraw)",
-			"name": "轻木盾（快速装卸）",
+			"name": "轻木盾（快速装卸）（Light Wooden Shield (Quickdraw)）",
 			"description": "<p>&emsp;&emsp;快速装卸轻木盾从数据上讲和快速装卸轻钢盾相同，只是法术和一些能力（如‘锈蚀爪’法术）对盾牌的效果有所不同。德鲁伊可以无惩罚地使用快速装卸轻木盾，而不能使用快速装卸轻钢盾。</p>"
 		},
 		{
@@ -283,7 +283,7 @@
 		},
 		{
 			"id": "Steel Snarlshield",
-			"name": "缠兵盾（钢质）",
+			"name": "缠兵盾（钢质）（Steel Snarlshield）",
 			"description": "<p>&emsp;&emsp;缠兵盾是一面表面竖立着十数支棒杆的重盾。当用这面盾牌向对手发动盾击时，缠兵盾具有卸武特性。</span></p>"
 		},
 		{
@@ -318,7 +318,7 @@
 		},
 		{
 			"id": "Wooden Snarlshield",
-			"name": "缠兵盾（木质）",
+			"name": "缠兵盾（木质）（Wooden Snarlshield）",
 			"description": "<p>&emsp;&emsp;缠兵盾是一面表面竖立着十数支棒杆的重盾。当用这面盾牌向对手发动盾击时，缠兵盾具有卸武特性。</p>"
 		}
 	]
