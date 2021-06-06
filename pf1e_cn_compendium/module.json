@@ -2,9 +2,9 @@
     "name": "pf1e_cn_compendium",
     "title": "合集包汉化(Pathfinder1E)",
     "description": "为FVTT中的PF1E添加了合集包汉化。",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "minimumCoreVersion" : "0.6.0",
-    "compatibleCoreVersion": "0.8.5",
+    "compatibleCoreVersion": "0.8.6",
     "author": "bnp800",
     "systems": ["pf1"],
     "scripts": [
@@ -19,5 +19,5 @@
     ],
     "url": "https://github.com/fvtt-cn/pf1e_compendium_chn",
     "manifest": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json",
-    "download": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/download/0.2.0/module.zip"
+    "download": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/download/0.2.1/module.zip"
   }
