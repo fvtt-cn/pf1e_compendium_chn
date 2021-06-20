@@ -1,0 +1,593 @@
+{
+	"label": "怪物图鉴 - CR 20+",
+	"mapping": {
+        "token_name": "token.name"
+    },
+	"entries": [
+		{
+			"id": "Agmazar The Star Titan",
+			"name": "Agmazar The Star Titan",
+			"description": ""
+		},
+		{
+			"id": "Agyra",
+			"name": "Agyra",
+			"description": ""
+		},
+		{
+			"id": "Ahriman, Lord Of All Divs",
+			"name": "Ahriman, Lord Of All Divs",
+			"description": ""
+		},
+		{
+			"id": "Akvan",
+			"name": "崇至妖（Akvan）",
+			"token_name": "崇至妖",
+			"description": ""
+		},
+		{
+			"id": "Ancient Apocalypse Dragon",
+			"name": "Ancient Apocalypse Dragon",
+			"description": ""
+		},
+		{
+			"id": "Ancient Bliss Dragon",
+			"name": "Ancient Bliss Dragon",
+			"description": ""
+		},
+		{
+			"id": "Ancient Crypt Dragon",
+			"name": "Ancient Crypt Dragon",
+			"description": ""
+		},
+		{
+			"id": "Ancient Gold Dragon",
+			"name": "古金龙（Ancient Gold Dragon）",
+			"token_name": "古金龙",
+			"description": ""
+		},
+		{
+			"id": "Ancient Havoc Dragon",
+			"name": "Ancient Havoc Dragon",
+			"description": ""
+		},
+		{
+			"id": "Ancient Infernal Dragon",
+			"name": "Ancient Infernal Dragon",
+			"description": ""
+		},
+		{
+			"id": "Ancient Sovereign Dragon",
+			"name": "古龙王（Ancient Sovereign Dragon）",
+			"token_name": "古龙王",
+			"description": ""
+		},
+		{
+			"id": "Ancient Time Dragon",
+			"name": "Ancient Time Dragon",
+			"description": ""
+		},
+		{
+			"id": "Ancient Tumult Dragon",
+			"name": "Ancient Tumult Dragon",
+			"description": ""
+		},
+		{
+			"id": "Apollyon",
+			"name": "Apollyon",
+			"description": ""
+		},
+		{
+			"id": "Arshea",
+			"name": "Arshea",
+			"description": ""
+		},
+		{
+			"id": "Ashava",
+			"name": "Ashava",
+			"description": ""
+		},
+		{
+			"id": "Asurendra",
+			"name": "阿修罗王（Asurendra）",
+			"token_name": "阿修罗王",
+			"description": ""
+		},
+		{
+			"id": "Ayandamahla, The Crimson Lotus",
+			"name": "Ayandamahla, The Crimson Lotus",
+			"description": ""
+		},
+		{
+			"id": "Baalzebul",
+			"name": "Baalzebul",
+			"description": ""
+		},
+		{
+			"id": "Balor",
+			"name": "巴洛炎魔（Balor）",
+			"token_name": "巴洛炎魔",
+			"description": ""
+		},
+		{
+			"id": "Baphomet",
+			"name": "Baphomet",
+			"description": ""
+		},
+		{
+			"id": "Barzahk",
+			"name": "Barzahk",
+			"description": ""
+		},
+		{
+			"id": "Bastion Archon",
+			"name": "Bastion Archon",
+			"description": ""
+		},
+		{
+			"id": "Bezravnis",
+			"name": "Bezravnis",
+			"description": ""
+		},
+		{
+			"id": "Black Butterfly",
+			"name": "Black Butterfly",
+			"description": ""
+		},
+		{
+			"id": "Blood Queen",
+			"name": "Blood Queen",
+			"description": ""
+		},
+		{
+			"id": "Bokrug",
+			"name": "Bokrug",
+			"description": ""
+		},
+		{
+			"id": "Braismois",
+			"name": "Braismois",
+			"description": ""
+		},
+		{
+			"id": "Cernunnos",
+			"name": "Cernunnos",
+			"description": ""
+		},
+		{
+			"id": "Charnel God",
+			"name": "Charnel God",
+			"description": ""
+		},
+		{
+			"id": "Chavazvug",
+			"name": "Chavazvug",
+			"description": ""
+		},
+		{
+			"id": "Cipactli",
+			"name": "Cipactli",
+			"description": ""
+		},
+		{
+			"id": "Conqueror Worm",
+			"name": "Conqueror Worm",
+			"description": ""
+		},
+		{
+			"id": "Cthulhu",
+			"name": "Cthulhu",
+			"description": ""
+		},
+		{
+			"id": "Deskari",
+			"name": "Deskari",
+			"description": ""
+		},
+		{
+			"id": "Dispater",
+			"name": "Dispater",
+			"description": ""
+		},
+		{
+			"id": "Elder Wyrm",
+			"name": "Elder Wyrm",
+			"description": ""
+		},
+		{
+			"id": "Elysian",
+			"name": "极乐提坦（Elysian）",
+			"token_name": "极乐提坦",
+			"description": ""
+		},
+		{
+			"id": "Eremite",
+			"name": "Eremite",
+			"description": ""
+		},
+		{
+			"id": "Euryale",
+			"name": "Euryale",
+			"description": ""
+		},
+		{
+			"id": "Fafnheir",
+			"name": "Fafnheir",
+			"description": ""
+		},
+		{
+			"id": "Festering Ulunat (the Unholy First)",
+			"name": "Festering Ulunat (the Unholy First)",
+			"description": ""
+		},
+		{
+			"id": "Fire Giant King",
+			"name": "Fire Giant King",
+			"description": ""
+		},
+		{
+			"id": "Galundari, The Scourge Of Heaven",
+			"name": "Galundari, The Scourge Of Heaven",
+			"description": ""
+		},
+		{
+			"id": "Geryon",
+			"name": "Geryon",
+			"description": ""
+		},
+		{
+			"id": "Ghatanothoa",
+			"name": "Ghatanothoa",
+			"description": ""
+		},
+		{
+			"id": "Grim Reaper",
+			"name": "Grim Reaper",
+			"description": ""
+		},
+		{
+			"id": "Hastur",
+			"name": "Hastur",
+			"description": ""
+		},
+		{
+			"id": "Hekatonkheires",
+			"name": "百臂提坦（Hekatonkheires）",
+			"token_name": "百臂提坦",
+			"description": ""
+		},
+		{
+			"id": "Hell Engine Adamantine Golem",
+			"name": "Hell Engine Adamantine Golem",
+			"description": ""
+		},
+		{
+			"id": "Hundun",
+			"name": "Hundun",
+			"description": ""
+		},
+		{
+			"id": "Iathavos",
+			"name": "灭世魔君（Iathavos）",
+			"token_name": "灭世魔君",
+			"description": ""
+		},
+		{
+			"id": "Inkariax",
+			"name": "Inkariax",
+			"description": ""
+		},
+		{
+			"id": "Ithaqua",
+			"name": "Ithaqua",
+			"description": ""
+		},
+		{
+			"id": "Izfiitar",
+			"name": "Izfiitar",
+			"description": ""
+		},
+		{
+			"id": "Jabberwock",
+			"name": "炸脖龙（Jabberwock）",
+			"token_name": "炸脖龙",
+			"description": ""
+		},
+		{
+			"id": "Jinushigami",
+			"name": "地主神（Jinushigami）",
+			"token_name": "地主神",
+			"description": ""
+		},
+		{
+			"id": "Kimenhul",
+			"name": "Kimenhul",
+			"description": ""
+		},
+		{
+			"id": "Korada",
+			"name": "Korada",
+			"description": ""
+		},
+		{
+			"id": "Kostchtchie",
+			"name": "Kostchtchie",
+			"description": ""
+		},
+		{
+			"id": "Leviathan",
+			"name": "Leviathan",
+			"description": ""
+		},
+		{
+			"id": "Lhaksharut",
+			"name": "巡守者（Lhaksharut）",
+			"token_name": "巡守者",
+			"description": ""
+		},
+		{
+			"id": "Malziarax, Rune Giant Overlord",
+			"name": "Malziarax, Rune Giant Overlord",
+			"description": ""
+		},
+		{
+			"id": "Mammon",
+			"name": "Mammon",
+			"description": ""
+		},
+		{
+			"id": "Master Automaton",
+			"name": "Master Automaton",
+			"description": ""
+		},
+		{
+			"id": "Mhar",
+			"name": "Mhar",
+			"description": ""
+		},
+		{
+			"id": "Moloch",
+			"name": "Moloch",
+			"description": ""
+		},
+		{
+			"id": "Moxix",
+			"name": "Moxix",
+			"description": ""
+		},
+		{
+			"id": "Mu Spore",
+			"name": "穆之巨菌（Mu Spore）",
+			"token_name": "穆之巨菌",
+			"description": ""
+		},
+		{
+			"id": "Nocticula",
+			"name": "Nocticula",
+			"description": ""
+		},
+		{
+			"id": "Oblivion",
+			"name": "Oblivion",
+			"description": ""
+		},
+		{
+			"id": "Olethrodaemon",
+			"name": "噬魂狂魔（Olethrodaemon）",
+			"token_name": "噬魂狂魔",
+			"description": ""
+		},
+		{
+			"id": "Oliphaunt Of Jandelay",
+			"name": "Oliphaunt Of Jandelay",
+			"description": ""
+		},
+		{
+			"id": "Ouroboros",
+			"name": "Ouroboros",
+			"description": ""
+		},
+		{
+			"id": "Pit Fiend",
+			"name": "Pit Fiend",
+			"description": ""
+		},
+		{
+			"id": "Pleroma",
+			"name": "存灭御衡者（Pleroma）",
+			"token_name": "存灭御衡者",
+			"description": ""
+		},
+		{
+			"id": "Qaur-ooung",
+			"name": "Qaur-ooung",
+			"description": ""
+		},
+		{
+			"id": "Qwoshokk",
+			"name": "Qwoshokk",
+			"description": ""
+		},
+		{
+			"id": "Rakshasa Maharaja",
+			"name": "Rakshasa Maharaja",
+			"description": ""
+		},
+		{
+			"id": "Red Wyrm Ravener",
+			"name": "Red Wyrm Ravener",
+			"description": ""
+		},
+		{
+			"id": "Rhan-tegoth",
+			"name": "Rhan-tegoth",
+			"description": ""
+		},
+		{
+			"id": "Scyld Hranni, Storm Giant Matriarch",
+			"name": "Scyld Hranni, Storm Giant Matriarch",
+			"description": ""
+		},
+		{
+			"id": "Shax",
+			"name": "Shax",
+			"description": ""
+		},
+		{
+			"id": "Sifkesh",
+			"name": "Sifkesh",
+			"description": ""
+		},
+		{
+			"id": "Sirrush",
+			"name": "Sirrush",
+			"description": ""
+		},
+		{
+			"id": "Squamous Demodand",
+			"name": "Squamous Demodand",
+			"description": ""
+		},
+		{
+			"id": "Star-spawn Of Cthulhu",
+			"name": "Star-spawn Of Cthulhu",
+			"description": ""
+		},
+		{
+			"id": "Szuriel",
+			"name": "Szuriel",
+			"description": ""
+		},
+		{
+			"id": "Talmandor",
+			"name": "Talmandor",
+			"description": ""
+		},
+		{
+			"id": "Tarn Linnorm",
+			"name": "天池蛇龙（Tarn Linnorm）",
+			"token_name": "天池蛇龙",
+			"description": ""
+		},
+		{
+			"id": "Tarrasque",
+			"name": "泰拉斯奎兽（Tarrasque）",
+			"token_name": "泰拉斯奎兽",
+			"description": ""
+		},
+		{
+			"id": "Tawil At'umr",
+			"name": "Tawil At'umr",
+			"description": ""
+		},
+		{
+			"id": "Tempest Behemoth",
+			"name": "风暴比蒙（Tempest Behemoth）",
+			"token_name": "风暴比蒙",
+			"description": ""
+		},
+		{
+			"id": "Thalassic Behemoth",
+			"name": "深海比蒙（Thalassic Behemoth）",
+			"token_name": "深海比蒙",
+			"description": ""
+		},
+		{
+			"id": "Thanatotic",
+			"name": "暴亡提坦（Thanatotic）",
+			"token_name": "暴亡提坦",
+			"description": ""
+		},
+		{
+			"id": "Thuskchoon",
+			"name": "Thuskchoon",
+			"description": ""
+		},
+		{
+			"id": "Tor Linnorm",
+			"name": "岩山蛇龙（Tor Linnorm）",
+			"token_name": "岩山蛇龙",
+			"description": ""
+		},
+		{
+			"id": "Trelmarixian",
+			"name": "Trelmarixian",
+			"description": ""
+		},
+		{
+			"id": "Tsathoggua",
+			"name": "Tsathoggua",
+			"description": ""
+		},
+		{
+			"id": "Tychilarius",
+			"name": "Tychilarius",
+			"description": ""
+		},
+		{
+			"id": "Urtleytlar, The Tempest Queen",
+			"name": "Urtleytlar, The Tempest Queen",
+			"description": ""
+		},
+		{
+			"id": "Uvaglor, The Misbegotten Prince",
+			"name": "Uvaglor, The Misbegotten Prince",
+			"description": ""
+		},
+		{
+			"id": "Varklops",
+			"name": "Varklops",
+			"description": ""
+		},
+		{
+			"id": "Vildeis",
+			"name": "Vildeis",
+			"description": ""
+		},
+		{
+			"id": "Vorgozen",
+			"name": "Vorgozen",
+			"description": ""
+		},
+		{
+			"id": "Watcher",
+			"name": "Watcher",
+			"description": ""
+		},
+		{
+			"id": "Whisperer",
+			"name": "Whisperer",
+			"description": ""
+		},
+		{
+			"id": "Wrackworm",
+			"name": "Wrackworm",
+			"description": ""
+		},
+		{
+			"id": "Xhamen-dor",
+			"name": "Xhamen-dor",
+			"description": ""
+		},
+		{
+			"id": "Xoveron",
+			"name": "Xoveron",
+			"description": ""
+		},
+		{
+			"id": "Yamaraj",
+			"name": "Yamaraj",
+			"description": ""
+		},
+		{
+			"id": "Yarthoon",
+			"name": "Yarthoon",
+			"description": ""
+		},
+		{
+			"id": "Zelishkar Of The Bitter Flame",
+			"name": "Zelishkar Of The Bitter Flame",
+			"description": ""
+		}
+	]
+}
