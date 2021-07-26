@@ -11473,7 +11473,7 @@
 		},
 		{
 			"id": "Elements Patron",
-			"name": "元素秘示域（Elements Patron）",
+			"name": "元素庇护主（Elements Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.33pe0bge7b7aq3io]{电爪}</li>\n<li>4级——@Compendium[pf1.spells.lzos34s87qsc620l]{炽焰法球}</li>\n<li>6级——@Compendium[pf1.spells.6oq1wcryviik9ice]{火球术}</li>\n<li>8级——@Compendium[pf1.spells.ijui94bv4uzu8awb]{冰墙术}</li>\n<li>10级——@Compendium[pf1.spells.gmugktarbieojt59]{焰击术}</li>\n<li>12级——@Compendium[pf1.spells.ol05jfb606v0lzj9]{冰封法球}</li>\n<li>14级——@Compendium[pf1.spells.tpid8izzs2rrfxv3]{漩涡之流}</li>\n<li>16级——@Compendium[pf1.spells.9wl8ijy6argdvz5f]{火焰风暴}</li>\n<li>18级——@Compendium[pf1.spells.xhzme0v6tjq95fg6]{流星爆}</li>\n</ul>"
 		},
 		{
@@ -11518,7 +11518,7 @@
 		},
 		{
 			"id": "Ancestors Patron",
-			"name": "先祖秘示域（Ancestors Patron）",
+			"name": "先祖庇护主（Ancestors Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.wa0zb2pncesmm9lz]{祝福术}</li>\n<li>4级——@Compendium[pf1.spells.ibk7jrc5rwubpia6]{援助术}</li>\n<li>6级——@Compendium[pf1.spells.hu8179fdqfkl0bqj]{祈祷术}</li>\n<li>8级——@Compendium[pf1.spells.scyklgov72pvw884]{Blessing Of Fervor}</li>\n<li>10级——@Compendium[pf1.spells.p2kosvizylhy8vfa]{通神术}</li>\n<li>12级——@Compendium[pf1.spells.z0duc2v2n3ioynta]{高等英雄气概}</li>\n<li>14级——@Compendium[pf1.spells.080el1lfozrhf6c2]{脱身术}</li>\n<li>16级——@Compendium[pf1.spells.xlzqpkl8fpm3sn4u]{爱与和平}</li>\n<li>18级——@Compendium[pf1.spells.3wdx7fjulsohi1lk]{怪影杀手}</li>\n</ul>"
 		},
 		{
@@ -11538,7 +11538,7 @@
 		},
 		{
 			"id": "Light Patron",
-			"name": "光耀秘示域（Light Patron）",
+			"name": "光耀庇护主（Light Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.0j43l3u9eqj5gvnp]{舞灯术}</li>\n<li>4级——@Compendium[pf1.spells.b8vp8fgt1o6pq1qc]{不灭明焰}</li>\n<li>6级——@Compendium[pf1.spells.7x2z0i8rcx7s81fk]{昼明术}</li>\n<li>8级——@Compendium[pf1.spells.6lebv7569xsypp8u]{虹彩图纹}</li>\n<li>10级——@Compendium[pf1.spells.d3a93wcwatqhywqy]{火蛇术}</li>\n<li>12级——@Compendium[pf1.spells.nk37t5em8q4v1djs]{燃烧之风}</li>\n<li>14级——@Compendium[pf1.spells.vax8ojz8g3oovwzu]{阳炎射线}</li>\n<li>16级——@Compendium[pf1.spells.j2mwv9wfxhqch10g]{阳炎爆}</li>\n<li>18级——@Compendium[pf1.spells.qk3oeq4awbc1smjw]{火焰之躯}</li>\n</ul>"
 		},
 		{
@@ -11963,7 +11963,7 @@
 		},
 		{
 			"id": "Strength Patron",
-			"name": "力量秘示域（Strength Patron）",
+			"name": "力量庇护主（Strength Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.21bxbzdaawjrnvyo]{神恩}</li>\n<li>4级——@Compendium[pf1.spells.05i5rxwim12hwktu]{牛之力量}</li>\n<li>6级——@Compendium[pf1.spells.zq7xi7l5vgpqu7rt]{Magic Weapon, Greater}</li>\n<li>8级——@Compendium[pf1.spells.0yvwyclhkf76veo1]{神能}</li>\n<li>10级——@Compendium[pf1.spells.6ax0ythzw8n4bta8]{正气如虹}</li>\n<li>12级——@Compendium[pf1.spells.8xjcrqg79ugxu5qu]{群体牛之力量}</li>\n<li>14级——@Compendium[pf1.spells.61uvtd18e9s6zku3]{巨人形态 I}</li>\n<li>16级——@Compendium[pf1.spells.y4oyspjsp6cc7btp]{巨人形态 II}</li>\n<li>18级——@Compendium[pf1.spells.n3lp01euzcdmtbw5]{形体变化}</li>\n</ul>"
 		},
 		{
@@ -12023,7 +12023,7 @@
 		},
 		{
 			"id": "Animals Patron",
-			"name": "动物秘示域（Animals Patron）",
+			"name": "动物庇护主（Animals Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.pg7dbmuuaksxhp3v]{魅惑动物}</li>\n<li>4级——@Compendium[pf1.spells.ct9fhh8uawn8e4md]{动物交谈}</li>\n<li>6级——@Compendium[pf1.spells.io2yjhr42chvcfb4]{支配动物}</li>\n<li>8级——@Compendium[pf1.spells.choriern682hgptb]{召唤自然盟友 IV}</li>\n<li>10级——@Compendium[pf1.spells.29cfi65seiajh5qv]{动物异变}</li>\n<li>12级——@Compendium[pf1.spells.76t09cafayrw13ux]{防活物护罩}</li>\n<li>14级——@Compendium[pf1.spells.br37848gchetel0q]{野兽形态 IV}</li>\n<li>16级——@Compendium[pf1.spells.3ah9mmg0odateh8l]{动物形态}</li>\n<li>18级——@Compendium[pf1.spells.x6y3kyvxf8s31jhy]{召唤自然盟友 IX}</li>\n</ul>"
 		},
 		{
@@ -12758,7 +12758,7 @@
 		},
 		{
 			"id": "Vengeance Patron",
-			"name": "复仇秘示域（Vengeance Patron）",
+			"name": "复仇庇护主（Vengeance Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.lndeaqm2j2nvgm6p]{燃烧之手}</li>\n<li>4级——@Compendium[pf1.spells.1wnzvfrpl2gp829u]{灼热凝视}</li>\n<li>6级——@Compendium[pf1.spells.jy64xofud29j5ju6]{痛苦打击}</li>\n<li>8级——@Compendium[pf1.spells.bacuzpculp9tld48]{咆哮术}</li>\n<li>10级——@Compendium[pf1.spells.k6nfhf1wvik082wu]{痛苦徽记}</li>\n<li>12级——@Compendium[pf1.spells.1dkzhi78je32sbrr]{Pain Strike, Mass}</li>\n<li>14级——@Compendium[pf1.spells.6jz03m4lryndt0kd]{复仇鬼影}</li>\n<li>16级——@Compendium[pf1.spells.iq0as5470o8q9y39]{焚云术}</li>\n<li>18级——@Compendium[pf1.spells.lun2gymejsmkjg4g]{复仇之风}</li>\n</ul>"
 		},
 		{
@@ -13483,7 +13483,7 @@
 		},
 		{
 			"id": "Winter Patron",
-			"name": "寒冬秘示域（Winter Patron）",
+			"name": "寒冬庇护主（Winter Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.wifi44l62ymqdvt8]{Unshakable Chill}</li>\n<li>4级——@Compendium[pf1.spells.tkjnm3lw7ni82tag]{抵抗能量伤害} (cold only),</li>\n<li>6级——@Compendium[pf1.spells.t1uhggjfimtabp4v]{冰风暴}</li>\n<li>8级——@Compendium[pf1.spells.ijui94bv4uzu8awb]{冰墙术}</li>\n<li>10级——@Compendium[pf1.spells.pkm8um5t1cxsn6jh]{寒冰锥}</li>\n<li>12级——@Compendium[pf1.spells.ol05jfb606v0lzj9]{冰封法球}</li>\n<li>14级——@Compendium[pf1.spells.578t0lra5ll3aifs]{操控天气}</li>\n<li>16级——@Compendium[pf1.spells.8jq1atxonnerix55]{极冰射线}</li>\n<li>18级——@Compendium[pf1.spells.0mt9mso6wdhfafpo]{Polar Midnight}</li>\n</ul>"
 		},
 		{
@@ -13978,7 +13978,7 @@
 		},
 		{
 			"id": "Portents Patron",
-			"name": "征兆秘示域（Portents Patron）",
+			"name": "征兆庇护主（Portents Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.wjdhmfdgwrevax3w]{凶兆}</li>\n<li>4级——@Compendium[pf1.spells.tcnirpnzjdaym1fd]{物品定位术}</li>\n<li>6级——@Compendium[pf1.spells.tfml9xp8w3xdq0e8]{血之讯息}</li>\n<li>8级——@Compendium[pf1.spells.pwueht12qqo0268e]{预言术}</li>\n<li>10级——@Compendium[pf1.spells.68ngvzmzvadhf6vs]{异界探知}</li>\n<li>12级——@Compendium[pf1.spells.b5mz8voksps5g4yq]{通晓传奇}</li>\n<li>14级——@Compendium[pf1.spells.aqeaxoaozlv9vg35]{灵视}</li>\n<li>16级——@Compendium[pf1.spells.2vb5orfcy57lrfmc]{片刻预知}</li>\n<li>18级——@Compendium[pf1.spells.vl7yer8k1leyuxld]{预警术}</li>\n</ul>"
 		},
 		{
@@ -14613,7 +14613,7 @@
 		},
 		{
 			"id": "Enchantment Patron",
-			"name": "惑控秘示域（Enchantment Patron）",
+			"name": "惑控庇护主（Enchantment Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.7p0oh9opqbf7j5du]{Unnatural Lust}</li>\n<li>4级——@Compendium[pf1.spells.6orhthk4g27rncuu]{安定心神}</li>\n<li>6级——@Compendium[pf1.spells.2yna9cslnzmuibhr]{Unadulterated Loathing}</li>\n<li>8级——@Compendium[pf1.spells.pmwu6qwvip76coqp]{Overwhelming Grief}</li>\n<li>10级——@Compendium[pf1.spells.q070n0zoq3zojpas]{支配人类}</li>\n<li>12级——@Compendium[pf1.spells.pfv5zv744x9dwg38]{指使术}</li>\n<li>14级——@Compendium[pf1.spells.xlzqpkl8fpm3sn4u]{爱与和平}</li>\n<li>16级——@Compendium[pf1.spells.21r9ptvsjo99o3yw]{短讯暗示}</li>\n<li>18级——@Compendium[pf1.spells.66s5qm8kwycgobce]{支配怪物}</li>\n</ul>"
 		},
 		{
@@ -15463,7 +15463,7 @@
 		},
 		{
 			"id": "Time Patron",
-			"name": "时间秘示域（Time Patron）",
+			"name": "时间庇护主（Time Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.0onqjy8gfgop1xsi]{腹语术}</li>\n<li>4级——@Compendium[pf1.spells.ow4t1zox6dtybgji]{沉默术}</li>\n<li>6级——@Compendium[pf1.spells.s9amdo5398alb5p0]{加速术}</li>\n<li>8级——@Compendium[pf1.spells.w2yf0ksu14e91uae]{三相}</li>\n<li>10级——@Compendium[pf1.spells.ptqu8gtrujxsvwy1]{传送术}</li>\n<li>12级——@Compendium[pf1.spells.sxyiwj0z95piv96i]{解离术}</li>\n<li>14级——@Compendium[pf1.spells.uuzeynxotp9dzu15]{耗费术}</li>\n<li>16级——@Compendium[pf1.spells.qptzjtg2m9cqnuwh]{永恒静滞}</li>\n<li>18级——@Compendium[pf1.spells.7mstq5c76h3e6zzx]{时间静止}</li>\n</ul>"
 		},
 		{
@@ -15548,7 +15548,7 @@
 		},
 		{
 			"id": "Wisdom Patron",
-			"name": "智慧秘示域（Wisdom Patron）",
+			"name": "智慧庇护主（Wisdom Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.y2uhoqr4itdbw5g4]{虔诚护盾}</li>\n<li>4级——@Compendium[pf1.spells.b9ggsagifzk4fwut]{枭之睿智}</li>\n<li>6级——@Compendium[pf1.spells.73han2zqxg59u18g]{魔化防具}</li>\n<li>8级——@Compendium[pf1.spells.exwa9xra4u82j0sx]{次等法术无效结界}</li>\n<li>10级——@Compendium[pf1.spells.ifcnx1yyw6e7ousm]{托梦术}</li>\n<li>12级——@Compendium[pf1.spells.w6ttezzz9rt4qnh7]{Globe Of Invulnerability}</li>\n<li>14级——@Compendium[pf1.spells.uyn64zazmaydnk7o]{法术反转}</li>\n<li>16级——@Compendium[pf1.spells.0kppkhsencd6tzvh]{防护法术}</li>\n<li>18级——@Compendium[pf1.spells.19p4nr8rsvt42lmn]{法师裂解术}</li>\n</ul>"
 		},
 		{
@@ -15613,7 +15613,7 @@
 		},
 		{
 			"id": "Moon Patron",
-			"name": "暗月秘示域（Moon Patron）",
+			"name": "暗月庇护主（Moon Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.tsndfcfijmgxs37p]{黑暗术}</li>\n<li>4级——@Compendium[pf1.spells.mz9yr5yhr0f3oqtp]{黑暗视觉}</li>\n<li>6级——@Compendium[pf1.spells.b9ggsagifzk4fwut]{枭之睿智}</li>\n<li>8级——@Compendium[pf1.spells.2mh7g81k30bv7b5m]{精神错乱}</li>\n<li>10级——@Compendium[pf1.spells.knjoprwzcm3jygwk]{狼之型}</li>\n<li>12级——@Compendium[pf1.spells.7yf67b7y4byj96w7]{操纵水位}</li>\n<li>14级——@Compendium[pf1.spells.8rf2ucrtzmxooyw6]{Lunar Veil}</li>\n<li>16级——@Compendium[pf1.spells.e8zen5nzixnt7bde]{凋死术}</li>\n<li>18级——@Compendium[pf1.spells.xhzme0v6tjq95fg6]{流星爆}</li>\n</ul>"
 		},
 		{
@@ -16043,7 +16043,7 @@
 		},
 		{
 			"id": "Deception Patron",
-			"name": "欺瞒秘示域（Deception Patron）",
+			"name": "欺瞒庇护主（Deception Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.0onqjy8gfgop1xsi]{腹语术}</li>\n<li>4级——@Compendium[pf1.spells.oylikodnyku2zewu]{隐形术}</li>\n<li>6级——@Compendium[pf1.spells.qmorw7eojkfqr00m]{闪现术}</li>\n<li>8级——@Compendium[pf1.spells.n0bsyxchnigkkuqo]{困惑术}</li>\n<li>10级——@Compendium[pf1.spells.ujo3w551azr3kran]{穿墙术}</li>\n<li>12级——@Compendium[pf1.spells.o9kqm42x6xkfjem3]{预置幻影}</li>\n<li>14级——@Compendium[pf1.spells.j2y1uga5fwg8deqq]{集体隐形}</li>\n<li>16级——@Compendium[pf1.spells.34jyuvdflia4goib]{闪光图纹}</li>\n<li>18级——@Compendium[pf1.spells.7mstq5c76h3e6zzx]{时间静止}</li>\n</ul>"
 		},
 		{
@@ -16133,7 +16133,7 @@
 		},
 		{
 			"id": "Death Patron",
-			"name": "死亡秘示域（Death Patron）",
+			"name": "死亡庇护主（Death Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.1hjxxr3k62rcpb5c]{观命术}</li>\n<li>4级——@Compendium[pf1.spells.272szq5d556toqgc]{生存勇气祝福}</li>\n<li>6级——@Compendium[pf1.spells.byn5q46du0ck592a]{死者交谈}</li>\n<li>8级——@Compendium[pf1.spells.zaw5yh1c7ftk45tf]{永恒安眠}</li>\n<li>10级——@Compendium[pf1.spells.ggt7q1ds0fvxxjgx]{绞杀}</li>\n<li>12级——@Compendium[pf1.spells.3a162m66toj22fpa]{死亡法阵}</li>\n<li>14级——@Compendium[pf1.spells.7toeli7vcq5a7tv1]{死亡一指}</li>\n<li>16级——@Compendium[pf1.spells.g0x2fnktg1553wv1]{死亡徽记}</li>\n<li>18级——@Compendium[pf1.spells.51ob5y7phwlhcuzz]{真言术 死}</li>\n</ul>"
 		},
 		{
@@ -16328,7 +16328,7 @@
 		},
 		{
 			"id": "Water Patron",
-			"name": "水流秘示域（Water Patron）",
+			"name": "水流庇护主（Water Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.cyzbticmitktat5v]{祝福圣水}/@Compendium[pf1.spells.c0hvjnqzry149ugs]{诅咒邪水}</li>\n<li>4级——@Compendium[pf1.spells.7fvsn0gbv6ynlp63]{水流术}</li>\n<li>6级——@Compendium[pf1.spells.7m5us8d4a9lwh1ap]{水中呼吸}</li>\n<li>8级——@Compendium[pf1.spells.7yf67b7y4byj96w7]{操纵水位}</li>\n<li>10级——@Compendium[pf1.spells.nll8ip8348eti0ff]{间歇泉}</li>\n<li>12级——@Compendium[pf1.spells.hd32fuc6e7j4isbn]{元素形态 III} (water only),</li>\n<li>14级——@Compendium[pf1.spells.v42t5kpxc8mvd615]{元素形态 IV} (water only),</li>\n<li>16级——@Compendium[pf1.spells.o4rwtizvdj7216qd]{水幕天华}</li>\n<li>18级——@Compendium[pf1.spells.ltda70etgwje43x6]{津波}</li>\n</ul>"
 		},
 		{
@@ -16413,7 +16413,7 @@
 		},
 		{
 			"id": "Healing Patron",
-			"name": "治疗秘示域（Healing Patron）",
+			"name": "治疗庇护主（Healing Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.eu4u4mr1naoiqohz]{移除恐惧}</li>\n<li>4级——@Compendium[pf1.spells.fxz69pwpqt9b6uss]{次等复原术}</li>\n<li>6级——@Compendium[pf1.spells.ocbjt6z7amc3yn8w]{移除疾病}</li>\n<li>8级——@Compendium[pf1.spells.anya5qwdjhdfyk8u]{复原术}</li>\n<li>10级——@Compendium[pf1.spells.sbhij6pdo24wkm48]{清洁术}</li>\n<li>12级——@Compendium[pf1.spells.i22bvq17g4r3bp4j]{Pillar Of Life}</li>\n<li>14级——@Compendium[pf1.spells.igmb8lisqcnsxd2d]{高等复原术}</li>\n<li>16级——@Compendium[pf1.spells.6346rs0f4sra9gt4]{群体治疗致命伤}</li>\n<li>18级——@Compendium[pf1.spells.mxqi375ya2rka7cp]{完全复生术}</li>\n</ul>"
 		},
 		{
@@ -17078,7 +17078,7 @@
 		},
 		{
 			"id": "Agility Patron",
-			"name": "灵巧秘示域（Agility Patron）",
+			"name": "灵巧庇护主（Agility Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.ns2zo6qgd9co02uf]{跳跃术}</li>\n<li>4级——@Compendium[pf1.spells.ns8jbp0ilbvbvuif]{猫之优雅}</li>\n<li>6级——@Compendium[pf1.spells.s9amdo5398alb5p0]{加速术}</li>\n<li>8级——@Compendium[pf1.spells.lvzq2mwkqmozolpl]{行动自如}</li>\n<li>10级——@Compendium[pf1.spells.d40ia71c2eljm91k]{变形术}</li>\n<li>12级——@Compendium[pf1.spells.xlch97n99ea0pog6]{Cat's Grace, Mass}</li>\n<li>14级——@Compendium[pf1.spells.btccs4sjo2nog1a0]{幻化灵体}</li>\n<li>16级——@Compendium[pf1.spells.3ah9mmg0odateh8l]{动物形态}</li>\n<li>18级——@Compendium[pf1.spells.n3lp01euzcdmtbw5]{形体变化}</li>\n</ul>"
 		},
 		{
@@ -17428,7 +17428,7 @@
 		},
 		{
 			"id": "Insanity Patron",
-			"name": "狂乱秘示域（Insanity Patron）",
+			"name": "狂乱庇护主（Insanity Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.5eg2f7nek9cjmv0n]{记忆空白}</li>\n<li>4级——@Compendium[pf1.spells.5nr9o7o0it6ewf17]{狂笑术}</li>\n<li>6级——@Compendium[pf1.spells.exe45ci6j1nh9j3l]{Distracting Cacophony}</li>\n<li>8级——@Compendium[pf1.spells.n0bsyxchnigkkuqo]{困惑术}</li>\n<li>10级——@Compendium[pf1.spells.dlmeq0hpxfbjtibb]{心灵迷雾}</li>\n<li>12级——@Compendium[pf1.spells.mvgg3g6zs5iutjj9]{Envious Urge}</li>\n<li>14级——@Compendium[pf1.spells.s6q72tw2zra9sycu]{精神错乱}</li>\n<li>16级——@Compendium[pf1.spells.picot3viqlfo8arm]{摄魂徽记}</li>\n<li>18级——@Compendium[pf1.spells.xuuzj9lr2xbwaim4]{神威如狱}</li>\n</ul>"
 		},
 		{
@@ -17633,7 +17633,7 @@
 		},
 		{
 			"id": "Occult Patron",
-			"name": "玄秘秘示域（Occult Patron）",
+			"name": "玄秘庇护主（Occult Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.aa0w7tk852iqn3ni]{侦测死灵}</li>\n<li>4级——@Compendium[pf1.spells.h1ankl1l77kmnpke]{命令死灵}</li>\n<li>6级——@Compendium[pf1.spells.bp1j6n5r1lsok3kf]{暮光之刃}</li>\n<li>8级——@Compendium[pf1.spells.wralcmyi4tdcai24]{黑触手}</li>\n<li>10级——@Compendium[pf1.spells.1rhpxleafu8mi5yu]{灵蛇杖}</li>\n<li>12级——@Compendium[pf1.spells.c1e7f0ct04k270wy]{唤起死灵}</li>\n<li>14级——@Compendium[pf1.spells.9f3hf9h3j8q8062b]{力竭波}</li>\n<li>16级——@Compendium[pf1.spells.xmkvpl56appk20cl]{锢魂术}</li>\n<li>18级——@Compendium[pf1.spells.ursm11405zobemi3]{异界之门}</li>\n</ul>"
 		},
 		{
@@ -17813,7 +17813,7 @@
 		},
 		{
 			"id": "Plague Patron",
-			"name": "疫病秘示域（Plague Patron）",
+			"name": "疫病庇护主（Plague Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.aa0w7tk852iqn3ni]{侦测死灵}</li>\n<li>4级——@Compendium[pf1.spells.h1ankl1l77kmnpke]{命令死灵}</li>\n<li>6级——@Compendium[pf1.spells.ppeb97nxg1rmdpme]{疫病术}</li>\n<li>8级——@Compendium[pf1.spells.8uwmrygxgih1fb57]{操纵死尸}</li>\n<li>10级——@Compendium[pf1.spells.pa6mgkl4caihdrhm]{巨虫术}</li>\n<li>12级——@Compendium[pf1.spells.c1e7f0ct04k270wy]{唤起死灵}</li>\n<li>14级——@Compendium[pf1.spells.wkp8u7xl1dgpk362]{操控死灵}</li>\n<li>16级——@Compendium[pf1.spells.j209j280fyqccq61]{唤起高等死灵}</li>\n<li>18级——@Compendium[pf1.spells.khfprkujokr9uigq]{吸能术}</li>\n</ul>"
 		},
 		{
@@ -18678,7 +18678,7 @@
 		},
 		{
 			"id": "Spirits Patron",
-			"name": "精魂秘示域（Spirits Patron）",
+			"name": "精魂庇护主（Spirits Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.tyhxeck30qtsp35q]{镇魂曲}</li>\n<li>4级——@Compendium[pf1.spells.oylikodnyku2zewu]{隐形术}</li>\n<li>6级——@Compendium[pf1.spells.byn5q46du0ck592a]{死者交谈}</li>\n<li>8级——@Compendium[pf1.spells.0lrux8tmaml5fkw6]{灵能盟友}</li>\n<li>10级——@Compendium[pf1.spells.p7edwwc2h3mb0bo5]{Ghostbane Dirge, Mass}</li>\n<li>12级——@Compendium[pf1.spells.btoow6tyv39443gh]{行影术}</li>\n<li>14级——@Compendium[pf1.spells.btccs4sjo2nog1a0]{幻化灵体}</li>\n<li>16级——@Compendium[pf1.spells.gfvnfa5k1tnpvg8v]{异界盟友}</li>\n<li>18级——@Compendium[pf1.spells.gw9bes9othfqm7mi]{同游灵界}</li>\n</ul>"
 		},
 		{
@@ -18693,7 +18693,7 @@
 		},
 		{
 			"id": "Stars Patron",
-			"name": "繁星秘示域（Stars Patron）",
+			"name": "繁星庇护主（Stars Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.bl71og1gklwncmt7]{妖火}</li>\n<li>4级——@Compendium[pf1.spells.ech2cibcsmsms9s7]{Dust Of Twilight}</li>\n<li>6级——@Compendium[pf1.spells.a6a6s9jysswthu3r]{群星的引导}</li>\n<li>8级——@Compendium[pf1.spells.ni93l43asrq29ytd]{游荡星尘}</li>\n<li>10级——@Compendium[pf1.spells.ifcnx1yyw6e7ousm]{托梦术}</li>\n<li>12级——@Compendium[pf1.spells.pzwe3gxjz8gthyaj]{梦之衣}</li>\n<li>14级——@Compendium[pf1.spells.y4881ol4t79wj7sf]{Circle Of Clarity}</li>\n<li>16级——@Compendium[pf1.spells.xlzqpkl8fpm3sn4u]{爱与和平}</li>\n<li>18级——@Compendium[pf1.spells.lnahlmp5mih2ongh]{星界投射}</li>\n</ul>"
 		},
 		{
@@ -18878,7 +18878,7 @@
 		},
 		{
 			"id": "Endurance Patron",
-			"name": "耐久秘示域（Endurance Patron）",
+			"name": "耐久庇护主（Endurance Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.pau0ejk30fs1eebl]{忍受环境}</li>\n<li>4级——@Compendium[pf1.spells.usdv1eqvibmxun6x]{熊之坚韧}</li>\n<li>6级——@Compendium[pf1.spells.1vh2ewwvzvxunoxk]{防护能量伤害}</li>\n<li>8级——@Compendium[pf1.spells.ui70binwqvjsgaam]{法术免疫}</li>\n<li>10级——@Compendium[pf1.spells.4k9bh8ny1il2oner]{法术抗力}</li>\n<li>12级——@Compendium[pf1.spells.irl69h8vnasfpak4]{Bear's Endurance, Mass}</li>\n<li>14级——@Compendium[pf1.spells.igmb8lisqcnsxd2d]{高等复原术}</li>\n<li>16级——@Compendium[pf1.spells.mkrjbrp57yfdqrx0]{钢筋铁骨}</li>\n<li>18级——@Compendium[pf1.spells.suel7sgnztenv551]{神迹术}</li>\n</ul>"
 		},
 		{
@@ -19853,7 +19853,7 @@
 		},
 		{
 			"id": "Trickery Patron",
-			"name": "诡术秘示域（Trickery Patron）",
+			"name": "诡术庇护主（Trickery Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.7k5ypftnzy9r7mzz]{活化绳}</li>\n<li>4级——@Compendium[pf1.spells.4jsss37x0pplib8f]{镜影术}</li>\n<li>6级——@Compendium[pf1.spells.7rx66m98dwo18fy8]{强效幻影}</li>\n<li>8级——@Compendium[pf1.spells.a2y1yf0a4jy3610w]{幻景}</li>\n<li>10级——@Compendium[pf1.spells.82vi1xife3nlu8a0]{海市蜃楼}</li>\n<li>12级——@Compendium[pf1.spells.446vcsetq4ny904e]{假象术}</li>\n<li>14级——@Compendium[pf1.spells.3bdfw5f15hwcxlth]{反重力}</li>\n<li>16级——@Compendium[pf1.spells.dsondqy4ngf1yzf3]{障幕}</li>\n<li>18级——@Compendium[pf1.spells.7mstq5c76h3e6zzx]{时间静止}</li>\n</ul>"
 		},
 		{
@@ -20668,7 +20668,7 @@
 		},
 		{
 			"id": "Shadow Patron",
-			"name": "阴影秘示域（Shadow Patron）",
+			"name": "阴影庇护主（Shadow Patron）",
 			"description": "<ul>\n<li>2级——@Compendium[pf1.spells.kq916lznxo0ig68v]{无声幻影}</li>\n<li>4级——@Compendium[pf1.spells.tsndfcfijmgxs37p]{黑暗术}</li>\n<li>6级——@Compendium[pf1.spells.jdsvncnna6oy189a]{深幽黑暗术}</li>\n<li>8级——@Compendium[pf1.spells.ed7fvzc2p4m6n7a2]{幽影咒法术}</li>\n<li>10级——@Compendium[pf1.spells.2q48ogrz3840xwi7]{幽影塑能术}</li>\n<li>12级——@Compendium[pf1.spells.btoow6tyv39443gh]{行影术}</li>\n<li>14级——@Compendium[pf1.spells.44nj6jzo81o9mng9]{Shadow Conjuration, Greater}</li>\n<li>16级——@Compendium[pf1.spells.967ur7a9xepd704y]{高等幽影塑能术}</li>\n<li>18级——@Compendium[pf1.spells.xxaycxbdsmalf5ov]{阴魂咒法术}</li>\n</ul>"
 		},
 		{
