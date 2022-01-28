@@ -10,7 +10,7 @@ By FVTT-CN
 
 1. 可在设置界面MOD页中，安装本MOD。
    - 安装链接：https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json
-   如果选择手动安装，则直接将`pf1e_cn_compendium`目录放入`modules`文件夹中即可。
+   - 如果选择手动安装，则直接将`pf1e_cn_compendium`目录放入`modules`文件夹中即可。
 2. 进入游戏世界（PF1E），在【设置-管理MOD】中勾选本MOD。
 3. 在【设置-语言】中选择【Chinese】。
 4. 重启游戏世界。
