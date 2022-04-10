@@ -1,20 +1,10 @@
-# FoundryVTT Pathfinder 1E 系统合集包中文化
+# Foundry VTT PF1E 合集包中文化
 
-本 MOD 为 FVTT 的 Pathfinder 1E 系统合集包加入了中文。
+![](https://img.shields.io/badge/Foundry-v9.266-informational) ![downloads](https://img.shields.io/github/downloads/fvtt-cn/pf1e_compendium_chn/total)
 
-![downloads](https://img.shields.io/github/downloads/fvtt-cn/pf1e_compendium_chn/total)
+本模组为 FVTT 的 Pathfinder 1e 系统合集包加入了中文。
 
-By FVTT-CN
-
-## 使用说明
-
-1. 可在设置界面MOD页中，安装本MOD。
-   - 安装链接：https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json
-   - 如果选择手动安装，则直接将`pf1e_cn_compendium`目录放入`modules`文件夹中即可。
-2. 进入游戏世界（PF1E），在【设置-管理MOD】中勾选本MOD。
-3. 在【设置-语言】中选择【Chinese】。
-4. 重启游戏世界。
-
-## 鸣谢
-
-* 感谢原作者猫斯基及其他参与了原汉化 MOD 工作人员的辛勤劳动
+## 安装
+- [x] 模组管理器中，粘贴清单文件地址： [https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json](https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json)
+- [x] 模组管理器中，搜索 `Translation: 中文 [PF1e（合集包）]`
+- [x] 下载 https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/pf1e_compendium_chn.zip 并解压至 `modules/pf1e_compendium_chn` 文件夹下
