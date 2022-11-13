@@ -1,7 +1,7 @@
 {
   "label": "武器与弹药",
   "mapping": {
-    "identifiedName": "data.identifiedName"
+    "identifiedName": "system.identifiedName"
   },
   "entries": [
     {

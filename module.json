@@ -15,12 +15,12 @@
   "scripts": [
     "./babele.js"
   ],
-  "systems": [
+  "relationships.systems": [
     "pf1"
   ],
-  "dependencies": [
+  "relationships.requires": [
     {
-      "name": "babele",
+      "id": "babele",
       "type": "module",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
     }
