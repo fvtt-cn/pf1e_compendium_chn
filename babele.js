@@ -1,25 +1,30 @@
 class SpellActionsConverters {
-	static actions(value, translations) {
+	actions(value, translations) {
 		if (!translations) {
 			return value;
 		}
-
+		let data;
 		value.forEach((type, index) => {
-			const data = translations[index];
-
-			value[index].effectNotes = data.effectNotes;
-			value[index].name = data.name;
-			value[index].spellArea = data.area;
-			value[index].spellEffect = data.effect;
-
+			data = translations[index];
+			if (index !== 0) { data = translations[0] }
+			if (value[index]?.name) {
+				value[index].name = data.name;
+			}
+			if (value[index]?.effectNotes) {
+				value[index].effectNotes = data.effectNotes;
+			}
+			if (value[index]?.spellArea) {
+				value[index].spellArea = data.area;
+			}
+			if (value[index]?.spellEffect) {
+				value[index].spellEffect = data.effect;
+			}
 			if (value[index].duration?.value) {
 				value[index].duration.value = data.duration;
 			}
-
 			if (value[index].save?.description) {
 				value[index].save.description = data.savingThrow;
 			}
-
 			if (value[index].target?.value) {
 				value[index].target.value = data.target;
 			}
@@ -28,6 +33,7 @@ class SpellActionsConverters {
 		return value;
 	}
 }
+const spellActionsConverters = new SpellActionsConverters();
 
 Hooks.on('init', () => {
 	if (typeof Babele !== 'undefined') {
@@ -38,7 +44,7 @@ Hooks.on('init', () => {
 		});
 
 		Babele.get().registerConverters({
-			'actions': (value, translations) => SpellActionsConverters.actions(value, translations)
+			'actions': (value, translations) => spellActionsConverters.actions(value, translations)
 		});
 	}
 });
