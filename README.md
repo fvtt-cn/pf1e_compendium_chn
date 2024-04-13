@@ -1,6 +1,6 @@
 # Foundry VTT PF1E 合集包中文化
 
-![](https://img.shields.io/badge/Foundry-v9.266-informational) ![downloads](https://img.shields.io/github/downloads/fvtt-cn/pf1e_compendium_chn/total)
+![](https://img.shields.io/badge/Foundry-v11.315-informational) ![downloads](https://img.shields.io/github/downloads/fvtt-cn/pf1e_compendium_chn/total)
 
 本模组为 FVTT 的 Pathfinder 1e 系统合集包加入了中文。
 
