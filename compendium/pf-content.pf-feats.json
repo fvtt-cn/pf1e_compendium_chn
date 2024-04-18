@@ -10,8 +10,8 @@
             "description": "<p><em>You can apply your specialized knowledge of hunting aberrations to make your spells harder for these monsters to resist.</em><br /><br /><strong>Prerequisites</strong><br />Caster level 4th, gillman, favored enemy (aberrations) class feature.<br /><br /><strong>Benefits</strong><br />Add half of your favored enemy bonus against aberrations to the saving throw DC of spells that you cast against aberrations and on caster level checks to overcome the spell resistance of aberrations.</p>"
         },
         "Abeyance": {
-            "name": "Abeyance",
-            "description": "<p><em>You can disrupt your opponent's connection to its own magical power.</em><br /><br /><strong>Prerequisites</strong><br />Int 13, Spellcraft 5 ranks, Use Magic Device 1 rank.<br /><br /><strong>Benefits</strong><br />As a standard action, you can drain the innate magical ability of a creature you've dealt damage to with a metal weapon since the beginning of your last turn. That creature must succeed at a Will save or be unable to access any spell-like abilities it can use more than once per day, until it is healed of all hit point damage, or up to a maximum duration of 1 minute.</p>\n<p><strong>Special<br /></strong>If a shaman or witch uses this blood hex, the target is unable to use any of its spell-like abilities for the hex&rsquo;s duration.</p>\n<p>&nbsp;</p>"
+            "name": "延缓诅咒 Abeyance",
+            "description": "<em><p>延缓诅咒会压制接触到生物身上的单一个诅咒效果。诅咒造成的伤害或吸取不会被回复。延缓诅咒不能压制那些无法被移除诅咒移除的诅咒，但是能压制例如兽化症（Lycanthropy）这类需要移除诅咒和额外措施同时使用才能解除的效果。同一个诅咒一次只能被一个延缓诅咒压制，哪怕它被另一个施法者施放。</p><p>延缓诅咒不会使得生物得以脱下诅咒物品，但是它能压制一个来自物品上的诅咒。</p></em><br/><br/><b>资源出处: </b>Pathfinder #82: Secrets of the Sphinx pg. 74<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Abeyance"
         },
         "Ability Focus": {
             "name": "能力专攻 Ability Focus",
@@ -1074,8 +1074,8 @@
             "description": "<em>在血性狂怒的驱使下，你化身为一团爪牙的风暴扑向对手。</em><br/><br/><b>先决条件: </b>寓守于攻，高等血性狂怒，基础攻击加值+6，血性狂怒能力，沙华鱼人。<br/><br/><b>专长效果: </b>每当你在处于血性狂怒的状态下发动攻击，你都可以放弃你的所有攻击次数而是对目标发动一次单次近战攻击，这次攻击使用你最高的攻击加值并且视为攻击每一个位于你的触及范围内处于流血状态或是已受伤的敌人你必须使用自己的天生武器，并且为每一个目标进行一次攻击检定。你不需要在发动这些攻击时仅使用一种天生武器。</p><p>如果你使用血腥如潮，那么你也不能从任何提供额外攻击次数的法术，专长和能力中收益。<br/><br/><b>资源出处: </b>Monster Codex pg. 189<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Tide"
         },
         "Blood Ties": {
-            "name": "Blood Ties",
-            "description": "<em>Pointing out your shared kinship with someone gives you the chance to win over creatures associated with your bloodline.</em><br/><br/><b>Prerequisites</b><br/>Bluff 1 rank, bloodline class feature, gnome.<br/><br/><b>Benefits</b><br/>When attempting a Diplomacy check to influence a creature with a plausible connection to your sorcerous bloodline, you may instead make a Bluff check. For example, a gnome sorcerer with the draconic bloodline may use this feat against dragons and their kin, but no other creatures."
+            "name": "血浓于水 Blood Ties",
+            "description": "<b>专长类型：</b>evil<br/><br/><em><p>这个法术的其中一位目标，必须是一个人质，这名人质需是在你法术范围内被绑住、被固定住或无助的生物(尽管之后这名人质移出了你的施法范围，此法术也不会结束)。第二目标必须是第一目标的家族成员。如果两个生物皆没有通过对此法术的豁免，那只要双方都还活着，那么人质所受到的任何伤害，第二目标也会承受，最大伤害为每天每施法者等级10点伤害(必然会杀死第一目标的过量伤害不会转移)。这种转移的伤害没有类型，并且会忽视第二目标的伤害减免以及抗性。如果两位目标中有一位通过豁免检定，则你永远不能再次尝试利用这两位生物之间的联系。如果目标之间的家族关系并非那么紧密，则你目标之间的连结会减弱。如果两个目标之间的关系是远亲又或是婚姻，那目标在此豁免检定上获得加+2加值。如果两个目标之间的关系是父母又或者是手足，则目标在伙豁免检定承受-2的减值。</p></em><br/><br/><b>资源出处: </b>Horror Adventures pg. 110<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Ties"
         },
         "Blood Vengeance": {
             "name": "血腥复仇 Blood Vengeance",
@@ -1967,11 +1967,11 @@
         },
         "Command Plants": {
             "name": "命令植物 Command Plants",
-            "description": "<em>你引导能量令植物向你臣服。</em><br/><br/><b>先决条件: </b>引导能量职业特性，植物领域。<br/><br/><b>专长效果: </b>以一个标准动作，你可以消耗一发引导能量每日使用次数，尝试控制30尺内的植物。植物可以尝试一次意志豁免（DC=10+你职业等级的一半+你的魅力调整值）来免受此效果。在上述豁免中失败的植物将落入你的掌控，尽它们所能来遵从你的命令，如同受到一个施法者等级等于你的职业等级的命令植物法术影响。每株受影响的植物每天可以进行一次新的豁免以摆脱此效果。你可以控制任意数量的植物，只要它们的HD之和不超过你的职业等级。如果你以此法引导能量，它不会产生其他效果（它不会治疗或伤害周围的生物）。如果受影响的植物正被其他生物操控或是其他生物的伙伴，当你们的命令冲突时，你必须尝试与其进行魅力对抗检定。<br/><br/><b>资源出处: </b>Ultimate Wilderness pg. 108<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Command%20Plants"
+            "description": "<em><p>该法术允许你在一定程度上控制一个或者更多个植物类生物。受影响的植物类生物将能够理解你的意思，并且会认为你的言行都是最有利于它们的 (它们对你的态度视为友善)。只要法术仍在持续，它们就不会攻击你。你可以尝试对它们下令，但你必须通过魅力对抗检定才能让它们去做通常不会做的事情 (无法重试)。被控制的植物决不可能服从自杀或者明显对自己有伤害的命令，但它或许会相信一些非常危险的事情是值得去做的。</p><p>你可以命令复数植物类生物，其等级或HD的总和不能超过你的CL的两倍。</p></em><br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 257<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Command%20Plants"
         },
         "Command Undead (Mythic)": {
             "name": "命令死灵(神话) Command Undead (Mythic)",
-            "description": "<b>先决条件：</b>命令死灵<br/><br/><em>你对死灵的控制力是绝对的。</em><br/><br/><b>神话专长效果：</b>当你使用命令死灵专长时，将你的阶层的一半加到该效果的意志豁免DC上，而且具有智能的不死生物不能在最初对你的命令进行抵抗之后再次获得额外豁免机会。若尝试对你已经控制的不死生物进行控制的生物是非神话生物的话，该尝试自动失败。而且当神话生物尝试对你所控制的不死生物偷取控制权时，你会在防止此行为的魅力检定中获得+4加值。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 61<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Command%20Undead"
+            "description": "<b>先决条件：</b>命令死灵<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Command%20Undead"
         },
         "Commander of Goblinkind": {
             "name": "地精大王 Commander of Goblinkind",
@@ -2642,8 +2642,8 @@
             "description": "<b>先决条件：</b>殃云天降<br/><br/><em>你从高处或空中进行的全力一击会造成致命的效果。</em><br/><br/><b>神话专长效果：</b>每当你从高处，或者在飞行时从上方冲锋一名敌人时，你的武器的重击倍率增加2点（最高为x6）。这不会与任何其他增加武器重击倍率的能力叠加。若你的冲锋攻击命中，你能够以自由动作对攻击目标进行摔绊战技而不会引起借机攻击。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 62<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Death%20from%20Above"
         },
         "Death from Below": {
-            "name": "Death from Below",
-            "description": "<em>You have been trained to fight flying creatures.</em><br/><br/><b>Prerequisites</b><br/>Base attack bonus +1.<br/><br/><b>Benefits</b><br/>You gain a +2 circumstance bonus against flying opponents when you have set a weapon against a charge, or when you are allowed an attack of opportunity against the flying opponent."
+            "name": "矮处求生 Death from Below",
+            "description": "<em><p>你能够使目标在对抗较大生物时的AC获得闪避加值。攻击者比受术者体型每大1级，获得的加值就能够提升1点，最高获得施法者等级的1/3。如果受术者为侏儒，那么最高获得的加值等同于施法者等级的一半。</p></em><br/><br/><b>资源出处: </b>Advanced Race Guide pg. 39<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Death%20from%20Below"
         },
         "Death or Glory": {
             "name": "死而后生 Death or Glory",
@@ -2926,8 +2926,8 @@
             "description": "<em>先决条件：技能专攻（交涉），信仰阿斯莫迪斯</em><br/><br/><b>先决条件: </b>技能专攻（交涉），信仰阿斯莫迪斯。<br/><br/><b>专长效果: </b>你可以选择将智力调整值或感知调整值（取其高者）取代你的魅力调整值加到你的交涉技能检定上。除此之外，你的交涉技能可以将生物的态度改变两级以上，如果你在交涉检定正骰出1或失败至少5点，目标的态度只会下降一级。<br/><br/><b>资源出处: </b>Inner Sea Gods pg. 210<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diabolical%20Negotiator"
         },
         "Die for Your Master": {
-            "name": "丢卒保帅 Die for Your Master",
-            "description": "<em>你的囊肿魔宠替你去挡刀。</em><br/><br/><b>先决条件: </b>【囊肿魔宠】科研发现。<br/><br/><b>专长效果: </b>如果你的囊肿魔宠连接在身上，而你的HP将被战斗伤害（源自武器或者其他类似的攻击，不包括法术和特殊能力）降低到0或者更低，魔宠会以一个直觉动作插入到攻击中。如果它通过了DC为造成的伤害的反射豁免，它会承受这次攻击所造成的所有伤害；如果豁免失败，则它只受到一半的伤害，而你受到另一半的伤害。</p><p>这个能力每天只能使用1次，魔宠必须要意识到这次攻击并且能够做出反应才能使用这个能力——如果它在AC上失去敏捷加值就无法使用此能力。因为这个效果不是通常意义上的通过反射豁免则减半伤害，所以【精通反射闪避】能力不使用于这一豁免。<br/><br/><b>资源出处: </b>Ultimate Magic pg. 148<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Die%20for%20Your%20Master<br/><br/><b>战策增益：</b>当你使用这个专长来让重击无效时，你可以消耗5点耐力来让你的盔甲或盾牌有50%的概率来避免获得破损状态。"
+            "name": "为主而亡 Die for Your Master",
+            "description": "<em><p>该法术的功能如同为主而伤（Bleed For Your Master）一般，不过它允许你的动物伙伴或者魔宠抵挡任何以你为目标的攻击，包括那些不需要攻击检定的攻击（例如连环闪电chain lightning ，怪物定身术hold monster 以及魔法飞弹magic missile）。你的动物伙伴或魔宠无法阻挡那些对其生物类型无效的效果（例如支配人类dominate person）。</p></em><br/><br/><b>资源出处: </b>Animal Archive pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Die%20for%20Your%20Master"
         },
         "Difficult Swings": {
             "name": "横扫六合 Difficult Swings",
@@ -4730,8 +4730,8 @@
             "description": "<em>你熟知火焰的习性，即使是魔法的火焰也一样。</em><br/><br/><b>先决条件: </b>地精。<br/><br/><b>专长效果: </b>你在对抗带有〔火〕描述符的法术的豁免检定时获得+2加值。此外，你身上的疤痕说明你是一名有才华的驯火者，这使你在与其他地精打交道时的交涉以及威吓检定获得+2环境加值。<br/><br/><b>资源出处: </b>Advanced Race Guide pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fire%20Tamer"
         },
         "Firebrand": {
-            "name": "火罚之烙 Firebrand",
-            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以将一支手中的火炬当做燃烧的战锤般使用。</em><br/><br/><b>先决条件: </b>信仰阿斯莫迪斯。<br/><br/><b>专长效果: </b>你可以将一支火把当做一支造成钝击伤害的轻型武器来使用，在数据上等同于一支符合你体型，并且在攻击时造成1点额外火焰伤害的轻型硬头锤，你不必承受使用临时武器大师攻击减值。<br/><br/><b>通常状况: </b>你只能将火把当做单手临时武器来使用，数据上等同于符合你体型的铁手套，并且造成1点额外的火焰伤害。<br/><br/><b>资源出处: </b>Faiths of Corruption pg. 24<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Firebrand"
+            "name": "火焰纹章 Firebrand",
+            "description": "<b>专长类型：</b>fire<br/><br/><em><p>你为几个盟友身上刻下火焰构成的印记。这个印记不会造成任何伤害，并且会发出如同一个火把一般的光芒。</p><p>当火焰印记生效后，任何被标记的生物对你的法术造成的火焰伤害都会完全免疫。</p><p>所有目标的武器 (天生和人造武器) 的每一击都会造成额外1d6点的火焰伤害 (此额外伤害可以和任何武器造成的火焰伤害叠加)。</p><p>在法术持续时间内的任何时候，受术生物都可以用一个迅捷动作对30英尺内的任何目标发射一道火焰射线。射线需要一次远程接触攻击检定，成功后造成6d6点火焰伤害。</p><p>一旦受术生物使用本法术能力发射火焰射线，它身上的法术效果立刻结束。</p></em><br/><br/><b>资源出处: </b>Advanced Players Guide pg. 222<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Firebrand"
         },
         "Firesight": {
             "name": "火焰视域 Firesight",
@@ -5030,8 +5030,8 @@
             "description": "<b>专长类型：</b>Combat<br/><br/><em>在敌人疏于守备时，你会让他们被脏招打得痛不欲生。</em><br/><br/><b>先决条件: </b>智力 13，狡狐之智，狡狐式，精通阴招。<br/><br/><b>专长效果: </b>当你使用狡狐式（Fox Style）时，能够以借机攻击执行阴招战技（dirty trick combat maneuvers；Advanced Player's Guide 320页）。若你的智力至少达到了19，则会在阴招战技检定中获得+4加值。<br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 84<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fox%20Trickery"
         },
         "Free Spirit": {
-            "name": "自由之魂 Free Spirit",
-            "description": "<em>对自由的强大信念保护你免受精神或肉体上的束缚。</em><br/><br/><b>先决条件: </b>魅力13，任意混乱阵营。<br/><br/><b>专长效果: </b>你在对抗影响心灵效果的豁免检定中获得+2士气加值。此外，所有用于逃脱擒抱或者脱离束缚的脱逃或擒抱检定也获得+2士气加值。<br/><br/><b>资源出处: </b>Inner Sea World Guide pg. 287Pathfinder Campaign Setting pg. 129<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Free%20Spirit"
+            "name": "自由精神 Free Spirit",
+            "description": "<em><p>这个法术可以让你引导出凯登·凯连哲学的精髓，让你获得行动自如（Freedom Of Movement)法术的好处，并给予你对恐惧效果的豁免中+4的加值。这个法术也会让你醉倒（drunk）。在法术持续期间，你在攻击检定、能力检定、技能检定和专注检定中受到-2的惩罚。如果你以某种方式消除或避免这些惩罚，法术的持续时间就会结束。</p></em><br/><br/><b>资源出处: </b>Inner Sea Temples pg. 23<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Free%20Spirit"
         },
         "Freeze in Place": {
             "name": "Freeze in Place",
@@ -5866,8 +5866,8 @@
             "description": "<b>专长类型：</b>Combat<br/><br/><em>诵唱着诅咒，你用徒手打击将巫术能量送进敌人体内。</em><br/><br/><b>先决条件: </b>【巫术】职业特性，精通徒手打击。<br/><br/><b>专长效果: </b>当你选择该专长，选择一种你能施放而目标不超过一个敌人的巫术。如果你对一个敌人进行了一次成功的徒手打击，除了正常的徒手打击伤害，你还能用迅捷动作让你选择的巫术作用于该目标。这么做不会引发借机攻击。<br/><br/><b>特殊说明: </b>你能多次选择该专长。每次都可以选择一种不同的巫术。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 104<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hex%20Strike<br/><br/><b>战策增益：</b>你可以消耗5点耐力来以一个自由动作而不是迅捷动作来使用你选择的巫术APG的效果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
         },
         "Hidden Presence": {
-            "name": "隐藏者 Hidden Presence",
-            "description": "<em>你很擅长潜藏于宿主之中。</em><br/><br/><b>先决条件: </b>智力或魅力17，施放占据术（Possession）或高等占据术（Possession，Greater）的能力。<br/><br/><b>专长效果: </b>正在占据其他生物时，你能够在预言效果（divinations）中隐藏自身，而且能够通过反邪恶法阵（Magic Circle against Evil）或者禁制术（Forbiddance）这样的防护。你必须尝试一次意志豁免对抗这些法术（即便这些法术原本并不允许进行豁免）。若豁免成功，则这些法术会将你视作为你的宿主一般（举例说明：预言效果仅会揭示出宿主的阵营，禁制术仅会针对宿主的阵营而不会伤害你）。若豁免失败，这些法术就会如常对你生效；若法术在正常情况下允许进行豁免，那么首先遭受的此次失败并不会被算作为在对抗法术正常效果的豁免中失败。<br/><br/><b>资源出处: </b>Occult Adventures pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hidden%20Presence"
+            "name": "隐藏存在感 Hidden Presence",
+            "description": "<b>专长类型：</b>mind-affecting<br/><br/><em><p>你阻止目标意识到你的存在。通过抹消目标精神内对于你的存在的一切认知，你让受术者完全无法察觉到你自身。目标无法看到（see）、听到（hear）、嗅到（smell）、用触觉感觉到（feel）或尝到（taste）你，这也包含了特异（extraordinary）或超自然（supernatural）感官，比如盲感（blindsense）、盲视（blindsight）、灵敏嗅觉（scent）或颤动感知（tremorsense）。目标无法以任何方式定位你的位置，包括使用侦测法术（detect spells）也不行。</p><p>只要你不作出任何攻击、或者在目标周遭造成任何明显或直接具有威胁性的变化的话，目标便无法意识到你的行动。若你攻击目标生物中的任何成员，该法术便会结束。若你作出的动作会在目标周遭制造出持续且明显的变化——举例说明，攻击目标之外的生物、或者在目标的视野内移动大或引人注目的物体——目标便会立即获得1次新的豁免检定机会。</p></em><br/><br/><b>资源出处: </b>Ultimate Intrigue pg. 216<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hidden%20Presence"
         },
         "Hide Worker": {
             "name": "Hide Worker",
@@ -7042,8 +7042,8 @@
             "description": "<em>You can imbue curse magic into objects.</em><br/><br/><b>Benefits</b><br/>You can alter a spell with the curse descriptor to target an object rather than a person. Your spell immediately targets the next creature to pick up, handle, or interact with the object as if that creature were the spell's original target. The curse affects only the first creature to use the item, even if the curse originally affected multiple targets. An object invested with a latent curse detects as magical, with an aura appropriate for the spell's original level and school. As with all cursed items, someone studying the object's magic aura recognizes that it is cursed only if her Spellcraft check exceeds the target DC by 10 or more. So long as a latent curse remains active in an item, you cannot recover the spell slot used to cast that spell. A latent curse remains active in an item for 1 day per caster level, but you can dispel the latent curse whenever you recover your spells as a free action, rending the cursed object harmless and regaining the expended spell slot.<br/><br/> A latent curse spell uses up a spell slot 1 level higher than the spell's actual level."
         },
         "Lay of the Land": {
-            "name": "亲和大地 Lay of the Land",
-            "description": "<em>你与自然的同调性使你熟识自己行走的土地。</em><br/><br/><b>先决条件: </b>动物之力职业能力，理解动物职业能力。<br/><br/><b>专长效果: </b>你获得偏好地形，如同游侠的同名职业能力。但是，你的偏好地形不会随着等级增长。除此之外，它可以作为偏好地形以决定获得其他专长和其他效果的前提条件。<br/><br/><b>特殊说明: </b>你可以选择本专长最多4次，每次选择时，你获得一种新的偏好地形。但是，你在此之前选择的偏好地形加值不会增加。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 152<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lay%20of%20the%20Land"
+            "name": "遍览大地 Lay of the Land",
+            "description": "<em><p>灵光一闪，你了解你周围半径1哩/2等级(最小1哩)内的地理情况。只要你还待在被影响的区域内，这瞬间的熟悉感给予你在知识(地理)检定以及避免迷路的生存检定上，等同你施法者等级(最大+5)的内在加值。</p><p>此外，在法术的持续时间内，你可以进行关于受影响区域的知识(地理)检定，如同你已经在这项技能上受过训般。</p></em><br/><br/><b>资源出处: </b>Faiths and Philosophies pg. 29<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lay%20of%20the%20Land"
         },
         "Lead by Example": {
             "name": "Lead by Example",
@@ -7262,8 +7262,8 @@
             "description": "<b>专长类型：</b>CombatTeamwork<br/><br/><em>你的盟友能够帮助你避免被突袭。</em><br/><br/><b>专长效果: </b>若你邻近一名拥有该专长的盟友，只要他能在突袭轮中行动，你就能在突袭轮中行动。如果你在正常情况下不能在突袭轮中行动，且你的先攻高于该盟友，那么你的先攻调整为该盟友的先攻-1。如果你与该盟友不需要本专长的帮助都能在突袭轮中行动，那么你们能各自进行一个标准动作与一个移动动作，或一个整轮动作。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 164<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lookout<br/><br/><b>战策增益：</b>只要你在你的耐力池中还有1点耐力，并且在拥有这个专长盟友的10尺之内，你就能获得这个专长的好处。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 125"
         },
         "Lost Legacy": {
-            "name": "失落荣光 Lost Legacy",
-            "description": "<b>专长类型：</b>Story<br/><br/><em>曾属于你家族的财产终将属于你。</em><br/><br/><b>先决条件: </b>你的家族必须有一项可继承的头衔或地位，但已不再为你所有；或你拥有“落魄门第（Dishonored Family）”角色背景。你甚至可以在不知道失落的家族头衔究竟为何时选择本专长。<br/><br/><b>专长效果: </b>你的魅力属性检定、基于魅力的技能检定+1。<br/><br/><b>专长目标: </b>重拾家族的名望，无论是为你自己还是某位家族成员。为完成这一过程，你必须完胜一位否认你继承权的强大敌手。<br/><br/><b>完成收益: </b>你的感知属性检定、基于感知的技能检定和意志豁免+1。</p><p>特殊备注：若你试图通过某种回避强大敌手的手段重拾家族名望，你日后仍然需要通过搞定某位试图篡夺你继承权的强大敌手来完成本专长。<br/><br/><b>资源出处: </b>Ultimate Campaign pg. 70<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lost%20Legacy"
+            "name": "失落馈赠 Lost Legacy",
+            "description": "<b>专长类型：</b>cursemind-affecting<br/><br/><em><p>你对接触的生物施加诅咒，让其他人在和目标互动时迅速忘记掉目标的积极一面。目标无法尝试用交涉（或野性认同，或其他类似技能）检定改善他人的态度。任何正常与目标态度为友善或者乐于帮助的生物每次与目标互动时都必须成功通过一个DC与该法术正常豁免DC相同的意志豁免，否则它的态度会变成冷漠。一旦该诅咒被移除，那些重新回来与目标交流的生物会恢复他们与目标的愉快记忆。如果他们与目标的态度没从冷漠降到更低，他们会恢复原本的态度。</p><p>法术</p><p>下列的法术透过增强施法者的力量，来提高施法者不被侦测的能力，保护或隐藏自身的行动或用不同的方式干扰敌人的感知。</p></em><br/><br/><b>资源出处: </b>Magic Tactics Toolbox pg. 22<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lost%20Legacy"
         },
         "Lovable Scoundrel": {
             "name": "Lovable Scoundrel",
@@ -7970,8 +7970,8 @@
             "description": "<em>尽管你身处非神话的范畴内，但是已经成为了伟大神话世界的重要组成部分。</em><br/><br/><b>先决条件: </b>你必须为非神话角色或生物。<br/><br/><b>专长效果: </b>在判断神话法术与效果对你如何起作用时，你被视为神话生物。若你成为了神话角色或生物，那么你会在对抗神话法术的所有豁免中获得+1加值。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 70<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mythic%20Companion"
         },
         "Named Bullet": {
-            "name": "Named Bullet",
-            "description": "<em>You can craft ammunition intended to kill specific foes.</em><br/><br/><b>Prerequisites</b><br/>Amateur Gunslinger feat or grit class feature, Gunsmithing, base attack bonus +5.<br/><br/><b>Benefits</b><br/>Whenever you craft ammunition using Gunsmithing, you may inscribe a bullet or alchemical cartridge with the name of its intended target. The ammunition gains the bane weapon special ability against the chosen creature only. If the ammunition is used to attack any other target, the attack roll is instead made with a -2 penalty. Crafting a named bullet costs 1 grit point and reduces your maximum grit points by 1 until the named bullet is fired or destroyed."
+            "name": "指名狙杀 Named Bullet",
+            "description": "<em><p>你让目标弹药对一个选定的你可以命名的生物或一个生物类别 (对于类人生物和异界生物还须指定亚种) 产生可怕的精准度。</p><p>在受术弹药对指定生物使用时，弹药不会不发火，并且无视掩蔽效果 (除了全掩蔽)，并且在30尺或更短距离内，攻击视为接触攻击。当受术弹药命中选定生物，你必须克服它的法术抗力 (如果有)，否则法术无效。</p><p>如果选定生物被正常命中，会直接造成一次重击威胁，并且造成每施法者等级1点 (最高20) 的额外伤害，这个伤害不会被重击系数加成。但如果这次命中投骰本身即可造成重击，那么额外伤害同样也按重击系数翻倍。</p><p>一旦受术弹药被用于攻击选定生物，不管成功与否，法术都解消。</p></em><br/><br/><b>资源出处: </b>Ultimate Combat pg. 238<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Named%20Bullet"
         },
         "Nameless One": {
             "name": "Nameless One",
@@ -9246,8 +9246,8 @@
             "description": "<b>先决条件：</b>快速装填<br/><br/><em>你能够使用惊人的速度装填任意一类武器。</em><br/><br/><b>神话专长效果：</b>你获得关于所有弩和火器的快速装填专长的好处，而不仅仅是在你选取该专长时原本选择的那1类。以迅捷动作，你能够花费1次神话之力，以此使你在1分钟内装填弩和火器时不会引起借机攻击。<br/><br/><b>资源出处: </b>Mythic Adventures pg. 72<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rapid%20Reload"
         },
         "Rapid Repair": {
-            "name": "Rapid Repair",
-            "description": "<em>You can use your nanite surge to repair damage.</em><br/><br/><b>Prerequisites</b><br/>Wis 13, nanite surge ability.<br/><br/><b>Benefits</b><br/>You can use your nanite surge ability to heal a number of hit points equal to your character level, instead of its usual effects."
+            "name": "快速修复 Rapid Repair",
+            "description": "<em><p>目标构装生物获得5点快速愈合。这个效果不会与任何已有的快速愈合效果叠加。快速愈合对一个生命值已经为0或已被摧毁的构装生物无效。</p></em><br/><br/><b>资源出处: </b>Ultimate Magic pg. 234<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rapid%20Repair"
         },
         "Rapid Shot (Mythic)": {
             "name": "快速射击(神话) Rapid Shot (Mythic)",
@@ -9862,8 +9862,8 @@
             "description": "<b>专长类型：</b>Combat<br/><br/><em>快速的反应能力能够使失手的攻击获得第二次机会。</em><br/><br/><b>先决条件: </b>智力13，寓守于攻，基本攻击加值+6。<br/><br/><b>专长效果: </b>当你进行全力攻击时，如果你的第一次攻击失手，你能够放弃进行本轮剩下的其他攻击，来使用你最高的BAB重掷该次攻击。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 168<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Second%20Chance<br/><br/><b>战策增益：</b>即使在你没有满足先决条件中的属性要求（智力13）时，你也能选择这个专长。只有在你的耐力池中还有1点耐力时你才能获得这个专长的好处。在你使用燕归来时，你可以消耗5点耐力，这样你就能在重投你的第一次攻击后打出你次高攻击加值的一次攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
         },
         "Second Wind": {
-            "name": "Second Wind",
-            "description": "<em>The roar of the crowd strengthens your resolve.</em><br/><br/><b>Prerequisites</b><br/>Endurance.<br/><br/><b>Benefits</b><br/>When you spend a swift action to attempt a performance combat check, you gain a +2 bonus on your performance combat check, and if you are shaken, sickened, or fatigued, these conditions are suppressed until the end of your next turn."
+            "name": "复苏之风 Second Wind",
+            "description": "<b>专长类型：</b>air<br/><br/><em><p>当你血量低于25%时才能施展这个法术。随着深深的呼吸，你可以呼唤清新的空气充满着你的肺部。你可以恢复2D8+每施法者等级1（最多+10）的生命值。你可以在你回合用迅捷使用这个法术或者是当你血量被带至0点时，用直觉动作使用这个法术。如果你不呼吸，你就不能获得这个法术的效果。</p></em><br/><br/><b>资源出处: </b>Elemental Masters Handbook pg. 18<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Second%20Wind"
         },
         "Secret Capital": {
             "name": "Secret Capital",
@@ -11074,8 +11074,8 @@
             "description": "<em>每当你召唤魅影时，它都会在短时间内获得更为强大的力量。</em><br/><br/><b>先决条件: </b>魅影（Phantom）职业能力。<br/><br/><b>专长效果: </b>每当你召唤自己的魅影时，都会让它在力量、敏捷或魅力上获得+2增强加值。该加值在召唤仪式完成后会持续10分钟。<br/><br/><b>资源出处: </b>Occult Adventures pg. 140<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spiritualist's%20Call"
         },
         "Spit Venom": {
-            "name": "喷毒 Spit Venom",
-            "description": "<b>专长类型：</b>Combat<br/><br/><em>你已经掌握了娜迦裔战士的技巧——将毒素喷入敌人的眼睛。</em><br/><br/><b>先决条件: </b>娜迦裔。<br/><br/><b>专长效果: </b>以一个整轮动作，你能够用远程接触攻击将毒液喷出10尺远。如果你命中目标，他必须进行一次成功的强韧豁免，否则将会目盲1d6轮。豁免DC等同于“10+1/2总生命骰+体质修正”。每天你能够使用该能力1次，每拥有3个HD时额外再增加1次。<br/><br/><b>资源出处: </b>Advanced Race Guide pg. 197<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spit%20Venom<br/><br/><b>战策增益：</b>当你喷吐毒药时，你可以消耗5点耐力。你消耗的每点耐力都会将这次攻击的距离提升5尺。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+            "name": "毒液喷吐 Spit Venom",
+            "description": "<b>专长类型：</b>poison<br/><br/><em><p>以一个远程接触攻击，你对目标喷出了一股毒液蒸汽。</p><p>如果毒液命中，它会导致目标失明一轮。</p><p>目标必须通过强韧检定否则就会中黑奎蛇毒 (black adder venom); 毒药的后续豁免DC也等于法术DC。</p></em><br/><br/><b>资源出处: </b>Ultimate Magic pg. 240<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spit%20Venom"
         },
         "Splash Volley": {
             "name": "溅射截击 Splash Volley",
@@ -11386,8 +11386,8 @@
             "description": "<em>You can rain arrows upon a greater number of foes.</em><br/><br/><b>Prerequisites</b><br/>Hail of arrows class feature.<br/><br/><b>Benefits</b><br/>When using hail of arrows, you can target up to two targets for every arcane archer level you have."
         },
         "Storm of Blades": {
-            "name": "Storm of Blades",
-            "description": "<em>Your technique unleashes a dizzying torrent of cuts.</em><br/><br/><b>Prerequisites</b><br/>Weapon Focus with slashing weapon, base attack bonus +6.<br/><br/><b>Benefits</b><br/>As a standard action, you can make a single attack with your chosen weapon while setting up a vortex of cuts that lasts until the beginning of your next turn. Any creature that begins its turn threatened by this weapon takes damage equal to your Strength or Dexterity bonus, whichever is greater. When your base attack bonus reaches +11, you also add your base weapon damage. When your base attack bonus reaches +16, you gain the distraction universal monster rule for this damage, but a creature that fails its save is only sickened. You can use this feat's benefits only once per minute."
+            "name": "剑刃风暴 Storm of Blades",
+            "description": "<em><p>你创造出一把类型与用于此法术材料成分的剑相同的浮空武器（例如细剑或弯刀），并用魔法驱动它们攻击目标。你每有2个施法者等级就可以创造出一把剑，在10级时最大5把。你和你的目标之间必须有效果线，并且目标必须在法术范围内。你为每把剑做一次远程攻击检定（没有射程增量和近战武器用于远程攻击的惩罚）; 每次攻击使用相同的重击范围和重击倍率以及伤害骰，如同用于花费的剑的标准类型。以此法术创造的剑会在攻击（或失手）他们的目标后消失。</p></em><br/><br/><b>资源出处: </b>People of the Sands pg. 11<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Storm%20of%20Blades"
         },
         "Storm Soul": {
             "name": "Storm Soul",
