@@ -1,0 +1,945 @@
+{
+    "label": "Feats",
+    "entries": {
+        "Acrobatic": {
+            "name": "特技专家 Acrobatic",
+            "description": "<em>你对于冲刺，跳跃和飞行颇有心得。</em><br/><br/><br/><br/><b>专长效果: </b>对于所有的特技和飞行检定获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 113<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic"
+        },
+        "Acrobatic Steps": {
+            "name": "神行步 Acrobatic Steps",
+            "description": "<em>你能轻松的越过障碍。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷15，灵狐步。<br/><br/><b>专长效果: </b>不论怎样移动，你每回合可以将至多15尺的复杂地形当作一般地形来移动。本专长可以与“灵狐步”效果叠加（即允许你每回合正常移动20尺的复杂地形）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 113<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic%20Steps"
+        },
+        "Agile Maneuvers": {
+            "name": "灵巧武艺 Agile Maneuvers",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你学会了在战斗中使用你灵活的招式。</em><br/><br/><br/><br/><b>专长效果: </b>用你的敏捷修正代替力量修正来决定CMB加值。<br/><br/><b>通常状况: </b>用你的力量修正和体型修正来决定战斗招式加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 117<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers<br/><br/><b>战策增益：</b>你可以在尝试战技检定时花费最多不超过你敏捷加值的耐力点数。每如此消耗2点耐力，你在判定战技能否影响目标，以及计算战技的体型加值时视作比原有体型大一级。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 113"
+        },
+        "Alertness": {
+            "name": "警觉 Alertness",
+            "description": "<em>你通常能注意到一些别人忽视的事情。</em><br/><br/><br/><br/><b>专长效果: </b>在察觉和察言观色技能检定上获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 117<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alertness"
+        },
+        "Aligned Crafting": {
+            "name": "Aligned Crafting",
+            "description": "<p><strong>Source</strong> People of the Wastes pg. 26</p><p><em>Your magical creations reject those you oppose.</em></p><p><strong>Prerequisites</strong>: Craft Magic Arms and Armor or Craft Wondrous Item.</p><p><strong>Benefit</strong>: When you craft a magic weapon, magic armor, a magic shield, or a wondrous item, you can infuse it with a bit of your convictions. Creatures that are more than one alignment step away from you are sickened while using or wearing this item. An item that has been infused with your alignment can never have an opposing special ability added to it later (for example, a longsword infused with your lawful good alignment cannot later gain the anarchic weapon special ability). Infusing the item with your alignment in this way increases the items total construction cost by 10%.</p>"
+        },
+        "Alignment Channel": {
+            "name": "阵营导能 Alignment Channel",
+            "description": "<em>选择混乱，邪恶，善良或是秩序阵营。你能引导神力来影响对应阵营的异界生物。</em><br/><br/><br/><br/><b>先决条件: </b>引导能量能力。<br/><br/><b>专长效果: </b>取代通常效果，你能选择引导能量来治疗或伤害一个特定阵营亚种的异界生物。你必须在每次引导能量时作出决定。若你选择治疗或伤害选定阵营亚种的异界生物，你的引导能量将不会对其他生物产生影响。治疗和伤害量、以及豁免DC不做改变。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，效果并不叠加。每次选择本专长时，可以选择一个新的阵营。当你引导能量时，你必须决定影响哪个阵营。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 117<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alignment%20Channel"
+        },
+        "Animal Affinity": {
+            "name": "动物亲和 Animal Affinity",
+            "description": "<em>你对于与动物以及坐骑的工作颇有心得。</em><br/><br/><br/><br/><b>专长效果: </b>在驯养动物和骑乘技能检定上获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Animal%20Affinity"
+        },
+        "Arcane Armor Mastery": {
+            "name": "披甲奥术熟稔 Arcane Armor Mastery",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你掌握在身着盔甲的时候施法的能力。</em><br/><br/><br/><br/><b>先决条件: </b>披甲奥术训练，擅长中型盔甲，施法者等级7级。<br/><br/><b>专长效果: </b>通过一个迅捷动作，对于本轮所有法术，减少由穿戴盔甲带来的施法失败机率20%。本效果取代“披甲奥术训练”专长的效果而非叠加。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Armor%20Mastery<br/><br/><b>战策增益：</b>当着甲施法时你可以花费一点耐力以自由动作启动披甲奥术熟稔，或通过消耗等同于法术等级的耐力点（最低1）来消除施展该法术的奥术失败几率。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 113"
+        },
+        "Arcane Armor Training": {
+            "name": "披甲奥术训练 Arcane Armor Training",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你学会了怎么在身着盔甲的时候施法。</em><br/><br/><br/><br/><b>先决条件: </b>擅长轻型盔甲，施法者等级3级。<br/><br/><b>专长效果: </b>通过一个迅捷动作，对于本轮所有法术，减少由穿戴盔甲带来的施法失败机率10%。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Armor%20Training<br/><br/><b>战策增益：</b>当着甲施法时你可以花费一点耐力以自由动作启动披甲奥术训练。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 114"
+        },
+        "Arcane Strike": {
+            "name": "奥术打击 Arcane Strike",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你用你的法力增强武器的魔法力量。</em><br/><br/><br/><br/><b>先决条件: </b>奥术施法能力。<br/><br/><b>专长效果: </b>通过一个迅捷动作，你能将你的部分魔法能量加持到你的武器上。你的武器伤害+1，且在面对伤害减免的时候被视为魔法武器，持续一轮。每拥有5个CL伤害加值+1，最高可以在20级的时候达到+5。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Strike<br/><br/><b>战策增益：</b>你可以通过消耗任意数量的耐力点来延长该专长的持续轮数，每点耐力一轮。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 114"
+        },
+        "Armor Proficiency, Heavy": {
+            "name": "擅长重型盔甲 Armor Proficiency, Heavy",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你对于穿戴重型盔甲颇有心得。</em><br/><br/><br/><br/><b>先决条件: </b>擅长轻型盔甲，擅长中型盔甲。<br/><br/><b>专长效果: </b>见擅长轻型盔甲。<br/><br/><b>特殊说明: </b>对于战士和圣骑士，“擅长重型盔甲”作为奖励专长自动学会，他们无需选择这个专长。<br/><br/><b>通常状况: </b>见擅长轻型盔甲。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Proficiency,%20Heavy"
+        },
+        "Armor Proficiency, Light": {
+            "name": "擅长轻型盔甲 Armor Proficiency, Light",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你对于穿戴轻型盔甲颇有心得。</em><br/><br/><br/><br/><b>专长效果: </b>当你穿戴所擅长的盔甲时，只有基于敏捷或力量的技能才会受到防具检定减值。<br/><br/><b>特殊说明: </b>除了武僧，术士和法师以外的所有角色都能自动学会“擅长轻型盔甲”作为奖励专长，他们无需选择这个专长。<br/><br/><b>通常状况: </b>当你穿戴不擅长的盔甲时，对于攻击检定和所有导致角色移动的技能，都会受到防具检定减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Proficiency,%20Light"
+        },
+        "Armor Proficiency, Medium": {
+            "name": "擅长中型盔甲 Armor Proficiency, Medium",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你对于穿戴中型盔甲颇有心得。</em><br/><br/><br/><br/><b>先决条件: </b>擅长轻型盔甲。<br/><br/><b>专长效果: </b>见擅长轻型盔甲。<br/><br/><b>特殊说明: </b>野蛮人，牧师，德鲁伊，战士，圣骑士和游侠自动学会“擅长中型盔甲”作为奖励专长，他们无需选择这个专长。<br/><br/><b>通常状况: </b>见擅长轻型盔甲。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Proficiency,%20Medium"
+        },
+        "Athletic": {
+            "name": "运动健将 Athletic",
+            "description": "<em>你拥有与生俱来的身体素质。</em><br/><br/><br/><br/><b>专长效果: </b>对于攀爬和游泳检定获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Athletic"
+        },
+        "Augment Summoning": {
+            "name": "增强召唤 Augment Summoning",
+            "description": "<em>你的召唤生物将更加强健有力。</em><br/><br/><br/><br/><b>先决条件: </b>法术专攻（咒法）。<br/><br/><b>专长效果: </b>你用召唤法术召唤的任何生物获得力量和体质的+4增强加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Augment%20Summoning"
+        },
+        "Bleeding Critical": {
+            "name": "流血重击 Bleeding Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击能造成敌人流血不止。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，基本攻击加值+11。<br/><br/><b>专长效果: </b>当你用挥砍或穿刺类武器造成重击时，你的敌人在受到重击伤害同时每轮承受2d6出血伤害。出血伤害可以通过DC15的医疗技能检定或者任何魔法治疗来制止。本专长效果可以叠加。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bleeding%20Critical<br/><br/><b>战策增益：</b>通过花费最多不超过3点耐力，你提升出血伤害，等同于两倍你消耗的耐力点。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 114"
+        },
+        "Blind-Fight": {
+            "name": "盲斗 Blind-Fight",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够在不能清晰感知你的敌人的情况下，熟练地进行攻击。</em><br/><br/><br/><br/><b>专长效果: </b>在近战时，每次因为隐蔽效果而造成的攻击失手，你都能重骰失手率以确定你是否击中。不可见的攻击者在近战攻击你时不会获得特殊优势。这就是说你不会失去AC的敏捷加值，对方也无法获得通常隐形下的攻击+2加值。但是不可见攻击者的远程攻击依然会有上述优势。此外，你在目盲状态下全速移动时无需进行特技技能检定。<br/><br/><b>特殊说明: </b>“盲斗”专长对于那些处在‘闪现术’法术效果下的角色无效。<br/><br/><b>通常状况: </b>不可见的攻击者对你的攻击会让你失去AC的敏捷加值。黑暗或视觉受限的状况也会减慢你的移动速度。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 118<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blind-Fight<br/><br/><b>战策增益：</b>每轮一次，当你命中一个处在隐蔽状态下的敌人时，花费2点耐力可以令你无视该敌人的失手率，直至你的下一轮结束。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 114"
+        },
+        "Blinding Critical": {
+            "name": "致盲重击 Blinding Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击能让敌人目盲。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，基本攻击加值+15。<br/><br/><b>专长效果: </b>你的重击会让你的敌人永久目盲。成功的强韧豁免会将目盲效果减弱为目眩，持续1d4轮。强韧豁免的DC为“10+你的BAB”。本专长对视觉不依赖眼睛或多于两只眼睛的生物无效（虽然多次重击可能会使所有的眼睛目盲，由GM决定）。目盲可由‘医疗术’、‘再生术’、‘移除目盲’法术或类似能力治愈。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blinding%20Critical<br/><br/><b>战策增益：</b>当你重击确认并尝试用该专长令目标致盲时，通过花费最多不超过5点耐力，你可以提升豁免DC等同所耗费的耐力点。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 114"
+        },
+        "Brew Potion": {
+            "name": "调制药剂 Brew Potion",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能制造魔法药水。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级3级。<br/><br/><b>专长效果: </b>你能基于任意3环以下、目标为一个或多个生物或物体的法术制造魔法药水。【译注：这就是说目标为〔自己〕的法术不能制药，譬如‘克敌机先’。】制造价值250gp以下的药水需要花费2个小时，否则每1000gp需花费1天。当你调制药剂的时候，由你设定其CL，该等级需满足施放该法术的条件并且不高于你当前的等级。你需要同等同于一半药水价值的原料来调制药剂。更多信息请参见魔法物品规则。</p><p>当你调制药剂时，你需要像施展该法术一样进行某些效果的选择。法术的目标就是使用药水者。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Brew%20Potion"
+        },
+        "Caster's Champion": {
+            "name": "Caster's Champion",
+            "description": "<p><b>Source</b> Path of the Hellknight pg. 21</p><p><em>You draw upon the power of an allied arcane spellcaster to enhance your weapons with magical energy.</em></p><p><b>Benefit</b>: Three times per day as a swift action, when you are within 30 feet of an ally who is an arcane spellcaster, you can channel a portion of her arcane power into your weapons. For 1 round, you gain a +1 bonus on all weapon damage rolls, and your weapons are treated as magic for the purpose of overcoming damage reduction. When your base attack bonus reaches +4 and every 4 points thereafter, this bonus increases by 1, to a maximum of +5 at 16th level.</p><p><b>Special</b>: This feat counts as Arcane Strike for the purposes of prerequisites.</p>"
+        },
+        "Catch Off-Guard": {
+            "name": "随手武器 Catch Off-Guard",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的敌人惊讶于你能熟练使用各种非常规武器和临时武器。</em><br/><br/><br/><br/><b>专长效果: </b>在你使用临时武器进行近战攻击时不会受到任何惩罚。未武装的敌人对于你的临时近战武器攻击视为措手不及。<br/><br/><b>通常状况: </b>当你使用临时武器时在攻击检定时受到-4的减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Catch%20Off-Guard<br/><br/><b>战策增益：</b>在以临时武器攻击手持武器的敌人时，你可以花费5点耐力令目标对此次攻击呈措手不及状态。如果目标认出你并目睹你使用过随手武器能力，该战策无效。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 115"
+        },
+        "Channel Smite": {
+            "name": "导能打击 Channel Smite",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能将神的力量引导到你的近战武器中。</em><br/><br/><br/><br/><b>先决条件: </b>引导能量能力。<br/><br/><b>专长效果: </b>在你进行近战攻击检定之前，你能以迅捷动作选择使用你的一种引导能量。如果你引导的是正能量并击中一个不死生物，该生物将受到等同于你引导正能量的额外伤害。反之，对于引导负能量击中活着的生物，造成同样的伤害。生物可以通过意志豁免来降低一半伤害。如果你未击中，引导的能量会消散。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Channel%20Smite<br/><br/><b>战策增益：</b>在你使用引导打击时，可选择花费不超过你引导能量骰数的耐力点，每点消耗的耐力增加导能打击的正/负能量伤害1d6。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 115"
+        },
+        "Cleave": {
+            "name": "顺势斩 Cleave",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你挥动一次武器，命中两个相邻的敌人。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，猛力攻击，基本攻击加值+1。<br/><br/><b>专长效果: </b>每轮1次，以一个标准动作，你可以对攻击范围内的一个敌人以最高BAB进行一次攻击。若命中，在正常伤害的同时，你还能对攻击范围内、与其相邻的另一敌人再进行一次最高BAB攻击。若你这么做，在你下轮动作之前，会遭受AC-2的惩罚。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cleave<br/><br/><b>战策增益：</b>在使用顺劈或大顺劈时花费4点耐力可消除AC惩罚。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 115"
+        },
+        "Combat Casting": {
+            "name": "战斗施法 Combat Casting",
+            "description": "<em>你适应在受到威胁或分心的情况下施法。</em><br/><br/><br/><br/><b>专长效果: </b>防御式施法或被擒抱时，施展法术或类法术能力的专注检定获得+4加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Casting"
+        },
+        "Combat Expertise": {
+            "name": "寓守于攻 Combat Expertise",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>以精准度的代价获得防御的提升。</em><br/><br/><br/><br/><b>先决条件: </b>智力13。<br/><br/><b>专长效果: </b>你可以选择用近战攻击和战技检定的-1减值来换取AC的+1闪避加值。每当BAB+4，攻击减值会再-1，AC加值也会再+1。你只能在以近战武器进行攻击或全力攻击时，才能选择使用这个专长；专长效果持续到你下轮开始。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Expertise<br/><br/><b>战策增益：</b>即使你不符合属性先决条件（13智力）你依然可以选择该专长，但只有在耐力池保有至少1点耐力时才生效。如果你花费耐力点通过战斗耐力专长提升命中，在使用寓守于攻时忽视等同所消耗耐力的命中惩罚。（译者：这段不太懂，似乎是启动寓守于攻时花费耐力点可直接削减惩罚，而非原有的表现加值，使得其可以和其他表现加值叠加的意思？）<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 115"
+        },
+        "Combat Reflexes": {
+            "name": "战斗反射 Combat Reflexes",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能进行额外的借机攻击。</em><br/><br/><br/><br/><b>专长效果: </b>每轮你能获得等同于敏捷修正次数的额外借机攻击。同样，你在措手不及的情况下，也能进行借机攻击。<br/><br/><b>特殊说明: </b>此专长不能让盗贼在一个回合中多次使用【乘势攻击】高级天赋的效果。</p><p>【速查】乘势攻击（Opportunist）：每轮1次，盗贼可以对刚刚被其他角色的近战伤害到的敌人作一次借机攻击。该攻击计入盗贼每轮借机攻击次数中。即使有“战斗反射”专长，盗贼也不能每轮使用此能力1次以上。<br/><br/><b>通常状况: </b>没有这个专长的角色每轮只能进行1次借机攻击，并且在措手不及时不能进行借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 119<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes<br/><br/><b>战策增益：</b>如果借机攻击失手，花费5点耐力就可以承受-5命中惩罚对同一目标再次借机攻击，但也会计入本轮借机攻击总和中。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 115"
+        },
+        "Combat Vigor": {
+            "name": "Combat Vigor",
+            "description": "<p><b>Source</b> Healer's Handbook pg. 14</p><p><em>You can quickly recuperate from devastating attacks without divine assistance.</em></p><p><b>Prerequisites</b>: Con 13.</p><p><b>Benefit</b>: You gain a vigor pool with a maximum number of points equal to your Constitution bonus. As a standard action, you can spend up to 1 vigor point per 3 Hit Dice you have (minimum 1) to regain 1d6 hit points per vigor point spent (maximum 7d6). Each time you spend vigor points, you become fatigued for 1 minute. You cannot spend vigor points while fatigued or exhausted. Spending vigor points doesn’t provoke attacks of opportunity. The points in your vigor pool are replenished to their maximum after you rest for 8 hours.</p>"
+        },
+        "Command Undead": {
+            "name": "命令死灵 Command Undead",
+            "description": "<em><p>该法术允许你在某种程度上控制一个不死生物。若受影响的不死生物为智能生物时，它将认为你的言行是最有利于它的 (它对你的态度视为友善)。只要法术仍在持续，它就不会攻击你。你可以尝试对它下令，但你必须通过魅力对抗检定才能让它去做通常不会做的事情 (无法重试)。被控制的智能不死生物决不可能服从自杀或者明显对自己有伤害的命令，但它或许会相信一些非常危险的事情是值得去做的。</p><p>非智能不死生物在对抗该法术时无法进行豁免。当你控制无心智的不死生物时，你只能对它下达一些最基本的命令，例如“来”、“去”、“战斗”、“停下”等等。非智能不死生物也不能抗拒自杀或明显伤害自己的命令。</p><p>你或者你明显的盟友，若对被控制的不死生物 (不管它是否有智能) 产生威胁都将打破该法术。</p><p>你的命令并非心灵感应。这个不死生物必须有能力听到你的命令。</p></em><br/><br/><br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 257<br/><br/><b>原文索引: </b>https://www.aonprd.com/SpellDisplay.aspx?ItemName=Command%20Undead"
+        },
+        "Craft Construct": {
+            "name": "制造构装体 Craft Construct",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你可以制造构装体生物，比如魔像。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级5级，制造魔法武器和护甲，制造奇物。<br/><br/><b>专长效果: </b>你可以制造任何满足前提要求的构装体。唤醒构造体的过程需要花费“构造体价格/1000”天时间。你必须拥有相当于构装体价格一半的构装原材料来进行制造，再加上前提制造所需的费用。每具构装体都有独立的价格花费及制造要求说明。新制造的构装体拥有相当于其生命骰数平均数的HP。<br/><br/><b>资源出处: </b>Pathfinder RPG Bestiary pg. 314<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Construct"
+        },
+        "Craft Magic Arms and Armor": {
+            "name": "制造魔法武器和防具 Craft Magic Arms and Armor",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能制造魔法盔甲，盾牌和武器。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级5级。<br/><br/><b>专长效果: </b>你能制造魔法盔甲，盾牌和武器。为一件武器、一套盔甲或盾牌附魔需要的时间为：附加的魔法特性的价格每增加1000gp，工期增加1天。加工所需耗材的价格为成品价格的一半。更多信息请参见魔法物品规则。将被附魔的武器、盔甲或盾牌必须为精制品，其成本不在上述之列。你还可以修理损坏的武器、盔甲或盾牌，只要你能制造它。修理耗费一半制造该物品所需的原料和时间。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Magic%20Arms%20and%20Armor"
+        },
+        "Craft Ooze": {
+            "name": "Craft Ooze",
+            "description": "<p><strong>Source</strong> Alchemy Manual pg. 22</p><p><em>You can use alchemy to create dangerous ooze creatures.</em></p><p><strong>Prerequisites</strong>: Brew Potion, Craft Wondrous Item, Craft (alchemy) 3 ranks, caster level 5th.</p><p><strong>Benefit</strong>: You can create living oozes as though they were magical items. Creating an ooze creature takes 1 day for each 500 gp in its construction cost. To create an ooze, you must have access to an oozing vat (see below), you must use up raw materials worth the construction cost of the ooze, and you must succeed at a Craft (alchemy) check (DC 10 + 2 × the ooze’s CR). A failed check ruins the materials used, while a check that fails by 5 or more also results in an ooze that attacks its creator for 1d4 rounds before dissipating into useless waste material. A newly created ooze has average hit points for its Hit Dice. Oozes created with this feat are mindless and uncontrolled, and even normally intelligent oozes like slithering trackers that are created this way have no Intelligence score—nor any loyalty to their creator.</p><p>While ooze creatures cannot normally be purchased in traditional marketplaces, GMs who wish to include such an option in their games—perhaps with oozes sold as black market commodities— need only double the construction cost of a specific ooze creature in order to figure out a fair market price.</p><p>The following table lists some of the most commonly crafted oozes and their creation requirements. At the GM’s discretion, other types of ooze creatures can be created with this feat. Creatures from Pathfinder RPG Bestiary 2, 3, or 4 are marked with a matching superscript.</p><table><tbody><tr><th>Ooze</th><th>Construction Cost</th><th>Craft DC</th></tr><tr><td>Gelatinous cube</td><td>1,600 GP</td><td>16</td></tr><tr><td>Gray ooze</td><td>3,600 GP</td><td>18</td></tr><tr><td>Slithering tracker<sup>B2</sup></td><td>3,600 GP</td><td>18</td></tr><tr><td>Ochre jelly</td><td>4,900 GP</td><td>20</td></tr><tr><td>Black pudding</td><td>8,100 GP</td><td>24</td></tr><tr><td>Magma ooze<sup>B2</sup></td><td>8,100 GP</td><td>24</td></tr><tr><td>Deathtrap ooze<sup>B3</sup></td><td>8,100 GP</td><td>26</td></tr><tr><td>Carnivorous crystal<sup>B3</sup></td><td>16,900 GP</td><td>32</td></tr></tbody></table>"
+        },
+        "Craft Poppet": {
+            "name": "Craft Poppet",
+            "description": "<p><strong>Source</strong> Adventurer's Armory 2 pg. 31</p><p><em>Some construct builders learn their art by creating poppets.</em></p><p><strong>Prerequisites</strong>: Caster level 1st.</p><p><strong>Benefit</strong>: You can craft poppets and add augmentations to existing poppets that you control. You are treated as having both Craft Arms and Armor and Craft Wondrous Item for the purpose of fulfilling the prerequisites for Craft Construct.</p>"
+        },
+        "Craft Rod": {
+            "name": "制造权杖 Craft Rod",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能制造魔法权杖。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级9级。<br/><br/><b>专长效果: </b>你能制造魔法权杖。权杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。更多信息请参见魔法物品规则。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Rod"
+        },
+        "Craft Shadow Piercing": {
+            "name": "Craft Shadow Piercing",
+            "description": "<p><strong>Source</strong> Champions of Corruption pg. 28</p><p><em>You can craft magical piercings infused with the power of shadow.</em></p><p><strong>Prerequisites</strong>: Craft (jewelry) 5 ranks, caster level 5th.</p><p><strong>Benefit</strong>: You can create special wondrous items—typically barbs, hooks, rings, and spikes—that adorn piercings in the wearer’s flesh and grant magical abilities. Both you and the recipient of the piercing (if not yourself) must be present for the entire piercing process.</p><p>Shadow piercings must be placed in a part of the body normally associated with a magic item slot, but they do not take up a slot on the body, nor interfere with other magic items that use those slots. A single slot can only hold one shadow piercing (nonmagical piercings do not count against this limit). Shadow piercings can be applied to the following slots: belt, body, chest, eyes, feet, hands, head, neck, shoulder, and wrist.</p><p>A single slot can hold multiple physical piercings, though the pieces of jewelry operate as a single item and must be created for that purpose. Shadow piercings have different levels of power: minor, major, and greater. Minor shadow piercings usually include one piece of jewelry, while major and greater shadow piercings often are made up of multiple rings and spikes that cover the entire area of the piercing’s slot (but are still considered a single item). A creature can only use a number of shadow piercings equal its Constitution modifier plus its Wisdom modifier.</p><p>Carefully inserting or removing a shadow piercing takes a full-round action and deals no damage. Alternatively, a shadow piercing may be pulled out of a creature using the steal maneuver as a standard action that deals 1d6 points of damage. Only a creature with the Craft Shadow Piercing feat may create or insert a shadow piercing, but any creature may remove one. Inserting a shadow piercing is impossible unless the target is willing or helpless. After being removed, a shadow piercing may be inserted into another creature by someone with this feat. Since they are treated as magic items, they are affected by dispel magic.</p><p>Shadow piercings follow the rules for magic item creation, except the creator can use the Craft (jewelry) skill instead of Spellcraft. New shadow piercings can be researched and designed using the rules for pricing new magic items. Shadow piercing powers for a specific slot must be thematically similar or linked. Since shadow piercings don’t interfere with other magic items in the same slot, but can only have one piercing per slot, the base price is multiplied by 1.5 instead of doubled as if they had no space limitation.</p>"
+        },
+        "Craft Staff": {
+            "name": "制造法杖 Craft Staff",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能制造法杖。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级11级。<br/><br/><b>专长效果: </b>你能制造法杖。法杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。新制造的法杖拥有10发充能。更多信息请参见魔法物品规则。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Staff"
+        },
+        "Craft Wand": {
+            "name": "制造魔杖 Craft Wand",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能制造魔杖。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级5级。<br/><br/><b>专长效果: </b>你能制造任何你知道的4环或以下法术的魔杖。法杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。新的魔杖拥有50发充能。更多信息请参见魔法物品规则。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Wand"
+        },
+        "Craft Wondrous Item": {
+            "name": "制造奇物 Craft Wondrous Item",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能制造奇物，一种魔法物品。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级3级。<br/><br/><b>专长效果: </b>你能制造多种魔法奇物。奇物的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。更多信息请参见魔法物品规则。你还能修理那些损坏的奇物。修理耗费一半制造该物品所需的原料和时间。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Wondrous%20Item"
+        },
+        "Create Enhanced Firearm": {
+            "name": "Create Enhanced Firearm",
+            "description": "<p><strong>Source</strong> People of the Wastes pg. 26</p><p><em>You can craft superior firearms.</em></p><p><strong>Prerequisites</strong>: Craft Magic Arms and Armor; Craft (weapons) 1 rank or Gunsmithing.</p><p><strong>Benefit</strong>: When you craft a firearm or magical firearm, you can use reinforced components to make the weapon more reliable. This increases the item’s total construction cost by 10%. The misfire chance of the weapon is reduced by 1. This can never reduce a firearm’s misfire chance by more than 1.</p>"
+        },
+        "Critical Focus": {
+            "name": "重击专攻 Critical Focus",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你熟练于制造疼痛的艺术。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+9。<br/><br/><b>专长效果: </b>在确定重击的攻击检定中，获得+4的环境加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Critical%20Focus<br/><br/><b>战策增益：</b>如果重击确认投出19或20，花费2点耐力可再次确认重击，如果成功，重击伤害倍数+1。你可继续确认重击，如果又投出19或20，便可继续花费耐力进行确认和提升重击倍数，如此往复。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 116"
+        },
+        "Critical Mastery": {
+            "name": "重击熟稔 Critical Mastery",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击能引发两种重击效果。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，任意两项重击专长，战士14级。<br/><br/><b>专长效果: </b>当你重击时，你在造成伤害的同时可以引发两项重击专长的效果。<br/><br/><b>通常状况: </b>当你重击时，你在制造伤害的同时只能引发一项重击专长的效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Critical%20Mastery<br/><br/><b>战策增益：</b>重击确认时，如果花费2点耐力，你可以选择不对目标引发两项重击专长，而引发一项你符合条件但未学习的重击专长效果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 116"
+        },
+        "Crushing Impact": {
+            "name": "Crushing Impact",
+            "description": "<p><b>Source</b> Martial Arts Handbook pg. 24</p><p><em>You slam into your foes with brute strength as unyielding as a wall.</em></p><p><b>Prerequisites</b>: Str 13, Improved Bull Rush, Improved Unarmed Strike, Power Attack.</p><p><b>Benefit</b>: Whenever you successfully bull rush an enemy and its movement is stopped by a solid object or barrier, you deal your unarmed strike damage to the foe, as long as it’s within your threatened area. If you performed your bull rush as part of a charge, you gain a +2 bonus on your damage roll.</p>"
+        },
+        "Cultivate Magic Plants": {
+            "name": "奇植培育 Cultivate Magic Plants",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你将园艺技能和魔法知识结合起来，以种植神奇植物。</em><br/><br/><br/><br/><b>先决条件: </b>制造药水，制造奇物，知识（自然）1级。<br/><br/><b>专长效果: </b>你可以培养魔法植物。培育一种神奇的植物，每1000GP就需要1周的时间。当你创造一个神奇的植物时，你需要做出如同你在正常施放魔法时通常所做的相同的选择。无论谁吃了魔法植物的果实，都将成为法术的目标。<br/><br/><b>资源出处: </b>Ultimate Wilderness pg. 109<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cultivate%20Magic%20Plants"
+        },
+        "Dazzling Display": {
+            "name": "炫目技巧 Dazzling Display",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你对于最热衷的武器的掌握能使你的敌人眼花缭乱。</em><br/><br/><br/><br/><b>先决条件: </b>武器专攻，擅长对应的武器。<br/><br/><b>专长效果: </b>当装备了你所拥有“武器专攻”专长的武器时，你能以整轮动作来展示你华丽的技巧。你将对30尺内所有能看见你的敌人做出挫败士气的威吓检定。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 120<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dazzling%20Display<br/><br/><b>战策增益：</b>以一个标准动作用专攻武器命中敌人后，你可以选择此敌人和30尺内任意数量可见该行为的敌人。为这些目标支付每人2点耐力后可尝试用威吓挫败士气。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 116"
+        },
+        "Deadly Aim": {
+            "name": "致命瞄准 Deadly Aim",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>通过减少命中率，你能对准敌人的弱点做出极具威胁的远程攻击。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，基本攻击加值+1。<br/><br/><b>专长效果: </b>你可以选择使所有的远程攻击检定受到-1的减值以换取伤害+2。你的BAB每+4，减值再-1，伤害再+2。你必须在攻击检定前选择使用本专长，效果持续到你的下一轮。本专长对于接触攻击或不造成HP伤害的攻击无效。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 121<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Aim<br/><br/><b>战策增益：</b>每花费4点耐力，可以将该专长造成的命中惩罚消减1点，直至你下一轮开始。惩罚不能消减低于0。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 116"
+        },
+        "Deadly Stroke": {
+            "name": "致命绝杀 Deadly Stroke",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能用一次精确的击打，快速而致命的终结你的敌人。</em><br/><br/><br/><br/><b>先决条件: </b>炫目技巧，高等武器专攻，粉碎打击，武器专攻，擅长对应的武器，基本攻击加值+11。<br/><br/><b>专长效果: </b>作为一个标准动作，以你所拥有“高等武器专攻”专长的武器，对一个处于震慑或措手不及状态的敌人做出攻击。如果击中，将造成双倍普通伤害以及1点体质出血。额外伤害和出血不会因重击而加倍。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 121<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Stroke<br/><br/><b>战策增益：</b>花费5点耐力你可以对眩晕的目标进行致命绝杀，或花费10点对夹击的敌人致命绝杀。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 116"
+        },
+        "Deafening Critical": {
+            "name": "致聋重击 Deafening Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击令命中的敌人失去听力。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，基本攻击加值+13。<br/><br/><b>专长效果: </b>每当你对一个敌人成功造成重击时，会令该生物永久失聪。成功通过强韧豁免可使耳聋效果减至1轮。强韧豁免的DC为“10+你的BAB”。此专长对已聋及无听觉的生物无效。耳聋可由‘医疗术’、‘再生术’、‘移除耳聋’法术或类似能力治愈。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 121<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deafening%20Critical<br/><br/><b>战策增益：</b>当你重击确认并尝试用该专长令目标至聋时，通过花费最多不超过5点耐力，你可以提升豁免DC等同所耗费的耐力点。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 116"
+        },
+        "Deceitful": {
+            "name": "诈欺师 Deceitful",
+            "description": "<em>你善于欺骗他人，无论谎言还是乔装易容。</em><br/><br/><br/><br/><b>专长效果: </b>你在所有唬骗和易容技能检定上获得+2加值。如果某技能受训等级10以上，则对应加值改为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 121<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deceitful"
+        },
+        "Defensive Combat Training": {
+            "name": "防御式战斗训练 Defensive Combat Training",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于在面对各种战技时保护自己。</em><br/><br/><br/><br/><b>专长效果: </b>你在计算战技防御时可以用你的总生命骰数代替BAB。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 121<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Defensive%20Combat%20Training<br/><br/><b>战策增益：</b>你可花费任意点数耐力获得同等数量的CMD加值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 117"
+        },
+        "Deflect Arrows": {
+            "name": "拨挡飞箭 Deflect Arrows",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以挡开飞来的箭和其他飞行物，防止它们命中你。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，精通徒手打击。<br/><br/><b>专长效果: </b>你必须至少空出一只手（没有拿任何东西）才能使用本专长。当你被远程武器击中时，每轮有一次机会挡掉而不受伤害。你必须察觉到该攻击，且不能处于措手不及状态。拨挡远程武器不算是一个动作。通常大型远程武器（例如巨石或弩炮巨矢）和源自天生攻击或法术效果的远程攻击无法被挡开。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 121<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deflect%20Arrows<br/><br/><b>战策增益：</b>花费5点耐力，你可以在措手不及时使用该专长。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 117"
+        },
+        "Deft Hands": {
+            "name": "妙手 Deft Hands",
+            "description": "<em>你拥有非常灵敏的双手。</em><br/><br/><br/><br/><b>专长效果: </b>你的解除装置与巧手技能检定获得+2加值。如果某技能受训等级10以上，则对应加值改为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 121<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deft%20Hands"
+        },
+        "Diehard": {
+            "name": "顽强 Diehard",
+            "description": "<em>你尤其难以被杀掉。你不但在受到极其严重的伤害时伤势会自动稳定下来，还能够保持清醒并继续行动，即便已经摸到了死亡的门坎。</em><br/><br/><br/><br/><b>先决条件: </b>坚忍。<br/><br/><b>专长效果: </b>当HP降至0以下，但还没有死亡时，你可以自动稳定伤势，不须每回合作体质检定避免HP流失。你可以选择如同瘫痪状态一般行动，而非濒死。你必须在HP降至负数时立刻决定是否采取瘫痪状态的动作，若否，你将立刻陷入昏迷。使用本专长时，你视同恍惚状态。你每轮可以进行一次移动动作且不受任何额外伤害，但标准动作（或任何其他费力的行动，包括某些迅捷动作，例如施展瞬发法术）将使你在动作完成受到1点伤害。当你的HP负值降至等于或超过你的体质值，你将立刻死亡。<br/><br/><b>通常状况: </b>没有本专长的人物在HP降至负值时为昏迷且濒死状态。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diehard"
+        },
+        "Dirty Fighting": {
+            "name": "何须荣誉 Dirty Fighting",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你专注于在敌人无暇多顾时狠狠打他。</em><br/><br/><br/><br/><b>专长效果: </b>每当你对一个被你夹击的敌人使用战技攻击时，你可以选择放弃夹击通过的+2加值而是使你的战技攻击不会引发借机攻击。 如果你拥有了使战技不会引发借机攻击的能力或专长，那么你在上述情况发动战技攻击时，在攻击检定上获得+4加值。<br/><br/><b>特殊说明: </b>本专长可以在你选择任何精通战技类专长时视为拥有13敏捷，13智力，寓守于攻和精通徒手击打作为先决条件，也可以取代需要特定的精通战技专长作为先决条件的专长的先决条件。<br/><br/><b>资源出处: </b>Dirty Tactics Toolbox pg. 14<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dirty%20Fighting"
+        },
+        "Disruptive": {
+            "name": "扰法者 Disruptive",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你受过专门的训练，令靠近你的敌人的施法者难以安全施展法术。</em><br/><br/><br/><br/><b>先决条件: </b>战士6级。<br/><br/><b>专长效果: </b>所有你威胁范围内的敌人进行防御式施法的专注DC+4。此针对防御式施法的加值仅当你能够确认敌人的位置、并能够做出借机攻击时才生效。若你每轮仅能够进行1次借机攻击并且已经借机攻击过，则加值不生效。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disruptive<br/><br/><b>战策增益：</b>即使已经消耗了借机攻击次数，只要花费2点耐力依然可以令该专长生效，直至你下一轮开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 118"
+        },
+        "Dodge": {
+            "name": "闪避 Dodge",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的训练和反应令你能够迅速闪避攻击。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13。<br/><br/><b>专长效果: </b>你可以在AC上获得+1闪避加值。若你失去AC的敏捷加值时，也会同时失去此专长的加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dodge<br/><br/><b>战策增益：</b>如果你移动了自己的移动速度或更远的距离，你可花费最多等同2倍你敏捷加值的耐力点数，这样的话直到你下次回合开始，你获得等同所消耗耐力值一半的AC闪避加值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 118"
+        },
+        "Double Slice": {
+            "name": "双重切割 Double Slice",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的副手武器在双持武器攻击时更加强力。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷15，双武器格斗。<br/><br/><b>专长效果: </b>你的副手武器在伤害投骰中获得你的力量修正。<br/><br/><b>通常状况: </b>通常你在副手武器上只能将力量修正的一半计入伤害投骰。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Double%20Slice<br/><br/><b>战策增益：</b>如果在双武器格斗时你的主手和副手都命中了目标，你可以选择花费最多不超过你力量调整值一半的耐力点数，并在副手伤害上获得等同耐力点的伤害加值。该能力一轮只能使用一次。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 118"
+        },
+        "Elemental Channel": {
+            "name": "元素导能 Elemental Channel",
+            "description": "<em>选择一种元素类型，例如气、土、火或者水。你能够引导你的神圣能量伤害或治疗你所选择的元素类型的异界生物。</em><br/><br/><br/><br/><b>先决条件: </b>【引导能量】职业特性。<br/><br/><b>专长效果: </b>作为普通效果的替代，你可以选择在引导能量时治疗或伤害你所决定的元素类型的异界生物。你必须在每次引导能量时做出选择。若你选择治疗或伤害特定元素类型的生物，则你的引导能量对其他生物不产生任何效果。除此之外，治疗或造成的伤害点数及令伤害减半的豁免DC均保持不变。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果并不累加。每次你都必须选择一个新的元素类型。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Channel"
+        },
+        "Empower Spell": {
+            "name": "法术强效 Empower Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你可以增强法术的力量，使其造成更大的伤害。</em><br/><br/><br/><br/><b>专长效果: </b>搭配此专长时，法术效果中的所有可变量值皆增加一半。但本专长不影响豁免检定与对抗检定，对没有变量的法术也无影响。强效的法术须占用高于原本2个环位的法术位。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell"
+        },
+        "Endurance": {
+            "name": "坚忍 Endurance",
+            "description": "<em>严酷的环境或者长时间的竭尽全力不会轻易令你陷入疲劳。</em><br/><br/><br/><br/><b>专长效果: </b>本专长可使以下检定获得+4加值：游泳时疲劳造成非致命伤害的技能检定、持续跑步时的体质检定、强行军造成非致命伤害的体质检定、憋气时的体质检定、饥饿或口渴造成非致命伤害的体质检定、冷热环境造成非致命伤害的强韧检定、窒息造成非致命伤害的强韧检定。此外，拥有本项专长者穿着轻型或中型盔甲睡觉也不会陷入疲乏状态。<br/><br/><b>通常状况: </b>没有本专长者若穿着中型以上的盔甲睡觉，隔天将自动陷入疲乏状态。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance"
+        },
+        "Enlarge Spell": {
+            "name": "法术增远 Enlarge Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你可将法术施展得更远。</em><br/><br/><br/><br/><b>专长效果: </b>本专长可将近距、中距与远距法术的距离加倍。搭配本专长的近距法术距离为“50尺+5尺/每等级”、中距法术距离为“200尺+20尺/每等级”，而远距法术距离为“800尺+80尺/每等级”。增远的法术须占用高于原本1个环位的法术位。本专长对于与距离无关，或不属于近距、中距、远距的法术没有效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 122<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Enlarge%20Spell"
+        },
+        "Eschew Materials": {
+            "name": "施法免材 Eschew Materials",
+            "description": "<em>你施展法术不需低级的法术材料成分。</em><br/><br/><br/><br/><b>专长效果: </b>若欲施展的法术其材料价格不高于1gp，你不需耗用材料亦可施法。但施法依旧会引发借机攻击。若欲施展的法术其材料价格高于1金币，则你需要按照一般规则持有材料成分才能施法。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eschew%20Materials"
+        },
+        "Exhausting Critical": {
+            "name": "力竭重击 Exhausting Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击令命中的敌人陷入力竭。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，疲乏重击，基本攻击加值+15。<br/><br/><b>专长效果: </b>每当你对一个敌人成功造成重击时，该生物立即陷入力竭状态。本专长对已经力竭的生物无效。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Exhausting%20Critical<br/><br/><b>战策增益：</b>重击威胁时你可选择花费最多不超过5点耐力，每点耐力提升重击确认骰2点。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 119"
+        },
+        "Exotic Weapon Proficiency": {
+            "name": "擅长异种武器 Exotic Weapon Proficiency",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>选择一种异种武器，例如刺链或长鞭。你了解如何使用该种异种武器进行战斗，并能够利用该异种武器可能提供的特性和技巧。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+1。<br/><br/><b>专长效果: </b>使用该异种武器的攻击检定正常。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，每次都需要选择一种新的异种武器。<br/><br/><b>通常状况: </b>使用不擅长的武器其攻击检定有-4减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Exotic%20Weapon%20Proficiency"
+        },
+        "Extend Spell": {
+            "name": "法术延时 Extend Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>此专长可使法术效果的持续时间加长。</em><br/><br/><br/><br/><b>专长效果: </b>搭配此专长的法术持续时间加倍。持续时间为专注、立即或永久的法术不受本专长影响。延时的法术须占用高于原本1个环位的法术位。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extend%20Spell"
+        },
+        "Extra Bombs": {
+            "name": "额外炼金炸弹 Extra Bombs",
+            "description": "<em>你每天可以多投掷几个炸弹。</em><br/><br/><br/><br/><b>先决条件: </b>【炼金炸弹】职业特性。<br/><br/><b>专长效果: </b>你每天能够额外投掷2次【炼金炸弹】。<br/><br/><b>特殊说明: </b>你能够多次选择本专长。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 159<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Bombs"
+        },
+        "Extra Channel": {
+            "name": "额外引导 Extra Channel",
+            "description": "<em>你可以更引导更多神圣的能量。</em><br/><br/><br/><br/><b>先决条件: </b>引导能力职业能力。<br/><br/><b>专长效果: </b>你每日的引导能量次数增加两次。<br/><br/><b>特殊说明: </b>如果你是拥有引导能力能力的圣武士，那么你获得每日四次额外的圣疗能力使用次数，但只能用来引导正能量；如果你是拥有引导能力能力的战斗祭司，那么你获得每日四次额外的热诚能力使用次数，但只能用来引导能量。<br/><br/><b>资源出处: </b>Advanced Class Guide pg. 146PRPG Core Rulebook pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Channel"
+        },
+        "Extra Ki": {
+            "name": "额外斗气 Extra Ki",
+            "description": "<em>你每日可以更频繁地使用气池。</em><br/><br/><br/><br/><b>先决条件: </b>【气运丹田】职业特性。<br/><br/><b>专长效果: </b>你的气池增加2点。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果累计。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Ki"
+        },
+        "Extra Lay On Hands": {
+            "name": "Extra Lay On Hands",
+            "description": "<i>You can use your lay on hands ability more often.</i>\n<p><b>Prerequisites</b></p>\n<p>Lay on hands class feature.</p>\n<p><b>Benefits</b></p>\n<p>You can use your lay on hands ability two additional times per day.</p>\n<p><b>Special</b></p>\n<p>You can gain Extra Lay On Hands multiple times. Its effects stack.</p>"
+        },
+        "Extra Mercy": {
+            "name": "额外恩惠 Extra Mercy",
+            "description": "<em>你的圣疗能力额外获得一种恩惠。</em><br/><br/><br/><br/><b>先决条件: </b>【圣疗】职业特性，【恩惠】职业特性。<br/><br/><b>专长效果: </b>选择一种你能够使用的额外恩惠。当你使用圣疗为一个目标治疗伤害时，目标额外获得该恩惠的效果。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果不累计。每次你选择本专长时，选择一个新的恩惠。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Mercy"
+        },
+        "Extra Performance": {
+            "name": "额外表演 Extra Performance",
+            "description": "<em>你可以更频繁的使用吟游表演能力。</em><br/><br/><br/><br/><b>先决条件: </b>【吟游表演】职业特性。<br/><br/><b>专长效果: </b>你每日能够多使用吟游表演6轮。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果累计。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Performance"
+        },
+        "Extra Rage": {
+            "name": "额外狂暴 Extra Rage",
+            "description": "<em>你可以更久地狂暴。</em><br/><br/><br/><br/><b>先决条件: </b>【狂暴】职业特性。<br/><br/><b>专长效果: </b>你可以每日多狂暴6轮。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果累计。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Rage"
+        },
+        "Extra Rogue Talent": {
+            "name": "额外盗贼天赋 Extra Rogue Talent",
+            "description": "<em>通过不断练习，你习得了一种新的技法。</em><br/><br/><br/><br/><b>先决条件: </b>【盗贼天赋】职业特性。<br/><br/><b>专长效果: </b>你获得一个【盗贼天赋】。你必须满足这个盗贼天赋的全部先决条件才能选取。<br/><br/><b>特殊说明: </b>你能够多次选择本专长。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 160<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Rogue%20Talent"
+        },
+        "Far Shot": {
+            "name": "远程射击 Far Shot",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你长距离射击时比常人更准。</em><br/><br/><br/><br/><b>先决条件: </b>近距射击。<br/><br/><b>专长效果: </b>当你使用远程武器时，距离每增加一个射程增量你仅受到-1减值。<br/><br/><b>通常状况: </b>你与目标之间距离每增加一个射程增量则受-2减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Far%20Shot<br/><br/><b>战策增益：</b>当你以一个标准动作使用一次远端攻击时，你可以消耗5点耐力来让这次攻击无视掉所有的距离减值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 119"
+        },
+        "Fleet": {
+            "name": "快速移动 Fleet",
+            "description": "<em>你比常人要快。</em><br/><br/><br/><br/><b>专长效果: </b>当穿着轻型或不穿盔甲时，你的基本移动速度增加5尺。当你处于中度或重度负荷时失去本专长效果。<br/><br/><b>特殊说明: </b>你可以多次选择此专长，其效果累计。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fleet"
+        },
+        "Fleshwarper": {
+            "name": "Fleshwarper",
+            "description": "<p><strong>Source</strong> Horror Adventures pg. 87</p><p><em>You can create creatures through an abominable alchemical process.</em></p><p><strong>Prerequisites</strong>: Craft (alchemy) 5 ranks, Heal 5 ranks, evil alignment.</p><p><strong>Benefit</strong>: You can create fleshwarped creatures and fleshcraft grafts (see Fleshwarping for full details). A newly created fleshwarped creature has average hit points for its Hit Dice.</p>"
+        },
+        "Forge Ring": {
+            "name": "锻造戒指 Forge Ring",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你可以制造带有各式魔法效果的戒指。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级7级。<br/><br/><b>专长效果: </b>你可以制造魔法戒指。锻造一枚戒指需花费每1000gp基本价格1天的时间。要锻造一枚戒指，你需要花费其基本价格一半的天然材料。更多信息请参见魔法物品规则。只要你有能力制造同样的东西，便可以修复损坏的魔法戒指。你必须支付相当于制造时一半的耗材和时间。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Forge%20Ring"
+        },
+        "Furious Focus": {
+            "name": "沉着暴怒 Furious Focus",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>即使是在激烈的狂怒攻击中，你仍旧可以专注于眼前的屠杀，使用你那野蛮的攻击切中要害。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，猛力攻击，基本攻击加值+1。<br/><br/><b>专长效果: </b>当你持用双手武器、或者使用双手持握单手武器并且使用“猛力攻击”专长时，每轮的第一次攻击所进行近战攻击检定不会承受猛力攻击的减值。你仍旧会在其他的攻击中承受减值，包括借机攻击。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 161<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Furious%20Focus<br/><br/><b>战策增益：</b>当你使用猛力攻击专长并持用双手近战武器或者用两只手持用单手近战武器时，你可以消耗5点耐力。如果你这样做了，你对一个目标每次成功的攻击都能降低你对那个目标的猛力攻击罚值1点（最小值为0），直到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 120"
+        },
+        "Gorgon's Fist": {
+            "name": "蛇形拳 Gorgon's Fist",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以通过击中特定部位令对手动摇。</em><br/><br/><br/><br/><b>先决条件: </b>精通徒手打击，蝎形拳，基本攻击加值+6。<br/><br/><b>专长效果: </b>以一个标准动作对被减速的敌人（例如被“蝎形拳”专长减速）进行一次徒手近战攻击。若该次攻击命中，则正常造成伤害的同时令目标陷入恍惚状态，直到你的下轮结束，除非对方成功通过DC为“10+1/2你的角色等级+感知修正”的强韧豁免。本专长对已陷入恍惚的目标无效。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gorgon's%20Fist<br/><br/><b>战策增益：</b>你可以使用5点耐力来让蛇形拳成为全力攻击中的一次独立的攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 120"
+        },
+        "Great Cleave": {
+            "name": "大顺势斩 Great Cleave",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以在一击中攻击数个邻近的敌人。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，顺势斩，猛力攻击，基本攻击加值+4。<br/><br/><b>专长效果: </b>你可以用一个标准动作，使用最高BAB对一个近战攻击范围内的敌人进行一次攻击。若命中，则你可以继续对临近前一个敌人的敌人进行攻击，该敌人也同样需在你的触及范围内；如此进行下去。你以此能力对每个敌人仅能攻击1次。当你使用此专长时，你在下轮前AC受-2减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Cleave<br/><br/><b>战策增益：</b>每轮一次，当你在使用顺势斩获得的一次对敌人的攻击失手时，你可以消耗5点耐力来做另一次顺势斩攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 120"
+        },
+        "Great Fortitude": {
+            "name": "强韧加强 Great Fortitude",
+            "description": "<em>你对毒素、疾病和其他不适有抗性。</em><br/><br/><br/><br/><b>专长效果: </b>所有强韧豁免检定获得+2加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 124<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Fortitude"
+        },
+        "Greater Bull Rush": {
+            "name": "高等冲撞 Greater Bull Rush",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的冲撞令敌人失去平衡。</em><br/><br/><br/><br/><b>先决条件: </b>精通冲撞，猛力攻击，基本攻击加值+6，力量13。<br/><br/><b>专长效果: </b>你在冲撞检定中获得+2加值。此加值与“精通冲撞”专长带来的加值累计。当你冲撞敌人时，他的移动会引发所有你的同伴的借机攻击（但不包括你）。<br/><br/><b>通常状况: </b>冲撞带来的生物移动不会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Bull%20Rush<br/><br/><b>战策增益：</b>当你冲撞一个敌人时，你可以消耗5点耐力来让你的敌人的移动也能引起你的借机攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 120"
+        },
+        "Greater Disarm": {
+            "name": "高等卸武 Greater Disarm",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以将敌人手中的武器击飞。</em><br/><br/><br/><br/><b>先决条件: </b>寓守于攻，精通卸武，基本攻击加值+6，智力13。<br/><br/><b>专长效果: </b>你在卸武检定中获得+2加值，此加值与“精通卸武”专长带来的加值累计。每当你成功卸除敌人武器时，该武器由其持有者位置向随机方向飞出15尺。<br/><br/><b>通常状况: </b>被卸除的武器和装备落在被卸除的生物脚下。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Disarm<br/><br/><b>战策增益：</b>在你并不满足这个专长的属性先决条件（智力13）时你也能选择这个专长。只有当你在耐力池中拥有1点耐力时你才能获得这个专长的好处。当你成功对一个对手卸武，你可以消耗5点耐力来选择这个武器的落点，这个落点方格必须在被卸武的敌人15迟内。如果你选择方格在你的占据空间内，并且你至少拥有一只自由手，你可以以卸武的一部分来抓住这个武器。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 120"
+        },
+        "Greater Feint": {
+            "name": "高等虚招 Greater Feint",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长令敌人对你的攻击反应过度。</em><br/><br/><br/><br/><b>先决条件: </b>寓守于攻，精通虚招，基本攻击加值+6，智力13。<br/><br/><b>专长效果: </b>当你对敌人使用虚招令其失去AC的敏捷加值时，他直到下轮你的行动开始时都失去该加值，而不是原本的仅持续到你的下一次攻击。<br/><br/><b>通常状况: </b>被你的虚招误导的生物失去AC的敏捷加值，直到你的下一次攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Feint<br/><br/><b>战策增益：</b>在你并不满足这个专长的属性先决条件（智力13）时你也能选择这个专长。只有当你在耐力池中拥有1点耐力时你才能获得这个专长的好处。如果你的耐力池还有至少1点耐力，你可以以一个迅捷动作进行虚招，但这个虚招只能让敌人对你的下一次攻击陷入措手不及，而不是到你的下一轮开始的所有攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 121"
+        },
+        "Greater Grapple": {
+            "name": "高等擒抱 Greater Grapple",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>维持擒抱是你的第二天性。</em><br/><br/><br/><br/><b>先决条件: </b>精通擒抱，精通徒手打击，基本攻击加值+6，敏捷13。<br/><br/><b>专长效果: </b>你在擒抱检定中获得+2加值，此加值与“精通擒抱”专长带来的加值累计。每当你成功擒抱一个生物，维持擒抱是一个移动动作。本专长允许你每轮进行两次擒抱检定（移动、伤害或压制你的对手），但你仅需要检定成功其中一次便可以维持擒抱。<br/><br/><b>通常状况: </b>维持擒抱是一个标准动作。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Grapple<br/><br/><b>战策增益：</b>在你成功使用移动动作维持擒抱时，你可以在你回合结束之前以一个迅捷动作使用5点耐力。这让你可以在一轮内做至多3次检定来维持擒抱，但只有在你启动擒抱的下一轮后才能使用。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 121"
+        },
+        "Greater Overrun": {
+            "name": "高等闯越 Greater Overrun",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>敌人必须匆忙闪开以躲避你的危险移动。</em><br/><br/><br/><br/><b>先决条件: </b>精通闯越，猛力攻击，基本攻击加值+6，力量13。<br/><br/><b>专长效果: </b>你在闯越敌人检定上获得+2加值，本加值与“精通闯越”专长带来的加值累计。当你闯越敌人时，他们若被你撞倒则会引发借机攻击。<br/><br/><b>通常状况: </b>被闯越撞倒的生物不会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Overrun<br/><br/><b>战策增益：</b>如果你成功使用战技检定闯越了一名敌人，但是并没有超过你敌人的CMD5点或者更多，你可以消耗2点耐力来让你的敌人俯卧。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 121"
+        },
+        "Greater Penetrating Strike": {
+            "name": "高等穿透打击 Greater Penetrating Strike",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的攻击能够穿透大多数敌人的防御。选择一个已在穿透打击专长中选择过的武器类型。</em><br/><br/><br/><br/><b>先决条件: </b>穿透打击，武器专攻，战士等级16。<br/><br/><b>专长效果: </b>你用选择类型的武器攻击时忽略最高10点伤害减免。但对不针对特定类型的伤害减免时，效果减少到5点（例如“10/-”）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Penetrating%20Strike<br/><br/><b>战策增益：</b>当你使用一把你拥有武器专攻的武器对一个拥有伤害减免的生物造成伤害时，你可以消耗5点耐力来让距离你30迟内的盟友忽略该生物10点伤害减免1轮。但对不针对特定类型的伤害减免时，效果减少到5点（例如“DR10/-”）。这个效果不会与高等穿透打击的正常效果叠加，但这让你可以在持续时间内把这个效果应用到你的其他武器上。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 121"
+        },
+        "Greater Shield Focus": {
+            "name": "高等盾牌专攻 Greater Shield Focus",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长用盾牌挡开攻击。</em><br/><br/><br/><br/><b>先决条件: </b>盾牌专攻，擅长盾牌，基本攻击加值+1，战士等级8。<br/><br/><b>专长效果: </b>任何盾牌带来的AC加值增加1。此加值与“盾牌专攻”带来的加值累计。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Shield%20Focus<br/><br/><b>战策增益：</b>当你正在使用一面盾牌时受到了一次攻击，你可以消耗最多4点耐力。针对这次攻击，你的盾牌加值会提升等同于你消耗的耐力的点数。这个加值并不会与来自盾牌专攻战策提供的叠加。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 121"
+        },
+        "Greater Spell Focus": {
+            "name": "高等法术专攻 Greater Spell Focus",
+            "description": "<em>从已有“法术专攻”的法术学派中选择一个，你施展的该学派的法术很难被抵抗。</em><br/><br/><br/><br/><b>先决条件: </b>法术专攻。<br/><br/><b>专长效果: </b>所选学派的法术豁免检定DC+1。此加值可与“法术专攻”累加。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果。每次你选择本专长时必须选择一个新的已有“专攻法术”专长的不同学派。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spell%20Focus"
+        },
+        "Greater Spell Penetration": {
+            "name": "高等法术穿透 Greater Spell Penetration",
+            "description": "<em>你的法术威力强大，较易穿透法术抗力。</em><br/><br/><br/><br/><b>先决条件: </b>法术穿透。<br/><br/><b>专长效果: </b>施法时若受术者有法术抗力，你的施法者等级检定（1d20+CL）可获得+2加值。此加值可与“法术穿透”累加。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spell%20Penetration"
+        },
+        "Greater Sunder": {
+            "name": "高等破武 Greater Sunder",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你毁灭性的攻击能够顺势一气攻击到武器、盔甲及它们的持有者，这一击同时对这些物品和其持有者造成伤害。</em><br/><br/><br/><br/><b>先决条件: </b>精通破武，猛力攻击，基本攻击加值+6，力量13。<br/><br/><b>专长效果: </b>你的破武检定获得+2加值，此加值与“精通破武”专长带来的加值累计。每当你令一把武器、盾牌或盔甲彻底损毁时，其持用者将承受多余的伤害部分。若你决定令物品剩余1点HP则不会有任何伤害被传递。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 125<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Sunder<br/><br/><b>战策增益：</b>当你成功进行了一次破武战技检定，你可以消耗至多等同于你力量加值的耐力来对目标造成两倍于你消耗的耐力点的额外伤害。这个伤害的类型和你在这次战技中使用的武器相同。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 121"
+        },
+        "Greater Trip": {
+            "name": "高等绊摔 Greater Trip",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以自由攻击被你击倒的对手。</em><br/><br/><br/><br/><b>先决条件: </b>寓守于攻，精通绊摔，基本攻击加值+6，智力13。<br/><br/><b>专长效果: </b>你的绊摔检定获得+2加值，此加值与“精通绊摔”专长带来的加值累计。每当你成功绊摔一个敌人时，该敌人会引发借机攻击。<br/><br/><b>通常状况: </b>生物不会因被绊摔而引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Trip<br/><br/><b>战策增益：</b>在你并不满足这个专长的属性先决条件（智力13）时你也能选择这个专长。只有当你在耐力池中拥有1点耐力时你才能获得这个专长的好处。你可以在你成功绊摔一个敌人时候消耗2点耐力对目标造成1d6点坠落伤害。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+        },
+        "Greater Two-Weapon Fighting": {
+            "name": "高等双武器格斗 Greater Two-Weapon Fighting",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你是双武器战斗的高手。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷19，精通双武器格斗，双武器格斗，基本攻击加值+11。<br/><br/><b>专长效果: </b>你可使用副手武器作第三次攻击，但受到-10减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Two-Weapon%20Fighting<br/><br/><b>战策增益：</b>如果你用该专长赋予的第三次攻击命中且你的基本攻击加值达到16或更高，你可以消耗2点耐力来用你的副手做出另外一次-15减值的攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+        },
+        "Greater Vital Strike": {
+            "name": "高等要害打击 Greater Vital Strike",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你在一击中造成不可思议的巨大伤害。</em><br/><br/><br/><br/><b>先决条件: </b>精通要害打击、要害打击、基本攻击加值+16。<br/><br/><b>专长效果: </b>你可以用一个标准动作以你的最高BAB做出一次攻击，并造成额外的伤害。丢伤害骰四次并将结果合计，但力量、武器属性（例如〔炽焰〕附魔）及基于精准的攻击（例如偷袭）带来的伤害则不翻倍。本专长带来的额外伤害在重击时不翻倍（尽管其他伤害加值正常翻倍计算）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Vital%20Strike<br/><br/><b>战策增益：</b>当你使用要害打击战策时，你可以消耗4点耐力而不是2点来重投4个伤害骰。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+        },
+        "Greater Weapon Focus": {
+            "name": "高等武器专攻 Greater Weapon Focus",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>从已有“武器专攻”的武器类型中选择一个，也可以选徒手击打或擒抱，对此种武器你是个中高手。</em><br/><br/><br/><br/><b>先决条件: </b>对应武器的擅长武器、武器专攻，战士等级8。<br/><br/><b>专长效果: </b>使用特定武器时攻击检定+1。此加值可与其他攻击加值累加，包括“武器专攻”的加值。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Focus<br/><br/><b>战策增益：</b>每轮一次，你可以消耗2点耐力来将高等武器专攻在攻击股上的加值应用到其它一件武器上。这个加值会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+        },
+        "Greater Weapon Specialization": {
+            "name": "高等武器专精 Greater Weapon Specialization",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>从已有“武器专精”的武器中选择一个，也可以选徒手击打或擒抱，使用此种武器将可造成更多伤害。</em><br/><br/><br/><br/><b>先决条件: </b>对应武器的擅长武器、武器专攻、高等专攻、武器专精，战士等级12。<br/><br/><b>专长效果: </b>使用特定武器时伤害+2，且可与其他伤害加值累加，包括“武器专精”的加值。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮一次，你可以消耗2点耐力来将高等武器专精在伤害骰上的加值应用到其它一件武器上。这个加值会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+        },
+        "Grisly Ornament": {
+            "name": "Grisly Ornament",
+            "description": "<p><strong>Source</strong> Monster Hunter's Handbook pg. 24</p><p><em>You adorn your gear with mementos from your foes.</em></p><p><strong>Prerequisites</strong>: Harvest Parts.</p><p><strong>Benefit</strong>: You can attempt a Craft or Heal check to craft a special type of trophy called an ornament from part of a creature that’s been dead for less than an hour. You take a –4 penalty on this check if you or an ally didn’t slay the creature. You can craft one ornament per character level per day. Each corpse provides enough material for one ornament plus one additional ornament per size category above Medium. You can wear one ornament in each magic item slot not already occupied by another item. When you craft an ornament, you choose whether it affects Armor Class, attack rolls, CMB, CMD, saving throws, or skill checks. The ornament provides a morale bonus equal to the monster’s CR divided by 4 (round down, minimum 1) to the selected statistic against creatures of the same creature type as the source of the ornament. This bonus increases by 1 against creatures of the exact same variety (so a red dragon’s talon provides the increased bonus against red dragons but not all dragons). An ornament remains effective for 1 day, plus 1 additional day for every 5 by which you exceed the DC to craft it. You can give ornaments to others, but gifted ornaments have a morale bonus equal to the monster’s CR divided by 6 (round down, minimum 0) and remain effective for only 24 hours.</p>"
+        },
+        "Harvest Parts": {
+            "name": "Harvest Parts",
+            "description": "<p><strong>Source</strong> Monster Hunter's Handbook pg. 24</p><p>You can extract the choicest parts from a monster’s carcass to use as resources when crafting items.</p><p><strong>Prerequisites</strong>: Craft (any) 1 rank or Heal 1 rank.</p><p><strong>Benefit</strong>: You can attempt a Craft or Heal check, as though making a trophy, to gain usable resources from a creature that has been dead for less than an hour. Only creatures with a CR of 1 or higher yield usable parts. The value of the parts you harvest is equal to the creature’s CR squared × 10 gp (increases to CR derived from class levels or templates do not contribute to this value). This value can be used only as raw materials for crafting alchemical, masterwork, mundane, or magic items. Items crafted using creature parts must be made of a suitable material—typically bone or hide, with metal only in extraordinary cases. No more than a quarter of a crafted item’s cost can be supplied with harvested parts. Harvested parts remain usable for 2 days before they rot (unless used to craft objects or somehow preserved). Creature parts that are harvested in this manner can’t be bought or sold in most settlements.</p><h2>Crafting Trophies</h2><p>Although any character can take trophies from fallen creatures for cosmetic or roleplaying purposes, the following feats allow characters to derive functionality from items they salvage from monstrous corpses. These feats work similarly to item creation feats, except trophies are created using a single Craft or Heal check, they are nonmagical, and the benefits they provide are typically temporary. The DC of such a check is equal to 15 + the creature’s CR, and creating a trophy takes a number of minutes equal to the creature’s CR.</p>"
+        },
+        "Haunt Scavenger": {
+            "name": "Haunt Scavenger",
+            "description": "<p><strong>Source</strong> Haunted Heroes Handbook pg. 30</p><p><em>You can use spiritual essence to craft magic items.</em></p><p><strong>Prerequisites</strong>: Any one item creation feat or Craft (alchemy) 3 ranks.</p><p><strong>Benefit</strong>: You can harvest the ectoplasmic remains of haunts, incorporeal undead, or the like to craft magic items. Whenever you encounter a recently neutralized haunt, the remains of an incorporeal undead creature, or the remains of a creature that has the ability to possess another creature using a racial spell-like ability or supernatural ability (such as a ghost or a shadow demon), you can attempt to extract material components from those remains that are suitable for crafting magic items. You must have access to an alchemist’s lab (Pathfinder RPG Ultimate Equipment 76) in order to extract components from a haunt or creature, and you must begin extracting these components within 10 minutes of the haunt or creature’s death or destruction. After 10 minutes, the components have degraded too much to be of any use to you.</p><p>Harvesting components with this feat can take several hours. Performing at least 1 minute of work extracting components from a haunt or creature prevents its material components from degrading further for 24 hours, allowing you to safely suspend and resume harvesting these components without fear of subsequent degradation. This ectoplasmic residue is portable once the extraction work begins, provided you have a vial to contain the source residue (the actual amount of residue is never much, physically, but the value of the components you can extract from the residue increases with the power of the original haunt or creature).</p><p>Each hour, attempt a Craft (alchemy) or a Knowledge (religion) check to successfully handle the residue and extract useful material. The DC for this check is equal to 15 + the CR of the haunt or creature being harvested. If you succeed at the check, you harvest 50 gp worth of components. If you fail the check by 4 or less, you can attempt to harvest those components again. If you fail the check by 5 or more, the residue spoils and you cannot scavenge any more from that particular source. A single source can yield an amount of components up to a maximum value of 50 gp per point of CR before it is depleted.</p><p>Material components harvested with Haunt Scavenger can be used in place of the material components of enchantment or necromancy spells and extracts, provided they are of equal or greater value compared to the spell’s normal material components. Additionally, they can be used in place of actual gold to fund the construction of a magic item with an enchantment or necromancy aura.</p>"
+        },
+        "Heighten Spell": {
+            "name": "法术升阶 Heighten Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你可以使法术表现得比原本等级高。</em><br/><br/><br/><br/><b>专长效果: </b>本专长可以使法术表现得比原本等级高（最高不可超过9环）。与其他超魔专长不同的是，法术升阶可以确实提升法术的有效等级。法术效果中所有与法术等级有关的变量（如法术豁免检定DC或穿透‘次级法术无效结界’法术的能力）都以升阶后的法术等级计算。升阶法术准备和释放的难度都以提升后的法术等级计算。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heighten%20Spell"
+        },
+        "Hurricane Punch": {
+            "name": "Hurricane Punch",
+            "description": "<p><b>Source</b> Elemental Master's Handbook pg. 19</p><p><em>Your fast strikes hit with the force of a hurricane, pushing your foes away.</em></p><p><b>Prerequisites</b>: Str 13, Improved Bull Rush, Improved Unarmed Strike, Power Attack.</p><p><b>Benefit</b>: When you hit the same creature with unarmed strikes at least twice in the same round, you can attempt a bull rush combat maneuver against that creature as a swift action. You can also move with the target even if you have no movement remaining, but the distance you move can’t exceed half your speed.</p>"
+        },
+        "Improved Bull Rush": {
+            "name": "精通冲撞 Improved Bull Rush",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你熟知撞退对手的技巧。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，猛力攻击，基本攻击加值+1。<br/><br/><b>专长效果: </b>当你进行冲撞时，防御者无法对你发动借机攻击。此外在冲撞检定中你获得+2加值。你在对抗冲撞的战技防御（CMD）上同样获得+2加值。<br/><br/><b>通常状况: </b>你的冲撞战技会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Bull%20Rush<br/><br/><b>战策增益：</b>当你作为冲撞战技的目标时，你可以消耗最多等于你的力量或敏捷加值的耐力，两者取高。你对抗那次冲撞尝试的CMD提升等同于你消耗的点数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 122"
+        },
+        "Improved Channel": {
+            "name": "精通导能 Improved Channel",
+            "description": "<em>你引导的能量难以被抵抗。</em><br/><br/><br/><br/><b>先决条件: </b>【引导能量】职业特性。<br/><br/><b>专长效果: </b>你引导能量的豁免DC+2。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Channel"
+        },
+        "Improved Counterspell": {
+            "name": "精通法术反制 Improved Counterspell",
+            "description": "<em>你擅长用类似法术反制他人的法术。</em><br/><br/><br/><br/><b>专长效果: </b>你可以使用比目标法术高1环的相同学派法术进行反制。<br/><br/><b>通常状况: </b>无此专长的人物只能用同样或特定的法术才能进行反制。　<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 126<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Counterspell"
+        },
+        "Improved Critical": {
+            "name": "精通重击 Improved Critical",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你使用特定的武器攻击起来更易击中敌人要害。</em><br/><br/><br/><br/><b>先决条件: </b>擅长选择的特定武器，基本攻击加值+8。<br/><br/><b>专长效果: </b>使用特定武器的重击威胁范围加倍。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，但并非累加效果。每次你选择本专长时，需选择一个新的武器类型。本专长不可与任何增加重击威胁范围的效果累加。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Critical<br/><br/><b>战策增益：</b>当你一次攻击命中，但投骰离重击威胁不超过3点时，你可以消耗5点耐力来让这次攻击造成两倍伤害。然后如同确认重击一样投骰。如果这次确认骰成功了，你的攻击可以造成两倍伤害，但仍然不能算作是重击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Disarm": {
+            "name": "精通卸武 Improved Disarm",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长在战斗中卸除对手的武器。</em><br/><br/><br/><br/><b>先决条件: </b>智力13，寓守于攻。<br/><br/><b>专长效果: </b>当你试图卸除对手的武器时，不会引发对方的借机攻击。此外，在你卸武检定上获得+2加值。你在对抗卸武的战技防御上同样获得+2加值。<br/><br/><b>通常状况: </b>你在使用卸武战技时会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Disarm<br/><br/><b>战策增益：</b>即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。当你作为卸武战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗卸武尝试的CMD提升等同于你消耗的耐力点的点数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Familiar": {
+            "name": "进阶魔宠 Improved Familiar",
+            "description": "<em>本专长使得施法者能够从非标准列表中获得一个强力魔宠，但仅当他们可以正常获得一个新魔宠时才可使用本专长。</em><br/><br/><br/><br/><b>先决条件: </b>有能力获得新魔宠，阵营相符，足够高的等级（见下）。<br/><br/><b>专长效果: </b>选择魔宠时，施法者也可选择下表中生物。施法者可选择的魔宠在每个阵营轴线（即秩序到混乱、善良到邪恶）上分别至多只能和本人相差一阶。进阶魔宠其他的规则都与普通魔宠相同，但有两个例外：如果生物的类型不是动物，则其类型不改变；且强化的魔宠并不获得与他们同类交谈的能力（尽管他们中许多已具有交流的能力）。</p><p>进阶魔宠</p><p>阵营</p><p>施法者等级</p><p>生物出处</p><p>预兆神使（Archon, Harbinger）</p><p>秩序善良*</p><p>7级</p><p>B3</p><p>灵猫神使（Agathion, Silvanshee）</p><p>中立善良</p><p>7级</p><p>B2</p><p>圣盔天使（Angel, Cassisian）</p><p>中立善良</p><p>7级</p><p>B2</p><p>天界模板（Celestial）标准魔宠</p><p>中立善良</p><p>3级</p><p>B1</p><p>伪龙（Pseudodragon）</p><p>中立善良</p><p>7级</p><p>B1</p><p>莉拉妖精（Azata, Lyrakien）</p><p>混乱善良*</p><p>7级</p><p>B2</p><p>仙灵龙（Dragon, Faerie）</p><p>混乱善良</p><p>7级</p><p>B3</p><p>仲裁者（Inevitable, Arbiter）</p><p>秩序中立*</p><p>7级</p><p>B2</p><p>式神（Kami, Shikigami）</p><p>秩序中立*</p><p>7级</p><p>B3</p><p>秩序模板（Resolute）标准魔宠</p><p>秩序中立</p><p>3级</p><p>B2</p><p>知行御衡者（Aeon, Paracletus）</p><p>绝对中立*</p><p>7级</p><p>B2</p><p>棕仙（Brownie）</p><p>绝对中立*</p><p>5级</p><p>B3</p><p>卡班克尔（Carbuncle）</p><p>绝对中立</p><p>5级</p><p>B3</p><p>凶暴鼠（Dire Rat）</p><p>绝对中立</p><p>3级</p><p>B1</p><p>任意小型元素（Elemental, Small）</p><p>绝对中立</p><p>5级</p><p>B1</p><p>任意魔蝠（Mephit）</p><p>绝对中立</p><p>7级</p><p>B1</p><p>蚊蝠（Stirge）</p><p>绝对中立</p><p>5级</p><p>B1</p><p>混乱模板（Entropic）标准魔宠</p><p>混乱中立</p><p>3级</p><p>B2</p><p>虚空虫（Protean, Voidworm）</p><p>混乱中立*</p><p>7级</p><p>B2</p><p>小妖精（Sprite）</p><p>混乱中立*</p><p>5级</p><p>B3</p><p>祖各（Zoog）</p><p>混乱中立*</p><p>5级</p><p>B3</p><p>奇叵修罗（Asura, Tripurasura）</p><p>秩序邪恶*</p><p>7级</p><p>B3</p><p>小魔鬼（Devil, Imp）</p><p>秩序邪恶</p><p>7级</p><p>B1</p><p>邪窥魔（Kyton, Augur）</p><p>秩序邪恶*</p><p>7级</p><p>B3</p><p>恶鬼灵（Oni, Spirit）</p><p>秩序邪恶*</p><p>7级</p><p>B3</p><p>化物罗刹（Rakshasa, Raktavarna）</p><p>秩序邪恶*</p><p>7级</p><p>B3</p><p>狂躁邪魔（Daemon, Cacodaemon）</p><p>中立邪恶</p><p>7级</p><p>B2</p><p>飞颅妖（Div, Doru）</p><p>中立邪恶</p><p>7级</p><p>B3</p><p>炼狱模板（Fiendish）标准魔宠</p><p>中立邪恶</p><p>3级</p><p>B1</p><p>小恶魔（Demon, Quasit）</p><p>混乱邪恶</p><p>7级</p><p>B1</p><p>暴虐小魔怪（Gremlin, Nuglub）</p><p>混乱邪恶*</p><p>7级</p><p>B2</p><p>寄尸魔（Qlippoth, Cythnigot）</p><p>混乱邪恶*</p><p>7级</p><p>B2</p><p>人造人（Homunculus）</p><p>任意</p><p>7级</p><p>B1</p><p>* 不适用“主人与魔宠阵营相差一阶以内”规则，选择它作魔宠的施法者必须严格符合阵营。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Familiar"
+        },
+        "Improved Feint": {
+            "name": "精通虚招 Improved Feint",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长于战斗中愚弄对手。</em><br/><br/><br/><br/><b>先决条件: </b>智力13，寓守于攻。<br/><br/><b>专长效果: </b>你在战斗中能够以移动动作进行虚招的唬骗检定。<br/><br/><b>通常状况: </b>战斗中的虚招为标准动作。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Feint<br/><br/><b>战策增益：</b>即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。你可以消耗5点耐力来以一个移动动作进行虚招。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Grapple": {
+            "name": "精通擒抱 Improved Grapple",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长于擒抱住对手。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，精通徒手打击。<br/><br/><b>专长效果: </b>你使用擒抱战技时不会引发借机攻击。此外你在擒抱检定上获得+2加值，同时在对抗擒抱的战技防御上获得+2加值。<br/><br/><b>通常状况: </b>试图使用擒抱战技会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Grapple<br/><br/><b>战策增益：</b>当你成为一次用于启动或者维持擒抱的擒抱战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗擒抱尝试的CMD提升等同于你消耗的耐力点的点数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Great Fortitude": {
+            "name": "精通强韧加强 Improved Great Fortitude",
+            "description": "<em>你能够利用内在之物抵御疾病、毒素、和其他强烈的伤害。</em><br/><br/><br/><br/><b>先决条件: </b>强韧加强。<br/><br/><b>专长效果: </b>每日1次，你可以重掷一次强韧检定。你必须在宣布结果前选择使用本能力。你必须接受重掷的结果，即使比原来的结果还要差。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Great%20Fortitude"
+        },
+        "Improved Initiative": {
+            "name": "精通先攻 Improved Initiative",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你对战斗的反应很快，使你能够迅速对危险做出反应。</em><br/><br/><br/><br/><b>专长效果: </b>先攻检定获得+4加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Initiative<br/><br/><b>战策增益：</b>在你投掷先攻之前，你可以消耗10点耐力来使用20作为投骰的结果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Iron Will": {
+            "name": "精通钢铁意志 Improved Iron Will",
+            "description": "<em>你的清晰思维使你能够抵抗心灵的攻击。</em><br/><br/><br/><br/><b>先决条件: </b>钢铁意志。<br/><br/><b>专长效果: </b>每日1次，你可以你可以重掷一次意志检定。你必须在宣布结果前选择使用本能力。你必须接受重掷的结果，即使比原来的结果还要差。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Iron%20Will"
+        },
+        "Improved Ki Throw": {
+            "name": "精通太极推手 Improved Ki Throw",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>敌人在你手中就是活生生的武器。</em><br/><br/><br/><br/><b>先决条件: </b>精通冲撞，太极推手。<br/><br/><b>专长效果: </b>当你使用“太极推手”专长时，你能够将你的目标丢至任何处于你威胁范围的方格内，并且该方格被任何其他生物所占据。你需要对次要目标进行受到-4减值的冲撞战技检定。如果检定成功，被投掷的生物会倒在次要目标所在的方格，而次要目标会被推开，并且倒在相邻的方格内。如果检定失败，被投掷的生物会倒地，他的位置会与次要目标相邻并且在你威胁范围内的最近的方格。如果你投掷的是大型或更大的生物，并掷向含有多个次要目标的区域，那么对于首个次要目标之外，每个目标都会额外使你的战技检定受到-4减值。<br/><br/><b>特殊说明: </b>14级起，武僧能够将该专长作为奖励专长选取。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 163<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Ki%20Throw<br/><br/><b>战策增益：</b>当你使用这个专长来将一个目标甩进另一个生物的空间时，你可以消耗至多6点耐力来降低对抗第二个目标冲撞尝试的减值，降低的减值等于你消耗耐力的点数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Lightning Reflexes": {
+            "name": "精通闪电反射 Improved Lightning Reflexes",
+            "description": "<em>你有避开所有周遭危险的本事。</em><br/><br/><br/><br/><b>先决条件: </b>闪电反射。<br/><br/><b>专长效果: </b>每日1次，你可以你可以重掷一次反射检定。你必须在宣布结果前选择使用本能力。你必须接受重掷的结果，即使比原来的结果还要差。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Lightning%20Reflexes"
+        },
+        "Improved Overrun": {
+            "name": "精通闯越 Improved Overrun",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于击倒对手。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，猛力攻击，基本攻击加值+1。<br/><br/><b>专长效果: </b>当你试图使用闯越战技时，不会引发借机攻击。此外你在闯越检定获得+2加值，同时在对抗闯越的战技防御上获得+2加值。你试图闯越的目标无法躲避你。<br/><br/><b>通常状况: </b>正常情况使用闯越战技会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 127<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Overrun<br/><br/><b>战策增益：</b>当你作为闯越战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗闯越尝试的CMD提升等同于你消耗的耐力点的加值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Precise Shot": {
+            "name": "精通精准射击 Improved Precise Shot",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的远程攻击可无视掩蔽与隐蔽的影响。除了完全掩蔽和隐蔽。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷19，近距射击，精准射击，基本攻击加值+11。<br/><br/><b>专长效果: </b>你的远程攻击可忽略大多数掩蔽与隐蔽所提供的AC加值与失手机率，除了全掩蔽与全隐蔽，它们将照常对远程攻击造成影响。<br/><br/><b>通常状况: </b>参见关于掩蔽和隐蔽的正常规则。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Precise%20Shot<br/><br/><b>战策增益：</b>当你使用精准射击的战策能力时，那些加值提升到+4。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Shield Bash": {
+            "name": "精通盾击 Improved Shield Bash",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>即便你使用盾牌猛击，你还是可以正常使用它保护自身。</em><br/><br/><br/><br/><b>先决条件: </b>擅长盾牌。<br/><br/><b>专长效果: </b>当你使用盾牌猛击时，其对AC的盾牌加值依旧适用。<br/><br/><b>通常状况: </b>没有本专长的人一旦使用盾牌猛击，直到下个回合都将丧失盾牌对AC的加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Shield%20Bash<br/><br/><b>战策增益：</b>当你尝试一次盾击攻击时，你可以消耗5点耐力来像轻武器一样持用重盾或者在使用轻盾进行盾击的攻击骰上获得+2加值。无论你做出了什么选项，这个效果将会持续到你的下一轮开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 123"
+        },
+        "Improved Steal": {
+            "name": "精通盗取 Improved Steal",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你懂得从敌人那里抢夺物品的诀窍。</em><br/><br/><br/><br/><b>先决条件: </b>智力13，寓守于攻。<br/><br/><b>专长效果: </b>当你使用盗取战技时不会引起借机攻击。此外，你所实行的盗取战技检定获得+2加值。你还在对抗针对自身的盗取战技时，CMD获得+2加值。<br/><br/><b>通常状况: </b>当你使用盗取战技时会引起借机攻击。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 163<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Steal<br/><br/><b>战策增益：</b>即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。当你作为盗取APG战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗盗取尝试的CMD提升等同于你消耗的耐力点的点数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Improved Sunder": {
+            "name": "精通破武 Improved Sunder",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于攻击对手的武器和盔甲。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，猛力攻击，基本攻击加值+1。<br/><br/><b>专长效果: </b>当你使用破武战技时不会引发对手的借机攻击。此外，你在破武检定上获得+2加值，在对抗破武的战技防御上也获得+2加值。<br/><br/><b>通常状况: </b>你使用破武战技时会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Sunder<br/><br/><b>战策增益：</b>当你作为破武战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗破武尝试的CMD提升等同于你消耗的耐力点的点数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Improved Trip": {
+            "name": "精通绊摔 Improved Trip",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长将对手送到地上。</em><br/><br/><br/><br/><b>先决条件: </b>智力13，寓守于攻。<br/><br/><b>专长效果: </b>你使用绊摔战技不会引发借机攻击。此外在绊摔检定上你获得+2加值，在对抗绊摔的战技防御上也获得+2加值。<br/><br/><b>通常状况: </b>你在使用绊摔战技时会引发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Trip<br/><br/><b>战策增益：</b>即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。当你作为绊摔战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗绊摔尝试的CMD提升等同于你消耗的耐力点的点数。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Improved Two-Weapon Fighting": {
+            "name": "精通双武器格斗 Improved Two-Weapon Fighting",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你是使用双武器战斗的专家。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷17，双武器格斗，基本攻击加值+6。<br/><br/><b>专长效果: </b>除了原本额外的一次副手攻击外，你还可用副手再多攻击一次，但受-5减值。<br/><br/><b>通常状况: </b>无此专长时副手武器仅能进行一次额外攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Two-Weapon%20Fighting<br/><br/><b>战策增益：</b>当你做出一次借机攻击时，你可以消耗5点耐力来用你的副手武器也做出一次借机攻击。第二次攻击会受到-5减值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Improved Unarmed Strike": {
+            "name": "精通徒手打击 Improved Unarmed Strike",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你精通徒手作战的技巧。</em><br/><br/><br/><br/><b>专长效果: </b>即使徒手也视同持有武器，也就是说当你徒手攻击时，不会引发借机攻击。此外，你可以选择让你的徒手击打造成致命或非致命伤害。<br/><br/><b>通常状况: </b>无此专长者若徒手攻击则视为未武装，也只能造成非致命伤害。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike<br/><br/><b>战策增益：</b>当你用徒手击打造成非致命伤害时，你可以消耗至多5点耐力来造成等同于你消耗耐力两倍的额外非致命伤害。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Improved Vital Strike": {
+            "name": "精通要害打击 Improved Vital Strike",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以在一击中造成大量的伤害。</em><br/><br/><br/><br/><b>先决条件: </b>要害打击，基本攻击加值+11。<br/><br/><b>专长效果: </b>你可以用一个标准动作以你的最高BAB做出一次攻击，并造成额外的伤害。丢伤害骰三次并将结果合计，但力量、武器属性（例如〈炽焰〉效果）及基于精准攻击（例如偷袭）带来的伤害增加值不翻倍。本专长带来的额外伤害在重击时不翻倍（尽管其他伤害增加值正常翻倍计算）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Vital%20Strike<br/><br/><b>战策增益：</b>当你使用要害打击时，你可以消耗3点耐力而不是2点来投三次伤害骰。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Improvised Weapon Mastery": {
+            "name": "临时武器熟稔 Improvised Weapon Mastery",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以把手边的任何东西转变为致命的武器，从尖利的椅子腿到装满面粉的袋子。</em><br/><br/><br/><br/><b>先决条件: </b>随手武器或随手投掷，基本攻击加值+8。<br/><br/><b>专长效果: </b>你在使用临时武器时不受任何减值。临时武器的伤害骰上升一个级别（例如1d4变为1d6）但最高仅到d8（双手临时武器则最高为2d6）。临时武器重击范围为19-20，重击倍率×2。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improvised%20Weapon%20Mastery<br/><br/><b>战策增益：</b>当你使用临时武器进行攻击时，你可以消耗2点耐力让攻击骰提升一级（最大值为1d10，如果临时武器是双手的话则是2d8）。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Infuse Poison": {
+            "name": "Infuse Poison",
+            "description": "<p><strong>Source</strong> Black Markets pg. 12</p><p>You can infuse a poison with a magical effect.</p><p><strong>Prerequisites</strong>: Brew Potion, Craft (alchemy) 5 ranks, caster level 3rd.</p><p><strong>Benefit</strong>: You can infuse an ingested poison with any spell of 3rd level or lower that you know and that targets one or more creatures and has a casting time of less than 1 minute. Infusing a poison takes 2 hours if its base price is 250 gp or less; otherwise, infusing a poison takes 1 day for each 1,000 gp in its base price. When you infuse a poison, you set the caster level, which must be sufficient to cast the spell in question and no higher than your own caster level. To infuse a poison, you must use up raw materials costing half of its base price.</p><p>When you create an infused poison, you make any choices that you would normally make when casting the spell.</p><p>Whoever ingests the infused poison is the target of the spell.</p>"
+        },
+        "Inscribe Magical Tattoo": {
+            "name": "绘制魔法刺青 Inscribe Magical Tattoo",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能够绘制魔法刺青。</em><br/><br/><br/><br/><b>先决条件: </b>工艺（书法calligraphy，绘图paintings或刺青tattoos）5级，施法者等级5级。<br/><br/><b>专长效果: </b>你能够绘制魔法刺青，一种能直接纹入自愿或无助生物的皮肉中的魔法物品。你与接受刺青之人（如果被纹上刺青的人不是你自己）整个纹身过程中必须在场。魔法刺青必须被放置在通常能够装备魔法物品的身体部位上，但是它们不会占用或者与穿戴在这些位置的魔法物品相冲突。一个单独的装备位（Solt）只能保留一个魔法刺青（非魔法刺青与通过刺青术士变体职业而获得的刺青不受此限制）。纹身可以被纹在后述装备位上：腰部（belt），身体（body），前胸（chest），脚部（feet），手部（hands），头部（head），颈部（neck），戒指（ring，至多2个），肩部（shoulder）或者腕部（wrist）。它们无法被纹到防具（armor），眼部（eye），头饰（headband）或者盾牌（shield）装备位上。</p><p>魔法刺青难以被破坏，它们在受到解除魔法（dispel magic）时被视为魔法物品（magic items）。抹消术（erase）能够永久性消除魔法刺青，但是被纹上刺青的人能够以意志豁免抵抗该法术，此外施法者需要进行成功的施法者等级检定才能抹消刺青。以物理方式移除魔法刺青需要使用锋利的工具，或者使用强酸、火焰也能够摧毁它。这样做是整轮动作（full-round action），不仅要求目标是自愿或者无助状态，还会引发借机攻击。必须至少造成总计刺青的每施法者等级2点伤害，才能以此方式摧毁魔法刺青。</p><p>魔法刺青遵循制造魔法物品的规则，就如同他们是奇物一般，不过可以使用工艺（书法，绘图或刺青）技能来制造它们。新魔法刺青可以使用新魔法物品定价指南来研究与设计（New magical tattoos can be researched and designed using the guidelines for pricing new magic items）。在定价时，魔法刺青被视为无部位魔法物品（slotless magical items）。<br/><br/><b>资源出处: </b>Inner Sea Magic pg. 16<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Inscribe%20Magical%20Tattoo"
+        },
+        "Intimidating Prowess": {
+            "name": "威逼 Intimidating Prowess",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的力量令他人恐惧。</em><br/><br/><br/><br/><b>专长效果: </b>你的威吓技能检定在魅力调整之外再计入力量修正。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 128<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Prowess<br/><br/><b>战策增益：</b>当你尝试威吓检定时，你可以通过消耗耐力来消除你和目标之间的体型差距带来的减值，每消耗2点可以消除一个体型的差距。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 124"
+        },
+        "Iron Will": {
+            "name": "钢铁意志 Iron Will",
+            "description": "<em>你有超乎常人的坚强意志。</em><br/><br/><br/><br/><b>专长效果: </b>所有意志豁免获得+2加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 129<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Iron%20Will"
+        },
+        "Ki Throw": {
+            "name": "太极推手 Ki Throw",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的身体控制能力以及对动量的掌握能够将敌人摔飞出去。</em><br/><br/><br/><br/><b>先决条件: </b>精通绊摔，精通徒手打击。<br/><br/><b>专长效果: </b>当你成功对目标进行徒手绊摔攻击，并且目标的体型小于等于你的时候，你能够让目标摔倒在任何你正在威胁的方格内，而非他原本占据的方格。这个移动不会引发借机攻击，你也无法将该名生物摔进有其他生物占据的空间内。<br/><br/><b>特殊说明: </b>10级起，武僧能够将“太极推手”作为奖励专长选取。具有该专长的武僧能够影响比自身体型更大的生物，只要他支付每级体型差距1点气即可。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 164<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ki%20Throw<br/><br/><b>战策增益：</b>你可以消耗5点耐力来投掷一个体型比你大一级的生物。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 125"
+        },
+        "Leadership": {
+            "name": "领导力 Leadership",
+            "description": "<em>你是他人追随的对象，对于招募部属也有相当的研究。</em><br/><br/><br/><br/><b>先决条件: </b>角色等级7。<br/><br/><b>专长效果: </b>你能吸引一个忠心的部属及许多追随者来协助你。部属通常是一名拥有职业等级的NPC，而追随者则为更低等级的NPC。查看下表确认你能够吸引到的部属等级和追随者数量。</p><p>表：领导力</p><p>领导力值</p><p>部属等级</p><p>各等级追随者数量</p><p>1级</p><p>2级</p><p>3级</p><p>4级</p><p>5级</p><p>6级</p><p>1以下</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>2</p><p>1</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>3</p><p>2</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>4</p><p>3</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>5</p><p>3</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>6</p><p>4</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>7</p><p>5</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>8</p><p>5</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>9</p><p>6</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>10</p><p>7</p><p>5</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>11</p><p>7</p><p>6</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>12</p><p>8</p><p>8</p><p>-</p><p>-</p><p>-</p><p>-</p><p>-</p><p>13</p><p>9</p><p>10</p><p>1</p><p>-</p><p>-</p><p>-</p><p>-</p><p>14</p><p>10</p><p>15</p><p>1</p><p>-</p><p>-</p><p>-</p><p>-</p><p>15</p><p>10</p><p>20</p><p>2</p><p>1</p><p>-</p><p>-</p><p>-</p><p>16</p><p>11</p><p>25</p><p>2</p><p>1</p><p>-</p><p>-</p><p>-</p><p>17</p><p>12</p><p>30</p><p>3</p><p>1</p><p>1</p><p>-</p><p>-</p><p>18</p><p>12</p><p>35</p><p>3</p><p>1</p><p>1</p><p>-</p><p>-</p><p>19</p><p>13</p><p>40</p><p>4</p><p>2</p><p>1</p><p>1</p><p>-</p><p>20</p><p>14</p><p>50</p><p>5</p><p>3</p><p>2</p><p>1</p><p>-</p><p>21</p><p>15</p><p>60</p><p>6</p><p>3</p><p>2</p><p>1</p><p>1</p><p>22</p><p>15</p><p>75</p><p>7</p><p>4</p><p>2</p><p>2</p><p>1</p><p>23</p><p>16</p><p>90</p><p>9</p><p>5</p><p>3</p><p>2</p><p>1</p><p>24</p><p>17</p><p>110</p><p>11</p><p>6</p><p>3</p><p>2</p><p>1</p><p>25以上</p><p>17</p><p>135</p><p>13</p><p>7</p><p>4</p><p>2</p><p>2</p><p>领导力（Leadership）</p><p>领导力值（Leadership Score）：人物的基本领导力值等于其等级加上魅力修正。为了处理负的魅力修正，上表列出了非常低的领导力值，但人物依然必须达到7级之后才可选择领导力专长。外在因素会影响到人物的领导力值，如上表所列。</p><p>领导力修正（Leadership Modifiers）：有若干因素会影响人物的领导力数值，使之由基本数值（人物等级+魅力修正）变化为其他数值。人物的声誉（以其试图吸引的部属或随从的视角）会提升或降低其领导力数值。</p><p>领导者声誉</p><p>修正值</p><p>声名远扬</p><p>+2</p><p>公平与宽容</p><p>+1</p><p>特殊能力</p><p>+1</p><p>失败</p><p>-1</p><p>冷漠</p><p>-1</p><p>残酷</p><p>-2</p><p>适用于部属的领导力修正：</p><p>领导者…</p><p>修正值</p><p>拥有魔宠、特殊座骑或动物伙伴</p><p>-2</p><p>招募不同阵营的部属</p><p>-1</p><p>造成部属死亡</p><p>-2*</p><p>* 每个部属死亡的效果会累计。</p><p>适用于追随者的领导力修正：</p><p>领导者…</p><p>修正值</p><p>拥有堡垒、指挥中心、工会建筑等</p><p>+2</p><p>时常迁移</p><p>-1</p><p>造成追随者死亡</p><p>-1</p><p>部属等级（Cohort Level）：代表人物可以吸引到的部属等级，但不论他的领导力值有多少，都最高只能招募到比自己低2级的部属。部属应拥有适合于其等级的装备。部属可以是任意种族和职业。人物可以尝试吸引特定种族、职业以及阵营的部属。部属的阵营不可以在秩序－混乱或是善良－邪恶的阵营轴在线与领导者的阵营相反，并且领导招募与其自己不同阵营的部属时会有-1领导力减值。</p><p>当确定团队总经验值时部属不计算在内。而是将部属的等级除以你的等级，再将该值乘以你获得的总经验值，并把得到的数字加在该部属的总经验值上。如果部属获得了足够经验值而使其等级能够升到比有关玩家人物的等级低1级，则该部属不能升到这一级——其经验值将为达到该等级的经验值减1。</p><p>每个等级的追随者数量（Number of Followers by Level）：人物每等级能领导的追随者数量如上表所列。追随者类似于部属，但一般为级别较低的NPC。由于他们的级别一般低于所追随的人物5级以上，所以在战斗中很少有用。追随者不会获得经验值，因此也不会升级。但当拥有领导力的人物升级时，玩家可以参考上表确定是否招募到了更多追随者，其中部分可能比现有追随者级别更高。但追随者升级则不参考上表，因为部属自己独立的获得经验值。</p><p>怪物部属（Monster Cohorts）</p><p>“领导力（Leadership）”专长允许角色获得一位忠诚的部属。在GM允可下，这位部属可以是一位类似阵营的怪物，而非具有一定职业等级的类人生物。下表中的怪物与部属一样运作（它们可以作为刺客、保镖、坐骑……等等）。它们的有效部属“等级”对应于玩家角色的领导力值。怪物部属如同相应等级的部属角色般获得经验，当经验值足以升级时，它应获得一个关键职业等级（大多数时候战士是最恰当选择）。你可以参考下表列出的数据，来判定不在下表中的怪物的有效部属等级。</p><p>怪物部属</p><p>阵营</p><p>等级</p><p>出处</p><p>怪物部属</p><p>阵营</p><p>等级</p><p>出处</p><p>獒首神使（Archon, Hound）</p><p>秩序善良</p><p>7级</p><p>B1</p><p>无拘影民（Shae）</p><p>绝对中立</p><p>7级</p><p>B3</p><p>闪现犬（Blink Dog）</p><p>秩序善良</p><p>4级</p><p>B2</p><p>八足驹（Sleipnir）</p><p>绝对中立</p><p>16级</p><p>B3</p><p>麒麟（Kirin）</p><p>秩序善良</p><p>13级</p><p>B3</p><p>双足飞龙（Wyvern）</p><p>绝对中立</p><p>10级</p><p>B1</p><p>舍度（Shedu）</p><p>秩序善良</p><p>14级</p><p>B3</p><p>巨秃鹫（Vulture, Giant）</p><p>绝对中立</p><p>7级</p><p>B3</p><p>鹏羽天使（Agathion, Avoral）</p><p>中立善良</p><p>15级</p><p>B2</p><p>狼妖（Adlet）</p><p>混乱中立</p><p>14级</p><p>B3</p><p>狮首神使（Agathion, Leonal）</p><p>中立善良</p><p>17级</p><p>B2</p><p>萨特羊人（Satyr）</p><p>混乱中立</p><p>7级</p><p>B1</p><p>龙马（Dragon Horse）</p><p>中立善良</p><p>16级</p><p>B2</p><p>狸猫人（Tanuki）</p><p>混乱中立</p><p>8级</p><p>B3</p><p>巨鹰（Eagle, Giant）</p><p>中立善良</p><p>6级</p><p>B1</p><p>怒魔（Devil, Erinyes）</p><p>秩序邪恶</p><p>16级</p><p>B1</p><p>皮克精（Pixie）</p><p>中立善良</p><p>8级</p><p>B1</p><p>地狱犬（Hell Hound）</p><p>秩序邪恶</p><p>7级</p><p>B1</p><p>巴拉尼天使（Azata, Bralani）</p><p>混乱善良</p><p>11级</p><p>B1</p><p>蝎尾狮（Manticore）</p><p>秩序邪恶</p><p>9级</p><p>B1</p><p>迦楼罗（Garuda）</p><p>混乱善良</p><p>16级</p><p>B3</p><p>水猴（Ahuizotl）</p><p>中立邪恶</p><p>11级</p><p>B3</p><p>飞马（Pegasus）</p><p>混乱善良</p><p>6级</p><p>B1</p><p>食人猿（Kech）</p><p>中立邪恶</p><p>6级</p><p>B3</p><p>独角兽（Unicorn）</p><p>混乱善良</p><p>8级</p><p>B1</p><p>红帽子（Redcap）</p><p>中立邪恶</p><p>10级</p><p>B2</p><p>奇匠族（Axiomite）</p><p>秩序中立</p><p>14级</p><p>B2</p><p>蝠翼人（Sabosan）</p><p>中立邪恶</p><p>9级</p><p>B3</p><p>火矮人（Azer）</p><p>秩序中立</p><p>5级</p><p>B2</p><p>骷髅勇士（Skeletal Champion）</p><p>中立邪恶</p><p>6级</p><p>B1</p><p>巨枭（Owl, Giant）</p><p>秩序中立</p><p>8级</p><p>B3</p><p>幽影獒犬（Shadow Mastiff）</p><p>中立邪恶</p><p>8级</p><p>B3</p><p>变形蛛（Aranea）</p><p>绝对中立</p><p>8级</p><p>B2</p><p>座狼（Worg）</p><p>中立邪恶</p><p>5级</p><p>B1</p><p>飞猿（Derhii）</p><p>绝对中立</p><p>10级</p><p>B3</p><p>巴布魔（Demon, Babau）</p><p>混乱邪恶</p><p>11级</p><p>B1</p><p>龙狮（Dragonne）</p><p>绝对中立</p><p>10级</p><p>B3</p><p>蛛化精灵（Drider）</p><p>混乱邪恶</p><p>11级</p><p>B1</p><p>石巨人（Giant, Stone）</p><p>绝对中立</p><p>18级</p><p>B1</p><p>双头巨人（Ettin）</p><p>混乱邪恶</p><p>15级</p><p>B1</p><p>狮鹫（Griffon）</p><p>绝对中立</p><p>8级</p><p>B1</p><p>食尸鬼（Ghoul）</p><p>混乱邪恶</p><p>5级</p><p>B1</p><p>狮足鹰人（Maftet）</p><p>绝对中立</p><p>11级</p><p>B3</p><p>嚎兽（Howler）</p><p>混乱邪恶</p><p>7级</p><p>B2</p><p>涅法雷姆（Nephilim）</p><p>绝对中立</p><p>13级</p><p>B3</p><p>吸血狼（leucrotta）</p><p>混乱邪恶</p><p>9级</p><p>B2</p><p>大脚野人（Sasquatch）</p><p>绝对中立</p><p>6级</p><p>B3</p><p>少年龙（Young dragon）</p><p>-</p><p>特殊*</p><p>B123</p><p>* 少年龙的有效部属等级为“CR+8”。龙族部属不会如一般的龙般增长年纪，但能获得职业等级（通常为战士或术士）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 129<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Leadership"
+        },
+        "Lifecrafting": {
+            "name": "Lifecrafting",
+            "description": "<p><strong>Source</strong> Heroes of Golarion pg. 7</p><p><em>Your crafting skill and the secret knowledge of your people allows you to create new wyrwoods.</em></p><p><strong>Prerequisites</strong>: Craft Construct, Leadership, wyrwood.</p><p><strong>Benefit</strong>: By completing a unique ritual, you can create a wyrwood. While you can use any Small wooden construct to create the base of a wyrwood, infusing it with life and consciousness requires a specific process. The process requires a flawless ioun stone worth at least 10,000 gp. For the ritual to succeed, you must spend 1 month in complete isolation with the construct that will become a wyrwood. Each week, you must succeed at a DC 30 Craft (carpentry) or Craft (sculpture) check. Failure requires you to start again, although the materials can be reused. Over this time, the construct reshapes itself around the ioun stone until it finds the form it will take permanently— thus even non-humanoid constructs become humanoid as they become wyrwoods. While wyrwoods are born as fully formed adults, they lack any skill or training, so they have only 1 level in the commoner class.</p>"
+        },
+        "Lightning Reflexes": {
+            "name": "闪电反射 Lightning Reflexes",
+            "description": "<em>你的反应力比一般人快。</em><br/><br/><br/><br/><b>专长效果: </b>所有反射豁免获得+2加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lightning%20Reflexes"
+        },
+        "Lightning Stance": {
+            "name": "闪电步 Lightning Stance",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你移动起来的非凡速度令敌人难以攻击。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷17，闪避，疾风步，基本攻击加值+11。<br/><br/><b>专长效果: </b>若你在一轮中花费2个动作进行移动或一个撤退动作，则你在一轮中获得50%隐蔽。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lightning%20Stance<br/><br/><b>战策增益：</b>当你使用单个移动动作并移动不少于你的速度时，你可以消耗5点耐力来获得50%失手率的好处，直到你的下一轮开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 125"
+        },
+        "Lingering Performance": {
+            "name": "余音绕梁 Lingering Performance",
+            "description": "<em>即使你停止演奏，你的吟游表演的效果仍旧环绕在周边。</em><br/><br/><br/><br/><b>先决条件: </b>【吟游表演】职业特性。<br/><br/><b>专长效果: </b>在你停止表演之后，你的【吟游表演】带来的加值与减值仍旧能持续2轮。任何其他先决条件，诸如范围或者特殊条件，必须仍旧满足才能让效果持续下去。如果你在这期间内开始一次新的吟游表演，前一次表演的效果会立刻终止。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 164<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lingering%20Performance"
+        },
+        "Lunge": {
+            "name": "突刺 Lunge",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以攻击正常触及之外的敌人。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+6。<br/><br/><b>专长效果: </b>你可以令近战攻击距离增加5尺直到你的回合结束，但直到你的下轮行动时AC受-2减值。你必须在做出任何攻击前宣布使用此能力。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lunge<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗2点耐力来避免在使用这个专长时受到AC上的-2减值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 125"
+        },
+        "Magical Aptitude": {
+            "name": "魔法天赋 Magical Aptitude",
+            "description": "<em>你在释放魔法和使用魔法物品方面有资质。</em><br/><br/><br/><br/><b>专长效果: </b>你的法术辨识与使用魔法装置检定获得+2加值。如果某技能受训等级10以上，则对应的加值改为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Magical%20Aptitude"
+        },
+        "Manyshot": {
+            "name": "多重射击 Manyshot",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可对一个目标同时发射数箭。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷17，近距射击，快速射击，基本攻击加值+6。<br/><br/><b>专长效果: </b>当以弓箭做出全力攻击动作时，你的第一击射出两支箭。若攻击检定成功，则两支箭均命中。基于精准攻击的伤害（例如偷袭）和重击伤害在该次攻击中仅计算一次。使用复合长弓时的力量修正，以及其他伤害加值例如游侠的【宿敌】加值，均在每只箭上正常生效。对抗每箭的伤害减免与其他抗力都要分别计算。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Manyshot<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗5点耐力来在全力攻击中的最后一次攻击时同时射出两支箭。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 126"
+        },
+        "Martial Weapon Proficiency": {
+            "name": "擅长军用武器 Martial Weapon Proficiency",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>选择一种军用武器，你熟知如何在战斗中使用此军用武器。</em><br/><br/><br/><br/><b>专长效果: </b>使用该军用武器攻击检定不受减值。<br/><br/><b>特殊说明: </b>野蛮人、战士、圣骑士和游侠擅长所有军用武器，不需选择本专长。你可以多次选择本专长，每次对应一种新的军用武器。<br/><br/><b>通常状况: </b>使用不擅长的武器，攻击检定受-4减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Martial%20Weapon%20Proficiency"
+        },
+        "Master Craftsman": {
+            "name": "造物专家 Master Craftsman",
+            "description": "<em>你的非凡手艺令你能够制造简单的魔法物品。</em><br/><br/><br/><br/><b>先决条件: </b>任意工艺或专业技能5级。<br/><br/><b>专长效果: </b>选择一项你拥有至少5级的工艺或专业技能，获得+2加值。你所选技能的等级可作为你的CL，以满足“制造魔法武器和防具”以及“制造奇物”专长的先决条件。你可以使用这些专长制造魔法物品，以你所选技能的等级作为你的总CL。你必须使用所选的技能进行制造该物品的检定。某些必要的法术需求仍旧会令制造该物品的DC增加（更多信息请参见魔法物品规则）。你无法使用本专长制造任何法术触发型或法术完成型物品。【编注：魔杖属于法术触发型物品，而卷轴则属于法术完成型物品。】<br/><br/><b>通常状况: </b>只有施法者能够选择“制造魔法武器和防具”以及“制造奇物”专长。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Master%20Craftsman"
+        },
+        "Maximize Spell": {
+            "name": "法术极效 Maximize Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你可以将法术的效果发挥到最大。</em><br/><br/><br/><br/><b>专长效果: </b>搭配本专长时，法术效果中所有变量皆以最大值计算。豁免检定和对抗检定不受影响。法术若无变动数值则无影响。极效的法术须占用高于原本3个环位的法术位。配合“法术强效”和“法术极效”的法术，可分别获得两个专长的效果，也就是将检定结果的最大值加上正常检定结果的一半。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Maximize%20Spell"
+        },
+        "Medusa's Wrath": {
+            "name": "万蛇出洞 Medusa's Wrath",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的连续攻击令对手眼花缭乱。</em><br/><br/><br/><br/><b>先决条件: </b>精通徒手打击，蛇形拳，蝎形拳，基本攻击加值+11。<br/><br/><b>专长效果: </b>每当你进行全力攻击并做出至少一次徒手击打攻击时，你可以额外以最高BAB做出两次徒手击打攻击。这些额外攻击必须针对晕眩、措手不及、麻痹、恍惚、震慑或昏迷状态的敌人。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Medusa's%20Wrath<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗10点耐力来对你正在夹击的敌人做出额外的攻击，而不是只能对晕眩，措手不及，麻痹，恍惚，震慑，或者失去意识的敌人做出额外攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 126"
+        },
+        "Mobility": {
+            "name": "灵活移动 Mobility",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于闪过敌人并躲开攻击。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，闪避。<br/><br/><b>专长效果: </b>当你离开敌人的威胁区域或在该范围内移动，引发对方借机攻击时，你的AC可获得+4闪避加值。若你失去AC的敏捷加值（如果有），也会同时失去闪避加值。各项闪避加值可以累加，这与其他大部分类型加值不同。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 130<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mobility<br/><br/><b>战策增益：</b>你在AC上来自闪避专长战策的闪避加值在对抗移动引起的借机攻击翻倍。如果你没有闪避专长，你仍然可以使用它的战策。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
+        },
+        "Monstrous Crafter": {
+            "name": "Monstrous Crafter",
+            "description": "<p><strong>Source</strong> Monster Hunter's Handbook pg. 24</p><p><em>You can weave pieces of beasts into your magic items.</em></p><p><strong>Prerequisites</strong>: Craft Wondrous Item, Grisly Ornament, Harvest Parts.</p><p><strong>Benefit</strong>: Whenever you use the Grisly Ornament feat, you are able to permanently integrate one ornament you have crafted using the harvested creature parts into a wondrous item. The ornament grants no ongoing benefits, but once per day you can activate an integrated ornament as a free action to gain its full benefits for 1 minute. You can integrate an ornament into a wondrous item (or replace an item’s existing ornament) by spending 8 hours of work and 100 gp × the creature’s CR.</p>"
+        },
+        "Mounted Archery": {
+            "name": "骑乘射击 Mounted Archery",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于在骑乘时使用远程武器。</em><br/><br/><br/><br/><b>先决条件: </b>骑术1级，骑乘战斗。<br/><br/><b>专长效果: </b>在骑乘时使用远程武器的减值减为一半。例如，当坐骑以倍速移动时，减值为-2而非-4。坐骑奔跑时，减值为-4而非-8。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mounted%20Archery<br/><br/><b>战策增益：</b>当你在骑乘时使用远端武器做出攻击时，你可以消耗1或2点耐力来降低攻击骰上的减值，降低的减值等于你消耗耐力的两倍。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
+        },
+        "Mounted Combat": {
+            "name": "骑乘战斗 Mounted Combat",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于骑乘战斗。</em><br/><br/><br/><br/><b>先决条件: </b>骑术1级。<br/><br/><b>专长效果: </b>坐骑被击中时，你可以做一次骑术检定（视为直觉动作），若检定结果大于对手的攻击检定，则该攻击无效。此专长每轮只能使用1次。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mounted%20Combat<br/><br/><b>战策增益：</b>当你已经使用了这个专长之后，你可以消耗5点耐力来在同一轮中再次使用它一次。你可以在一轮内任意多次使用这个战策次，但每次都要消耗5点耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 127"
+        },
+        "Natural Spell": {
+            "name": "自然施法 Natural Spell",
+            "description": "<em>你可在自然变身状态下施法，即使该形态正常无法施法。</em><br/><br/><br/><br/><b>先决条件: </b>感知13，【自然变身】职业特性。<br/><br/><b>专长效果: </b>你可在自然变身状态下完成法术的言语与姿势。你使用各种声音和动作代替原本法术正常的言语与姿势。你仍旧能够使用任何你拥有的施法材料或器材，即使这些东西已经融进了你现在的形态中。若此型态原本就无法使用某种魔法物品，这项专长并不赋予使用物品的能力，此外本专长也不能让你在自然变身型态时说话。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Spell"
+        },
+        "Nimble Moves": {
+            "name": "灵狐步 Nimble Moves",
+            "description": "<em>你能够轻松越过单独的障碍。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13。<br/><br/><b>专长效果: </b>当你移动时，你每轮可以像正常地形般穿越5尺的困难地形。本专长允许你使用五尺快步进入困难地形。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nimble%20Moves"
+        },
+        "Outflank": {
+            "name": "包抄 Outflank",
+            "description": "<b>专长类型：</b>CombatTeamwork<br/><br/><em>在夹击敌人时你能够积极寻找任何获得优势的契机。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+4。<br/><br/><b>专长效果: </b>每当你和同样拥有该专长的一名盟友夹击相同的生物时，你的攻击检定获得的夹击加值提升至+4。此外，每当你对夹击的生物成功进行重击时，它会引起你的盟友的借机攻击。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 165<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Outflank<br/><br/><b>战策增益：</b>当你成功对一个你正在夹击的敌人造成重击威胁，但并未重击确认时，你可以消耗5点耐力。如果你这样做了，那个生物将会引起任何拥有这个专长并正在夹击这个生物的盟友的一次借机攻击，即使你并没有确认重击。你仍然不能对免疫重击的目标使用这个能力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 128"
+        },
+        "Painful Collision": {
+            "name": "Painful Collision",
+            "description": "<p><b>Source</b> Martial Arts Handbook pg. 24</p><p><em>You shove your opponents into each other, causing painful and damaging collisions.</em></p><p><b>Prerequisites</b>: Str 13, Improved Bull Rush, Power Attack.</p><p><b>Benefit</b>: When you bull rush an enemy into another creature, both creatures take 1d6 points of bludgeoning damage, plus an additional 1d6 points of bludgeoning damage for every 5 feet your original target has moved as a result of your bull rush. For instance, if you successfully bull rush a goblin 10 feet and it then collides with another goblin, both creatures would take 3d6 points of bludgeoning damage.</p>"
+        },
+        "Penetrating Strike": {
+            "name": "穿透打击 Penetrating Strike",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的攻击能够穿透某些生物的防御。选择一种你已获得了武器专攻Weapon Focus的武器。</em><br/><br/><br/><br/><b>先决条件: </b>武器专攻，基本攻击加值+1，12级战士，擅长对应武器。<br/><br/><b>专长效果: </b>你使用选定武器进行的攻击无视至多5点伤害减免。此专长对无类别的伤害减免无效（比如“10/-”）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Penetrating%20Strike<br/><br/><b>战策增益：</b>当你对一个拥有伤害减免的敌人使用选定武器造成伤害时，你可以消耗5点耐力来让你在30尺内的盟友（除了你自己）忽略该生物的5点伤害减免。这对拥有无类型伤害减免的生物没有效果（像是DR 10/—）。这个效果不会与穿透打击的正常效果叠加，但是它能让你在持续时间内将这个效果应用到你其他所有武器上。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 128"
+        },
+        "Persuasive": {
+            "name": "谈判专家 Persuasive",
+            "description": "<em>你善于动摇态度和胁迫他人按你的想法行事。</em><br/><br/><br/><br/><b>专长效果: </b>你在交涉和威吓技能检定上获得+2加值。如果某技能受训等级10以上，该技能获得的加值提升为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Persuasive"
+        },
+        "Pinpoint Targeting": {
+            "name": "精确瞄准 Pinpoint Targeting",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够瞄准对手盔甲上的弱点。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷19，精通精准射击，近距射击，精准射击，基本攻击加值+16。<br/><br/><b>专长效果: </b>以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pinpoint%20Targeting<br/><br/><b>战策增益：</b>以一个标准动作，你可以消耗2点耐力，并对一个与盟友在近战接战的敌人进行一次远端攻击。如果这次攻击命中了，它将不造成伤害，但你的盟友将会获得由你选择的一个好处：他可以在下一次对那个敌人的攻击上获得+2加值，或者在对抗那个敌人下一次攻击的AC上获得+2加值。这个加值将会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+        },
+        "Point-Blank Shot": {
+            "name": "近距射击 Point-Blank Shot",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你对远程攻击近程目标颇有心得。</em><br/><br/><br/><br/><b>专长效果: </b>你使用远程武器攻击30尺内的目标时在攻击和伤害检定上获得+1加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Point-Blank%20Shot<br/><br/><b>战策增益：</b>你可以消耗至多6点耐力来提升这个专长的范围，每消耗1点提升5尺。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+        },
+        "Power Attack": {
+            "name": "猛力攻击 Power Attack",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>通过牺牲准度来换取力道，你能够做出异常致命的近战攻击。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，基本攻击加值+1。<br/><br/><b>专长效果: </b>你可以选择在所有近战攻击和战技检定上承受-1减值，以在所有近战伤害检定上获得+2加值。如果你进行攻击时使用的是双手武器、双手持用的单手武器或可在伤害检定上加上1.5倍力量修正的主要天生武器，此伤害加值提升一半（+50%）。如果你进行攻击时使用的是副手武器或次要天生武器，此伤害加值减半（-50%）。当你的BAB达到+4，和以后的每4点提升，攻击减值再-1，伤害加值再+2。你必须在进行攻击检定前选择使用此专长，其效果持续到你的下回合之前。接触攻击和不造成生命点数伤害的效果无法获得伤害加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Power%20Attack<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗2点耐力来获得这个专长的好处和缺陷直到你的回合结束，而不是到你下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+        },
+        "Precise Shot": {
+            "name": "精准射击 Precise Shot",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长向近战中进行远程攻击。</em><br/><br/><br/><br/><b>先决条件: </b>近距射击。<br/><br/><b>专长效果: </b>你对近战中的对手射击或投掷远程武器时不需在攻击检定上承受标准的-4减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Precise%20Shot<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+        },
+        "Precise Strike": {
+            "name": "精准打击 Precise Strike",
+            "description": "<b>专长类型：</b>CombatTeamwork<br/><br/><em>你很擅长进行精确的攻击，不过前提是敌人的注意力被盟友所分散。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，基本攻击加值+1.。<br/><br/><b>专长效果: </b>每当你和同样拥有该专长的一名盟友夹击相同的生物时，你们的每次成功近战攻击能够额外造成1d6点精准伤害。这个加值与其他来源的精准伤害叠加，比如偷袭。该伤害不会由于重击而增加。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 167<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Precise%20Strike<br/><br/><b>战策增益：</b>当你使用这个专长造成精准伤害时，你可以消耗2点耐力来将精准伤害提升到2d6。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+        },
+        "Quick Draw": {
+            "name": "即时备战 Quick Draw",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够比大多数人更快的拔出武器。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+1。<br/><br/><b>专长效果: </b>你能够以自由动作而不是移动动作拔出一把武器。你能够以移动动作拔出一把隐藏的武器（见巧手技能）。选择此专长的人物能以他的正常攻击频率投掷武器（如同使用弓的人物一样）。炼金物品、药水、卷轴和魔杖不能用此专长快速拿取。<br/><br/><b>通常状况: </b>没有此专长，你拔出一把武器是移动动作，或做为移动一部分的自由动作（如果你的BAB+1以上）。没有此专长，你拔出一把隐藏的武器是标准动作。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 131<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Draw<br/><br/><b>战策增益：</b>只要你的耐力池中还有1点耐力，你就能以一个迅捷动作将武器放回鞘中。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 129"
+        },
+        "Quicken Spell": {
+            "name": "法术瞬发 Quicken Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你能够在一瞬间施展法术。</em><br/><br/><br/><br/><b>专长效果: </b>施展瞬发法术是迅捷动作。在施展瞬发法术的同一轮里，你可以做另一个动作，甚至施展另一个法术。施法时间超过1个整轮动作或一轮的法术无法被瞬发。瞬发法术占用比该法术实际等级高4环的法术位。施展瞬发法术不会触发借机攻击。<br/><br/><b>特殊说明: </b>你能够将此专长的效果应用于自发施展的法术，只要其施法时间不超过1个整轮动作，这样做不会增加该法术的施法时间。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quicken%20Spell"
+        },
+        "Rapid Reload": {
+            "name": "快速装填 Rapid Reload",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>选择一种你擅长的弩（手弩、轻弩、重弩）或一种单一类型的单手或双手火器，你可以更快的进行装填。</em><br/><br/><br/><br/><b>先决条件: </b>擅长武器（选择类型的弩）或擅长异种武器（火器）。<br/><br/><b>专长效果: </b>你可以用一个自由动作（手弩或轻弩）、移动动作（重弩或单手火器）或标准动作（双手火器）对你选择类型的武器进行装填。装填动作仍旧会引发借机攻击。如果你为这个专长选择了手弩或轻弩，你将可以像使用弓一样用其进行全回合攻击。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，每次对应一种新的弩或火器类型。<br/><br/><b>通常状况: </b>没有本专长的角色装填手弩或轻弩需要移动动作，单手火器需要标准动作，而双手火器需要整轮动作。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 115Inner Sea World Guide pg. 288PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rapid%20Reload<br/><br/><b>战策增益：</b>当你装填十字弓或者火器时，你可以消耗5点耐力来降低装填的时间一级；标准动作变为移动动作，移动动作变为迅捷动作，迅捷动作变为自由动作。你正在装填的武器不需要是你在获得这个专长时选择的。如果你的武器已经可以使用自由动作装填，当你用这件武器全力攻击时，你可以消耗2点耐力来在全力攻击时的伤害骰上获得+1加值。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
+        },
+        "Rapid Shot": {
+            "name": "快速射击 Rapid Shot",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够进行一次额外的远程攻击。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，近距射击。<br/><br/><b>专长效果: </b>使用远程武器进行全力攻击时，你在该轮能够以你最高的加值多射击一次。使用速射时，你的所有攻击检定承受-2减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rapid%20Shot<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗至多等同于你在使用这个专长时打出的远端攻击次数的耐力。如果你这样做了，你可以降低单次快速射击远端攻击的减值，每消耗1点耐力就能降低2点。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
+        },
+        "Reinforced Crafting": {
+            "name": "Reinforced Crafting",
+            "description": "<p><strong>Source</strong> People of the Wastes pg. 27</p><p><em>Your magical creations are hardier than most.</em></p><p><strong>Prerequisites</strong>: Craft Magic Arms and Armor, ability to cast make whole or mending.</p><p><strong>Benefit</strong>: When you craft a magic weapon, magic armor, or magic shield, you can add a fortifying element to the item. This increases the item’s total construction cost by 10%. If it’s a weapon, when it becomes broken, the penalty to attack and damage rolls is reduced to –1 (this can never reduce a broken weapon’s penalty to attack and damage to 0 or a positive number). If it’s a suit of armor or a shield, when it becomes broken, the bonus it grants to AC is reduced by one-quarter, rounding down. Other drawbacks of the broken condition to weapons, armor, and shields still apply as normal. Normal: A broken weapon imposes a –2 penalty on attack and damage rolls. The bonus a broken suit of armor or a broken shield grants to AC is halved.</p>"
+        },
+        "Ride-By Attack": {
+            "name": "骑乘掠击 Ride-By Attack",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>骑乘冲锋时，你能够移动，攻击，然后继续移动。</em><br/><br/><br/><br/><b>先决条件: </b>骑术1级，骑乘战斗。<br/><br/><b>专长效果: </b>骑乘冲锋时，你可以如同标准冲锋一样移动并攻击，然后再次移动（沿着冲锋的直线路径）。你该轮总的移动距离不能超过骑乘速度的两倍。你和你的坐骑不会触发你所攻击目标的借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ride-By%20Attack<br/><br/><b>战策增益：</b>在你使用这个专长做出骑冲攻击之后，你可以消耗5点耐力来改变你移动的方向，而不是继续沿着直线移动。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
+        },
+        "Run": {
+            "name": "飞跑 Run",
+            "description": "<em>你是个飞毛腿。</em><br/><br/><br/><br/><b>专长效果: </b>奔跑时，你移动正常速度的五倍（如果穿着中甲、轻甲或无甲并且没有超过中载）或四倍（如果穿着重甲或重载）。如果你助跑后再跳跃（见特技技能说明），你在杂技检定上获得+4加值。奔跑时，你保留敏捷加值到你的AC上。<br/><br/><b>通常状况: </b>奔跑时，你移动正常速度的四倍（如果穿着中甲、轻甲或无甲并且没有超过中载）或三倍（如果穿着重甲或重载），并且你失去AC上的敏捷加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Run"
+        },
+        "Scorpion Style": {
+            "name": "蝎形拳 Scorpion Style",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的徒手击打能够严重妨碍目标的移动。</em><br/><br/><br/><br/><b>先决条件: </b>精通徒手打击。<br/><br/><b>专长效果: </b>要使用此专长，你必须用标准动作做一次单一的徒手攻击。如果此徒手攻击命中，你正常造成伤害，且目标的基本陆地速度降为5尺，持续轮数等同于你的感知修正，除非其通过DC为“10+1/2你的角色等级+感知修正”的强韧豁免检定。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scorpion%20Style<br/><br/><b>战策增益：</b>当你在启用这个专长时使用徒手击打命中目标，并且目标成功通过了该效果的豁免，你可以消耗2点耐力来降低目标一半的移动力，持续1轮。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 130"
+        },
+        "Scribe Scroll": {
+            "name": "抄写卷轴 Scribe Scroll",
+            "description": "<b>专长类型：</b>Item Creation<br/><br/><em>你能够制造魔法卷轴。</em><br/><br/><br/><br/><b>先决条件: </b>施法者等级1级。<br/><br/><b>专长效果: </b>你能够制造你所知任意法术的卷轴。如果卷轴的基础价格为250 gp或以下，抄录需要2小时，否则每1000gp的基础价格需要1天。要想抄写卷轴，你必须花费价值为其基础价格一半的原材料。更多信息请参见魔法物品规则。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scribe%20Scroll"
+        },
+        "Selective Channeling": {
+            "name": "选择导能 Selective Channeling",
+            "description": "<em>你引导能量时能够选择要影响谁。</em><br/><br/><br/><br/><b>先决条件: </b>魅力13，【引导能量】职业特性。<br/><br/><b>专长效果: </b>当你引导能量时，你可以选择区域中数量至多等同于你魅力修正的目标。这些目标不受你引导能量的影响。<br/><br/><b>通常状况: </b>当你引导能量时，所有30尺爆发范围内的目标都会受到影响。你只能选择自己是否要受到影响。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 132<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling"
+        },
+        "Self-Sufficient": {
+            "name": "自给自足 Self-Sufficient",
+            "description": "<em>你知道如何在野外生存和如何有效的治疗伤口。</em><br/><br/><br/><br/><b>专长效果: </b>你在医疗和生存技能检定上获得+2加值。如果某技能受训等级10以上，该技能获得的加值提升为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Self-Sufficient"
+        },
+        "Shatter Defenses": {
+            "name": "粉碎防御 Shatter Defenses",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你使用选定武器的技巧能够让露出破绽的对手门户大开。</em><br/><br/><br/><br/><b>先决条件: </b>武器专攻，炫目技巧，基本攻击加值+6，擅长对应武器。<br/><br/><b>专长效果: </b>任何本轮被你击中的处于战栗、惊惧或恐慌状态的对手，直到你的下个回合结束，对于你做出的攻击处于措手不及状态。这包括你本轮进行的任何额外的攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shatter%20Defenses<br/><br/><b>战策增益：</b>如果你命中了一个因为该专长对你的攻击陷入措手不及的敌人时，你可消耗5点耐力来让该敌人对你的一个盟友的所有攻击视为措手不及，这个盟友必须在那个生物的30尺内，这个效果持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
+        },
+        "Shield Focus": {
+            "name": "盾牌专攻 Shield Focus",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于用盾牌偏转攻击。</em><br/><br/><br/><br/><b>先决条件: </b>擅长盾牌，基本攻击加值+1。<br/><br/><b>专长效果: </b>你由盾牌获得的AC加值+1。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Focus<br/><br/><b>战策增益：</b>当你使用盾牌时，你可以在一次针对你的攻击做出后消耗至多2点耐力。如果你这样做了，对抗那次攻击的AC盾牌加值将会提升等同于你消耗的耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
+        },
+        "Shield Master": {
+            "name": "盾牌大师 Shield Master",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你对盾牌的掌握使得你可以不受妨碍的用盾战斗。</em><br/><br/><br/><br/><b>先决条件: </b>精通盾击，擅长盾牌，盾牌猛击，双武器格斗，基本攻击加值+11。<br/><br/><b>专长效果: </b>当持用另一把武器时，你使用盾牌的攻击检定不会承受任何减值。将盾牌的AC增强加值加到用盾牌做出的攻击和伤害检定上，如同它是武器增强加值一样。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Master<br/><br/><b>战策增益：</b>在你投出一次强韧或者反射豁免骰之前，你可以消耗5点耐力来将你盾牌上的增强加值加在豁免骰上。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
+        },
+        "Shield Proficiency": {
+            "name": "擅长盾牌 Shield Proficiency",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你受过如何正确使用盾牌的训练。</em><br/><br/><br/><br/><b>专长效果: </b>当你使用盾牌（塔盾除外）时，盾牌的防具检定减值只用于基于力量和敏捷的技能。<br/><br/><b>特殊说明: </b>野蛮人、吟游诗人、牧师、德鲁伊、战士、圣骑士和游侠都自动获得擅长盾牌做为奖励专长。他们不需选择它。<br/><br/><b>通常状况: </b>当你使用不擅长的盾牌时，你在攻击检定和所有涉及移动的技能检定上承受盾牌的防具检定减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Proficiency"
+        },
+        "Shield Slam": {
+            "name": "盾牌猛冲 Shield Slam",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>只要地形合适，你能用盾牌让对手飞起来。</em><br/><br/><br/><br/><b>先决条件: </b>精通盾击，擅长盾牌，双武器格斗，基本攻击加值+6。<br/><br/><b>专长效果: </b>任何被你盾击命中的对手也受到一次附带的冲撞攻击，用这次攻击检定的结果来替代战技检定。这次冲撞不会触发借机攻击。因墙或其他表面不能后退的对手在移动最大的可行距离后被击倒在地。如果你本轮能够做一次五尺快步或花费一个动作来移动，你可以选择跟随你的目标移动。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Slam<br/><br/><b>战策增益：</b>你可以消耗2点耐力来在使用盾牌猛冲专长时尝试卸武，移位APG，绊摔，或者破武战技，而不是尝试一次自由冲撞。该战技尝试不会引起目标的借机攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
+        },
+        "Shot on the Run": {
+            "name": "移动射击 Shot on the Run",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够移动，射击一件远程武器，然后在你的敌人能够反应之前再次移动。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，闪避，灵活移动，近距射击，基本攻击加值+4。<br/><br/><b>专长效果: </b>以一个整轮动作，你能够移动至多等同于你速度的距离，并在移动的任意时点做一次单独的远程攻击。<br/><br/><b>通常状况: </b>你不能在使用远程武器进行攻击之前和之后都移动。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shot%20on%20the%20Run<br/><br/><b>战策增益：</b>你可以消耗5点耐力来以一个标准动作而不是整轮动作使用这个专长。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
+        },
+        "Sickening Critical": {
+            "name": "恶心重击 Sickening Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击能让对手恶心。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，基本攻击加值+11。<br/><br/><b>专长效果: </b>每当你造成重击时，你的对手恶心1分钟。此专长的效果不会叠加。额外的命中改为延长效果的持续时间。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sickening%20Critical<br/><br/><b>战策增益：</b>当你在使用这个专长时进入重击威胁范围，但还没有投确认骰时，你可以消耗5点耐力。如果你这样做了，并且重击确认，你的敌人将会反胃1d4轮，除非他们通过了一个DC为10+你的基本攻击加值的强韧豁免，这会将这个效果降低为普通的恶心状态。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 131"
+        },
+        "Signature Skill": {
+            "name": "标志性技能 Signature Skill",
+            "description": "<em>你在某项特定技能上的能力可谓出神入化，因此你可以使用该项技能做出他人无法做到的事情。</em><br/><br/><br/><br/><b>先决条件: </b>在所选技能上投入5点技能点。</p><p>专长专长效果：选择一项技能。你获得该项技能中在投入5点时所列出的能力。当你在被选择的技能上投入更多的技能点时，便会获得额外的能力。若你在被选择的技能中投入了10点或更多技能点，那么你能够立即获得适当的能力。若你选择的技能是工艺（Craft）、知识（Knowledge）、表演（Perform）或专业（Profession），那么你仅会在该技能中的一个单类中获得后文所列出的能力，比如工艺（制弓）。该专长仅能被选取一次，不过它会与盗贼绝艺（rogue’s edge）能力以及技高一筹（cutting edge）盗贼天赋叠加。<br/><br/><b>专长效果: </b>选择一项技能。你获得该项技能中在投入5点时所列出的能力。当你在被选择的技能上投入更多的技能点时，便会获得额外的能力。若你在被选择的技能中投入了10点或更多技能点，那么你能够立即获得适当的能力。若你选择的技能是工艺（Craft）、知识（Knowledge）、表演（Perform）或专业（Profession），那么你仅会在该技能中的一个单类中获得后文所列出的能力，比如工艺（制弓）。该专长仅能被选取一次，不过它会与盗贼绝艺（rogue’s edge）能力以及技高一筹（cutting edge）盗贼天赋叠加。<br/><br/><b>资源出处: </b>Pathfinder Unchained pg. 82<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Signature%20Skill"
+        },
+        "Signature Skill (Acrobatics)": {
+            "name": "Signature Skill (Acrobatics)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 82</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.gGfJO90ZuRT4sZ9X]{Acrobatics}, you earn the following.</p><p><strong>5 Ranks</strong>: You can move at normal speed through a threatened square without provoking an attack of opportunity by increasing the DC of the check by 5 (instead of by 10). You aren’t denied your Dexterity bonus when attempting Acrobatics checks with DCs of 20 or lower.</p><p><strong>10 Ranks</strong>: You can attempt an Acrobatics check at a –10 penalty and use the result as your CMD against trip maneuvers. You can also attempt an Acrobatics check at a –10 penalty in place of a Reflex save to avoid falling. You must choose to use this ability before the trip attempt or Reflex save is rolled. With a successful DC 20 Acrobatics check, you treat an unintentional fall as 10 feet shorter plus 10 feet for every 10 by which you exceed the DC, and treat an intentional fall as 10 feet shorter for every 10 by which you exceed the DC.</p><p><strong>15 Ranks</strong>: You do not provoke attacks of opportunity when standing up from prone.</p><p><strong>20 Ranks</strong>: You double the result of any Acrobatics check when jumping and never fall prone at the end of a fall as long as you remain conscious.</p>"
+        },
+        "Signature Skill (Appraise)": {
+            "name": "Signature Skill (Appraise)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 82</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.QGxoGsSIAOoe5dTW]{Appraise}, you earn the following.</p><p><strong>5 Ranks</strong>: A successful DC 20 Appraise check reveals whether an item is magical, and a second check (DC = 25 + the item’s caster level) unveils its properties. You can use Appraise to detect non-written forgeries and counterfeits.</p><p><strong>10 Ranks</strong>: You can determine the most expensive object a creature is wearing or wielding (or in a 5-foot cube) as a standard action by succeeding at a DC 20 check. You never make a wildly inaccurate appraisal of an item’s value.</p><p><strong>15 Ranks</strong>: Determining the most expensive object as above is a move action. You can substitute an Appraise check at a –10 penalty for a Will save to disbelieve a figment or glamer.</p><p><strong>20 Ranks</strong>: Determining the most expensive object as above is a move action, and if the check succeeds, you gain a +2 circumstance bonus on combat maneuver checks to steal that object or disarm a creature of that object for 1 minute.</p>"
+        },
+        "Signature Skill (Bluff)": {
+            "name": "Signature Skill (Bluff)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 82</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.kRK5XwVBvcMi35w2]{Bluff}, you earn the following.</p><p><strong>5 Ranks</strong>: The penalty to Bluff a creature after a failed check is halved unless you failed by 5 or more.</p><p><strong>10 Ranks</strong>: You take no penalty to Bluff a creature after a failed check unless you failed by 5 or more.</p><p><strong>15 Ranks</strong>: Creatures magically attempting to read your thoughts, detect your alignment, or reveal when you are lying must attempt a caster level check (DC = 11 + your ranks in Bluff ) or the effect reveals nothing.</p><p><strong>20 Ranks</strong>: As a full-round action, you can make a suggestion (as the spell, maximum duration 1 hour) to a creature within 30 feet (Will negates, DC = 15 + your Charisma modifier). A creature that saves against your suggestion is immune to further uses of this effect for 24 hours, and whenever the suggested creature is specifically confronted with proof of your manipulation, it receives another saving throw. This is an extraordinary mindaffecting compulsion.</p>"
+        },
+        "Signature Skill (Climb)": {
+            "name": "Signature Skill (Climb)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 82</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.ZAwjVOTwsBpZRgw4]{Climb}, you earn the following.</p><p><strong>5 Ranks</strong>: You are no longer denied your Dexterity bonus when climbing.</p><p><strong>10 Ranks</strong>: You gain a natural climb speed (but not the +8 racial bonus on Climb checks) of 10 feet, but only on surfaces with a Climb DC of 20 or lower.</p><p><strong>15 Ranks</strong>: You gain a natural climb speed (but not the +8 racial bonus on Climb checks) equal to your base speed on surfaces with a Climb DC of 20 or lower, and of 10 feet on all other surfaces.</p><p><strong>20 Ranks</strong>: You gain a natural climb speed equal to your base speed on all surfaces. If you have both hands free, you gain a +8 racial bonus on Climb checks.</p>"
+        },
+        "Signature Skill (Craft)": {
+            "name": "Signature Skill (Craft)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 83</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.3E8pxbjI8MD3JbfQ]{Craft}, you earn the following.</p><p><strong>5 Ranks</strong>: When determining your weekly progress, double the result of your Craft check before multiplying the result by the item’s DC.</p><p><strong>10 Ranks</strong>: You do not ruin any of your raw materials unless you fail a check by 10 or more.</p><p><strong>15 Ranks</strong>: When you determine your progress, the result of your check is how much work you complete each day in silver pieces.</p><p><strong>20 Ranks</strong>: You can craft magic armor, magic weapons, magic rings, and wondrous items that fall under your category of Craft using the normal Craft rules.</p>"
+        },
+        "Signature Skill (Diplomacy)": {
+            "name": "Signature Skill (Diplomacy)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 83</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.uB9Fy36RUjibxqvt]{Diplomacy}, you earn the following.</p><p><strong>5 Ranks</strong>: The time required to influence a creature’s attitude or gather information is halved.</p><p><strong>10 Ranks</strong>: You can attempt to adjust a creature’s attitude in 1 round by taking a –10 penalty. If you take 1 minute to adjust a creature’s attitude, add your Charisma bonus to the number of hours that attitude change persists.</p><p><strong>15 Ranks</strong>: You can attempt to adjust a creature’s attitude in 1 round with no penalty. If you take 1 minute to adjust a creature’s attitude, the duration of the resulting change is measured in days, not hours. You can gather information in 10 minutes by taking a –5 penalty.</p><p><strong>20 Ranks</strong>: You can attempt to adjust a creature’s attitude in 1 round with no penalty. If you take 1 minute to adjust a creature’s attitude, the duration of the resulting change is measured in weeks, not hours. You can gather information in 1d4 minutes with no penalty.</p>"
+        },
+        "Signature Skill (Disable Device)": {
+            "name": "Signature Skill (Disable Device)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 83</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.cSdUATLHBFfw3v4s]{Disable Device}, you earn the following.</p><p><strong>5 Ranks</strong>: Reduce the time required to disarm a trap or open a lock by taking a –5 penalty on your Disable Device check for each step by which you reduce the time required: 2d4 rounds, 1d4 rounds, 1 round, a standard action, a move action, a swift action.</p><p><strong>10 Ranks</strong>: You can disarm magical traps at a –10 penalty even if you lack the trapfinding ability. If you possess the trapfinding ability, when attempting to disable magic traps, you never trigger them, even if you perform the trigger action (such as looking at a symbol). If you fail the check, you can still trigger the trap, and you can’t use this ability to bypass it.</p><p><strong>15 Ranks</strong>: When attacked by a trap, you can attempt a Disable Device check as an immediate action (adding your trap sense bonus, if any) opposed by the trap’s attack roll or its save DC. If you succeed, you take half damage (or no damage if you exceed the DC by at least 10).</p><p><strong>20 Ranks</strong>: You halve the penalties for performing a quick disarm as described in the 5 Ranks entry. If you possess the trapfinding ability and accept a –20 penalty while using the ability unlocked at 15 ranks, all nearby allies gain the benef it, and you disable the trap as an immediate action before it can trigger if you exceed the DC by at least 10.</p>"
+        },
+        "Signature Skill (Disguise)": {
+            "name": "Signature Skill (Disguise)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 83</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.xg25z3GIpS590NDW]{Disguise}, you earn the following.</p><p><strong>5 Ranks</strong>: You can create a disguise in 1d3 minutes.</p><p><strong>10 Ranks</strong>: You can create a disguise in 1d3 rounds. If you take the full normal amount of time to create your disguise, you take no penalty for disguising your gender, race, or age category.</p><p><strong>15 Ranks</strong>: You can create a disguise as a full-round action.</p><p><strong>20 Ranks</strong>: You can create a disguise as a standard action, or as a full-round action combined with a Bluff check to create a diversion to hide.</p>"
+        },
+        "Signature Skill (Escape Artist)": {
+            "name": "Signature Skill (Escape Artist)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 84</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.DTNlXXg77s3178WJ]{Escape Artist}, you earn the following.</p><p><strong>5 Ranks</strong>: If you take a –10 penalty, the time required to use this skill is halved; escaping a grapple or pin is a move action, and escaping a net, animate rope, command plants, or control plants spell is a standard action.</p><p><strong>10 Ranks</strong>: You can attempt to escape from any entangling effect as a standard action with an Escape Artist check (DC = the effect’s save DC + 10). You can attempt an Escape Artist check as a move action to set the DC for a creature to escape from ropes or bindings; you gain a +10 bonus on the check if you instead attempt it as a full-round action.</p><p><strong>15 Ranks</strong>: You can escape any entangling effect (as above) as a move action. As a standard action, you can attempt an Escape Artist check (DC = the effect’s save DC + 20) to suppress a slow or paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This action counts as purely mental for the purpose of being able to take it while paralyzed.</p><p><strong>20 Ranks</strong>: You can escape being entangled, grappled, or pinned as an immediate action with an Escape Artist check (DC = the effect’s DC + 10 or the attacker’s CMB + 10). You can attempt to suppress a slow or paralysis effect as a standard action (increasing the DC by 10), a move action (increasing the DC by 15), or an immediate action (increasing the DC by 20).</p>"
+        },
+        "Signature Skill (Fly)": {
+            "name": "Signature Skill (Fly)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 84</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.iH69GIwm8BjecrPN]{Fly}, you earn the following.</p><p><strong>5 Ranks</strong>: A successful DC 20 Fly check allows you to make a 45-degree turn without sacrificing movement.</p><p><strong>10 Ranks</strong>: A successful DC 30 Fly check allows you to ascend at a 45-degree angle at full speed. You treat falls after midair collisions as 10 feet shorter with a successful DC 10 Fly check, plus 10 feet for every 10 points by which you exceed the DC.</p><p><strong>15 Ranks</strong>: A successful DC 30 Fly check allows you to make a 90-degree turn without sacrificing movement, or a 180-degree turn by sacrificing 5 feet of movement. You are considered one size category larger when determining wind effects on Fly checks.</p><p><strong>20 Ranks</strong>: A successful DC 35 Fly check allows you to fly straight up at full speed. You are considered two size categories larger when determining wind effects on Fly checks.</p>"
+        },
+        "Signature Skill (Handle Animal)": {
+            "name": "Signature Skill (Handle Animal)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 84</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.IrVgSeMcAM8rAh2B]{Handle Animal}, you earn the following.</p><p><strong>5 Ranks</strong>: Creatures you have trained gain a +2 bonus on Will saves when adjacent to you.</p><p><strong>10 Ranks</strong>: Creatures you have trained gain a +2 bonus on Will saves whenever you are within 30 feet and clearly visible. You can teach a trick in 1 day by increasing the DC by 20.</p><p><strong>15 Ranks</strong>: You can train an animal to understand your speech (as speak with animals) with 1 week of effort and a successful DC 30 Handle Animal check. Its actions are still limited by its Intelligence. You can teach a trick in 1 day (increasing the DC by 10) or 1 hour (increasing the DC by 20).</p><p><strong>20 Ranks</strong>: You can make your speech understandable to any animal for 24 hours with a successful DC 30 Handle Animal check (DC 40 for magical beasts or vermin). You can teach a trick in 1 day, 1 hour (increasing the DC by 10), or 1 minute (increasing the DC by 20).</p>"
+        },
+        "Signature Skill (Heal)": {
+            "name": "Signature Skill (Heal)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 84</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.nHbYSOoe1SzqEO9w]{Heal}, you earn the following.</p><p><strong>5 Ranks</strong>: When you treat deadly wounds, the target recovers hit points and ability damage as if it had rested for a full day.</p><p><strong>10 Ranks</strong>: When you treat deadly wounds, the target recovers hit points as if it had rested for a full day with long-term care.</p><p><strong>15 Ranks</strong>: When you treat deadly wounds, the creature recovers hit point and ability damage as if it had rested for 3 days.</p><p><strong>20 Ranks</strong>: When you treat deadly wounds, the target recovers hit point and ability damage as if it had rested for 3 days with long-term care.</p>"
+        },
+        "Signature Skill (Intimidate)": {
+            "name": "Signature Skill (Intimidate)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 85</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.KNn8uxHu23phKC0y]{Intimidate}, you earn the following. <br>An asterisk (*) indicates the total duration cannot exceed 1 round plus 1 round for every 5 by which you exceed the DC.</p><p><strong>5 Ranks</strong>: If you exceed the DC to demoralize a target by at least 10, it is frightened for 1 round and shaken thereafter.* A Will save (DC = 10 + your number of ranks in Intimidate) negates the frightened condition, but the target is still shaken, even if it has the stalwart ability.</p><p><strong>10 Ranks</strong>: If you exceed the DC to demoralize a target by at least 10, it is panicked for 1 round or frightened for 1d4 rounds (your choice) and shaken thereafter.* A Will save (DC = 10 + your number of ranks in Intimidate) negates the frightened or panicked condition, but the target is still shaken, even if it has the stalwart ability.</p><p><strong>15 Ranks</strong>: If you exceed the DC to demoralize a target by at least 20, it is cowering for 1 round or panicked for 1d4 rounds (your choice) and frightened thereafter.* A Will save (DC = 10 + your number of ranks in Intimidate) negates the cowering, panicked, and frightened conditions, but the target is still shaken, even if it has the stalwart ability.</p><p><strong>20 Ranks</strong>: If you exceed the DC to demoralize a target by at least 20, it is cowering for 1d4 rounds and panicked thereafter.* A Will save (DC = 10 + your number of ranks in Intimidate) negates the cowering and panicked conditions, but the target is still shaken, even if it has the stalwart ability.</p>"
+        },
+        "Signature Skill (Knowledge)": {
+            "name": "Signature Skill (Knowledge)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 85</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.BWeqgXSZvUQl68vt]{Knowledge}, you earn the following.</p><p><strong>5 Ranks</strong>: When you successfully identify a creature, you gain one additional piece of information for every 5 ranks you possess in that Knowledge skill.</p><p><strong>10 Ranks</strong>: When you successfully identify a creature, you gain a +1 competence bonus on attack rolls, opposed ability checks, skill checks, and caster level checks against creatures of that kind (e.g., glabrezu demons, but not other demons or evil outsiders) for 1 minute. This bonus increases by 1 for every 5 ranks beyond 10 you possess in that Knowledge skill.</p><p><strong>15 Ranks</strong>: When you fail a Knowledge check, you can reroll the check at a –10 penalty. The competence bonus above also applies to saving throws against exceptional, spell-like, or supernatural abilities used by creatures you identify.</p><p><strong>20 Ranks</strong>: Whenever you attempt a Knowledge check, you can roll twice and take the better result.</p>"
+        },
+        "Signature Skill (Linguistics)": {
+            "name": "Signature Skill (Linguistics)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 85</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.SqLm3Deag2FpP8ty]{Linguistics}, you earn the following.</p><p><strong>5 Ranks</strong>: You can use Linguistics instead of Sense Motive to intercept and interpret secret messages (as the Bluff skill). You gain a +1 insight bonus on Perception and Disable Device checks to detect or disarm written magical traps. This bonus increases by 1 for every 5 ranks beyond 5 you possess in Linguistics.</p><p><strong>10 Ranks</strong>: If you succeed at a Linguistics check by at least 10 when examining writing, you can learn the precise meaning rather than general content, and you never draw false conclusions on a failed check. A successful DC 30 Linguistics check reveals the general meaning of speech, a successful DC 35 check reveals 1d4 pieces of specific information, and a successful DC 40 check reveals exact meaning.</p><p><strong>15 Ranks</strong>: You can decipher magical writings (as read magic) by succeeding at a Linguistics check (DC = 25 + caster level). If you identify a written magical trap in this way, you gain a +2 circumstance bonus on Disable Device checks to disarm it.</p><p><strong>20 Ranks</strong>: You can attempt to decipher magical or nonmagical text at a rate of one page per round. If you instead spend 1 minute per page, roll twice and take the better result.</p>"
+        },
+        "Signature Skill (Perception)": {
+            "name": "Signature Skill (Perception)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 85</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.2h6hz5AkTDxKPFxr]{Perception}, you earn the following.</p><p><strong>5 Ranks</strong>: You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks when you are sleeping is halved. The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 20 feet.</p><p><strong>10 Ranks</strong>: The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 30 feet. In addition, you gain a +5 bonus on Perception checks to notice or locate an invisible creature or object.</p><p><strong>15 Ranks</strong>: You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks when you are sleeping doesn’t apply to you. The distance modifier on the DC of your Perception checks is reduced to +1 per 40 feet.</p><p><strong>20 Ranks</strong>: You gain a +10 bonus on Perception checks to notice invisible creatures or objects. The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 60 feet.</p>"
+        },
+        "Signature Skill (Perform)": {
+            "name": "Signature Skill (Perform)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 85</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.emzBKDFNkNnC7N8u]{Perform}, you earn the following.</p><p><strong>5 Ranks</strong>: Whenever you attempt a Bluff, Diplomacy, Handle Animal, or Intimidate check, you can attempt a DC 20 Perform check to gain a +2 circumstance bonus on the check.</p><p><strong>10 Ranks</strong>: Whenever you cast a spell with the emotion or language-dependent descriptor, you can attempt a DC 25 Perform check to increase the save DC by 1.</p><p><strong>15 Ranks</strong>: Whenever you cast a spell with the emotion or language-dependent descriptor, you can attempt a DC 30 Perform check to increase your caster level by 1. You must choose whether to use this ability or the ability unlocked at 10 ranks when casting the spell.</p><p><strong>20 Ranks</strong>: Choose one of the following skills: Bluff, Diplomacy, or Intimidate. When you attempt a skill check with that skill, you can also attempt a Perform check and use the better result to determine the success of that skill check.</p>"
+        },
+        "Signature Skill (Profession)": {
+            "name": "Signature Skill (Profession)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 86</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.224EaK0K72NhCeRi]{Profession}, you earn the following.</p><p><strong>5 Ranks</strong>: When using Profession checks to earn income, you earn gold pieces equal to the result of your check each week.</p><p><strong>10 Ranks</strong>: When attempting Profession checks, you can roll twice and take the better result. When answering questions about your Profession, you can always take 10.</p><p><strong>15 Ranks</strong>: You can attempt checks to earn income once per day instead of once per week.</p><p><strong>20 Ranks</strong>: When attempting Profession checks, you can choose to roll once instead of twice. If you do and the result of the roll is less than 10, replace it with 10. When answering questions about your Profession, you can always take 20.</p>"
+        },
+        "Signature Skill (Ride)": {
+            "name": "Signature Skill (Ride)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 86</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.xQbTtefpEfEaOYo7]{Ride}, you earn the following.</p><p><strong>5 Ranks</strong>: Your mount gains a +2 bonus on Fortitude saves or Constitution checks to avoid becoming fatigued or exhausted. This bonus increases by 1 for every 5 ranks beyond 5 you possess in Ride.</p><p><strong>10 Ranks</strong>: When you spur your mount, its speed is increased by 20 feet, and it gains a +2 bonus on Reflex saves and a +2 dodge bonus to AC.</p><p><strong>15 Ranks</strong>: When an opponent targets you or your mount with a bull rush, drag, overrun, reposition, or trip combat maneuver while you are mounted, you can substitute the result of a Ride check in place of your (or your mount’s) CMD.</p><p><strong>20 Ranks</strong>: When you spur your mount, its speed is increased by 30 feet, and it gains a +4 bonus on Reflex saves and a +4 dodge bonus to AC.</p>"
+        },
+        "Signature Skill (Sense Motive)": {
+            "name": "Signature Skill (Sense Motive)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 86</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.ka0VQGItdrWw3paO]{Sense Motive}, you earn the following.</p><p><strong>5 Ranks</strong>: If you were aware of an opponent before rolling initiative (such as when you ambush an enemy or negotiations break down into combat, but not when both sides happen upon each other or you are surprised), you can attempt a Sense Motive check as part of your initiative check (DC = 11 + the highest Bluff modifier among your opponents or DC 15, whichever is higher). If you succeed, you gain a +1 bonus on the initiative check, plus an additional +1 for every 5 by which you exceeded the DC.</p><p><strong>10 Ranks</strong>: After 1 minute of conversation, you can read a creature’s surface thoughts (as detect thoughts) by attempting a Sense Motive check at a –20 penalty opposed by the creature’s Bluff check.</p><p><strong>15 Ranks</strong>: You can read surface thoughts as above after 1 round. In addition, when attacked, you can attempt a Sense Motive check as an immediate action opposed by your target’s attack roll. A successful check grants a +2 insight bonus to your AC against attacks from that specific opponent for 1 minute.</p><p><strong>20 Ranks</strong>: You can read surface thoughts as above as a standard action. A successful check to gain an insight bonus to your AC also negates the attack that triggered it.</p>"
+        },
+        "Signature Skill (Sleight of Hand)": {
+            "name": "Signature Skill (Sleight of Hand)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 86</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.joza8kAIiImrPft7]{Sleight of Hand}, you earn the following.</p><p><strong>5 Ranks</strong>: When attempting a disarm or steal maneuver, a successful Sleight of Hand check against your target’s CMD grants a +2 circumstance bonus on your combat maneuver check.</p><p><strong>10 Ranks</strong>: The penalty for attempting a Sleight of Hand check (including drawing a hidden weapon) as a move action is reduced to –10.</p><p><strong>15 Ranks</strong>: You can attempt a Sleight of Hand check (including drawing a hidden weapon) as a swift action at a –20 penalty.</p><p><strong>20 Ranks</strong>: You take no penalty for using Sleight of Hand as a move action, and take only a –10 penalty when using it as a swift action.</p>"
+        },
+        "Signature Skill (Spellcraft)": {
+            "name": "Signature Skill (Spellcraft)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 86</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.VRD7jxiIAxKPt6EF]{Spellcraft}, you earn the following.</p><p><strong>5 Ranks</strong>: Identifying magic items takes 1 full round, and the time required to learn a spell from a spellbook is halved.</p><p><strong>10 Ranks</strong>: You can identify magic items without using detect magic, though the DC is increased by 10.</p><p><strong>15 Ranks</strong>: Identifying magic items is a standard action, and the time required to learn a new spell from a spellbook is reduced to 1 minute per spell level.</p><p><strong>20 Ranks</strong>: Whenever you attempt a caster level check, attempt a Spellcraft check at a –20 penalty at the same DC. If the spellcraft check succeeds, you gain a +2 circumstance bonus on your caster level check.</p>"
+        },
+        "Signature Skill (Stealth)": {
+            "name": "Signature Skill (Stealth)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 86</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.wRWHk7tCUHR99PzD]{Stealth}, you earn the following. </p><p><strong>5 Ranks</strong>: Reduce the Stealth penalty from sniping by 10. </p><p><strong>10 Ranks</strong>: Stealth check penalties for moving quickly are halved, including the ability unlocked at 5 ranks, moving full speed, and reaching concealment after creating a distraction. </p><p><strong>15 Ranks</strong>: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the end of your turn. </p><p><strong>20 Ranks</strong>: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the beginning of your next turn.</p>"
+        },
+        "Signature Skill (Survival)": {
+            "name": "Signature Skill (Survival)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 87</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.pLdYavy4nssLEoGV]{Survival}, you earn the following.</p><p><strong>5 Ranks</strong>: You reduce all nonlethal damage you take from heat, cold, starvation, or thirst by 1 point for every 5 ranks you possess in Survival.</p><p><strong>10 Ranks</strong>: You can track creatures that leave no tracks, including flying and swimming creatures and creatures using trackless step or pass without trace, taking a –20 penalty on your Survival check.</p><p><strong>15 Ranks</strong>: Once per day, you can spend 1 hour and attempt a DC 30 Survival check. Success grants you cold resistance or fire resistance 5 for 24 hours. You can share this with one ally for every 5 by which you exceeded the check.</p><p><strong>20 Ranks</strong>: You take only a –10 penalty when tracking creatures that leave no tracks.</p>"
+        },
+        "Signature Skill (Swim)": {
+            "name": "Signature Skill (Swim)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 87</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.xhmDhOXuBbfVcD0Q]{Swim}, you earn the following. </p><p><strong>5 Ranks</strong>: You gain a swim speed of 10 feet, but only in water with a Swim DC of 15 or lower. </p><p><strong>10 Ranks</strong>: You gain a swim speed (though you do not gain the +8 racial bonus on Swim checks) equal to your base speed in water with a Swim DC of 15 or lower, or 10 feet in all other water. </p><p><strong>15 Ranks</strong>: You ignore the penalties for using slashing or bludgeoning weapons underwater, as freedom of movement. </p><p><strong>20 Ranks</strong>: You gain a swim speed equal to your base speed in all water. If you have both hands free, you gain a +8 racial bonus on Swim checks.</p>"
+        },
+        "Signature Skill (Use Magic Device)": {
+            "name": "Signature Skill (Use Magic Device)",
+            "description": "<p><strong>Source</strong> Pathfinder Unchained pg. 87</p><p><strong>Prerequisites</strong>: @UUID[Compendium.pf1.class-abilities.iyYyc3rKW0cBZ1cs]{Rogue's Edge (UC)} or 5 ranks in the choosen skill (see @UUID[Compendium.pf1.feats.zOxJqI5CG4VoycmQ]{Signature Skill})</p><p>With sufficient ranks in @UUID[Compendium.pf1.pf1e-rules.x175kVqUfLGPt8tC.JournalEntryPage.A8j7nF6qHwuGEC2E]{Use Magic Device}, you earn the following. </p><p><strong>5 Ranks</strong>: You can use the aid another action to assist another creature’s Use Magic Device check by attempting a check against the item’s Use Magic Device DC. </p><p><strong>10 Ranks</strong>: If you roll a natural 1 when activating an item, you take a –10 penalty on Use Magic Device checks with that item for 24 hours instead of being unable to activate it. This penalty stacks with itself. </p><p><strong>15 Ranks</strong>: You can use this skill to emulate two races or two alignments simultaneously. </p><p><strong>20 Ranks</strong>: If you roll a natural 1 when activating an item, you can reroll the check at a –10 penalty to activate the item. You must take the result of the second check, even if it is worse, and you can’t reroll it again.</p>"
+        },
+        "Silent Spell": {
+            "name": "法术默发 Silent Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你能够不发生声音施展法术。</em><br/><br/><br/><br/><b>专长效果: </b>法术施展时不需言语成分。没有言语成分的法术不受影响。默发法术占用比该法术实际等级高1环的法术位。<br/><br/><b>特殊说明: </b>吟游诗人的法术不能用此专长强化。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Silent%20Spell"
+        },
+        "Simple Weapon Proficiency": {
+            "name": "擅长简易武器 Simple Weapon Proficiency",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你受过使用基础武器的训练。</em><br/><br/><br/><br/><b>专长效果: </b>你使用简易武器的攻击检定不承受减值。<br/><br/><b>特殊说明: </b>除德鲁伊、武僧和法师外的所有人物自动擅长所有简易武器。他们不需选择此专长。<br/><br/><b>通常状况: </b>当使用你不擅长的武器时，你在攻击检定上承受-4减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 133<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Simple%20Weapon%20Proficiency"
+        },
+        "Skill Focus": {
+            "name": "技能专攻 Skill Focus",
+            "description": "<em>选择一项技能。你特别擅长该技能。</em><br/><br/><br/><br/><b>专长效果: </b>你在所有涉及该技能的检定上获得+3加值。如果你该技能的等级为10或更高，此加值提升为+6。<br/><br/><b>特殊说明: </b>你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新技能。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skill%20Focus"
+        },
+        "Snatch Arrows": {
+            "name": "抓取飞箭 Snatch Arrows",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够接住半空中的箭支或远程武器，而不是把它震到一旁。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷15，拨挡飞箭，精通徒手打击。<br/><br/><b>专长效果: </b>当使用“拨挡飞箭”专长时你可以选择抓住那武器而不仅仅只是偏转它。投掷武器可以立刻被扔回去，视为对原攻击者的一次攻击（即使不是你的行动轮）或留下来在以后使用。你必须至少空出一只手（不拿任何东西）来使用此专长。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snatch%20Arrows<br/><br/><b>战策增益：</b>当你抓取一件投掷武器时，只要你的耐力池中还有1点耐力，你就能使用它做出一次远端投掷攻击，这次攻击的目标可以是任何人而不只是最开始的攻击者。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+        },
+        "Spell Focus": {
+            "name": "法术专攻 Spell Focus",
+            "description": "<em>选择一种魔法学派。你施展的该学派法术更难抵抗。</em><br/><br/><br/><br/><b>专长效果: </b>所有对抗你选定魔法学派的法术的豁免检定DC+1。<br/><br/><b>特殊说明: </b>你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新的魔法学派。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Focus"
+        },
+        "Spell Mastery": {
+            "name": "法术熟稔 Spell Mastery",
+            "description": "<em>你对一小部分法术很熟悉，能够完全不靠法术书准备这些法术。</em><br/><br/><br/><br/><b>先决条件: </b>法师1级。<br/><br/><b>专长效果: </b>每次你获得此专长时，选择数量等同于你的智力修正的已知法术。从那时起，你准备这些法术不需要法术书。<br/><br/><b>通常状况: </b>没有此专长，你必须使用法术书来准备你的所有法术，除了‘阅读魔法’。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Mastery"
+        },
+        "Spell Penetration": {
+            "name": "法术穿透 Spell Penetration",
+            "description": "<em>你的法术比大多数的法术更容易穿透法术抗力。</em><br/><br/><br/><br/><b>专长效果: </b>你在克服生物法术抗力的施法者等级检定（1d20+CL）上获得+2加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Penetration"
+        },
+        "Spellbreaker": {
+            "name": "破法者 Spellbreaker",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>当你威胁到敌人的施法者时，如果他们防御施法失败，你能够对他们进行攻击。</em><br/><br/><br/><br/><b>先决条件: </b>扰法者，战士10级。<br/><br/><b>专长效果: </b>在你威胁范围内防御施法检定失败的敌人会触发你的借机攻击。<br/><br/><b>通常状况: </b>防御施法失败的敌人不会触发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spellbreaker<br/><br/><b>战策增益：</b>当你使用一次因为防御式施法失败引发的借机攻击命中一位施法者时，你可以消耗5点耐力来让该施法者晕眩，持续到它的下一回合结束。如果施法者成功通过了一个DC为10+你的基础攻击加值的强韧豁免，它将转而陷入恍惚。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+        },
+        "Spirited Charge": {
+            "name": "奋力冲锋 Spirited Charge",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的骑乘冲锋攻击能造成大量的伤害。</em><br/><br/><br/><br/><b>先决条件: </b>骑乘1级，骑乘战斗，骑乘掠击。<br/><br/><b>专长效果: </b>当在骑乘时使用冲锋动作，你使用近战武器造成双倍伤害（持用长枪则是三倍）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirited%20Charge<br/><br/><b>战策增益：</b>当你做出骑乘冲锋时，你可消耗至多等于你力量加值的耐力。如果你的冲锋命中了，你将造成等同于你消耗耐力点数的额外伤害。这个伤害将会被该专长翻倍（如果你使用长枪的话则会翻三倍）。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+        },
+        "Spring Attack": {
+            "name": "跳跃攻击 Spring Attack",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够巧妙的接近一个敌人，攻击，然后在他反应之前撤退。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，闪避，灵活移动，基本攻击加值+4。<br/><br/><b>专长效果: </b>以一个全回合动作，你能够移动至多等同于你速度的距离并做一次单次的近战攻击，这不会触发你所攻击目标的借机攻击。你在攻击之前和之后都可以移动，但你在攻击前必须至少移动10尺，并且你移动的总距离不可以超过你的速度。你不可以使用此能力攻击在你回合开始时就和你相邻的敌人。<br/><br/><b>通常状况: </b>你不可以在攻击之前和之后都移动。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spring%20Attack<br/><br/><b>战策增益：</b>你可以消耗5点耐力来以一个标准动作而不是整轮动作来使用这个专长。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+        },
+        "Staggering Critical": {
+            "name": "恍惚重击 Staggering Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击能让对手慢下来。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，基本攻击加值+13。<br/><br/><b>专长效果: </b>每当你造成重击时，你的对手陷入恍惚“1d4+1”轮。一次成功的强韧豁免将持续时间减为1轮。强韧豁免的DC等于“10+你的BAB”。此专长的效果不会叠加，额外的命中改为延长持续时间。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Staggering%20Critical<br/><br/><b>战策增益：</b>当你造成了重击并使用这个专长尝试让一个敌人恍惚时，你可以消耗5点耐力来提升这个专长的豁免DC，提升的点数等于你所消耗的耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+        },
+        "Stand Still": {
+            "name": "通行禁止 Stand Still",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你能够拦下试图从你旁边经过的敌人。</em><br/><br/><br/><br/><b>先决条件: </b>战斗反射。<br/><br/><b>专长效果: </b>当一个敌人因经过你的邻近区域而触发借机攻击时，你可以做一次战技检定来做为借机攻击。如果成功，敌人在他回合的剩余部分内不能移动。敌人仍然可以做他动作的剩余部分，但就是不能移动。此专长也可应用于任何试图从你相邻区域移开的生物，如果该移动会触发借机攻击。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 134<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stand%20Still<br/><br/><b>战策增益：</b>当你成功使用该专长以战技检定阻止了一个生物的移动时，你可以消耗5点耐力。如果你这样做了，在那个生物的下一回合，它的移动力将会减半，而且它将不能做出5尺快步。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+        },
+        "Stealthy": {
+            "name": "隐秘 Stealthy",
+            "description": "<em>你对避开不必要的注意和逃脱束缚很拿手。</em><br/><br/><br/><br/><b>专长效果: </b>你在所有脱逃和隐匿技能检定上获得+2加值。如果某技能受训等级10以上，该技能获得的加值提升为+4。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stealthy"
+        },
+        "Step Up": {
+            "name": "快步跟进 Step Up",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>当敌人想移开时你能够跟上去。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+1。<br/><br/><b>专长效果: </b>每当一个邻近的敌人试图做一个五尺快步远离你时，你能以直觉动作也做一个五尺快步，只要你结束移动时和触发此能力的敌人相邻。如果你做了此种移动，你下一回合不能做五尺快步。如果你下一回合进行了移动，从你的总移动距离里面减去5尺。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Step%20Up<br/><br/><b>战策增益：</b>只要你的耐力池中还有1点年里，在你使用这个专长后的那一回合中，你仍能做出5尺快步，并且你将不会因为这个专长而降低你在使用动作移动时的移动力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 132"
+        },
+        "Still Spell": {
+            "name": "法术定发 Still Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你能够不做动作施展法术。</em><br/><br/><br/><br/><b>专长效果: </b>法术施展时不需姿势成分。没有姿势成分的法术不受影响。定发法术占用比该法术实际等级高1环的法术位。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Still%20Spell"
+        },
+        "Strike Back": {
+            "name": "回击 Strike Back",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>当他们攻向你时，通过瞄准他们的肢体或武器，你能够击打使用长触及攻击你的敌人。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+11。<br/><br/><b>专长效果: </b>你可以做一个准备动作来对以近战攻击你的任何敌人做一次近战攻击，即使该敌人在你的触及外。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strike%20Back<br/><br/><b>战策增益：</b>当你准备了一个动作来攻击一个在你近战触及外的人时，你可以消耗5点耐力做出一个5尺快步，但你必须向着你将攻击的生物的方向移动。即使在你准备的动作中包含5尺快步你也能做出5尺快步。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 133"
+        },
+        "Stunning Critical": {
+            "name": "震慑重击 Stunning Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击能震慑对手。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，恍惚重击，基本攻击加值+17。<br/><br/><b>专长效果: </b>每当你造成重击时，你的对手被震慑1d4轮。一次成功的强韧豁免将此效果降为恍惚1d4轮。强韧豁免的DC等于“10+你的BAB”。此专长的效果不会叠加。额外的命中改为延长持续时间。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stunning%20Critical<br/><br/><b>战策增益：</b>当你确认重击并尝试使用这个专长震慑一个敌人时，你可以消耗至多5点耐力来提升这个专长的豁免DC，提升的点数等于你所消耗的耐力。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 133"
+        },
+        "Stunning Fist": {
+            "name": "震慑拳 Stunning Fist",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你知道攻击哪里可以暂时瘫痪一个人的行动。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，感知13，精通徒手打击，基本攻击加值+8。<br/><br/><b>专长效果: </b>你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。震慑拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC为“10+1/2你的角色等级+感知修正”的强韧豁免检定。豁免检定失败的防御者将被震慑1轮（直到你的下一轮开始前）。被震慑的人物不能行动，失去AC上的任何敏捷加值，并且AC承受-2减值。每4级你每天可以多尝试一次震慑攻击（见特殊），每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被震慑。<br/><br/><b>特殊说明: </b>武僧1级时获得“震慑拳”做为奖励专长，即使他不满足所需先决条件。武僧每天可尝试的震慑攻击的次数等同于他的武僧等级，再加上每天每4个非武僧职业等级1次。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stunning%20Fist<br/><br/><b>战策增益：</b>你可以消耗5点耐力来在你的徒手击打命中后宣告使用这个专长。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 133"
+        },
+        "Throw Anything": {
+            "name": "随手投掷 Throw Anything",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长投掷手中的物品。</em><br/><br/><br/><br/><b>专长效果: </b>你使用临时远程武器时无减值。你在溅射武器的攻击检定上获得+1环境加值。<br/><br/><b>通常状况: </b>你在使用临时武器时攻击检定受-4减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Throw%20Anything<br/><br/><b>战策增益：</b>只要你的耐力池中还有1点耐力，在你使用并非投掷武器的近战武器进行一次临时远端武器攻击时，你可以使用近战武器的威胁范围和倍率来代替正常临时武器的20/×2。你可以消耗2点耐力来提升投掷武器的射程增量（包括临时远端武器）10迟，直到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 133"
+        },
+        "Tiring Critical": {
+            "name": "疲乏重击 Tiring Critical",
+            "description": "<b>专长类型：</b>CombatCritical<br/><br/><em>你的重击令对手疲乏。</em><br/><br/><br/><br/><b>先决条件: </b>重击专攻，基本攻击加值+13。<br/><br/><b>专长效果: </b>每当你对一个敌人成功造成重击时，会令该生物陷入疲乏状态。此专长对已陷入疲乏或力竭的生物无效。<br/><br/><b>特殊说明: </b>在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tiring%20Critical<br/><br/><b>战策增益：</b>当你对一个已经疲乏的敌人的攻击进入重击威胁时，你可以在尝试确认股之前消耗5点耐力。如果你确认了重击，目标将会变得力竭。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 134"
+        },
+        "Toughness": {
+            "name": "健壮 Toughness",
+            "description": "<em>你比一般人更健壮。</em><br/><br/><br/><br/><b>专长效果: </b>你的HP增加3点，且你的生命骰每比3HD高1级便额外获得1点HP。由生命骰高于3开始，每次你获得一个新的生命骰（例如当你获得一个新的等级）时你都额外获得1点HP。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Toughness"
+        },
+        "Tower Shield Proficiency": {
+            "name": "擅长塔盾 Tower Shield Proficiency",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于使用塔盾。</em><br/><br/><br/><br/><b>先决条件: </b>擅长盾牌。<br/><br/><b>专长效果: </b>使用塔盾时防具检定减值仅作用于基于力量和敏捷的技能。【编注：攻击依然-2。】<br/><br/><b>特殊说明: </b>战士无需选择可以直接获得“擅长塔盾”作为奖励专长。<br/><br/><b>通常状况: </b>人物使用不擅长的盾牌时，攻击检定和所有移动相关的技能检定（包括骑术）都受到盾牌的防具检定减值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 135<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tower%20Shield%20Proficiency"
+        },
+        "Trample": {
+            "name": "践踏 Trample",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于使用坐骑压过对手。</em><br/><br/><br/><br/><b>先决条件: </b>骑术1级、骑乘战斗。<br/><br/><b>专长效果: </b>若你骑乘坐骑时闯越对手，他将无法躲避。如果对手因而倒地，你的坐骑可以对他做一次蹄踢攻击。一般而言攻击倒地的目标，攻击检定有+4加值。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Trample<br/><br/><b>战策增益：</b>当你在骑乘时尝试闯越一个敌人并且你在闯越战技检定中并未成功时，你可以消耗2点耐力来继续移动，就如同被闯越的目标从你的路线中被移开了一样。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 134"
+        },
+        "Turn Undead": {
+            "name": "驱散死灵 Turn Undead",
+            "description": "<em>你释放出神圣能量，令不死生物逃窜。</em><br/><br/><br/><br/><b>先决条件: </b>【引导正能量】职业特性。<br/><br/><b>专长效果: </b>你可以用一个标准动作，消耗你引导正能量的1次可用次数，令30尺内的所有不死生物逃离你，视同陷入恐慌状态。不死生物需要通过意志检定来避免此效果，DC等于“10+1/2牧师等级+魅力修正”。豁免失败的不死生物会逃窜1分钟。有智力的不死生物可以每轮进行新的检定以结束此效果。若你以此方式使用引导能量，则其不会产生其他的效果（不会治疗或伤害附近的生物）。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Turn%20Undead"
+        },
+        "Two-Weapon Defense": {
+            "name": "双武器防御 Two-Weapon Defense",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你的双武器战斗风格可攻可守。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷15，双武器格斗。<br/><br/><b>专长效果: </b>使用双头武器或双武器时（不包含天生武器或徒手击打），AC获得+1盾牌加值。当你使用防御式战斗或全防御时，此盾牌加值增为+2。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Defense<br/><br/><b>战策增益：</b>每轮1次，你可以消耗2点耐力来将该专长赋予的加值翻倍，直到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Two-Weapon Fighting": {
+            "name": "双武器格斗 Two-Weapon Fighting",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以用双武器进行战斗，每轮可用副手武器进行一次额外攻击。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷15。<br/><br/><b>专长效果: </b>当你使用双武器攻击，主手的攻击检定减值减少2，副手则减少6。参见双武器战斗规则。<br/><br/><b>通常状况: </b>若你用副手持有第二把武器，你可以每轮用该武器做出一次额外攻击。当你如此做时你的主手正常攻击（一次或多次）受-6减值，副手受-10减值。若你副手武器为轻型武器，则双手减值均减少2。徒手攻击视同轻型武器。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Fighting<br/><br/><b>战策增益：</b>你可以消耗任意点数的耐力来降低在双武器格斗中你用主手做出的攻击所受到的减值，每消耗2点耐力就能降低1点减值。这个好处将会持续到你的下一回合开始。你不能将减值降到0以下。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Two-Weapon Rend": {
+            "name": "双武器撕裂 Two-Weapon Rend",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>同时以两把武器攻击命中时，你可以造成严重的伤口。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷17，双重切割，精通双武器格斗，基本攻击加值+11。<br/><br/><b>专长效果: </b>若你主手武器和副手武器的攻击都命中对手，则你额外造成“1d10+1.5倍力量修正”的伤害。每轮你仅可造成此额外伤害1次。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Rend<br/><br/><b>战策增益：</b>你可以消耗5点耐力来在一轮中第二次使用这个专长的效果。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Unseat": {
+            "name": "落马击 Unseat",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你擅长将骑乘对手击落马下。</em><br/><br/><br/><br/><b>先决条件: </b>力量13，骑乘1级，骑乘战斗，猛力攻击，精通冲撞，基本攻击加值+1。<br/><br/><b>专长效果: </b>当骑乘并使用长枪对敌人进行冲锋时，照常计算攻击检定。但若攻击命中，你在正常的伤害之外，可以立即进行一次冲撞尝试。若检定成功，则目标被从马上击落倒地在临近他的坐骑且直线远离你的位置。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Unseat<br/><br/><b>战策增益：</b>当你使用这个专长成功地将一名敌人击落马下，你可以消耗5点耐力来让该骑手摔倒在一个由你选择的邻接他坐骑的未被占据空间，而不是在一个直线远离你的位置。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Vicious Stomp": {
+            "name": "恶毒踩踏 Vicious Stomp",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你在对手倒地的恰当时机猛踹之。</em><br/><br/><br/><br/><b>先决条件: </b>战斗反射，精通徒手打击。<br/><br/><b>专长效果: </b>当对手倒在你的邻接方格，他将会触发你的借机攻击。借机攻击必须以徒手攻击。<br/><br/><b>资源出处: </b>Ultimate Combat pg. 123<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vicious%20Stomp<br/><br/><b>战策增益：</b>当一个对手因为摔倒引发了你的徒手击打借机攻击，你可以消耗2点耐力来在那次徒手击打上造成额外的1d6点伤害。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Vital Strike": {
+            "name": "要害打击 Vital Strike",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你在一击中造成明显超乎寻常的伤害。</em><br/><br/><br/><br/><b>先决条件: </b>基本攻击加值+6。<br/><br/><b>专长效果: </b>你能以一个攻击动作，利用你的最高基本攻击加值做出一次可造成额外伤害的攻击。该次攻击扔武器伤害骰两次并相加，之后再加算力量、武器能力（例如〔炽焰〕附魔），基于精准的伤害和其它伤害加值。本专长带来的额外武器伤害在重击时不翻倍，而只加在总值上。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vital%20Strike<br/><br/><b>战策增益：</b>在你投出要害打击的攻击后，你可以消耗2点耐力来重投至多两个武器伤害骰。（对于拥有多于一个伤害骰的武器，将所有武器的基本伤害骰视为一个）。你必须接受第二次结果，即使它更糟。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Weapon Finesse": {
+            "name": "武器娴熟 Weapon Finesse",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于在近身战斗中使用敏捷代替蛮力。</em><br/><br/><br/><br/><b>专长效果: </b>使用适于你体型的轻型武器、细剑、长鞭、刺链时，你可以在攻击检定中改为使用敏捷修正，而非力量修正。若你持用盾牌，攻击检定会受到盾牌的防具检定减值。<br/><br/><b>特殊说明: </b>天生武器视为轻型武器。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Finesse<br/><br/><b>战策增益：</b>你可以消耗2点耐力来忽视掉攻击骰上来自你的盾牌防具检定减值，直到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Weapon Focus": {
+            "name": "武器专攻 Weapon Focus",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>选择一种武器。你同样可以选择徒手击打或擒抱（若你能施法，也可选择“射线”）作为本专长选择的武器类型。</em><br/><br/><br/><br/><b>先决条件: </b>擅长对应武器，基本攻击加值+1。<br/><br/><b>专长效果: </b>使用专攻的武器时攻击检定+1。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 136<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Focus<br/><br/><b>战策增益：</b>每轮1次，你可以消耗2点耐力来让一件你并没有武器专攻的武器获得武器专攻在攻击股上的加值。这个加值将会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Weapon Specialization": {
+            "name": "武器专精 Weapon Specialization",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你善于使用特定类型的武器造成伤害。从已有“武器专攻”的武器中选择一个（包括徒手击打和擒抱），使用此种武器将可造成更多伤害。</em><br/><br/><br/><br/><b>先决条件: </b>擅长对应武器，武器专攻，战士4级。<br/><br/><b>专长效果: </b>使用专精的武器时伤害检定+2。<br/><br/><b>特殊说明: </b>你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Specialization<br/><br/><b>战策增益：</b>每轮1次，你可以消耗2点耐力来在一件你并没有武器专精的武器上获得武器专精在伤害骰上的加值。这个加值将会持续到你的下一回合开始。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Whirlwind Attack": {
+            "name": "旋风攻击 Whirlwind Attack",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以在一击中攻击所有可及的敌人。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷13，智力13，寓守于攻，闪避，灵活移动，跳跃攻击，基本攻击加值+4。<br/><br/><b>专长效果: </b>当你进行全力攻击时，你可以放弃所有正常攻击，改以最高BAB对攻击范围内所有敌人做一次近战攻击。你必须对每个敌人单独进行一次攻击检定。当使用本专长时，你同时放弃其他专长、法术或能力所赋予你的任何额外攻击次数。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Whirlwind%20Attack<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以通过过消耗耐力来打出其他专长，法术，或者能力赋予的额外攻击和加值。对于每次你以这种方式做出的攻击，你都必须消耗5点耐力。该战策允许你做出你能够做出的额外攻击——该专长自身并不能赋予额外的攻击。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Widen Spell": {
+            "name": "法术扩展 Widen Spell",
+            "description": "<b>专长类型：</b>Metamagic<br/><br/><em>你可增加自己法术的影响范围。</em><br/><br/><br/><br/><b>专长效果: </b>你可增加爆发、弥漫、直线或扩散型的法术影响区域。法术的所有范围类数值加倍。扩展的法术须占用高于原本3个环位的法术位。没有上列四类影响范围的法术不受本专长影响。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Widen%20Spell"
+        },
+        "Wind Stance": {
+            "name": "疾风步 Wind Stance",
+            "description": "<b>专长类型：</b>Combat<br/><br/><em>你移动时步伐飘忽不定，令敌人难以瞄准你的位置。</em><br/><br/><br/><br/><b>先决条件: </b>敏捷15，闪避，基本攻击加值+6。<br/><br/><b>专长效果: </b>若你在一轮中移动超过5尺，则该轮中你针对远程攻击获得20％隐蔽。<br/><br/><b>资源出处: </b>PRPG Core Rulebook pg. 137<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wind%20Stance<br/><br/><b>战策增益：</b>当你使用这个专长时，你可以消耗5点耐力来在一轮内对抗所有的攻击（而不仅仅是远端攻击）上都获得20%的隐蔽.<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        }
+    }
+}
