@@ -13,6 +13,14 @@
         "minimum": 11,
         "verified": "11.315"
     },
+    "systems": [ "pf1e" ],
+    "languages": [
+    {
+      "lang": "cn",
+      "name": "系统翻译",
+      "path": "cn.json"
+    }
+  ],
     "relationships.systems": [
         {
             "id": "pf1",
