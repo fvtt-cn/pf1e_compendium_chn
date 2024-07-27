@@ -1,33 +1,48 @@
 {
-  "name": "pf1e_compendium_chn",
-  "title": "Translation: 中文 [PF1e（合集包）]",
-  "description": "PF1e 系统的合集包翻译，需要 Babele。",
-  "authors": [
-    {
-      "name": "FVTT-CN",
-      "email": "fvtt-cn@dickytwister.org"
-    }
-  ],
-  "compatibility": {
-    "minimum": "10",
-    "verified": "11"
-  },
-  "scripts": [
-    "./babele.js"
-  ],
-  "relationships.systems": [
-    "pf1"
-  ],
-  "relationships.requires": [
-    {
-      "id": "babele",
-      "type": "module",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
-    }
-  ],
-  "changelog": "Auto replaced",
-  "version": "Auto replaced",
-  "url": "Auto replaced",
-  "manifest": "Auto replaced",
-  "download": "Auto replaced"
+    "id": "pf1e_compendium_chn",
+    "title": "Translation: 中文 [PF1e（合集包）]",
+    "description": "PF1e 系统的合集包翻译，需要 Babele。",
+    "authors": [
+        {
+            "name": "FVTT-CN",
+            "email": "fvtt-cn@dickytwister.org"
+        }
+    ],
+    "version": "v0.5.0",
+    "compatibility": {
+        "minimum": 11,
+        "verified": "11.315"
+    },
+    "relationships.systems": [
+        {
+            "id": "pf1",
+            "type": "system",
+            "manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/releases/v10.0/downloads/system.json",
+            "compatibility": {
+            "minimum": "10.0",
+            "verified": "10.4"
+            }
+        }
+    ],
+    "relationships.requires": [
+        {
+            "id": "babele",
+            "type": "module",
+            "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/-/raw/2.5.2/module/module.json",
+            "compatibility": {
+                "minimum": "2.5.2",
+                "verified": "2.5.5"
+            }
+        }
+    ],
+    "changelog": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/tag/v0.5.0",
+    "esmodules": [
+        "scripts/babele.js"
+    ],
+    "styles": [
+        "styles/compendium-browser-filter.css"
+    ],
+    "url": "https://github.com/fvtt-cn/pf1e_compendium_chn",
+    "manifest": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json",
+    "download": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/download/v0.4.2/pf1e_compendium_chn.zip"
 }

@@ -1,0 +1,2119 @@
+{
+  "PF1": {
+    "Title": "开拓者 1",
+    "KEYBINDINGS": {
+      "SkipConfirmPrompt": {
+        "Name": "跳过确认对话"
+      },
+      "HideTokenTooltip": {
+        "Name": "隐藏指示物提示",
+        "Hint": "按下此键时隐藏指示物提示"
+      },
+      "HideTokenTooltipGMInfo": {
+        "Name": "显示玩家视角的指示物提示"
+      },
+      "ForceShowItem": {
+        "Name": "强制显示物品",
+        "Hint": "是否在使用物品宏时在聊天中显示该物品"
+      }
+    },
+    "OptionalAndVariantRules": "选项及变体规则",
+    "WoundThresholdOverride": "伤害临界覆盖",
+    "ExperienceConfigName": "设置经验",
+    "ExperienceConfigLabel": "设置经验",
+    "ExperienceConfigHint": "设置升级经验.",
+    "AccessibilityConfigName": "无障碍功能配置",
+    "AccessibilityConfigLabel": "无障碍功能",
+    "AccessibilityConfigHint": "改变无障碍功能设定",
+    "AccessibilityFontSize": "字体大小",
+    "AccessibilityFontSizeHint": "改变游戏中某些特定位置的字体大小，例如攻击投骰",
+    "OnMouse": "跟随鼠标",
+    "Sheet": {
+      "PC": "玩家角色 (PC)",
+      "NPC": "非玩家角色 (NPC)",
+      "NPCLite": "简洁NPC",
+      "NPCLoot": "战利品",
+      "Haunt": "作祟",
+      "Trap": "陷阱",
+      "Vehicle": "载具",
+      "Item": "泛用物品",
+      "Container": "容器"
+    },
+    "LevelUp": {
+      "Add": "增加{class}",
+      "Increase": "升级{class}",
+      "Action": "升级",
+      "NewLevel": "新等级",
+      "NewTier": "新阶层",
+      "SkipHint": "自动增加职业等级，忽略此对话框内的选择。仍然会添加职业相关能力和其他基础提升（例如BAB）。",
+      "Chat": {
+        "Header": "升级报告",
+        "Health": {
+          "Header": "生命值",
+          "Roll": "已为生命值投骰: {add}",
+          "Manual": "手动生命值: {add}",
+          "Auto": "自动生命值: {add}",
+          "Static": "固定生命值: {add}"
+        },
+        "FC": {
+          "Header": "天赋职业奖励"
+        },
+        "Extra": {
+          "Header": "额外",
+          "NewFeat": "你有一个新专长可选择",
+          "NewFeats": "你有{newValue}个新专长可选"
+        },
+        "AbilityScore": {
+          "Header": "属性值提升"
+        }
+      },
+      "Health": {
+        "Label": "生命值",
+        "Auto": {
+          "Label": "自动",
+          "Desc": "你的生命值自动按照提前设置好的 ({rate}%) 速率增长。"
+        },
+        "Static": {
+          "Label": "固定",
+          "Desc": "你此等级获得的生命值固定，取决于你的职业。"
+        },
+        "Maximized": {
+          "Label": "最大",
+          "Desc": "你在此等级获得最大可能获取的生命值。"
+        },
+        "Roll": {
+          "Label": "投骰",
+          "Desc": "你该等级的生命值将会基于你生命骰大小投骰决定。"
+        },
+        "Manual": {
+          "Label": "手动",
+          "Desc": "你会决定该等级自己获得多少生命值。"
+        }
+      },
+      "FC": {
+        "Label": "天赋职业奖励",
+        "HP": {
+          "Label": "生命值",
+          "Desc": "你会获得一点生命值作为该等级的天赋职业奖励。"
+        },
+        "Skill": {
+          "Label": "技能点",
+          "Desc": "你会获得一点自由使用的技能点作为该等级的天赋职业奖励。"
+        },
+        "Alt": {
+          "Label": "变体",
+          "Desc": "你会获得与种族和职业关联的特殊能力作为该等级的天赋职业奖励。"
+        },
+        "None": {
+          "Label": "无",
+          "Desc": "你不获得天赋职业奖励，要么因为此职业不能获得天赋职业奖励，要么因为你不选择任何奖励。"
+        }
+      },
+      "AbilityScore": {
+        "Label": "属性值",
+        "PointsLeft": "剩余点数: {value}",
+        "Item": {
+          "Name": "添加属性值",
+          "Desc": "<p>该功能是用于追踪你获得生命骰时的属性值变化的。</p>"
+        },
+        "Next": "在角色{level}级时获取下一个属性点。"
+      },
+      "Summary": {
+        "Label": "概要",
+        "AdventureSkills": "冒险技能等级",
+        "BackgroundSkills": "背景技能等级"
+      }
+    },
+    "General": "总体",
+    "Apply": "应用",
+    "ApplyHalf": "减半",
+    "ApplyDamage": "应用伤害",
+    "ApplyCriticalDamage": "应用重击伤害",
+    "ApplyHealing": "应用治疗",
+    "ApplyCriticalHealing": "应用重击治疗",
+    "ReduceBy": "减免",
+    "SwapSelected": "切换选中",
+    "ClearReduction": "清除减免值",
+    "Flags": "标志",
+    "FlagsBoolean": "布尔标志",
+    "FlagsDictionary": "字典标志",
+    "AbilityDamage": "属性伤害",
+    "AbilityDrain": "属性吸取",
+    "ModifierOnly": "仅调整值",
+    "ModifierOnlyShort": "仅调整值",
+    "CheckOnly": "仅检定",
+    "CreateItem": "创建物品",
+    "EditItem": "编辑物品",
+    "Delete": "删除",
+    "Duplicate": "复制",
+    "DuplicateItem": "复制物品",
+    "QuantityAdd": "增加数量<br><br>单击: 1<br>Shift + 单击: 5<br>Ctrl + 单击: 10",
+    "QuantitySub": "减少数量<br><br>单击: -1<br>Shift + 单击: -5<br>Ctrl + 单击: -10",
+    "DeleteItem": "删除物品",
+    "DeleteItemTitle": "删除物品: {name}",
+    "LinkTypeChildren": "附属",
+    "LinkTypeCharges": "充能",
+    "LinkTypeClassAssociations": "职业关联",
+    "LinkHelpChildren": "关联的附属物品会随其附属对象(该物品)一起被删除。",
+    "LinkHelpCharges": "关联的物品从关联对象(该物品)处继承和共享充能。",
+    "LinkHelpClassAssociations": "职业关联物品将在角色到达特定职业等级时自动添加。不像其他物品关联，这些必须从合集包中关联。",
+    "HelpSellMultiplierN": "贩卖比率",
+    "HelpSellMultiplier": "非交易品出售时的价格比率，默认为0.5。交易品总以原价出售.",
+    "AbilityStr": "力量",
+    "AbilityDex": "敏捷",
+    "AbilityCon": "体质",
+    "AbilityInt": "智力",
+    "AbilityWis": "感知",
+    "AbilityCha": "魅力",
+    "AbilityStrMod": "力量调整值",
+    "AbilityDexMod": "敏捷调整值",
+    "AbilityConMod": "体质调整值",
+    "AbilityIntMod": "智力调整值",
+    "AbilityWisMod": "感知调整值",
+    "AbilityChaMod": "魅力调整值",
+    "AbilityShortStr": "力",
+    "AbilityShortDex": "敏",
+    "AbilityShortCon": "体",
+    "AbilityShortInt": "智",
+    "AbilityShortWis": "感",
+    "AbilityShortCha": "魅",
+    "SavingThrowFort": "强韧",
+    "SavingThrowRef": "反射",
+    "SavingThrowWill": "意志",
+    "WeaponGroup": {
+      "axes": "斧",
+      "bladesHeavy": "重刃",
+      "bladesLight": "轻刃",
+      "bows": "弓",
+      "close": "贴身",
+      "crossbows": "弩",
+      "double": "双头",
+      "firearms": "火器",
+      "flails": "链索",
+      "hammers": "锤",
+      "monk": "武僧",
+      "natural": "天生武器",
+      "polearms": "长兵器",
+      "siegeEngines": "攻城兵器",
+      "spears": "矛",
+      "thrown": "投掷",
+      "tribal": "Tribal"
+    },
+    "Condition": {
+      "bleed": "出血",
+      "blind": "目盲",
+      "confused": "困惑",
+      "dazzled": "目眩",
+      "deaf": "耳聋",
+      "entangled": "纠缠",
+      "fatigued": "疲乏",
+      "exhausted": "力竭",
+      "grappled": "擒抱",
+      "helpless": "无助",
+      "incorporeal": "虚体",
+      "invisible": "隐形",
+      "paralyzed": "麻痹",
+      "pinned": "压制",
+      "prone": "俯卧",
+      "fear": "恐惧",
+      "shaken": "战栗",
+      "frightened": "惊惧",
+      "panicked": "恐慌",
+      "sickened": "恶心",
+      "staggered": "恍惚",
+      "stunned": "震慑",
+      "nauseated": "反胃",
+      "dazed": "晕眩",
+      "sleep": "睡眠",
+      "cowering": "畏缩",
+      "squeezing": "挤压",
+      "deathEffects": "死亡效果",
+      "disease": "疾病",
+      "energyDrain": "能量吸取",
+      "mindAffecting": "影响心灵",
+      "poison": "毒素",
+      "polymorph": "变形",
+      "petrified": "石化"
+    },
+    "ActionTypes": {
+      "mwak": "近战武器攻击",
+      "rwak": "远程武器攻击",
+      "twak": "投掷武器攻击",
+      "msak": "近战法术攻击",
+      "rsak": "远程法术攻击",
+      "mcman": "近战战技",
+      "rcman": "远程战技",
+      "spellSave": "法术豁免",
+      "save": "豁免",
+      "heal": "治疗",
+      "other": "其他"
+    },
+    "Alignments": {
+      "l": "秩序",
+      "c": "混乱",
+      "g": "善良",
+      "e": "邪恶",
+      "lg": "秩序善良",
+      "ng": "中立善良",
+      "cg": "混乱善良",
+      "ln": "秩序中立",
+      "tn": "绝对中立",
+      "cn": "混乱中立",
+      "le": "秩序邪恶",
+      "ne": "中立邪恶",
+      "ce": "混乱邪恶",
+      "Short": {
+        "lg": "LG",
+        "ng": "NG",
+        "cg": "CG",
+        "ln": "LN",
+        "tn": "TN",
+        "cn": "CN",
+        "le": "LE",
+        "ne": "NE",
+        "ce": "CE"
+      }
+    },
+    "DamageAlignment": {
+      "Override": "重载父条目",
+      "Inherit": "继承父条目"
+    },
+    "StartingWealth": "起始财富",
+    "ACNormal": "AC",
+    "ACTouch": "接触AC",
+    "ACFlatFooted": "措手不及AC",
+    "CMDFlatFooted": "措手不及CMD",
+    "WeaponHoldTypeNormal": "正常",
+    "WeaponHoldTypeTwoHanded": "双手",
+    "WeaponHoldTypeOffhand": "副手",
+    "CostGP": "花费 (GP)",
+    "ClassType": "职业类型",
+    "Alignment": "阵营",
+    "ChatReqMats": "需要材料",
+    "ChatOtherFormula": "其他公式",
+    "Currency": {
+      "Label": "货币",
+      "Weightless": "无重量货币",
+      "Abbr": {
+        "pp": "PP",
+        "gp": "GP",
+        "sp": "SP",
+        "cp": "CP"
+      },
+      "Full": {
+        "pp": "白金币",
+        "gp": "金币",
+        "sp": "银币",
+        "cp": "铜币"
+      },
+      "Inline": {
+        "pp": "{value} pp",
+        "gp": "{value} gp",
+        "sp": "{value} sp",
+        "cp": "{value} cp"
+      }
+    },
+    "Distance": {
+      "personal": "个人",
+      "touch": "接触",
+      "melee": "近战",
+      "reach": "长武",
+      "close": "近距",
+      "medium": "中距",
+      "long": "远距",
+      "ft": "尺",
+      "ftShort": "ft",
+      "mi": "英里",
+      "miShort": "mi",
+      "m": "米",
+      "mShort": "m",
+      "km": "公里",
+      "kmShort": "km"
+    },
+    "Subtypes": {
+      "Item": {
+        "class": {
+          "base": {
+            "Single": "基础职业"
+          },
+          "prestige": {
+            "Single": "进阶职业"
+          },
+          "npc": {
+            "Single": "NPC职业"
+          },
+          "racial": {
+            "Single": "种族HD"
+          },
+          "mythic": {
+            "Single": "神话道途"
+          }
+        },
+        "equipment": {
+          "shield": {
+            "Single": "盾牌",
+            "Types": {
+              "light": "轻盾",
+              "heavy": "重盾",
+              "tower": "塔盾",
+              "misc": "其他盾牌"
+            }
+          },
+          "armor": {
+            "Single": "盔甲",
+            "Plural": "盔甲",
+            "Types": {
+              "light": "轻甲",
+              "medium": "中甲",
+              "heavy": "重甲"
+            }
+          },
+          "wondrous": {
+            "Single": "奇物"
+          },
+          "clothing": {
+            "Single": "衣物",
+            "Plural": "衣物"
+          }
+        },
+        "loot": {
+          "gear": {
+            "Single": "装备",
+            "Plural": "装备"
+          },
+          "ammo": {
+            "Single": "弹药",
+            "Plural": "弹药"
+          },
+          "tradeGoods": {
+            "Single": "交易物品",
+            "Plural": "交易物品"
+          },
+          "tool": {
+            "Single": "工具",
+            "Plural": "工具"
+          },
+          "food": {
+            "Single": "食物",
+            "Plural": "食物"
+          },
+          "herb": {
+            "Single": "草药",
+            "Plural": "草药"
+          },
+          "adventuring": {
+            "Single": "冒险装备",
+            "Plural": "冒险装备"
+          },
+          "animal": {
+            "Single": "动物/坐骑",
+            "Plural": "动物/坐骑"
+          },
+          "animalGear": {
+            "Single": "动物装备",
+            "Plural": "动物装备"
+          },
+          "reagent": {
+            "Single": "炼金试剂",
+            "Plural": "炼金试剂"
+          },
+          "remedy": {
+            "Single": "Alchemical Remedy",
+            "Plural": "Alchemical Remedies"
+          },
+          "entertainment": {
+            "Single": "娱乐",
+            "Plural": "娱乐"
+          },
+          "treasure": {
+            "Single": "宝藏",
+            "Plural": "宝藏"
+          },
+          "vehicle": {
+            "Single": "载具/交通",
+            "Plural": "载具/交通"
+          },
+          "misc": {
+            "Single": "杂项",
+            "Plural": "杂项"
+          }
+        },
+        "consumable": {
+          "potion": {
+            "Single": "药水/油"
+          },
+          "poison": {
+            "Single": "毒素"
+          },
+          "drug": {
+            "Single": "药物"
+          },
+          "scroll": {
+            "Single": "卷轴"
+          },
+          "wand": {
+            "Single": "魔杖"
+          },
+          "rod": {
+            "Single": "权杖"
+          },
+          "staff": {
+            "Single": "法杖"
+          }
+        },
+        "attack": {
+          "weapon": {
+            "Single": "武器攻击",
+            "Plural": "武器攻击"
+          },
+          "natural": {
+            "Single": "天生攻击",
+            "Plural": "天生攻击"
+          },
+          "ability": {
+            "Single": "职业能力",
+            "Plural": "职业能力"
+          },
+          "racialAbility": {
+            "Single": "种族能力",
+            "Plural": "种族能力"
+          },
+          "item": {
+            "Single": "物品",
+            "Plural": "物品"
+          },
+          "misc": {
+            "Single": "杂项",
+            "Plural": "杂项"
+          }
+        },
+        "feat": {
+          "feat": {
+            "Single": "专长",
+            "Plural": "专长"
+          },
+          "classFeat": {
+            "Single": "职业特性",
+            "Plural": "职业特性"
+          },
+          "trait": {
+            "Single": "背景特性",
+            "Plural": "背景特性"
+          },
+          "racial": {
+            "Single": "种族特性",
+            "Plural": "种族特性"
+          },
+          "template": {
+            "Single": "模板",
+            "Plural": "模板"
+          },
+          "misc": {
+            "Single": "杂项",
+            "Plural": "杂项"
+          }
+        },
+        "buff": {
+          "temp": {
+            "Single": "临时",
+            "Plural": "临时"
+          },
+          "spell": {
+            "Single": "法术",
+            "Plural": "法术"
+          },
+          "feat": {
+            "Single": "特性",
+            "Plural": "特性"
+          },
+          "perm": {
+            "Single": "永久",
+            "Plural": "永久"
+          },
+          "item": {
+            "Single": "物品",
+            "Plural": "物品"
+          },
+          "misc": {
+            "Single": "杂项",
+            "Plural": "杂项"
+          }
+        },
+        "implant": {
+          "cybertech": {
+            "Single": "殖装物"
+          }
+        }
+      }
+    },
+    "AmmoType": {
+      "arrow": "箭矢",
+      "bolt": "弩矢",
+      "repeatingBolt": "可复用弩矢",
+      "slingBullet": "投石索弹丸",
+      "gunBullet": "火器子弹",
+      "dragoonBullet": "龙骑兵定装弹",
+      "dart": "镖",
+      "siege": "攻城武器弹药"
+    },
+    "Sense": {
+      "blindsense": "盲感",
+      "blindsight": "盲视",
+      "darkvision": "黑暗视觉",
+      "tremorsense": "颤动感知",
+      "trueseeing": "真知术",
+      "lowlight": "昏暗视觉",
+      "seeInvis": "识破隐形",
+      "seeInDark": "看破黑暗",
+      "scent": "灵敏嗅觉"
+    },
+    "BuffTarAC": "AC",
+    "BuffTarACGeneric": "泛型",
+    "BuffTarACArmor": "护甲AC",
+    "BuffTarACShield": "盾牌AC",
+    "BuffTarACNatural": "天生护甲AC",
+    "BuffTarACTouch": "接触AC",
+    "BuffTarACFlatFooted": "措手不及AC",
+    "BuffTarStrSkills": "力量技能",
+    "BuffTarDexSkills": "敏捷技能",
+    "BuffTarConSkills": "体质技能",
+    "BuffTarIntSkills": "智力技能",
+    "BuffTarWisSkills": "感知技能",
+    "BuffTarChaSkills": "魅力技能",
+    "BuffTarSpecificSkill": "特殊技能",
+    "BuffTarAbilityChecks": "属性检定",
+    "BuffTarStrChecks": "力量检定",
+    "BuffTarDexChecks": "敏捷检定",
+    "BuffTarConChecks": "体质检定",
+    "BuffTarIntChecks": "智力检定",
+    "BuffTarWisChecks": "感知检定",
+    "BuffTarChaChecks": "魅力检定",
+    "BuffTarBonusSkillRanks": "奖励技能等级",
+    "BuffTarBonusFeats": "奖励专长",
+    "BuffTarAllAttackRolls": "所有攻击骰",
+    "BuffTarAllDamageRolls": "所有伤害骰",
+    "BuffTarAllSavingThrows": "所有豁免骰",
+    "BuffTarAllSkills": "所有技能",
+    "BuffTarAllAbilityChecks": "所有属性检定",
+    "BuffTarAllSpeeds": "所有速度",
+    "BuffTarReach": "天生触及",
+    "BuffTarMeleeAttack": "近战攻击骰",
+    "BuffTarNaturalAttack": "天武攻击骰",
+    "BuffTarRangedAttack": "远程攻击骰",
+    "BuffTarThrownAttack": "投掷攻击骰",
+    "BuffTarSpells": "法术",
+    "BuffTarSpellEffect": "法术效果",
+    "SkillAcr": "特技",
+    "SkillApr": "估价",
+    "SkillArt": "技艺",
+    "SkillBlf": "哄骗",
+    "SkillClm": "攀爬",
+    "SkillCrf": "工艺",
+    "SkillDip": "交涉",
+    "SkillDev": "解除装置",
+    "SkillDis": "易容",
+    "SkillEsc": "脱逃",
+    "SkillFly": "飞行",
+    "SkillHan": "驯养动物",
+    "SkillHea": "医疗",
+    "SkillInt": "威吓",
+    "SkillKAr": "知识 (奥秘)",
+    "SkillKDu": "知识 (地城)",
+    "SkillKEn": "知识 (工程)",
+    "SkillKGe": "知识 (地理)",
+    "SkillKHi": "知识 (历史)",
+    "SkillKLo": "知识 (地方)",
+    "SkillKNa": "知识 (自然)",
+    "SkillKNo": "知识 (贵族)",
+    "SkillKPl": "知识 (位面)",
+    "SkillKRe": "知识 (宗教)",
+    "SkillLin": "语言学",
+    "SkillLor": "学识",
+    "SkillPer": "察觉",
+    "SkillPrf": "表演",
+    "SkillPro": "专业",
+    "SkillRid": "骑术",
+    "SkillSen": "察言观色",
+    "SkillSlt": "巧手",
+    "SkillSpl": "法术辨识",
+    "SkillSte": "隐匿",
+    "SkillSur": "生存",
+    "SkillSwm": "游泳",
+    "SkillUMD": "使用魔法装置",
+    "AddSkill": "添加技能",
+    "Time": {
+      "Format": "{value} {unit}",
+      "Period": {
+        "inst": {
+          "Label": "立即"
+        },
+        "turn": {
+          "Label": "回合",
+          "Short": "回合"
+        },
+        "round": {
+          "Label": "轮",
+          "Short": "轮"
+        },
+        "second": {
+          "Label": "秒",
+          "Short": "秒"
+        },
+        "minute": {
+          "Label": "分钟",
+          "Short": "分钟"
+        },
+        "hour": {
+          "Label": "小时",
+          "Short": "小时"
+        },
+        "day": {
+          "Label": "天"
+        },
+        "month": {
+          "Label": "月"
+        },
+        "year": {
+          "Label": "年"
+        },
+        "perm": {
+          "Label": "永久"
+        }
+      },
+      "Turn": {
+        "Start": "Turn Start",
+        "End": "Turn End"
+      }
+    },
+    "AssociatedClass": "关联职业",
+    "SpellDescriptors": {
+      "acid": "强酸",
+      "air": "气",
+      "chaotic": "混乱",
+      "cold": "寒冷",
+      "curse": "诅咒",
+      "darkness": "黑暗",
+      "death": "死亡",
+      "disease": "疾病",
+      "draconic": "龙类",
+      "earth": "土",
+      "electricity": "电击",
+      "emotion": "情绪",
+      "evil": "邪恶",
+      "fear": "恐惧",
+      "fire": "火",
+      "force": "力场",
+      "good": "善良",
+      "languageDependent": "依赖语言",
+      "lawful": "秩序",
+      "light": "光亮",
+      "meditative": "冥想",
+      "mindAffecting": "影响心灵",
+      "pain": "痛苦",
+      "poison": "毒素",
+      "ruse": "诡计",
+      "shadow": "阴影",
+      "sonic": "音波",
+      "water": "水"
+    },
+    "SpellPrepAtWill": "随意",
+    "SpellPrepPrepared": "准备",
+    "SpellPrepSpontaneous": "自发",
+    "SpellsKnown": "已知法术",
+    "Arcanist": "奥能师",
+    "RedMantisAssassin": "红螳螂杀手",
+    "Psychic": "异能者",
+    "AutoSpellClassLevelOffset": {
+      "Formula": "职业等级调整",
+      "InfoBox": "如果你有可以替换你职业等级的进阶职业，将其加在这里(例如 @classes.mysticTheurge.level)"
+    },
+    "WeaponType": "武器类型",
+    "WeaponTypeSimple": "简易",
+    "WeaponTypeMartial": "军用",
+    "WeaponTypeExotic": "异种",
+    "WeaponTypeSplash": "泼溅",
+    "WeaponProperty": {
+      "Automatic": "全自动",
+      "Blocking": "格挡",
+      "Brace": "迎击",
+      "Deadly": "处决",
+      "Distracting": "虚实",
+      "Double": "双头",
+      "Disarm": "卸武",
+      "Finesse": "灵巧",
+      "Fragile": "易碎",
+      "Grapple": "擒抱",
+      "Improvised": "临时",
+      "Monk": "武僧",
+      "NonLethal": "瘀伤",
+      "Performance": "演武",
+      "Reach": "长武",
+      "Scatter": "霰弹",
+      "SemiAutomatic": "半自动",
+      "SlowFiring": "低射速",
+      "Sunder": "破武",
+      "Special": "特殊",
+      "Thrown": "投掷",
+      "Trip": "绊摔"
+    },
+    "EquipSlots": {
+      "none": "无位置",
+      "armor": "盔甲",
+      "shield": "盾牌",
+      "clothing": "衣物",
+      "head": "头部",
+      "headband": "头饰",
+      "eyes": "眼部",
+      "shoulders": "肩部",
+      "neck": "颈部",
+      "chest": "胸部",
+      "body": "躯体",
+      "belt": "腰部",
+      "wrists": "腕部",
+      "hands": "手部",
+      "ring": "戒指",
+      "feet": "脚部"
+    },
+    "Implanted": "已殖装",
+    "Cybertech": {
+      "Implantation": "殖装体",
+      "Install": "安装DC",
+      "Disabled": "停用",
+      "Slots": {
+        "none": "无位置",
+        "arm": "手臂",
+        "body": "身体",
+        "brain": "脑部",
+        "ears": "耳部",
+        "eyes": "眼部",
+        "head": "头部",
+        "legs": "腿部"
+      }
+    },
+    "Trait": {
+      "combat": "战斗",
+      "magic": "魔法",
+      "faith": "信念",
+      "social": "社会",
+      "campaign": "战役",
+      "cosmic": "宇宙",
+      "equipment": "装备",
+      "exemplar": "典范",
+      "faction": "派系",
+      "family": "家庭",
+      "mount": "坐骑",
+      "race": "种族",
+      "region": "地区",
+      "religion": "宗教",
+      "drawback": "缺陷"
+    },
+    "RacePoints": "种族点",
+    "RacialTraitCategories": {
+      "defense": "防御",
+      "featSkills": "专长与技能s",
+      "magical": "魔法",
+      "senses": "感官",
+      "offense": "进攻",
+      "other": "其他",
+      "weakness": "弱点"
+    },
+    "RaceType": "种族类型",
+    "RaceTypes": {
+      "standard": "标准级",
+      "advanced": "强化级",
+      "monstrous": "恐怖级"
+    },
+    "Activation": {
+      "passive": {
+        "Single": "被动",
+        "Plural": "被动"
+      },
+      "free": {
+        "Single": "自由",
+        "Plural": "自由动作"
+      },
+      "swift": {
+        "Single": "迅捷",
+        "Plural": "迅捷动作"
+      },
+      "immediate": {
+        "Single": "直觉",
+        "Plural": "直觉动作"
+      },
+      "move": {
+        "Single": "移动",
+        "Plural": "移动动作"
+      },
+      "standard": {
+        "Single": "标准",
+        "Plural": "标准动作"
+      },
+      "fullRound": {
+        "Single": "整轮",
+        "Plural": "整轮动作"
+      },
+      "attack": {
+        "Single": "攻击",
+        "Plural": "攻击动作"
+      },
+      "round": {
+        "Single": "轮",
+        "Plural": "轮"
+      },
+      "minute": {
+        "Single": "分钟",
+        "Plural": "分钟"
+      },
+      "hour": {
+        "Single": "小时",
+        "Plural": "小时"
+      },
+      "special": {
+        "Single": "特殊",
+        "Plural": "特殊"
+      },
+      "nonaction": {
+        "Single": "非动作"
+      },
+      "aoo": {
+        "Single": "借机攻击",
+        "Plural": "借机攻击"
+      },
+      "reaction": {
+        "Single": "反应动作",
+        "Plural": "反应动作"
+      },
+      "action": {
+        "Single": "动作",
+        "Plural": "动作"
+      }
+    },
+    "WeaponSubtype": "武器子类",
+    "WeaponSubtypeRanged": "远程",
+    "FavouredClassBonus": {
+      "Label": "天赋职业奖励",
+      "HP": "生命值",
+      "Skill": "技能点",
+      "Alt": "职业"
+    },
+    "Proficiency": {
+      "Armor": {
+        "LabelPlural": "护甲熟练",
+        "light": "轻甲",
+        "medium": "中甲",
+        "heavy": "重甲",
+        "shield": "盾牌",
+        "tower": "塔盾"
+      },
+      "Weapon": {
+        "LabelPlural": "武器熟练",
+        "simple": "简易武器",
+        "martial": "军用武器"
+      },
+      "Granted": "获得的熟练项",
+      "Penalty": "不熟练减值"
+    },
+    "Key_Control": "Control",
+    "InventoryWeapons": "武器",
+    "InventoryConsumables": "消耗品",
+    "InventoryContainers": "容器",
+    "InventoryImplants": "殖装物",
+    "ChangeFlags": {
+      "LoseDexToAC": "失去AC上的敏捷加值",
+      "NoMediumEncumbrance": "不受中载影响",
+      "NoHeavyEncumbrance": "不受重载影响",
+      "MediumArmorFullSpeed": "穿中甲可全速移动",
+      "HeavyArmorFullSpeed": "穿重甲可全速移动"
+    },
+    "Undefined": "未定义",
+    "NotificationCreatedAttack": "从 {item} 创建攻击",
+    "Action_DisplayDefenses": "显示防御信息",
+    "Info_FirstClass": "从{html}中拖出一个\n或点击上面的'+添加'按钮。",
+    "Info_FirstClass_Compendium": "职业合集包",
+    "Info_MissingClass": "你的人物缺少一个职业，查看人物卡概览页中的职业子标签页。",
+    "CMDNotes": "CMD 备注",
+    "Footnotes": "脚注",
+    "FootnotesHint": "仅在聊天卡片底部显示的备注。",
+    "EffectNotes": "效果备注",
+    "EffectNotesHint": "对每个实例都显示备注。例如，对每次单独攻击都显示备注。",
+    "SpellResistanceNotes": "法术抗力备注",
+    "ContextNotes": "备注",
+    "ACNotes": "AC备注",
+    "SaveNotes": "豁免备注",
+    "CLNotes": "施法者等级备注",
+    "NonApplicable": "N/A",
+    "SkillTypeAdventure": "冒险技能",
+    "SkillTypeBackground": "背景技能",
+    "ACP": "ACP",
+    "ACPLong": "防具检定减值",
+    "ACPTooltip": "防具检定减值",
+    "CS": "CS",
+    "CSTooltip": "本职技能",
+    "RT": "RT",
+    "RTTooltip": "需受训",
+    "SkillModTooltip": "技能调整值",
+    "BrowseSpells": "浏览法术",
+    "BrowseItems": "浏览物品",
+    "BrowseBestiary": "浏览怪物",
+    "BrowseFeats": "浏览特性",
+    "BrowseClasses": "浏览职业",
+    "BrowseRaces": "浏览种族",
+    "BrowseBuffs": "浏览增益",
+    "Language": {
+      "aboleth": "底栖魔鱼语",
+      "abyssal": "深渊语",
+      "aklo": "邪灵语",
+      "ancientosiriani": "古奥斯利昂语",
+      "androffan": "安卓语",
+      "aquan": "水族语",
+      "auran": "风族语",
+      "azlanti": "阿兹兰特语",
+      "boggard": "沼蜍语",
+      "catfolk": "猫族语",
+      "celestial": "天界语",
+      "common": "通用语",
+      "cyclops": "独眼巨人语",
+      "dark": "幽暗语",
+      "draconic": "龙语",
+      "drowsign": "卓尔手语",
+      "druidic": "鲁伊语",
+      "dwarven": "矮人语",
+      "dziriak": "影界蚁语",
+      "elven": "精灵语",
+      "giant": "巨人语",
+      "gnoll": "豺狼人语",
+      "gnome": "侏儒语",
+      "goblin": "地精语",
+      "grippli": "树蛙人语",
+      "halfling": "半身人语",
+      "hallit": "哈利特语",
+      "ignan": "火族语",
+      "infernal": "炼狱语",
+      "jistka": "吉斯塔克语",
+      "kasatha": "卡萨达",
+      "kelish": "珂莱士语",
+      "lashunta": "勒珊塔灵族语",
+      "munavri": "Munavri",
+      "necril": "亡灵语",
+      "orc": "兽人语",
+      "orvian": "奥乌语",
+      "osiriani": "奥斯利昂语",
+      "polyglot": "语言天赋",
+      "protean": "幻蛇语",
+      "reptoid": "Reptoid",
+      "rougarou": "狩狼人",
+      "samsaran": "轮回者语",
+      "sasquatch": "大脚语",
+      "shadowtongue": "暗影语",
+      "shoanti": "休盎提语",
+      "skald": "乌尔芬语",
+      "sphinx": "斯芬克斯语",
+      "strix": "鸮形人语",
+      "sylvan": "木族语",
+      "syrinx": "绪任克斯枭族语",
+      "taldane": "Taldane",
+      "tekritanin": "泰克立坦语",
+      "tengu": "天狗语",
+      "terran": "土族语",
+      "thassilonian": "瑟西隆语",
+      "tien": "天洲语",
+      "treant": "树人语",
+      "triaxian": "特里亚克萨斯语",
+      "undercommon": "地底通用语",
+      "vanaran": "灵猴族语",
+      "varisian": "瓦瑞西亚语",
+      "vegepygmy": "Vegepygmy",
+      "vishkanya": "蝮血裔语",
+      "vudrani": "乌陀罗语",
+      "yaddithian": "Yaddithian"
+    },
+    "Rest": "休息",
+    "CreatureTypes": {
+      "aberration": "异怪",
+      "animal": "动物",
+      "construct": "构装体",
+      "dragon": "龙",
+      "fey": "精类",
+      "humanoid": "类人生物",
+      "magicalBeast": "魔法兽",
+      "monstrousHumanoid": "类人怪物",
+      "ooze": "泥怪",
+      "outsider": "异界生物",
+      "plant": "植物",
+      "undead": "不死生物",
+      "vermin": "虫类"
+    },
+    "RestoreHealth": "恢复生命值",
+    "RestoreDailyUses": "恢复每日充能",
+    "LongTermCare": "长期护理",
+    "RestMessage": "{name}休息了{hours}小时。",
+    "FullRestMessage": "{name}休息了{hours}小时并恢复了能力的每日使用次数。",
+    "ModifierType": {
+      "untyped": "无类型",
+      "untypedPerm": "无类型 (永久)",
+      "base": "基础",
+      "enhancement": "增强",
+      "dodge": "闪避",
+      "inherent": "内在",
+      "deflection": "偏斜",
+      "morale": "士气",
+      "luck": "幸运",
+      "sacred": "神圣",
+      "insight": "洞察加值",
+      "resistance": "抗力",
+      "profane": "亵渎",
+      "trait": "背景",
+      "racial": "种族",
+      "size": "体型",
+      "competence": "表现",
+      "circumstance": "环境",
+      "alchemical": "炼金",
+      "haste": "加速术"
+    },
+    "AbilityTypes": {
+      "na": {
+        "Label": "天生",
+        "Short": "Na"
+      },
+      "ex": {
+        "Label": "特异能力",
+        "Short": "Ex"
+      },
+      "su": {
+        "Label": "超自然能力",
+        "Short": "Su"
+      },
+      "sp": {
+        "Label": "类法术能力",
+        "Short": "Sp"
+      }
+    },
+    "DamageTypes": {
+      "untyped": {
+        "Label": "无类型"
+      },
+      "bludgeoning": {
+        "Label": "钝击",
+        "Abbr": "B"
+      },
+      "piercing": {
+        "Label": "穿刺",
+        "Abbr": "P"
+      },
+      "slashing": {
+        "Label": "挥砍",
+        "Abbr": "S"
+      },
+      "cold": {
+        "Label": "寒冷"
+      },
+      "fire": {
+        "Label": "火焰"
+      },
+      "electricity": {
+        "Label": "电击"
+      },
+      "sonic": {
+        "Label": "音波"
+      },
+      "acid": {
+        "Label": "强酸"
+      },
+      "force": {
+        "Label": "力场"
+      },
+      "negative": {
+        "Label": "负能量"
+      },
+      "positive": {
+        "Label": "正能量"
+      }
+    },
+    "Materials": {
+      "Label": "材料",
+      "Base": "基础材料",
+      "Normal": "材料",
+      "Addon": "附加材料",
+      "NormalOverride": "材料覆盖",
+      "AddonOverride": "附加材料覆盖",
+      "Types": {
+        "Abysium": "疫石",
+        "Adamantine": "精金",
+        "AlchemicalSilver": "炼银",
+        "Silver": "银",
+        "AngelSkin": "天使缎",
+        "Aszite": "Aszite",
+        "Blackwood": "黑木",
+        "BlightQuartz": "Blight Quartz",
+        "BloodCrystal": "血结晶",
+        "BuletteArmor": "Bulette Armor",
+        "Caphorite": "卡弗莱特矿石",
+        "Cloth": "布料",
+        "ColdIron": "寒铁",
+        "Cryptstone": "墓石",
+        "DarkleafCloth": "暗叶布",
+        "Darkwood": "暗木",
+        "Dragonhide": "龙革",
+        "Druchite": "Druchite",
+        "EelHide": "Eel Hide",
+        "ElysianBronze": "净土青铜",
+        "FireForgedSteel": "火纹钢",
+        "FrostForgedSteel": "冰纹钢",
+        "Glaucite": "Glaucite",
+        "Greenwood": "绿木",
+        "GriffonMane": "狮鹫鬃",
+        "HeatstonePlating": "热能石镀层",
+        "Horacalcum": "山铜",
+        "Inubrix": "虚铅",
+        "IrespanBasalt": "Irespan Basalt",
+        "Lazurite": "Lazurite",
+        "Leather": "皮革",
+        "LiquidGlass": "液态玻璃",
+        "LivingSteel": "活钢",
+        "Mithral": "秘银",
+        "NexavarianSteel": "Nexavarian Steel",
+        "Noqual": "零晶",
+        "Paueliel": "Paueliel",
+        "PyreSteel": "Pyre Steel",
+        "Siccatite": "漠石",
+        "Silversheen": "银纺",
+        "SingingSteel": "鸣钢",
+        "SpireSteel": "Spiresteel",
+        "Steel": "钢铁",
+        "Sunsilk": "太阳丝绸",
+        "Sunsilver": "曜银",
+        "Throneglass": "宝座琉璃",
+        "Viridium": "毒琉璃",
+        "Voidglass": "虚空玻璃",
+        "Whipwood": "扭木",
+        "Wyroot": "汲魂之茎",
+        "Bone": "骨头",
+        "Bronze": "青铜",
+        "Glass": "玻璃",
+        "Gold": "黄金",
+        "Obsidian": "黑曜石",
+        "Stone": "石头",
+        "Wood": "木材",
+        "Magic": "魔法",
+        "Epic": "史诗"
+      }
+    },
+    "RollSkillMacroName": "{actor}:骰{skill}",
+    "DisplayDefensesMacroName": "{actor}:显示防御",
+    "RollCMBMacroName": "{actor}:骰CMB",
+    "RollCLMacroName": "{actor}:骰CL({book})",
+    "RollConcentrationMacroName": "{actor}:骰专注({book})",
+    "RollBABMacroName": "{actor}:骰BAB",
+    "RollSaveMacroName": "{actor}: 骰{type}豁免",
+    "SourceInfoSkillRank_ClassBase": "{className} (基础)",
+    "SourceInfoSkillRank_ClassFC": "{className} (天赋职业)",
+    "CreateItemForSpell": "从 {name} 创建物品",
+    "CreateItemWand": "魔杖",
+    "CreateItemScroll": "卷轴",
+    "CreateItemPotion": "药水",
+    "CreateItemWandOf": "{name}魔杖",
+    "CreateItemScrollOf": "{name}卷轴",
+    "CreateItemPotionOf": "{name}药水",
+    "NewItem": "新 {type}",
+    "Trigger": "触发",
+    "Haunt": {
+      "Notice": "察觉",
+      "Weakness": "弱点",
+      "Destruction": "摧毁"
+    },
+    "Trap": {
+      "Type": "类型",
+      "PerceptionDC": "察觉DC",
+      "DisableDeviceDC": "解除装置DC",
+      "EffectsDetails": "效果",
+      "Trigger": "触发"
+    },
+    "Vehicles": {
+      "Space": {
+        "Large": "2-6格",
+        "Huge": "7-12格",
+        "Gargantuan": "13-20格",
+        "Colossal": "21+格"
+      },
+      "Types": {
+        "Land": "陆地载具",
+        "Sea": "水上载具",
+        "Air": "空中载具"
+      },
+      "OccupiedSpace": "占据空间",
+      "MaximumSpeed": "最高速度",
+      "Acceleration": "加速度",
+      "Propulsion": "动力",
+      "DrivingCheck": "驾驶检定",
+      "ForwardFacing": "前方",
+      "DrivingDevice": "驾驶装置",
+      "DrivingSpace": "驾驶空间",
+      "Crew": "机组成员",
+      "Decks": "甲板"
+    },
+    "CombatInfo_Header": "战斗",
+    "CombatInfo_Round": "第{round}轮",
+    "ScriptCalls": {
+      "Name": "调用脚本",
+      "NewName": "调用新脚本",
+      "Use": {
+        "Name": "使用",
+        "Info": "当物品被使用时调用（攻击，饮用药水等）。有一个叫'attacks'的额外数组变量，内含了可能有的动作攻击骰子结果。"
+      },
+      "Equip": {
+        "Name": "装备",
+        "Info": "当装备/解除装备物品时调用，有一个额外的变量'equipped'，值为'true'或'false'。"
+      },
+      "Toggle": {
+        "Name": "开关",
+        "Info": "当物品被启用/禁用时调用。有一个额外的变量'state'，值为'true'或'false'。"
+      },
+      "ChangeQuantity": {
+        "Name": "改变数量",
+        "Info": "当物品的数量被改变时调用。有额外的变量'quantity.previous'和'quantity.new'，两者均为数字。"
+      },
+      "ChangeLevel": {
+        "Name": "改变等级",
+        "Info": "当物品的等级被改变时调用。有额外的变量'quantity.previous'和'quantity.new'，两者均为数字。"
+      }
+    },
+    "AddClass": "添加职业",
+    "Horizontal": "水平",
+    "Vertical": "垂直",
+    "HideHeld": "隐藏所持物品",
+    "HideArmor": "隐藏护甲",
+    "HideBuffs": "隐藏增益",
+    "HideConditions": "隐藏状态",
+    "HideClothing": "隐藏服装",
+    "HideName": "隐藏名字",
+    "Action": "动作",
+    "All": "全部",
+    "Attack": "攻击",
+    "AddEffect": "添加效果",
+    "AddConditional": "添加情况",
+    "AddChange": "添加改变",
+    "AddNote": "添加备注",
+    "AddEntry": "添加条目",
+    "Attributes": "属性",
+    "ArmorClass": "AC",
+    "Attacks": "攻击",
+    "Biography": "传记",
+    "Buffs": "增益",
+    "Change": "改变",
+    "Changes": "改变",
+    "ClassAbilities": "职业能力",
+    "Conditionals": "特定调整值",
+    "ConImm": "状态免疫",
+    "ConRes": "状态抗力",
+    "Critical": "重击",
+    "CriticalConfirmation": "重击确认",
+    "Damage": "伤害",
+    "DamageCritical": "重击伤害",
+    "DamageRoll": "伤害掷骰",
+    "DamageType": "伤害类型",
+    "DamImm": "伤害免疫",
+    "DamRed": "伤害减免",
+    "DamVuln": "易伤",
+    "Drain": "汲取",
+    "Penalty": "减值",
+    "Defense": "防御",
+    "Defenses": "防御",
+    "Description": "描述",
+    "Details": "详情",
+    "Edit": "编辑",
+    "Enchantments": "附魔",
+    "EnRes": "能量抗力",
+    "Equipped": "已装备",
+    "NotEquipped": "未装备",
+    "Carried": "携带",
+    "Identified": "鉴定",
+    "Iterative": "迭代",
+    "Unidentified": "未鉴定",
+    "Health": "生命",
+    "Healing": "治疗",
+    "Wounds": "受伤",
+    "Vigor": "活力",
+    "HitDice": "生命骰",
+    "HitDie": "生命骰",
+    "InfoShort": "信息",
+    "Inventory": "所持物",
+    "Feature": "特性",
+    "Features": "特性",
+    "FullRoundAttack": "整轮攻击",
+    "Languages": "语言",
+    "LevelDrain": "等级汲取",
+    "NegativeLevels": "负向等级",
+    "None": "无",
+    "Notes": "备注",
+    "Operator": "操作符",
+    "Quadruped": "四足型",
+    "Senses": "感官",
+    "Save": "豁免",
+    "Size": "体型",
+    "Resizing": "体型变化",
+    "Special": "特殊",
+    "Movement": {
+      "Label": "移动",
+      "Speed": "速度",
+      "Short": "{speed} {unit} {mode}",
+      "Mode": {
+        "land": "地面",
+        "swim": "游泳",
+        "fly": "飞行",
+        "climb": "攀爬",
+        "burrow": "掘地"
+      },
+      "FlyManeuverability": {
+        "Label": "飞行灵活性",
+        "Abbr": "飞行灵活性",
+        "Quality": {
+          "clumsy": "笨拙",
+          "poor": "不良",
+          "average": "一般",
+          "good": "良好",
+          "perfect": "完美"
+        }
+      }
+    },
+    "ActorSize": {
+      "fine": "超微型",
+      "dim": "微型",
+      "tiny": "超小型",
+      "sm": "小型",
+      "med": "中型",
+      "lg": "大型",
+      "huge": "超大型",
+      "grg": "巨型",
+      "col": "超巨型"
+    },
+    "Spells": "法术",
+    "Stature": "身高",
+    "StatureLong": "长",
+    "StatureTall": "高",
+    "Items": "物品",
+    "Skills": "技能",
+    "CharacterName": "人物名",
+    "Level": "等级",
+    "Gender": "性别",
+    "Deity": "信仰",
+    "Race": "种族",
+    "RaceSubtypePlural": "亚种",
+    "Age": "年龄",
+    "Height": "身高",
+    "Weight": "体重",
+    "ItemWeight": "重量",
+    "Base": "基础",
+    "TempShort": "临时。",
+    "TempHP": "临时生命",
+    "Nonlethal": "瘀伤",
+    "Initiative": "先攻",
+    "MaxDexShort": "最大敏捷",
+    "Type": "类型",
+    "ActionPlural": "动作",
+    "ChargePlural": "充能",
+    "ConditionPlural": "状态",
+    "Add": "添加",
+    "ItemName": "物品名",
+    "BuffName": "增益名",
+    "SkillName": "技能名",
+    "AttackName": "攻击名",
+    "CreateAttack": "创建攻击",
+    "Active": "激活",
+    "SpellBook": "法术书",
+    "SpellBookPlural": "法术书",
+    "SpellLevel": "法术等级",
+    "SpellSchool": "法术学派",
+    "SpellComponents": {
+      "Label": "法术成分",
+      "Misc": "其他成分",
+      "Type": {
+        "verbal": {
+          "Label": "语言",
+          "Abbr": "V"
+        },
+        "somatic": {
+          "Label": "姿势",
+          "Abbr": "S"
+        },
+        "thought": {
+          "Label": "思想",
+          "Abbr": "D"
+        },
+        "emotion": {
+          "Label": "情绪",
+          "Abbr": "E"
+        },
+        "material": {
+          "Label": "材料",
+          "Abbr": "M",
+          "Desc": "材料描述",
+          "Value": "材料价值"
+        },
+        "focus": {
+          "Label": "法器",
+          "Abbr": "F"
+        },
+        "divineFocus": {
+          "Label": "圣徽",
+          "Abbr": "GF"
+        }
+      },
+      "DFVariants": {
+        "DF": "GF",
+        "MDF": "M/GF",
+        "FDF": "F/GF"
+      }
+    },
+    "LimitedUses": {
+      "Label": "使用限制",
+      "Periods": {
+        "single": "单次使用",
+        "round": "每轮",
+        "hour": "每小时",
+        "day": "每天",
+        "week": "每周",
+        "charges": "充能"
+      }
+    },
+    "SpellSchools": {
+      "abj": "防护系",
+      "con": "咒法系",
+      "div": "预言系",
+      "enc": "惑控系",
+      "evo": "塑能系",
+      "ill": "幻术系",
+      "nec": "死灵系",
+      "tra": "变化系",
+      "uni": "通用"
+    },
+    "SpellLevels": {
+      "0": "戏法/祷念",
+      "1": "1环",
+      "2": "2环",
+      "3": "3环",
+      "4": "4环",
+      "5": "5环",
+      "6": "6环",
+      "7": "7环",
+      "8": "8环",
+      "9": "9环"
+    },
+    "SpellResistance": "法术抗力",
+    "SpellEffect": "特殊效果",
+    "SubSchool": "子学派",
+    "SubSchoolExample": "例：召唤, 胁迫",
+    "TypePlural": "类型",
+    "SpellTypesExample": "例：强酸, 邪恶",
+    "SpellEffectExample": "例：一滴酸液",
+    "Area": "区域",
+    "Melee": "近战",
+    "MeleeWeapon": "近战武器",
+    "MeleeSpell": "近战法术",
+    "Ranged": "远程",
+    "RangedWeapon": "远程武器",
+    "RangedSpell": "远程法术",
+    "WeaponDamage": "武器伤害",
+    "SpellDamage": "法术伤害",
+    "AttackRollPlural": "攻击骰",
+    "DamageRollPlural": "伤害骰",
+    "AbilityScore": "属性值",
+    "AbilityScoreLinks": "属性值关联",
+    "SavingThrow": "豁免",
+    "SavingThrowPlural": "豁免",
+    "SavingThrowEffect": "豁免效果",
+    "Misc": "杂项",
+    "MiscShort": "杂项",
+    "HitPoints": "生命值",
+    "VulnerableTo": "对 {vulnerability} 易伤",
+    "ImmuneTo": "对 {immunity} 免疫",
+    "AbilityTest": "{ability} 属性检定",
+    "SkillCheck": "{skill} 技能检定",
+    "SavingThrowRoll": "{save} 豁免",
+    "SavingThrowButtonLabel": "{type}DC{dc}",
+    "SavingThrowButtonLabelGMSensitive": "{save} 豁免",
+    "SpellResistanceNote": "法术抗力 {value}",
+    "ImmunityPlural": "免疫",
+    "BABAbbr": "BAB",
+    "BAB": "基本攻击加值",
+    "BABOverride": "基本攻击加值覆盖",
+    "CMBAbbr": "CMB",
+    "CMB": "战技加值",
+    "CMDAbbr": "CMD",
+    "CMDFFAbbr": "失敏CMD",
+    "CMD": "战技防御",
+    "Untrained": "未受训",
+    "DeleteItemConfirmation": "你确定要删除该物品吗？",
+    "Range": "射程",
+    "MinRange": "最小射程",
+    "RangeNote": "射程: {distance} {units}",
+    "Radius": "半径",
+    "Target": "目标",
+    "Targets": "目标",
+    "Effect": "效果",
+    "Effects": "效果",
+    "AmountPrepared": "已准备 {count}",
+    "Prepared": "剩余已准备",
+    "Unprepared": "未准备",
+    "InitiallyPrepared": "准备总量",
+    "ClassPlural": "职业",
+    "FeatPlural": "专长",
+    "ClassFeaturePlural": "职业特性",
+    "NewClassFeaturePlural": "新职业特性",
+    "TraitPlural": "特质",
+    "RacialTraitPlural": "种族特性",
+    "TemplatePlural": "模板",
+    "Temporary": "临时",
+    "Permanent": "永久",
+    "Item": "物品",
+    "WeaponSize": "武器尺寸",
+    "WeaponProperties": "武器属性",
+    "EnhancementBonus": "增强加值",
+    "BaseWeaponDamage": "基础武器伤害",
+    "BaseWeaponCritical": "基础武器重击值",
+    "SpellPreparationType": "法术准备类型",
+    "CastsLeft": "剩余施法次数",
+    "Harmless": "无害",
+    "CasterLevelOffset": "施法者等级偏移",
+    "CasterLevelCheck": "施法者等级检定",
+    "CasterLevel": "施法者等级",
+    "CasterLevelBonusFormula": "施法者等级加值公式",
+    "CasterLevelNotes": "施法者等级备注",
+    "School": "学派",
+    "Domain": "领域",
+    "SubDomain": "子领域",
+    "CastingTime": "施法时间",
+    "Components": "材料",
+    "SpellRangeShort": "(25尺+5尺/2等级)",
+    "SpellRangeMedium": "(100尺+10尺/等级)",
+    "SpellRangeLong": "(400尺+40尺/等级)",
+    "SpellRangeShortMetric": "(7.5米+1.5米/2等级)",
+    "SpellRangeMediumMetric": "(30米+3米/等级)",
+    "SpellRangeLongMetric": "(120米+12米/等级)",
+    "Aura": {
+      "Single": "灵光",
+      "Plural": "灵光",
+      "Strength": {
+        "faint": "微弱",
+        "moderate": "中等",
+        "strong": "强烈",
+        "overwhelming": "刺目"
+      }
+    },
+    "ElementalSchool": "元素学派",
+    "Bloodline": "血统",
+    "ConcentrationCheck": "专注检定",
+    "Concentration": "专注",
+    "ConcentrationBonusFormula": "专注加值公式",
+    "ConcentrationNotes": "专注备注",
+    "Dismissable": "可解消",
+    "DismissableMark": "(D)",
+    "SpellLevelOffset": "法术环位偏移",
+    "SpellSlotCost": "法术位消耗",
+    "SpellCasting": {
+      "Progression": {
+        "Label": "升级",
+        "HighHint": "法术环位最高9。",
+        "MediumHint": "法术环位最高6。",
+        "LowHint": "法术环位最高4。"
+      },
+      "Type": {
+        "Label": "法术类型",
+        "Arcane": "奥术",
+        "Divine": "神术",
+        "Psychic": "异能",
+        "Alchemy": "炼金"
+      }
+    },
+    "Spellbook": {
+      "Known": "已知",
+      "OpenSlots": "剩余法术位",
+      "InsufficientAbility": "属性值不足",
+      "InsufficientLevel": "等级不足"
+    },
+    "CompendiumBrowser": {
+      "HiddenPack": "在合集包浏览器中隐藏的合集包",
+      "ShowPack": "在合集包浏览器中显示",
+      "HidePack": "在合集包浏览器中隐藏",
+      "ClearFilters": "清除过滤",
+      "ReloadPacks": "重载合集包"
+    },
+    "SpellcastingClass": "施法职业",
+    "SpellcastingAbility": "施法属性",
+    "SpellEffects": "法术效果",
+    "Usage": "用法",
+    "Slot": "栏位",
+    "MaxDexterityModifier": "最大敏捷加值",
+    "ArmorCheckPenalty": "防具检定减值",
+    "ArcaneSpellFailure": "奥术失败率",
+    "AutoCalculateSpellSlots": "自动计算法术位",
+    "HasCantrips": "拥有戏法/祷念",
+    "Modifications": "调整",
+    "PreparePerDay": "每日可准备",
+    "CastPerDay": "每日可施放",
+    "SkillsPerLevel": "技能/等级",
+    "Source": "来源",
+    "Unlimited": "无限",
+    "Requirements": "需求",
+    "Formula": "公式",
+    "BonusFormula": "加值公式",
+    "FormulaResult": "公式结果",
+    "ActionType": "动作类型",
+    "AttackRollBonus": "攻击加值",
+    "SecondaryAttackModifier": "次要攻击调整值",
+    "Rolls": {
+      "Check": {
+        "Label": "检定",
+        "Override": "覆盖检定",
+        "OverrideHint": "e.g. 2d20kl"
+      },
+      "Bonus": "检定加值",
+      "BonusHint": "e.g. 1d6[激励] + 2[援助术] + 1"
+    },
+    "CriticalThreatRange": "重击范围",
+    "CriticalMultiplier": "重击倍率",
+    "CriticalConfirmBonus": "重击确认加值",
+    "AttackAbility": "攻击属性",
+    "ExtraAttacks": {
+      "Label": "额外攻击",
+      "Standard": "迭代BAB",
+      "Advanced": "迭代BAB+自定义",
+      "Flurry": "疾风连击（非掉链）",
+      "UnFlurry": "疾风连击（掉链）",
+      "FlurryFlavor": "疾风连击",
+      "Custom": "自定义",
+      "Add": "添加额外攻击",
+      "ModifierFormula": "攻击调整值公式",
+      "ModifierTooltip": "<code>@formulaicAttack</code> 代表这是攻击序列中的第几次攻击。",
+      "Formula": {
+        "Label": "按公式",
+        "LabelDefault": "攻击 #{0}",
+        "LabelTooltip": "插入 <code>{0}</code> 来显示迭代计数。",
+        "Count": "攻击次数公式"
+      }
+    },
+    "HPAbility": "生命值属性",
+    "Name": "名字",
+    "DamageAbility": "伤害属性",
+    "AbilityBonus": "属性加值",
+    "MaxAbilityHint": "最高允许的属性加值。在乘数前应用此限制。若未定义则为无限。",
+    "SecondaryAttackAbilityMultiplier": "次要攻击属性加值",
+    "DamageFormula": "伤害公式",
+    "BaseFormula": "基础公式",
+    "DamageFormulaHint": "e.g. sizeRoll(1, 8, @size)",
+    "OnCritBonusFormula": "重击伤害加值公式",
+    "NonMultBonusFormula": "不乘倍加值公式",
+    "AddBaseInstance": "添加基础伤害",
+    "AddOnCritInstance": "添加重击伤害公式",
+    "AddNonMultInstance": "添加不乘倍加值公式",
+    "BonusDamageFormula": "伤害加值公式",
+    "BonusAttackFormula": "攻击加值公式",
+    "HealingFormula": "治疗公式",
+    "DamageBonus": "伤害加值",
+    "ActivationCost": "激活费用",
+    "Duration": "持续时间",
+    "MaximumUsesFormula": "最大使用公式",
+    "CheckFlags": "标志",
+    "Quantity": "数量",
+    "Price": "价格",
+    "PricePerCharge": "每发充能价格",
+    "HPShort": "HP",
+    "Hardness": "硬度",
+    "SituationalBonus": "环境加值",
+    "RollMode": "掷骰模式",
+    "UpdateActor": "更新角色",
+    "UpdateItem": "更新物品",
+    "BonusCarryStrength": "负重力量加值",
+    "BonusCarryMultiplier": "负重乘数加值",
+    "CarryStrength": "负重力量",
+    "CarryMultiplier": "负重乘数",
+    "Multiplier": "乘数",
+    "CarryLightLoad": "轻载",
+    "CarryMediumLoad": "中载",
+    "CarryHeavyLoad": "重载",
+    "CarryAboveHead": "举过头顶",
+    "CarryOffGround": "抬离地面",
+    "CarryDragPush": "拖拽/推动",
+    "CarryLabel": "携带 {lbs} 磅",
+    "CarryLabelKg": "携带 {kg} 公斤",
+    "SkillBonusRankFormula": "加值等级公式",
+    "ToggleSkillLock": "开关技能清单上几乎不需要部分的编辑锁。",
+    "Rank": "等级",
+    "SkillRankPlural": "技能等级",
+    "Used": "已使用",
+    "BGSkillRanks": "背景技能等级",
+    "BGUsed": "背景使用",
+    "AllSkills": "所有技能",
+    "AutomaticSpellSlots": "自动法术位",
+    "Uses": "使用",
+    "SeeText": "见正文",
+    "DC": "DC",
+    "SpellDC": "法术DC",
+    "DCFormula": "DC公式",
+    "DCOffset": "DC调整",
+    "DCOffsetFormula": "DC调整公式",
+    "DCDescriptionExample": "e.g. 反射减半",
+    "InitiativeBonus": "先攻加值",
+    "PowerAttack": "猛力攻击",
+    "DeadlyAim": "致命瞄准",
+    "PrimaryAttack": "主要攻击",
+    "SecondaryAttack": "次要攻击",
+    "Enabled": "已启用",
+    "Disabled": "已禁用",
+    "Enable": "启用",
+    "Disable": "禁用",
+    "AttackPenalty": "攻击减值",
+    "Low": "低",
+    "Medium": "中",
+    "High": "高",
+    "Poor": "不良",
+    "Good": "良好",
+    "Proficient": "熟练",
+    "Masterwork": "精制品",
+    "ClassSkills": "职业技能",
+    "MeasureTemplate": "测量板",
+    "TemplateType": "量板类型",
+    "LearnedAt": "学习于",
+    "EquipmentType": "装备类型",
+    "EquipmentSubtype": "装备子类",
+    "ConsumableType": "消耗品类型",
+    "CreatureType": "生物类型",
+    "CustomColor": "自定义颜色",
+    "CustomTexture": "自定义贴图",
+    "FromSources": "来源",
+    "UnidentifiedName": "未知名称",
+    "UnidentifiedPriceShort": "未知价格",
+    "Yes": "是",
+    "No": "否",
+    "Other": "其他",
+    "AutoDeductCharges": "自动消耗充能",
+    "BaseDCFormula": "基础DC公式",
+    "Lbs": "磅",
+    "Kgs": "公斤",
+    "Category": "类别",
+    "Quickbar": "快捷栏",
+    "QuickbarHint": "在token HUD和概览一栏中的快捷动作中展示。",
+    "ShowInQuickbar": "在快捷栏显示",
+    "Tag": "标签",
+    "Tags": "标签",
+    "Refresh": "刷新",
+    "AttackDetails": "攻击详情",
+    "AttackType": "攻击类型",
+    "AttackUsage": "攻击用法",
+    "AttackAction": "攻击动作",
+    "SingleAttack": "单次攻击",
+    "FullAttack": "全力攻击",
+    "Cast": "施放",
+    "Use": "使用",
+    "Regeneration": "再生",
+    "FastHealing": "快速治疗",
+    "Links": "关联",
+    "Confirm": "确认",
+    "CROffset": "挑战等级补偿",
+    "Haste": "加速",
+    "Manyshot": "多重射击",
+    "RapidShot": "快速射击",
+    "PointBlankShot": "近距射击",
+    "AmmunitionType": "弹药类型",
+    "AmmunitionPerAttack": "弹药消耗（每次攻击）",
+    "AmmoRemaining": "弹药剩余: {0}",
+    "AmmoDepleted": "弹药耗尽!",
+    "InvalidAmmoType": "无效弹药类型",
+    "DefaultAmmo": "默认弹药",
+    "Misfire": "哑火",
+    "Capacity": "容量",
+    "ChargesDepleted": "充能耗尽!",
+    "Priority": "优先级",
+    "Creatures": "生物",
+    "ChargeCost": "充能消耗",
+    "ChargeCostFormula": "充能消耗公式",
+    "PerAttack": "每次攻击",
+    "ChargeSource": "充能源",
+    "RechargeFormula": "再充能公式",
+    "Value": "总值",
+    "TotalItems": "{count}总物品",
+    "FilteredItems": "{count}筛选后物品",
+    "SearchFilterPlaceholder": "搜索…",
+    "QuickInfo": "预览",
+    "QuickActions": "快捷操作",
+    "ConvertCurrency": "货币兑换",
+    "SoundEffect": "音效",
+    "Classes": "职业",
+    "Races": "种族",
+    "SetTo": "设置为{value}",
+    "Feats": "专长",
+    "ByLevel": "等级专长",
+    "ByBonus": "奖励专长",
+    "Total": "合计",
+    "BonusFeatFormula": "奖励专长公式",
+    "Advanced": "高级",
+    "LeftToPrepare": "剩余可准备法术位",
+    "SpellsTotalEachDay": "每日法术总量（不包括领域和学派法术）",
+    "UseItem": "使用物品",
+    "UseSpell": "使用法术",
+    "UseFeat": "使用特性",
+    "PerformAttack": "发动攻击",
+    "UseSpellPoints": "使用法术点",
+    "MaxFormula": "最大值公式",
+    "SpellPoints": "法术点",
+    "SpellPointsCurrent": "当前法术点",
+    "SpellPointsMax": "最大法术点",
+    "SpellPointsCost": "法术点消耗",
+    "RestoredOnRest": "休息时已恢复",
+    "CMBAbility": "CMB属性",
+    "Broken": "破损",
+    "AutoBroken": "因剩余hp自动破损。",
+    "Cursed": "诅咒",
+    "Timeworn": "老旧",
+    "Artifact": "神器",
+    "Compendium": "合集包",
+    "Custom": "自定义",
+    "RecoverChancePercentage": "回收机率%",
+    "RecoverAmmunition": "回收弹药",
+    "Recover": "回收",
+    "ForceRecover": "强制回收",
+    "Default": "默认",
+    "Vision": "视野",
+    "Held": "持握",
+    "BaseTypes": {
+      "Label": "装备基础类型",
+      "Description": "对于对特定类型生效的特性，比如武器专攻或单一武器熟练（例如异种武器熟练），或当物品的名字和其基础类型不同时。<p>举例而言，司命匕首的基础类型是匕首。"
+    },
+    "HeldMult": "持握 (×{mult})",
+    "ArmorOrShield": "护甲/盾牌",
+    "GiveItem": "给予物品",
+    "GiveItemToActor": "给予角色物品",
+    "HideFromToken": "从token隐藏",
+    "ACPArmor": "防具检定减值（护甲）",
+    "ACPShield": "防具检定减值（盾牌）",
+    "MaxDexArmor": "最大敏捷修正（护甲）",
+    "MaxDexShield": "最大敏捷修正（盾牌）",
+    "Encumbrance": "负重",
+    "MediumEncumbrance": "中载",
+    "HeavyEncumbrance": "重载",
+    "Raw": "原始",
+    "Normal": "正常",
+    "Changelog": "更新日志",
+    "DontShowAgain": "系统更新后不再显示日志",
+    "IdentifyDC": "鉴定DC",
+    "IdentifyDCNumber": "鉴定DC{dc}",
+    "MagicItems": "魔法物品",
+    "Summary": "概览",
+    "HitDieShort": "HD",
+    "ChallengeRatingShort": "CR",
+    "Experience": "经验",
+    "Combat": "战斗",
+    "Current": "当前",
+    "Maximum": "最大值",
+    "Ability": "属性",
+    "Modifier": "调整值",
+    "OpenAssociatedCompendiumEntry": "打开已关联的合集包项目",
+    "OpenCompendium": "打开合集包",
+    "Tier": "阶层",
+    "ReducedMovementSpeed": "移速降低",
+    "Settings": "设置",
+    "SpellbookUsage": "使用的法术书",
+    "SpellSlotAbilityBonus": "法术位属性加值",
+    "SpellbookName": "法术书名称",
+    "StaticSize": "静态大小",
+    "DomainSlotValue": "领域/学派法术位",
+    "DomainSlotValueDesc": "领域/学派法术每环提供多少额外法术位?",
+    "DisableLightLowLightVision": "为光源禁用昏暗视觉",
+    "Command": "命令",
+    "MaximumRangeIncrements": "最大射程增量",
+    "DuplicateInitiative": "复制先攻",
+    "InitiativeOffset": "先攻调整",
+    "NotImplemented": "未执行",
+    "StepsRequired": "必要步骤",
+    "RemoveInfo": "移除信息",
+    "CustomRollDesc": "该投骰使用的是非默认公式",
+    "Hidden": "隐藏",
+    "Bright": "光亮",
+    "Dim": "昏暗",
+    "PCs": "PC",
+    "NPCs": "NPC",
+    "Options": "选项",
+    "Cancel": "取消",
+    "Migration": {
+      "Start": "为PF1系统版本：{version}执行迁移中。 请稍等。",
+      "Ongoing": "迁移进行中，请等待其完成。",
+      "End": "PF1升级至版本：{version}成功!"
+    },
+    "Application": {
+      "ChangeTargetSelector": {
+        "Title": "选择改变目标"
+      },
+      "ContextNoteTargetSelector": {
+        "Title": "选择备注目标"
+      },
+      "XPDistributor": {
+        "Title": "经验分配器",
+        "Options": {
+          "BonusExperience": "奖励经验"
+        },
+        "SplitEvenly": "平分",
+        "GiveToAll": "给予所有人",
+        "TotalExperience": "总经验",
+        "SplitExperience": "平分经验"
+      },
+      "EntrySelector": {
+        "Title": "条目选择器"
+      }
+    },
+    "Info": {
+      "AddClassDialog": "你可以按住Shift来跳过该对话。",
+      "AddClassDialog_Desc": "点击“正常”会出现一个简短的向导，点击“原始”则会不作任何替换地添加一个职业。",
+      "NotFunctioning": "系统(目前)不使用该特性"
+    },
+    "Help": {
+      "Label": "Help"
+    },
+    "DeleteSkillTitle": "删除技能: {name}",
+    "Spellcasting": {
+      "Type": {
+        "Label": "法术类型",
+        "Arcane": "奥术",
+        "Divine": "神术",
+        "Psychic": "灵能",
+        "Alchemy": "炼金"
+      },
+      "Progression": {
+        "Label": "进度"
+      }
+    },
+    "ApplyToAll": "应用至全部",
+    "Roll": "投骰",
+    "TakeX": "取{number}",
+    "EditSkill": "编辑技能",
+    "DeleteSkill": "删除技能",
+    "DeleteSkillConfirmation": "你确定要删除这个技能吗？",
+    "DamageTypeCategory": {
+      "misc": "其他",
+      "physical": "物理",
+      "energy": "能量"
+    },
+    "Abundant": "补给",
+    "AbundantDesc": "使用后不移除该弹药。",
+    "Copy": "复制",
+    "Descriptor": "描述符",
+    "DescriptorPlural": "描述符",
+    "CustomHitDice": "自定义生命骰",
+    "CustomHitDiceHint": "输入公式，例如：floor(@item.level / 2)",
+    "Skill": "技能",
+    "Precision": "精准",
+    "Splash": "泼溅",
+    "Tiebreaker": "细分",
+    "SpellBookPrimary": "首选",
+    "SpellBookSecondary": "次选",
+    "SpellBookTertiary": "备选",
+    "SpellBookSpelllike": "类法术",
+    "SavingThrowGoodFractionalBonus": "高豁免骰加值",
+    "EnhancementBonusOverride": "覆盖增强加值",
+    "AttackAlignment": "阵营特性",
+    "AttackAlignmentOverride": "覆盖阵营特性",
+    "Preparation": "准备",
+    "Unknown": "位置",
+    "DamageModifiers": "伤害调整值",
+    "AbilityMultiplier": "属性倍数",
+    "Override": "覆盖",
+    "Offsets": "偏移",
+    "UsesAmmo": "使用弹药",
+    "Ammunition": "弹药",
+    "AmmunitionAbbr": "弹药",
+    "WeaponGroups": "武器组",
+    "SplitItem": "拆分物品",
+    "ModifierAbbr": "调整值",
+    "Bonus": "加值",
+    "CustomVisionRules": {
+      "Label": "自定义视野规则",
+      "Description": "无视角色的感官，使自定义视野规则能正确应用。"
+    },
+    "Split": "拆分",
+    "ChooseAnAction": "选择一个动作",
+    "Drink": "饮用",
+    "Properties": "性质",
+    "Dialog": {
+      "SplitItem": {
+        "Title": "拆分物品: {name}"
+      }
+    },
+    "CompendiumBrowserTitle": "合集包浏览器: {type}",
+    "TraitType": "背景类型",
+    "Subtype": "子类",
+    "Disposition": {
+      "None": "无",
+      "Hostile": "敌对",
+      "All": "全部",
+      "Non-Friendly": "非友善"
+    },
+    "LoadingItemsFromIndexes": "从{indexes}索引中读取{items}物品…",
+    "CopyUuidToClipboard": "复制UUID至剪贴板",
+    "BuffTarUntrainedSkills": "未受训技能",
+    "CastsPerDayUsedFormula": "每日施法量消耗公式",
+    "Enhancement": "增强加值",
+    "EnhancementInline": "+{bonus} 增强加值",
+    "ArcaneSpellFailureAbbr": "奥术失败率",
+    "DCThreshold": "DC {threshold}",
+    "TouchAttack": "接触攻击",
+    "TouchAttackShort": "接触",
+    "FilterBooleanOperatorHint": "在匹配全部过滤规则和匹配任意过滤规则间切换。",
+    "Any": "任意",
+    "Reset": "重置",
+    "FilterNoChoices": "未找到匹配的选项。",
+    "CreateItemNamePlaceholder": "魔杖，卷轴，或药水",
+    "CreateSpellbook": "创建法术书",
+    "Minimum": "最小",
+    "SETTINGS":{
+      "DragRulerWalk": "行走",
+      "DragRulerDash": "冲刺",
+      "DragRulerRun": "奔跑",
+      "DragRulerUseElevationName": "使用高度来决定移动类型",
+      "DragRulerUseElevationHint": "使用token的高度决定在飞行或是掘地",
+      "Units": {
+        "System": "单位制",
+        "SystemHint": "在世界中使用的单位制",
+        "Imperial": "英制 (尺，磅)",
+        "ImperialDistance": "英制 (尺)",
+        "ImperialWeight": "英制 (磅)",
+        "Metric": "公制 (米，千克)",
+        "MetricDistance": "公制 (米)",
+        "MetricWeight": "公制 (千克)",
+        "Distance": "距离的单位制",
+        "DistanceHint": "覆盖距离的单位制",
+        "Weight": "重量的单位制",
+        "WeightHint": "覆盖重量的单位制"
+      },
+      "OverlandVariantN": "大陆速度变体",
+      "OverlandVariantL": "使用米制单位计算大陆移动速率",
+      "OverlandMetricRounded": "四舍五入（德国与法国）",
+      "OverlandMetricExact": "精确（西班牙）"
+    }
+  },
+  "TOKEN": {
+    "VisionLowLight": "昏暗视觉",
+    "VisionLowLightMultiplier": "昏暗视觉乘数"
+  },
+  "TYPES": {
+    "Actor": {
+      "character": "玩家角色 (PC)",
+      "npc": "非玩家角色 (NPC)",
+      "haunt": "作祟",
+      "trap": "陷阱",
+      "vehicle": "载具",
+      "basic": "基础 (仅模组)"
+    },
+    "Item": {
+      "weapon": "武器",
+      "equipment": "装备",
+      "consumable": "消耗品",
+      "loot": "战利品",
+      "class": "职业",
+      "spell": "法术",
+      "feat": "特性",
+      "buff": "增益",
+      "attack": "攻击",
+      "race": "种族",
+      "implant": "殖装物",
+      "container": "容器"
+    }
+  }
+}
