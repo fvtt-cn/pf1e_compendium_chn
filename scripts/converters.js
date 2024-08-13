@@ -31,6 +31,9 @@ class Converters {
     }
 
     value.forEach((type, index) => {
+      if(index > 0){
+        return;
+      }
       const data = translations[index];
 
       value[index].name = data.name;
