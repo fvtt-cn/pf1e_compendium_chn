@@ -8,7 +8,7 @@
             "email": "fvtt-cn@dickytwister.org"
         }
     ],
-    "version": "v0.5.0",
+    "version": "v0.5.1",
     "compatibility": {
         "minimum": 11,
         "verified": "11.315"
