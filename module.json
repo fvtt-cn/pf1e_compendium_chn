@@ -13,6 +13,14 @@
         "minimum": 11,
         "verified": "11.315"
     },
+    "systems": [ "pf1" ],
+    "languages": [
+    {
+      "lang": "cn",
+      "name": "系统翻译",
+      "path": "cn.json"
+    }
+  ],
     "relationships.systems": [
         {
             "id": "pf1",
@@ -44,5 +52,5 @@
     ],
     "url": "https://github.com/fvtt-cn/pf1e_compendium_chn",
     "manifest": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/module.json",
-    "download": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/download/v0.4.2/pf1e_compendium_chn.zip"
+    "download": "https://github.com/fvtt-cn/pf1e_compendium_chn/releases/latest/download/pf1e_compendium_chn.zip"
 }
