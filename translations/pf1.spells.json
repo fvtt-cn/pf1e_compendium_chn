@@ -1,5 +1,5 @@
 {
-  "label": "法术 Spells",
+  "label": "法术",
   "mapping": {
     "actions": {
       "path": "system.actions",
