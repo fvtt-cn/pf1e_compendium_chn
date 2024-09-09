@@ -8,7 +8,7 @@
             "email": "fvtt-cn@dickytwister.org"
         }
     ],
-    "version": "v0.5.1",
+    "version": "v0.5.2",
     "compatibility": {
         "minimum": 11,
         "verified": "11.315"
@@ -28,7 +28,7 @@
             "manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/releases/v10.0/downloads/system.json",
             "compatibility": {
             "minimum": "10.0",
-            "verified": "10.4"
+            "verified": "10.7"
             }
         }
     ],
