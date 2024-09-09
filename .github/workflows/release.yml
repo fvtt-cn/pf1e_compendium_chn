@@ -114,7 +114,7 @@ jobs:
             `# Options`                          \
             --recurse-paths                      \
             `# The name of the output file`      \
-             ./module.zip                        \
+             ./pf1e_compendium_chn.zip                        \
             `# The files that will be included.` \
             module.json                          \
             README.md                            \
@@ -141,6 +141,6 @@ jobs:
           draft: ${{ github.event.release.unpublished }}
           prerelease: ${{ github.event.release.prerelease }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: './module.json, ./module.zip'
+          artifacts: './module.json, ./pf1e_compendium_chn.zip'
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
