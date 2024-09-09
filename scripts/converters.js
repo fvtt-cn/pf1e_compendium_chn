@@ -42,7 +42,7 @@ class Converters {
         value[index].range.value = data.range;
       }
       if (value[index].save?.description) {
-        value[index].save.description = data.save;
+        value[index].save.description = data.savingThrow;
       }
       if (value[index].duration?.value) {
         value[index].duration.value = data.duration;
