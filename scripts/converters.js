@@ -1,5 +1,10 @@
+// Credits to https://github.com/DjLeChuck
+// https://github.com/DjLeChuck/foundryvtt-pf1-fr-babele/blob/main/scripts/converters.js
 
-import { logger } from "./utils.js"
+// Credits to https://gitlab.com/lecuay
+// for everything else that is automated here
+
+import { logger } from "./utils.js";
 export const tContainerItems = (items) => {
   Object.values(items).forEach((item) => {
     /**
@@ -23,7 +28,6 @@ export const tContainerItems = (items) => {
   return items;
 };
 
-
 class Converters {
   actions(value, translations) {
     if (!translations) {
@@ -31,7 +35,7 @@ class Converters {
     }
 
     value.forEach((type, index) => {
-      if(index > 0){
+      if (index > 0) {
         return;
       }
       const data = translations[index];
@@ -64,6 +68,11 @@ class Converters {
   }
 
   translateSubSchool(subschool) {
+    // 如果 subschool 为空或不是字符串类型，直接返回原值
+    if (!subschool || typeof subschool !== "string") {
+      return subschool;
+    }
+
     const subSchoolMap = new Map([
       ["calling", "呼唤"],
       ["charm", "魅惑"],
@@ -88,53 +97,52 @@ class Converters {
 
     return subschool;
   }
-
-  translateDescriptors(descriptors) {
-    const descriptorMap = new Map([
-      ["acid", "酸"],
-      ["air", "气"],
-      ["chaotic", "混乱"],
-      ["cold", "寒冷"],
-      ["curse", "诅咒"],
-      ["darkness", "黑暗"],
-      ["death", "死亡"],
-      ["disease", "疾病"],
-      ["draconic", "龙类"],
-      ["earth", "土"],
-      ["emotion", "情绪"],
-      ["electricity", "电"],
-      ["evil", "邪恶"],
-      ["fear", "恐惧"],
-      ["fire", "火"],
-      ["force", "力场"],
-      ["good", "善良"],
-      ["language-dependent", "基于语言"],
-      ["lawful", "秩序"],
-      ["light", "光"],
-      ["meditative", "冥想"],
-      ["mind-affecting", "影响心灵"],
-      ["mindAffecting", "影响心灵"],
-      ["pain", "痛苦"],
-      ["poison", "毒素"],
-      ["ruse", "诡计"],
-      ["see text", "见正文"],
-      ["shadow", "阴影"],
-      ["sonic", "音波"],
-      ["water", "水"],
-      ['see text', '见正文'],
-    ]);
-    descriptorMap.forEach((translation, original) => {
-      // descriptors.total = new Set(Array.from(descriptors.total).map(d => 
-      //   d.replace(original, translation)
-      // ));
-      // if(descriptors.hasOwnProperty("value")){
-      //   descriptors.value = descriptors.value.map(d => 
-      //     d.replace(original, translation)
-      //   );
-      // }
-    });
-    return descriptors;
-  }
+  // translateDescriptors(descriptors) {
+  //   const descriptorMap = new Map([
+  //     ["acid", "酸"],
+  //     ["air", "气"],
+  //     ["chaotic", "混乱"],
+  //     ["cold", "寒冷"],
+  //     ["curse", "诅咒"],
+  //     ["darkness", "黑暗"],
+  //     ["death", "死亡"],
+  //     ["disease", "疾病"],
+  //     ["draconic", "龙类"],
+  //     ["earth", "土"],
+  //     ["emotion", "情绪"],
+  //     ["electricity", "电"],
+  //     ["evil", "邪恶"],
+  //     ["fear", "恐惧"],
+  //     ["fire", "火"],
+  //     ["force", "力场"],
+  //     ["good", "善良"],
+  //     ["language-dependent", "基于语言"],
+  //     ["lawful", "秩序"],
+  //     ["light", "光"],
+  //     ["meditative", "冥想"],
+  //     ["mind-affecting", "影响心灵"],
+  //     ["mindAffecting", "影响心灵"],
+  //     ["pain", "痛苦"],
+  //     ["poison", "毒素"],
+  //     ["ruse", "诡计"],
+  //     ["see text", "见正文"],
+  //     ["shadow", "阴影"],
+  //     ["sonic", "音波"],
+  //     ["water", "水"],
+  //     ["see text", "见正文"],
+  //   ]);
+  //   descriptorMap.forEach((translation, original) => {
+  //     // descriptors.total = new Set(Array.from(descriptors.total).map(d =>
+  //     //   d.replace(original, translation)
+  //     // ));
+  //     // if(descriptors.hasOwnProperty("value")){
+  //     //   descriptors.value = descriptors.value.map(d =>
+  //     //     d.replace(original, translation)
+  //     //   );
+  //     // }
+  //   });
+  //   return descriptors;
+  // }
 
   contextNotes(originalContextNotes, translatedContextNotes) {
     if (originalContextNotes.length > 0) {
@@ -143,7 +151,9 @@ class Converters {
       );
       if (translatedContextNotes?.length !== ctxNotesWithText.length) {
         logger(
-          `There are missing context notes translations -> ${translatedContextNotes?.length || 0}/${ctxNotesWithText.length}`
+          `There are missing context notes translations -> ${
+            translatedContextNotes?.length || 0
+          }/${ctxNotesWithText.length}`
         );
         return originalContextNotes;
       }
@@ -155,8 +165,7 @@ class Converters {
     });
 
     return originalContextNotes;
-  };
-
+  }
 }
 
 export default new Converters();

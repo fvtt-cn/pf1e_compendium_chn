@@ -3,7 +3,7 @@
  * @type {object}
  * @prop {string} label The name of the compendium.
  * @prop {Object.<string, Object.<string, string>>} mapping Functions associated to translations.
- * @prop {Object.<string, {name: string, description: string}} entries The list of entries to translate.
+ * @prop {Object.<string, {name: string, description: string}>} entries The list of entries to translate.
  */
 
 const fs = require("fs");
@@ -30,17 +30,39 @@ const readFile = (fileURL) => {
  * @param {TranslationsObject} data The translationObject to write.
  */
 const writeFile = (fileURL, data) => {
-  prettier.resolveConfig(".prettierrc").then((prettierConfig) => {
-    const dataAsString = JSON.stringify(data);
-    prettier
-      .format(dataAsString, { ...prettierConfig, parser: "json" })
-      .then((formattedData) => {
-        fs.writeFileSync(fileURL, formattedData);
-      })
-      .then(() => {
-        console.info(`Completed ${fileURL}!`);
-      });
-  });
+  prettier
+    .resolveConfig(".prettierrc")
+    .then((prettierConfig) => {
+      // For this project there's no need of .prettierrc
+      // if (!prettierConfig) {
+      //   const errMsg = "Could not resolve .prettierrc";
+      //   console.error(errMsg);
+      //   throw new Error(errMsg);
+      // }
+
+      const dataAsString = JSON.stringify(data);
+      prettier
+        .format(dataAsString, {
+          ...prettierConfig | {},
+          // To force multi-line
+          bracketSpacing: false,
+          parser: "json",
+          printWidth: 10,
+          singleQuote: false,
+          singleAttributePerLine: true,
+          useTabs: false,
+          tabWidth: 2,
+        })
+        .then((formattedData) => {
+          fs.writeFileSync(fileURL, formattedData);
+        })
+        .then(() => {
+          console.info(`Completed ${fileURL}!`);
+        });
+    })
+    .catch((error) => {
+      throw error;
+    });
 };
 
 /**
