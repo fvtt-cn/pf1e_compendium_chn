@@ -8,7 +8,8 @@
     "contextNotes": {
       "path": "system.contextNotes",
       "converter": "contextNotes"
-    }
+    },
+    "instructions": "system.description.instructions"
   },
   "folders": {
     "Swashbuckler Deeds": "游荡剑客炫技"

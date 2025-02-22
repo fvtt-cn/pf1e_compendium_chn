@@ -1,5 +1,16 @@
 {
   "label": "法术",
+  "folders": {
+    "Abjuration": "防护学派",
+    "Conjuration": "咒法学派",
+    "Divination": "预言学派",
+    "Enchantment": "惑控学派",
+    "Evocation": "塑能学派",
+    "Illusion": "幻术学派",
+    "Necromancy": "死灵学派",
+    "Transmutation": "变化学派",
+    "Universal": "普通学派"
+  },
   "mapping": {
     "actions": {
       "path": "system.actions",
@@ -16,7 +27,10 @@
     "learnedAt": {
       "path": "system.learnedAt",
       "converter": "learnedAt"
-    }
+    },
+    "materials": "system.materials.value",
+    "materialsFocus": "system.materials.focus",
+    "instructions": "system.description.instructions"
   },
   "entries": {
     "Abadar's Truthtelling": {

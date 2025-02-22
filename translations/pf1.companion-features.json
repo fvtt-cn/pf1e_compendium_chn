@@ -1,44 +1,47 @@
 {
-    "label": "魔宠特性",
+    "label": "魔宠能力",
+    "folders": {
+        "Familiar Features": "魔宠能力"
+    },
     "entries": {
-        "Familiar Features: Alertness": {
-            "name": "警觉（Alertness）",
+        "Alertness": {
+            "name": "魔宠能力：警觉（Alertness）",
             "description": "<p>&emsp;&emsp;当魔宠在一臂之距内时，主人获得“警觉”专长。</p>"
         },
-        "Familiar Features: Deliver Touch Spells": {
-            "name": "传递接触法术（Deliver Touch Spells）",
+        "Deliver Touch Spells": {
+            "name": "魔宠能力：传递接触法术（Deliver Touch Spells）",
             "description": "<p>&emsp;&emsp;如果主人等级达到3级或以上，魔宠可以替他传递接触性法术。如果主人施展接触性法术时魔宠和他在一起，他可以指定他的魔宠为“接触者”。魔宠之后即可像主人本人一样去传递此接触性法术。和正常情况一样，如果在法术被传递前、主人施展了另外一个法术，该接触法术消散。</p>"
         },
-        "Familiar Features: Empathic Link": {
-            "name": "情感联系（Empathic Link）",
+        "Empathic Link": {
+            "name": "魔宠能力：情感联系（Empathic Link）",
             "description": "<p>&emsp;&emsp;主人和他的魔宠之间有着内心上的连接，情感连接的最远距离为1英里。主人无法用他魔宠的双眼去看，但是他们彼此分享心灵。由于这种连接的天生限制，只有一般的心灵感受可以被传递。因为这种情感链接，主人对那些他魔宠曾经遇上的事物或去过的地点也会建立起相同的关联。</p>"
         },
-        "Familiar Features: Improved Evasion": {
-            "name": "精通反射闪避（Improved Evasion）",
+        "Improved Evasion": {
+            "name": "魔宠能力：精通反射闪避（Improved Evasion）",
             "description": "<p>&emsp;&emsp;一些攻击效果若通过反射检定可以减少一半伤害，如果魔宠遭到此类攻击，在通过反射检定后它将不受伤害，如果检定失败它也只受到一半伤害。</p>"
         },
-        "Familiar Features: Scry on Familiar": {
-            "name": "探知魔宠（Scry on Familiar）",
+        "Scry on Familiar": {
+            "name": "魔宠能力：探知魔宠（Scry on Familiar）",
             "description": "<p>&emsp;&emsp;主人达到13级或者更高等级时，他可以对魔宠进行探知（如同施展‘探知’法术），该能力每日1次。</p>"
         },
-        "Familiar Features: Share Spells": {
-            "name": "法术共享（Share Spells）",
+        "Share Spells": {
+            "name": "魔宠能力：法术共享（Share Spells）",
             "description": "<p>&emsp;&emsp;法师可以将目标为〔自身〕的法术施展在魔宠身上（如同接触法术）而不是自己身上。即使某些法术通常不会影响魔宠生物类型（魔法兽），主人也可以用这种方式和魔宠共享该法术。</p>"
         },
-        "Familiar Features: Speak with Animals of Its Kind": {
-            "name": "与同类动物交谈（Speak with Animals of Its Kind）",
+        "Speak with Animals of Its Kind": {
+            "name": "魔宠能力：与同类动物交谈（Speak with Animals of Its Kind）",
             "description": "<p>&emsp;&emsp;如果主人等级为7级或更高，魔宠就可以和它近似种类的动物进行交流（包括凶暴动物）：蝙蝠与蝙蝠，老鼠与啮齿动物，猫与猫科动物，猎鹰、猫头鹰、渡鸦与鸟类，蜥蜴和蛇与爬虫类动物，蟾蜍与两栖动物，鼬与类似动物（鼬，水貂，斑纹臭鼬，白鼬，臭鼬，狼獾，獾）。它们之间的交流受对像生物智力的限制。</p>"
         },
-        "Familiar Features: Speak with Master": {
-            "name": "与主人交谈（Speak with Master）",
+        "Speak with Master": {
+            "name": "魔宠能力：与主人交谈（Speak with Master）",
             "description": "<p>&emsp;&emsp;如果主人等级为5级或者更高，魔宠和主人之间可以通过语言来交流，就像他们正在使用通用语交谈一样。其他生物在没有魔法帮助的情况下无法理解这种交流的内容。</p>"
         },
-        "Familiar Features: Spell Resistance": {
-            "name": "法术抗力（Spell Resistance）",
+        "Spell Resistance": {
+            "name": "魔宠能力：法术抗力（Spell Resistance）",
             "description": "<p>&emsp;&emsp;如果主人11级或者更高等级，魔宠就会获得法术抗力，抗力值等于“主人等级+5”。要用法术影响魔宠，施法者必须在施法者等级检定中得到等于或大于魔宠法术抗力的结果值。</p>"
         },
         "Familiar": {
-            "name": "魔宠（Familiar）",
+            "name": "魔宠能力：魔宠（Familiar）",
             "description": "<p>&emsp;&emsp;魔宠是一种普通动物，被施法者选中在他的魔法研究中提供协助。它保留它作为动物时的外形、生命骰、基本攻击加值、基本豁免加值、技能和专长，但是在考虑依赖于分类的魔法效果时，它视为魔法兽而非动物。只有一个普通的未受训的动物才能成为魔宠。动物伙伴无法成为魔宠。魔宠会给他的主人带来特殊能力，见下表。这些特殊能力只有在主人和魔宠彼此相距1英里内才起作用。在确定魔宠的那些跟主人等级相关的特殊能力时，要将所有有魔宠职业的等级累加起来。如果魔宠被解约、遗失或者死亡，它能在一周后通过一个消耗每法师等级200gp的特殊仪式被更换。仪式完成需要8小时。</p>\n<h2><span id=\"Class_Skills\">魔宠基本说明</span></h2>\n<p>&emsp;&emsp;使用魔宠同类生物的数据，但是作如下调整。</p>\n<p>&emsp;&emsp;<strong>生命骰</strong>：在计算和生命骰有关的效果时，使用主人的人物等级或者魔宠正常的生命骰数，以高者为准。</p>\n<p>&emsp;&emsp;<strong>生命值</strong>：魔宠的生命值为主人总生命值（不包括暂时生命值）的一半，舍去小数，生命值和魔宠实际生命骰无关。</p>\n<p>&emsp;&emsp;<strong>攻击</strong>：使用主人的基本攻击加值，是根据其所有职业计算出的基本攻击加值。 用魔宠的敏捷修正或力量修正中较高者加在魔宠的天生武器近战加值上。伤害和魔宠的普通同类生物相同。</p>\n<p>&emsp;&emsp;<strong>豁免</strong>：在每项豁免检定上，使用魔宠自身的基础豁免加值（强韧+2，反射+2，意志+0）或者主人的（根据主人所有职业等级计算得出），以较好者为准。在豁免上魔宠使用自己的属性修正，魔宠也无法从主人那里分享任何其他可能有的豁免加值。</p>\n<p>&emsp;&emsp;<strong>技能</strong>：在主人或魔宠有技能级数的技能上，使用魔宠同类动物的正常技能级数或者主人的技能级数，以较高的为准。不管哪种情况，魔宠都使用自己的属性修正。但无论魔宠的总技能修正是多少，有些技能依然超过了魔宠的能力而无法使用。魔宠将特技，攀爬，飞行，察觉，隐匿和游泳作为本职技能。</p>\n<h2><span id=\"Class_Skills\">魔宠基本说明</span></h2>\n<p>&emsp;&emsp;<strong>天生防御调整</strong>：该数值增强了魔宠的天生防御。</p>\n<p>&emsp;&emsp;<strong>智力</strong>：魔宠的智力值。"
         }
     }
