@@ -1,6 +1,6 @@
 # Foundry VTT PF1E 合集包中文化
 
-![](https://img.shields.io/badge/Foundry-v11.315-informational) ![downloads](https://img.shields.io/github/downloads/fvtt-cn/pf1e_compendium_chn/total)
+![](https://img.shields.io/badge/Foundry-v12.331-informational) ![downloads](https://img.shields.io/github/downloads/fvtt-cn/pf1e_compendium_chn/total)
 
 本模组为 FVTT 的 Pathfinder 1e 系统合集包加入了中文。
 
@@ -17,6 +17,10 @@
 ### 如何参与到翻译中
 本项目使用 [Weblate](https://hosted.weblate.org/) 进行翻译工作，使用 Weblate 无需拥有任何 Git 使用知识，只需在界面上进行中英对照翻译即可！
 
-<a href="https://weblate.dickytwister.org/engage/dnd5e/">
-<img src="https://weblate.dickytwister.org/widgets/dnd5e/-/open-graph.png" alt="翻译状态" />
-</a>
+### <img src="https://weblate.dickytwister.org/widgets/dnd5e/-/open-graph.png" alt="翻译状态" />
+
+
+
+#### 鸣谢
+
+代码参考 https://gitlab.com/arkanamirium/foundryvtt-pf1e-de
