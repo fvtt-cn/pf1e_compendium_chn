@@ -1,5 +1,11 @@
 {
-  "label": "神话冒险",
+  "label": "神话道途",
+  "mapping": {
+    "tags": {
+      "path": "system.tags",
+      "converter": "tags"
+    }
+  },
   "entries": {
     "Archmage": {
       "name": "(神话) 大法师（(Mythic) Archmage）",

@@ -1,45 +1,103 @@
 {
-  "label": "随机表",
+  "label": "额外随机表",
   "entries": {
     "Black Market Items": {
       "name": "黑市物品",
       "description": "不是每个冒险者都认可这些货品，但有些把它们当作无价之宝。",
       "results": {
-        "1-1": "竹宫（Bamboo palace）",
-        "2-2": "加斯波达的印章（Gaspodar's signet）",
-        "3-3": "水烟管（Hookah）",
-        "4-4": "豪华水烟管（Hookah, Premium）",
-        "5-5": "旅行水烟管（Hookah, Traveler's)",
-        "6-6": "冷原红宝石（Leng Ruby）",
-        "7-7": "蒙卡勒的碎片（Mengkare's shards）",
-        "8-8": "米山的协律羽毛（Mishan's melodious feather）",
-        "9-9": "风琴（Pump organ）",
-        "10-10": "镇静针（Quieting needles）",
-        "11-11": "奴隶（Slave）",
-        "12-12": "劳工奴隶（Slave, hard labor）",
-        "13-13": "家政奴隶（Slave, household）",
-        "14-14": "半身人奴隶 (Slave, slip, halfling)",
-        "15-15": "专精奴隶（Slave, specialized）",
-        "16-16": "鼻烟盒，骨质或龟壳（Snuffbox, bone or tortoise shell）",
-        "17-17": "鼻烟盒，象牙或贵金属（Snuffbox, ivory or precious metal）",
-        "18-18": "鼻烟盒，锡质或木质（Snuffbox, tin or wood）",
-        "19-19": "沙扎塔雷德之歌（Songs of Shazathared）"
+        "1-1": {
+          "description": "竹宫（Bamboo palace）"
+        },
+        "2-2": {
+          "description": "加斯波达的印章（Gaspodar's signet）"
+        },
+        "3-3": {
+          "description": "水烟管（Hookah）"
+        },
+        "4-4": {
+          "description": "豪华水烟管（Hookah, Premium）"
+        },
+        "5-5": {
+          "description": "旅行水烟管（Hookah, Traveler's)"
+        },
+        "6-6": {
+          "description": "冷原红宝石（Leng Ruby）"
+        },
+        "7-7": {
+          "description": "蒙卡勒的碎片（Mengkare's shards）"
+        },
+        "8-8": {
+          "description": "米山的协律羽毛（Mishan's melodious feather）"
+        },
+        "9-9": {
+          "description": "风琴（Pump organ）"
+        },
+        "10-10": {
+          "description": "镇静针（Quieting needles）"
+        },
+        "11-11": {
+          "description": "奴隶（Slave）"
+        },
+        "12-12": {
+          "description": "劳工奴隶（Slave, hard labor）"
+        },
+        "13-13": {
+          "description": "家政奴隶（Slave, household）"
+        },
+        "14-14": {
+          "description": "半身人奴隶 (Slave, slip, halfling)"
+        },
+        "15-15": {
+          "description": "专精奴隶（Slave, specialized）"
+        },
+        "16-16": {
+          "description": "鼻烟盒，骨质或龟壳（Snuffbox, bone or tortoise shell）"
+        },
+        "17-17": {
+          "description": "鼻烟盒，象牙或贵金属（Snuffbox, ivory or precious metal）"
+        },
+        "18-18": {
+          "description": "鼻烟盒，锡质或木质（Snuffbox, tin or wood）"
+        },
+        "19-19": {
+          "description": "沙扎塔雷德之歌（Songs of Shazathared）"
+        }
       }
     },
     "Books": {
       "name": "书籍",
       "description": "地城指南与探索者编年史的随机表。",
       "results": {
-        "1-1": "一线银光（A Thread of Silver）",
-        "2-2": "希罗卡传奇，第一卷（Heroka's Saga, Vol. I）",
-        "3-3": "利隆-特雷耶的日志（Liron Treye's Journal）",
-        "4-4": "奥贡的观察日志（Observations of Oagon）",
-        "5-5": "探索者编年史 - 第1卷",
-        "6-6": "探索者编年史 - 第11卷",
-        "7-7": "探索者编年史 - 第14卷",
-        "8-8": "探索者编年史 - 第2卷",
-        "9-9": "探索者编年史 - 第27卷",
-        "10-10": "探索者编年史 - 第44卷"
+        "1-1": {
+          "description": "一线银光（A Thread of Silver）"
+        },
+        "2-2": {
+          "description": "希罗卡传奇，第一卷（Heroka's Saga, Vol. I）"
+        },
+        "3-3": {
+          "description": "利隆-特雷耶的日志（Liron Treye's Journal）"
+        },
+        "4-4": {
+          "description": "奥贡的观察日志（Observations of Oagon）"
+        },
+        "5-5": {
+          "description": "探索者编年史 - 第1卷"
+        },
+        "6-6": {
+          "description": "探索者编年史 - 第11卷"
+        },
+        "7-7": {
+          "description": "探索者编年史 - 第14卷"
+        },
+        "8-8": {
+          "description": "探索者编年史 - 第2卷"
+        },
+        "9-9": {
+          "description": "探索者编年史 - 第27卷"
+        },
+        "10-10": {
+          "description": "探索者编年史 - 第44卷"
+        }
       }
     },
     "Deck of Illusion": {
@@ -86,115 +144,321 @@
       "name": "娱乐",
       "description": "许多冒险者喜欢偶尔坐下来玩把游戏来打发时间——或是赚些快钱。",
       "results": {
-        "1-1": "球（10寸）",
-        "2-2": "球（2寸）",
-        "3-3": "球（5寸）",
-        "4-4": "桌球用具",
-        "5-5": "棋盘游戏",
-        "6-6": "谜语书",
-        "7-7": "保龄球用具",
-        "8-8": "纸牌",
-        "9-9": "槌球用具",
-        "10-10": "填字游戏",
-        "11-11": "飞镖用具",
-        "12-12": "骰子",
-        "13-13": "多米诺骨牌",
-        "14-14": "半身人杂耍棍",
-        "15-15": "哈罗牌套",
-        "16-16": "哈罗牌",
-        "17-17": "哈罗牌毯",
-        "18-18": "蹄铁套桩游戏",
-        "19-19": "帝国征服桌游", 
-        "20-20": "风筝",
-        "21-21": "作弊骰子",
-        "22-22": "高级作弊骰子",
-        "23-23": "作弊纸牌",
-        "24-24": "马球用具",
-        "25-25": "智慧箱",
-        "26-26": "草地棒球用具",
-        "27-27": "香味盐",
-        "28-28": "信号风筝套件",
-        "29-29": "网球用具",
-        "30-30": "恐惧风筝",
+        "1-1": {
+          "description": "球（10寸）"
+        },
+        "2-2": {
+          "description": "球（2寸）"
+        },
+        "3-3": {
+          "description": "球（5寸）"
+        },
+        "4-4": {
+          "description": "桌球用具"
+        },
+        "5-5": {
+          "description": "棋盘游戏"
+        },
+        "6-6": {
+          "description": "谜语书"
+        },
+        "7-7": {
+          "description": "保龄球用具"
+        },
+        "8-8": {
+          "description": "纸牌"
+        },
+        "9-9": {
+          "description": "槌球用具"
+        },
+        "10-10": {
+          "description": "填字游戏"
+        },
+        "11-11": {
+          "description": "飞镖用具"
+        },
+        "12-12": {
+          "description": "骰子"
+        },
+        "13-13": {
+          "description": "多米诺骨牌"
+        },
+        "14-14": {
+          "description": "半身人杂耍棍"
+        },
+        "15-15": {
+          "description": "哈罗牌套"
+        },
+        "16-16": {
+          "description": "哈罗牌"
+        },
+        "17-17": {
+          "description": "哈罗牌毯"
+        },
+        "18-18": {
+          "description": "蹄铁套桩游戏"
+        },
+        "19-19": {
+          "description": "帝国征服桌游"
+        },
+        "20-20": {
+          "description": "风筝"
+        },
+        "21-21": {
+          "description": "作弊骰子"
+        },
+        "22-22": {
+          "description": "高级作弊骰子"
+        },
+        "23-23": {
+          "description": "作弊纸牌"
+        },
+        "24-24": {
+          "description": "马球用具"
+        },
+        "25-25": {
+          "description": "智慧箱"
+        },
+        "26-26": {
+          "description": "草地棒球用具"
+        },
+        "27-27": {
+          "description": "香味盐"
+        },
+        "28-28": {
+          "description": "信号风筝套件"
+        },
+        "29-29": {
+          "description": "网球用具"
+        },
+        "30-30": {
+          "description": "恐惧风筝"
+        }
       }
     },
     "Food & Drink": {
       "name": "食物与饮品",
       "description": "",
       "results": {
-        "1-1": "苦艾酒（瓶）",
-        "2-2": "苦艾酒（杯）",
-        "3-3": "麦酒（加仑）",
-        "4-4": "麦酒（一小杯）",
-        "5-5": "阿努利红椒粉",
-        "6-6": "苹果酒（加仑）",
-        "7-7": "苹果酒（一小杯）",
-        "8-8": "白酒（瓶）",
-        "9-9": "餐宴 (每人)",
-        "10-10": "餐宴 (每人)",
-        "11-11": "面包",
-        "12-12": "蛙酒（壶）",
-        "13-13": "Candlefish",
-        "14-14": "根汁酒 (Gourd)",
-        "15-15": "鱼子酱",
-        "16-16": "Caydenbrew",
-        "17-17": "Celwynvian Stone Fruit",
-        "18-18": "奶酪",
-        "19-19": "巧克力（条）",
-        "20-20": "咖啡（杯）",
-        "21-21": "Corentyn Wine",
-        "22-22": "Dragon Punch Whiskey",
-        "23-23": "Dragon's Blend",
-        "24-24": "矮人烈酒（一小杯）",
-        "25-25": "矮人干粮",
-        "26-26": "精灵干粮",
-        "27-27": "幸运饼干",
-        "28-28": "侏儒干粮",
-        "29-29": "格罗格酒",
-        "30-30": "格罗格酒（一小杯）",
-        "31-31": "半身人干粮",
-        "32-32": "蜂蜜（罐）",
-        "33-33": "冰淇淋",
-        "34-34": "热带咖啡（杯）",
-        "35-35": "加味咖啡（杯）",
-        "36-36": "Karazhica",
-        "37-37": "马奶酒 (酒皮)",
-        "38-38": "Linnorm Mead",
-        "39-39": "Lisken's Medicinal Tonic",
-        "40-40": "Lonoma Eel",
-        "41-41": "Luglurch Ale",
-        "42-42": "枫糖（罐）",
-        "43-43": "蜜酒（加仑）",
-        "44-44": "蜜酒（一小杯）",
-        "45-45": "饭食（简陋）",
-        "46-46": "Mekainae",
-        "47-47": "Milk",
-        "48-48": "Mwangi Coffee",
-        "49-49": "Oldlaw Whiskey (Bottle)",
-        "50-50": "Orc Trail Rations",
-        "51-51": "Pickles, Goblin (1 Jar)",
-        "52-52": "Powdered Milk",
-        "53-53": "Pulque (Cup)",
-        "54-54": "Rations, Space (Per Day)",
-        "55-55": "Rumboozle (Cup)",
-        "56-56": "Sangwine",
-        "57-57": "Sealord Wine (Bottle)",
-        "58-58": "Spice,  Flaming Sumac",
-        "59-59": "Spice,  Striped Nutmeg",
-        "60-60": "Spice, Black Cumin",
-        "61-61": "Street Meat",
-        "62-62": "Tea (Ceremonial, Cup)",
-        "63-63": "Tea (Cup)",
-        "64-64": "Tea Ceremony Set",
-        "65-65": "Tepache (Cup)",
-        "66-66": "Trail Rations",
-        "67-67": "Travel Cake Mix",
-        "68-68": "Wandermeal (Per Day)",
-        "69-69": "Wasp Metheglin",
-        "70-70": "Whiskey (Cup)",
-        "71-71": "Wine (Fine, Bottle)",
-        "72-72": "Yenchaburian Hybrid",
-        "73-73": "Yogurt"
+        "1-1": {
+          "description": "苦艾酒（瓶）"
+        },
+        "2-2": {
+          "description": "苦艾酒（杯）"
+        },
+        "3-3": {
+          "description": "麦酒（加仑）"
+        },
+        "4-4": {
+          "description": "麦酒（一小杯）"
+        },
+        "5-5": {
+          "description": "阿努利红椒粉"
+        },
+        "6-6": {
+          "description": "苹果酒（加仑）"
+        },
+        "7-7": {
+          "description": "苹果酒（一小杯）"
+        },
+        "8-8": {
+          "description": "白酒（瓶）"
+        },
+        "9-9": {
+          "description": "餐宴 (每人)"
+        },
+        "10-10": {
+          "description": "餐宴 (每人)"
+        },
+        "11-11": {
+          "description": "面包"
+        },
+        "12-12": {
+          "description": "蛙酒（壶）"
+        },
+        "13-13": {
+          "description": "Candlefish"
+        },
+        "14-14": {
+          "description": "根汁酒 (Gourd)"
+        },
+        "15-15": {
+          "description": "鱼子酱"
+        },
+        "16-16": {
+          "description": "Caydenbrew"
+        },
+        "17-17": {
+          "description": "Celwynvian Stone Fruit"
+        },
+        "18-18": {
+          "description": "奶酪"
+        },
+        "19-19": {
+          "description": "巧克力（条）"
+        },
+        "20-20": {
+          "description": "咖啡（杯）"
+        },
+        "21-21": {
+          "description": "Corentyn Wine"
+        },
+        "22-22": {
+          "description": "Dragon Punch Whiskey"
+        },
+        "23-23": {
+          "description": "Dragon's Blend"
+        },
+        "24-24": {
+          "description": "矮人烈酒（一小杯）"
+        },
+        "25-25": {
+          "description": "矮人干粮"
+        },
+        "26-26": {
+          "description": "精灵干粮"
+        },
+        "27-27": {
+          "description": "幸运饼干"
+        },
+        "28-28": {
+          "description": "侏儒干粮"
+        },
+        "29-29": {
+          "description": "格罗格酒"
+        },
+        "30-30": {
+          "description": "格罗格酒（一小杯）"
+        },
+        "31-31": {
+          "description": "半身人干粮"
+        },
+        "32-32": {
+          "description": "蜂蜜（罐）"
+        },
+        "33-33": {
+          "description": "冰淇淋"
+        },
+        "34-34": {
+          "description": "热带咖啡（杯）"
+        },
+        "35-35": {
+          "description": "加味咖啡（杯）"
+        },
+        "36-36": {
+          "description": "Karazhica"
+        },
+        "37-37": {
+          "description": "马奶酒 (酒皮)"
+        },
+        "38-38": {
+          "description": "Linnorm Mead"
+        },
+        "39-39": {
+          "description": "Lisken's Medicinal Tonic"
+        },
+        "40-40": {
+          "description": "Lonoma Eel"
+        },
+        "41-41": {
+          "description": "Luglurch Ale"
+        },
+        "42-42": {
+          "description": "枫糖（罐）"
+        },
+        "43-43": {
+          "description": "蜜酒（加仑）"
+        },
+        "44-44": {
+          "description": "蜜酒（一小杯）"
+        },
+        "45-45": {
+          "description": "饭食（简陋）"
+        },
+        "46-46": {
+          "description": "Mekainae"
+        },
+        "47-47": {
+          "description": "Milk"
+        },
+        "48-48": {
+          "description": "Mwangi Coffee"
+        },
+        "49-49": {
+          "description": "Oldlaw Whiskey (Bottle)"
+        },
+        "50-50": {
+          "description": "Orc Trail Rations"
+        },
+        "51-51": {
+          "description": "Pickles, Goblin (1 Jar)"
+        },
+        "52-52": {
+          "description": "Powdered Milk"
+        },
+        "53-53": {
+          "description": "Pulque (Cup)"
+        },
+        "54-54": {
+          "description": "Rations, Space (Per Day)"
+        },
+        "55-55": {
+          "description": "Rumboozle (Cup)"
+        },
+        "56-56": {
+          "description": "Sangwine"
+        },
+        "57-57": {
+          "description": "Sealord Wine (Bottle)"
+        },
+        "58-58": {
+          "description": "Spice,  Flaming Sumac"
+        },
+        "59-59": {
+          "description": "Spice,  Striped Nutmeg"
+        },
+        "60-60": {
+          "description": "Spice, Black Cumin"
+        },
+        "61-61": {
+          "description": "Street Meat"
+        },
+        "62-62": {
+          "description": "Tea (Ceremonial, Cup)"
+        },
+        "63-63": {
+          "description": "Tea (Cup)"
+        },
+        "64-64": {
+          "description": "Tea Ceremony Set"
+        },
+        "65-65": {
+          "description": "Tepache (Cup)"
+        },
+        "66-66": {
+          "description": "Trail Rations"
+        },
+        "67-67": {
+          "description": "Travel Cake Mix"
+        },
+        "68-68": {
+          "description": "Wandermeal (Per Day)"
+        },
+        "69-69": {
+          "description": "Wasp Metheglin"
+        },
+        "70-70": {
+          "description": "Whiskey (Cup)"
+        },
+        "71-71": {
+          "description": "Wine (Fine, Bottle)"
+        },
+        "72-72": {
+          "description": "Yenchaburian Hybrid"
+        },
+        "73-73": {
+          "description": "Yogurt"
+        }
       }
     },
     "Horror Adventures: Advanced Fleshwarp Mutations": {
@@ -292,491 +556,1370 @@
       "name": "Kits",
       "description": "Contains Tool, Crafting, Entertainment, and Class kits",
       "results": {
-        "1-1": "Kit, Alchemical Dye",
-        "2-2": "Kit, Alchemy crafting",
-        "3-3": "Kit, Animal disguise",
-        "4-4": "Kit, Antidote",
-        "5-5": "Kit, Brewer's",
-        "6-6": "Kit, Brewer's Masterwork",
-        "7-7": "Kit, Climber's",
-        "8-8": "Kit, Disguise",
-        "9-9": "Kit, Dragoncrafting",
-        "10-10": "Kit, Forger's",
-        "11-11": "Kit, Half-orc disguise",
-        "12-12": "Kit, Healer's",
-        "13-13": "Kit, Juggler's",
-        "14-14": "Kit, Leeching",
-        "15-15": "Kit, Mending",
-        "16-16": "Kit, Midwife's",
-        "17-17": "Kit, Statue disguise",
-        "18-18": "Kit, Symptom",
-        "19-19": "Kit, Veterinarian's",
-        "20-20": "Kitumu's ire",
-        "21-21": "Trapped item (trapped disguise kit)",
-        "22-22": "Kit, Beast-training",
-        "23-23": "Kit, Bird-training"
+        "1-1": {
+          "description": "Kit, Alchemical Dye"
+        },
+        "2-2": {
+          "description": "Kit, Alchemy crafting"
+        },
+        "3-3": {
+          "description": "Kit, Animal disguise"
+        },
+        "4-4": {
+          "description": "Kit, Antidote"
+        },
+        "5-5": {
+          "description": "Kit, Brewer's"
+        },
+        "6-6": {
+          "description": "Kit, Brewer's Masterwork"
+        },
+        "7-7": {
+          "description": "Kit, Climber's"
+        },
+        "8-8": {
+          "description": "Kit, Disguise"
+        },
+        "9-9": {
+          "description": "Kit, Dragoncrafting"
+        },
+        "10-10": {
+          "description": "Kit, Forger's"
+        },
+        "11-11": {
+          "description": "Kit, Half-orc disguise"
+        },
+        "12-12": {
+          "description": "Kit, Healer's"
+        },
+        "13-13": {
+          "description": "Kit, Juggler's"
+        },
+        "14-14": {
+          "description": "Kit, Leeching"
+        },
+        "15-15": {
+          "description": "Kit, Mending"
+        },
+        "16-16": {
+          "description": "Kit, Midwife's"
+        },
+        "17-17": {
+          "description": "Kit, Statue disguise"
+        },
+        "18-18": {
+          "description": "Kit, Symptom"
+        },
+        "19-19": {
+          "description": "Kit, Veterinarian's"
+        },
+        "20-20": {
+          "description": "Kitumu's ire"
+        },
+        "21-21": {
+          "description": "Trapped item (trapped disguise kit)"
+        },
+        "22-22": {
+          "description": "Kit, Beast-training"
+        },
+        "23-23": {
+          "description": "Kit, Bird-training"
+        }
       }
     },
     "Mounts": {
       "name": "Mounts",
       "description": "",
       "results": {
-        "1-1": "Aurochs",
-        "2-2": "Aurochs (Combat-Trained)",
-        "3-3": "Bat, Dire (Riding, Combat Trained)",
-        "4-4": "Bat, Dire (Riding)",
-        "5-5": "Bison",
-        "6-6": "Bison (Combat-Trained)",
-        "7-7": "Camel",
-        "8-8": "Chameleon, Giant",
-        "9-9": "Chameleon, Giant (Combat-Trained)",
-        "10-10": "Dog, Riding",
-        "11-11": "Donkey/Mule",
-        "12-12": "Elephant",
-        "13-13": "Elk",
-        "14-14": "Elk (Combat-Trained)",
-        "15-15": "Frilled Lizard, Giant",
-        "16-16": "Frilled Lizard, Giant (Combat-Trained)",
-        "17-17": "Gecko, Riding",
-        "18-18": "Gecko, Riding (Combat Trained)",
-        "19-19": "Griffon (Combat Trained)",
-        "20-20": "Hippocampus",
-        "21-21": "Hippocampus (Combat-Trained)",
-        "22-22": "Hippogriff (Combat Trained)",
-        "23-23": "Horse (Heavy, Combat Trained)",
-        "24-24": "Horse (Heavy)",
-        "25-25": "Horse (Light, Combat Trained)",
-        "26-26": "Horse (Light)",
-        "27-27": "Horse (Pony, Combat Trained)",
-        "28-28": "Horse (Pony)",
-        "29-29": "Lion",
-        "30-30": "Lion (Combat-Trained)",
-        "31-31": "Mammoth",
-        "32-32": "Mammoth (Combat-Trained)",
-        "33-33": "Mammoth, Wholly (Combat-Trained)",
-        "34-34": "Mastodon",
-        "35-35": "Pack Animal (Musk Ox)",
-        "36-36": "Pack Animal (Ox)",
-        "37-37": "Ram",
-        "38-38": "Ram (Combat-Trained)",
-        "39-39": "Rat, Riding",
-        "40-40": "Rat, Riding (Combat Trained)",
-        "41-41": "Rhinoceros",
-        "42-42": "Rhinoceros (Combat-Trained)",
-        "43-43": "Rhinoceros, Wholly",
-        "44-44": "Riding Bee (Combat-Trained Queen)",
-        "45-45": "Riding Bee (Worker)",
-        "46-46": "Riding Bee (Combat-Trained Worker)",
-        "47-47": "Riding Bee (Queen)",
-        "48-48": "Roc",
-        "49-49": "Roc (Combat-Trained)",
-        "50-50": "Seahorse, Giant",
-        "51-51": "Tiger",
-        "52-52": "Tiger (Combat-Trained)",
-        "53-53": "Wolf",
-        "54-54": "Wolf, Dire",
-        "55-55": "Vulture, Giant"
+        "1-1": {
+          "description": "Aurochs"
+        },
+        "2-2": {
+          "description": "Aurochs (Combat-Trained)"
+        },
+        "3-3": {
+          "description": "Bat, Dire (Riding, Combat Trained)"
+        },
+        "4-4": {
+          "description": "Bat, Dire (Riding)"
+        },
+        "5-5": {
+          "description": "Bison"
+        },
+        "6-6": {
+          "description": "Bison (Combat-Trained)"
+        },
+        "7-7": {
+          "description": "Camel"
+        },
+        "8-8": {
+          "description": "Chameleon, Giant"
+        },
+        "9-9": {
+          "description": "Chameleon, Giant (Combat-Trained)"
+        },
+        "10-10": {
+          "description": "Dog, Riding"
+        },
+        "11-11": {
+          "description": "Donkey/Mule"
+        },
+        "12-12": {
+          "description": "Elephant"
+        },
+        "13-13": {
+          "description": "Elk"
+        },
+        "14-14": {
+          "description": "Elk (Combat-Trained)"
+        },
+        "15-15": {
+          "description": "Frilled Lizard, Giant"
+        },
+        "16-16": {
+          "description": "Frilled Lizard, Giant (Combat-Trained)"
+        },
+        "17-17": {
+          "description": "Gecko, Riding"
+        },
+        "18-18": {
+          "description": "Gecko, Riding (Combat Trained)"
+        },
+        "19-19": {
+          "description": "Griffon (Combat Trained)"
+        },
+        "20-20": {
+          "description": "Hippocampus"
+        },
+        "21-21": {
+          "description": "Hippocampus (Combat-Trained)"
+        },
+        "22-22": {
+          "description": "Hippogriff (Combat Trained)"
+        },
+        "23-23": {
+          "description": "Horse (Heavy, Combat Trained)"
+        },
+        "24-24": {
+          "description": "Horse (Heavy)"
+        },
+        "25-25": {
+          "description": "Horse (Light, Combat Trained)"
+        },
+        "26-26": {
+          "description": "Horse (Light)"
+        },
+        "27-27": {
+          "description": "Horse (Pony, Combat Trained)"
+        },
+        "28-28": {
+          "description": "Horse (Pony)"
+        },
+        "29-29": {
+          "description": "Lion"
+        },
+        "30-30": {
+          "description": "Lion (Combat-Trained)"
+        },
+        "31-31": {
+          "description": "Mammoth"
+        },
+        "32-32": {
+          "description": "Mammoth (Combat-Trained)"
+        },
+        "33-33": {
+          "description": "Mammoth, Wholly (Combat-Trained)"
+        },
+        "34-34": {
+          "description": "Mastodon"
+        },
+        "35-35": {
+          "description": "Pack Animal (Musk Ox)"
+        },
+        "36-36": {
+          "description": "Pack Animal (Ox)"
+        },
+        "37-37": {
+          "description": "Ram"
+        },
+        "38-38": {
+          "description": "Ram (Combat-Trained)"
+        },
+        "39-39": {
+          "description": "Rat, Riding"
+        },
+        "40-40": {
+          "description": "Rat, Riding (Combat Trained)"
+        },
+        "41-41": {
+          "description": "Rhinoceros"
+        },
+        "42-42": {
+          "description": "Rhinoceros (Combat-Trained)"
+        },
+        "43-43": {
+          "description": "Rhinoceros, Wholly"
+        },
+        "44-44": {
+          "description": "Riding Bee (Combat-Trained Queen)"
+        },
+        "45-45": {
+          "description": "Riding Bee (Worker)"
+        },
+        "46-46": {
+          "description": "Riding Bee (Combat-Trained Worker)"
+        },
+        "47-47": {
+          "description": "Riding Bee (Queen)"
+        },
+        "48-48": {
+          "description": "Roc"
+        },
+        "49-49": {
+          "description": "Roc (Combat-Trained)"
+        },
+        "50-50": {
+          "description": "Seahorse, Giant"
+        },
+        "51-51": {
+          "description": "Tiger"
+        },
+        "52-52": {
+          "description": "Tiger (Combat-Trained)"
+        },
+        "53-53": {
+          "description": "Wolf"
+        },
+        "54-54": {
+          "description": "Wolf, Dire"
+        },
+        "55-55": {
+          "description": "Vulture, Giant"
+        }
       }
     },
     "Pet & Mount Gear": {
       "name": "Pet & Mount Gear",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Pets": {
       "name": "Pets",
       "description": "",
       "results": {
-        "1-1": "Anaconda, Giant",
-        "2-2": "Antelope",
-        "3-3": "Ape, Dire",
-        "4-4": "Baboon",
-        "5-5": "Axe Beak Egg",
-        "6-6": "Badger",
-        "7-7": "Badger, Dire",
-        "8-8": "Bat",
-        "9-9": "Bat, Dire",
-        "10-10": "Bear, Dire",
-        "11-11": "Bear, Grizzly",
-        "12-12": "Boar",
-        "13-13": "Boar (Combat-Trained)",
-        "14-14": "Boar, Dire",
-        "15-15": "Canary",
-        "16-16": "Cat",
-        "17-17": "Cat (Hunting)",
-        "18-18": "Cat (Osirian Wise-Eye)",
-        "19-19": "Centipede, House",
-        "20-20": "Cheetah",
-        "21-21": "Chicken",
-        "22-22": "Constrictor Snake",
-        "23-23": "Crab",
-        "24-24": "Crocodile",
-        "25-25": "Crocodile, Dire",
-        "26-26": "Dodo",
-        "27-27": "Dog, Goblin",
-        "28-28": "Dog, Goblin (Combat-Trained)",
-        "29-29": "Dog, Guard",
-        "30-30": "Dog, Lap",
-        "31-31": "Dolphin",
-        "32-32": "Duck",
-        "33-33": "Dwarf Caiman",
-        "34-34": "Eagle",
-        "35-35": "Electric Eel",
-        "36-36": "Emperor Cobra",
-        "37-37": "Falcon",
-        "38-38": "Fox",
-        "39-39": "Frilled Lizard, Giant",
-        "40-40": "Frog, Giant",
-        "41-41": "Frog, Poison",
-        "42-42": "Gar",
-        "43-43": "Gar, Giant",
-        "44-44": "Gecko, Giant",
-        "45-45": "Goat",
-        "46-46": "Gorilla",
-        "47-47": "Griffon Egg",
-        "48-48": "Hawk",
-        "49-49": "Hedgehog",
-        "50-50": "Hippogriff Egg",
-        "51-51": "Hyena",
-        "52-52": "Hyena, Dire",
-        "53-53": "Jellyfish, Luminous",
-        "54-54": "Kangaroo",
-        "55-55": "Leopard",
-        "56-56": "Lion",
-        "57-57": "Lion (Combat-Trained)",
-        "58-58": "Lion, Dire",
-        "59-59": "Lizard",
-        "60-60": "Lizard, Nex Gecko",
-        "61-61": "Manta Ray",
-        "62-62": "Marine Iguana",
-        "63-63": "Mongoose",
-        "64-64": "Monitor Lizard",
-        "65-65": "Monkey",
-        "66-66": "Moray Eel, Giant",
-        "67-67": "Narwhal",
-        "68-68": "Orca",
-        "69-69": "Osprey",
-        "70-70": "Otter",
-        "71-71": "Owl",
-        "72-72": "Owl, Giant",
-        "73-73": "Owl, Giant (Combat-Trained)",
-        "74-74": "Owl, Great Horned",
-        "75-75": "Parrot",
-        "76-76": "Pig",
-        "77-77": "Porcupine",
-        "78-78": "Porcupine, Giant",
-        "79-79": "Pseudodragon",
-        "80-80": "Rabbit",
-        "81-81": "Raccoon",
-        "82-82": "Rat",
-        "83-83": "Rat, Blue",
-        "84-84": "Rat, Dire",
-        "85-85": "Rat, Donkey",
-        "86-86": "Raven",
-        "87-87": "Roc",
-        "88-88": "Roc (Combat-Trained)",
-        "89-89": "Scavenger Beetle Colony",
-        "90-90": "Scorpion, Greensting",
-        "91-91": "Sea Krait",
-        "92-92": "Seahorse, Giant",
-        "93-93": "Shark",
-        "94-94": "Shark, Dire",
-        "95-95": "Skunk, Giant",
-        "96-96": "Snail Kite",
-        "97-97": "Snake, Constrictor",
-        "98-98": "Snake, Viper",
-        "99-99": "Snapping Turtle, Giant",
-        "100-100": "Spider",
-        "101-101": "Squid",
-        "102-102": "Squid, Giant",
-        "103-103": "Squirrel",
-        "104-104": "Squirrel (Flying)",
-        "105-105": "Stingray",
-        "106-106": "Stirge",
-        "107-107": "Thrush",
-        "108-108": "Thylacine",
-        "109-109": "Toad",
-        "110-110": "Toad (Vision)",
-        "111-111": "Toad, Giant",
-        "112-112": "Tiger",
-        "113-113": "Tiger (Combat-Trained)",
-        "114-114": "Tiger, Dire",
-        "115-115": "Toucan",
-        "116-116": "Traveling bee hive",
-        "117-117": "Turtle",
-        "118-118": "Vulture",
-        "119-119": "Vulture, Giant",
-        "120-120": "Vulture, Giant (Combat-Trained)",
-        "121-121": "Weasel",
-        "122-122": "Whale",
-        "123-123": "Whale, Blue",
-        "124-124": "Whale, Crimson",
-        "125-125": "",
-        "126-126": "Wolf",
-        "127-127": "Wolverine",
-        "128-128": "Wolverine, Dire",
-        "129-129": "Yak"
+        "1-1": {
+          "description": "Anaconda, Giant"
+        },
+        "2-2": {
+          "description": "Antelope"
+        },
+        "3-3": {
+          "description": "Ape, Dire"
+        },
+        "4-4": {
+          "description": "Baboon"
+        },
+        "5-5": {
+          "description": "Axe Beak Egg"
+        },
+        "6-6": {
+          "description": "Badger"
+        },
+        "7-7": {
+          "description": "Badger, Dire"
+        },
+        "8-8": {
+          "description": "Bat"
+        },
+        "9-9": {
+          "description": "Bat, Dire"
+        },
+        "10-10": {
+          "description": "Bear, Dire"
+        },
+        "11-11": {
+          "description": "Bear, Grizzly"
+        },
+        "12-12": {
+          "description": "Boar"
+        },
+        "13-13": {
+          "description": "Boar (Combat-Trained)"
+        },
+        "14-14": {
+          "description": "Boar, Dire"
+        },
+        "15-15": {
+          "description": "Canary"
+        },
+        "16-16": {
+          "description": "Cat"
+        },
+        "17-17": {
+          "description": "Cat (Hunting)"
+        },
+        "18-18": {
+          "description": "Cat (Osirian Wise-Eye)"
+        },
+        "19-19": {
+          "description": "Centipede, House"
+        },
+        "20-20": {
+          "description": "Cheetah"
+        },
+        "21-21": {
+          "description": "Chicken"
+        },
+        "22-22": {
+          "description": "Constrictor Snake"
+        },
+        "23-23": {
+          "description": "Crab"
+        },
+        "24-24": {
+          "description": "Crocodile"
+        },
+        "25-25": {
+          "description": "Crocodile, Dire"
+        },
+        "26-26": {
+          "description": "Dodo"
+        },
+        "27-27": {
+          "description": "Dog, Goblin"
+        },
+        "28-28": {
+          "description": "Dog, Goblin (Combat-Trained)"
+        },
+        "29-29": {
+          "description": "Dog, Guard"
+        },
+        "30-30": {
+          "description": "Dog, Lap"
+        },
+        "31-31": {
+          "description": "Dolphin"
+        },
+        "32-32": {
+          "description": "Duck"
+        },
+        "33-33": {
+          "description": "Dwarf Caiman"
+        },
+        "34-34": {
+          "description": "Eagle"
+        },
+        "35-35": {
+          "description": "Electric Eel"
+        },
+        "36-36": {
+          "description": "Emperor Cobra"
+        },
+        "37-37": {
+          "description": "Falcon"
+        },
+        "38-38": {
+          "description": "Fox"
+        },
+        "39-39": {
+          "description": "Frilled Lizard, Giant"
+        },
+        "40-40": {
+          "description": "Frog, Giant"
+        },
+        "41-41": {
+          "description": "Frog, Poison"
+        },
+        "42-42": {
+          "description": "Gar"
+        },
+        "43-43": {
+          "description": "Gar, Giant"
+        },
+        "44-44": {
+          "description": "Gecko, Giant"
+        },
+        "45-45": {
+          "description": "Goat"
+        },
+        "46-46": {
+          "description": "Gorilla"
+        },
+        "47-47": {
+          "description": "Griffon Egg"
+        },
+        "48-48": {
+          "description": "Hawk"
+        },
+        "49-49": {
+          "description": "Hedgehog"
+        },
+        "50-50": {
+          "description": "Hippogriff Egg"
+        },
+        "51-51": {
+          "description": "Hyena"
+        },
+        "52-52": {
+          "description": "Hyena, Dire"
+        },
+        "53-53": {
+          "description": "Jellyfish, Luminous"
+        },
+        "54-54": {
+          "description": "Kangaroo"
+        },
+        "55-55": {
+          "description": "Leopard"
+        },
+        "56-56": {
+          "description": "Lion"
+        },
+        "57-57": {
+          "description": "Lion (Combat-Trained)"
+        },
+        "58-58": {
+          "description": "Lion, Dire"
+        },
+        "59-59": {
+          "description": "Lizard"
+        },
+        "60-60": {
+          "description": "Lizard, Nex Gecko"
+        },
+        "61-61": {
+          "description": "Manta Ray"
+        },
+        "62-62": {
+          "description": "Marine Iguana"
+        },
+        "63-63": {
+          "description": "Mongoose"
+        },
+        "64-64": {
+          "description": "Monitor Lizard"
+        },
+        "65-65": {
+          "description": "Monkey"
+        },
+        "66-66": {
+          "description": "Moray Eel, Giant"
+        },
+        "67-67": {
+          "description": "Narwhal"
+        },
+        "68-68": {
+          "description": "Orca"
+        },
+        "69-69": {
+          "description": "Osprey"
+        },
+        "70-70": {
+          "description": "Otter"
+        },
+        "71-71": {
+          "description": "Owl"
+        },
+        "72-72": {
+          "description": "Owl, Giant"
+        },
+        "73-73": {
+          "description": "Owl, Giant (Combat-Trained)"
+        },
+        "74-74": {
+          "description": "Owl, Great Horned"
+        },
+        "75-75": {
+          "description": "Parrot"
+        },
+        "76-76": {
+          "description": "Pig"
+        },
+        "77-77": {
+          "description": "Porcupine"
+        },
+        "78-78": {
+          "description": "Porcupine, Giant"
+        },
+        "79-79": {
+          "description": "Pseudodragon"
+        },
+        "80-80": {
+          "description": "Rabbit"
+        },
+        "81-81": {
+          "description": "Raccoon"
+        },
+        "82-82": {
+          "description": "Rat"
+        },
+        "83-83": {
+          "description": "Rat, Blue"
+        },
+        "84-84": {
+          "description": "Rat, Dire"
+        },
+        "85-85": {
+          "description": "Rat, Donkey"
+        },
+        "86-86": {
+          "description": "Raven"
+        },
+        "87-87": {
+          "description": "Roc"
+        },
+        "88-88": {
+          "description": "Roc (Combat-Trained)"
+        },
+        "89-89": {
+          "description": "Scavenger Beetle Colony"
+        },
+        "90-90": {
+          "description": "Scorpion, Greensting"
+        },
+        "91-91": {
+          "description": "Sea Krait"
+        },
+        "92-92": {
+          "description": "Seahorse, Giant"
+        },
+        "93-93": {
+          "description": "Shark"
+        },
+        "94-94": {
+          "description": "Shark, Dire"
+        },
+        "95-95": {
+          "description": "Skunk, Giant"
+        },
+        "96-96": {
+          "description": "Snail Kite"
+        },
+        "97-97": {
+          "description": "Snake, Constrictor"
+        },
+        "98-98": {
+          "description": "Snake, Viper"
+        },
+        "99-99": {
+          "description": "Snapping Turtle, Giant"
+        },
+        "100-100": {
+          "description": "Spider"
+        },
+        "101-101": {
+          "description": "Squid"
+        },
+        "102-102": {
+          "description": "Squid, Giant"
+        },
+        "103-103": {
+          "description": "Squirrel"
+        },
+        "104-104": {
+          "description": "Squirrel (Flying)"
+        },
+        "105-105": {
+          "description": "Stingray"
+        },
+        "106-106": {
+          "description": "Stirge"
+        },
+        "107-107": {
+          "description": "Thrush"
+        },
+        "108-108": {
+          "description": "Thylacine"
+        },
+        "109-109": {
+          "description": "Toad"
+        },
+        "110-110": {
+          "description": "Toad (Vision)"
+        },
+        "111-111": {
+          "description": "Toad, Giant"
+        },
+        "112-112": {
+          "description": "Tiger"
+        },
+        "113-113": {
+          "description": "Tiger (Combat-Trained)"
+        },
+        "114-114": {
+          "description": "Tiger, Dire"
+        },
+        "115-115": {
+          "description": "Toucan"
+        },
+        "116-116": {
+          "description": "Traveling bee hive"
+        },
+        "117-117": {
+          "description": "Turtle"
+        },
+        "118-118": {
+          "description": "Vulture"
+        },
+        "119-119": {
+          "description": "Vulture, Giant"
+        },
+        "120-120": {
+          "description": "Vulture, Giant (Combat-Trained)"
+        },
+        "121-121": {
+          "description": "Weasel"
+        },
+        "122-122": {
+          "description": "Whale"
+        },
+        "123-123": {
+          "description": "Whale, Blue"
+        },
+        "124-124": {
+          "description": "Whale, Crimson"
+        },
+        "125-125": {
+          "description": ""
+        },
+        "126-126": {
+          "description": "Wolf"
+        },
+        "127-127": {
+          "description": "Wolverine"
+        },
+        "128-128": {
+          "description": "Wolverine, Dire"
+        },
+        "129-129": {
+          "description": "Yak"
+        }
       }
     },
     "Random Disease": {
       "name": "Random Disease",
       "description": "",
       "results": {
-        "1-1": "Athrakitis",
-        "2-2": "Basidirond Spores",
-        "3-3": "Blightburn Sickness",
-        "4-4": "Blinding Sickness",
-        "5-5": "Blister Phage",
-        "6-6": "Blood Veil",
-        "7-7": "Bloody End (Horrific)",
-        "8-8": "Bluespit",
-        "9-9": "Bog Rot",
-        "10-10": "Bonechill",
-        "11-11": "Bonecrusher (Dengue) Fever",
-        "12-12": "Boot Soup",
-        "13-13": "Brain Moss (Horrific)",
-        "14-14": "Brainworms",
-        "15-15": "Bubonic Plague",
-        "16-16": "Cackle Fever",
-        "17-17": "Chillbane Fever",
-        "18-18": "Cholera",
-        "19-19": "Coward's Mark",
-        "20-20": "Crypt Fever",
-        "21-21": "Daemonic Wasting",
-        "22-22": "Demon Fever",
-        "23-23": "Demonplague",
-        "24-24": "Devil Chills",
-        "25-25": "Dvezda Plague",
-        "26-26": "Dysentery",
-        "27-27": "Enteric Fever",
-        "28-28": "Ergia",
-        "29-29": "Filth Fever",
-        "30-30": "Final Rest",
-        "31-31": "Firegut",
-        "32-32": "Fungal Flu",
-        "33-33": "Ghoul Distemper (Horrific)",
-        "34-34": "Ghoul Fever",
-        "35-35": "Glacier Plague",
-        "36-36": "Gore Worms (Horrific)",
-        "37-37": "Green Haze",
-        "38-38": "Greenscale",
-        "39-39": "Leprosy",
-        "40-40": "Malaria (Jungle Fever)",
-        "41-41": "Mindfire",
-        "42-42": "Moxix's Delectation",
-        "43-43": "Pulsing Puffs",
-        "44-44": "Rabies",
-        "45-45": "Rapture Pox",
-        "46-46": "Red Ache",
-        "47-47": "Red Drip",
-        "48-48": "Scarlet Leprosy",
-        "49-49": "Seasickness",
-        "50-50": "Shakes",
-        "51-51": "Shattermind",
-        "52-52": "Skin Wastes (Horrific)",
-        "53-53": "Sleeping Sickness",
-        "54-54": "Slimy Doom",
-        "55-55": "Spellscar Fever",
-        "56-56": "Tetanus",
-        "57-57": "The Scales",
-        "58-58": "The Tainted Plague",
-        "59-59": "Tuberculosis",
-        "60-60": "Typhoid Fever",
-        "61-61": "Vorel's Phage",
-        "62-62": "Zombie Rot"
+        "1-1": {
+          "description": "Athrakitis"
+        },
+        "2-2": {
+          "description": "Basidirond Spores"
+        },
+        "3-3": {
+          "description": "Blightburn Sickness"
+        },
+        "4-4": {
+          "description": "Blinding Sickness"
+        },
+        "5-5": {
+          "description": "Blister Phage"
+        },
+        "6-6": {
+          "description": "Blood Veil"
+        },
+        "7-7": {
+          "description": "Bloody End (Horrific)"
+        },
+        "8-8": {
+          "description": "Bluespit"
+        },
+        "9-9": {
+          "description": "Bog Rot"
+        },
+        "10-10": {
+          "description": "Bonechill"
+        },
+        "11-11": {
+          "description": "Bonecrusher (Dengue) Fever"
+        },
+        "12-12": {
+          "description": "Boot Soup"
+        },
+        "13-13": {
+          "description": "Brain Moss (Horrific)"
+        },
+        "14-14": {
+          "description": "Brainworms"
+        },
+        "15-15": {
+          "description": "Bubonic Plague"
+        },
+        "16-16": {
+          "description": "Cackle Fever"
+        },
+        "17-17": {
+          "description": "Chillbane Fever"
+        },
+        "18-18": {
+          "description": "Cholera"
+        },
+        "19-19": {
+          "description": "Coward's Mark"
+        },
+        "20-20": {
+          "description": "Crypt Fever"
+        },
+        "21-21": {
+          "description": "Daemonic Wasting"
+        },
+        "22-22": {
+          "description": "Demon Fever"
+        },
+        "23-23": {
+          "description": "Demonplague"
+        },
+        "24-24": {
+          "description": "Devil Chills"
+        },
+        "25-25": {
+          "description": "Dvezda Plague"
+        },
+        "26-26": {
+          "description": "Dysentery"
+        },
+        "27-27": {
+          "description": "Enteric Fever"
+        },
+        "28-28": {
+          "description": "Ergia"
+        },
+        "29-29": {
+          "description": "Filth Fever"
+        },
+        "30-30": {
+          "description": "Final Rest"
+        },
+        "31-31": {
+          "description": "Firegut"
+        },
+        "32-32": {
+          "description": "Fungal Flu"
+        },
+        "33-33": {
+          "description": "Ghoul Distemper (Horrific)"
+        },
+        "34-34": {
+          "description": "Ghoul Fever"
+        },
+        "35-35": {
+          "description": "Glacier Plague"
+        },
+        "36-36": {
+          "description": "Gore Worms (Horrific)"
+        },
+        "37-37": {
+          "description": "Green Haze"
+        },
+        "38-38": {
+          "description": "Greenscale"
+        },
+        "39-39": {
+          "description": "Leprosy"
+        },
+        "40-40": {
+          "description": "Malaria (Jungle Fever)"
+        },
+        "41-41": {
+          "description": "Mindfire"
+        },
+        "42-42": {
+          "description": "Moxix's Delectation"
+        },
+        "43-43": {
+          "description": "Pulsing Puffs"
+        },
+        "44-44": {
+          "description": "Rabies"
+        },
+        "45-45": {
+          "description": "Rapture Pox"
+        },
+        "46-46": {
+          "description": "Red Ache"
+        },
+        "47-47": {
+          "description": "Red Drip"
+        },
+        "48-48": {
+          "description": "Scarlet Leprosy"
+        },
+        "49-49": {
+          "description": "Seasickness"
+        },
+        "50-50": {
+          "description": "Shakes"
+        },
+        "51-51": {
+          "description": "Shattermind"
+        },
+        "52-52": {
+          "description": "Skin Wastes (Horrific)"
+        },
+        "53-53": {
+          "description": "Sleeping Sickness"
+        },
+        "54-54": {
+          "description": "Slimy Doom"
+        },
+        "55-55": {
+          "description": "Spellscar Fever"
+        },
+        "56-56": {
+          "description": "Tetanus"
+        },
+        "57-57": {
+          "description": "The Scales"
+        },
+        "58-58": {
+          "description": "The Tainted Plague"
+        },
+        "59-59": {
+          "description": "Tuberculosis"
+        },
+        "60-60": {
+          "description": "Typhoid Fever"
+        },
+        "61-61": {
+          "description": "Vorel's Phage"
+        },
+        "62-62": {
+          "description": "Zombie Rot"
+        }
       }
     },
     "Random Weather": {
       "name": "Random Weather",
       "description": "1 Temperate includes forests, hills, marshes, mountains, plains, and warm aquatic environments.\n2 Winter is cold, summer is warm, spring and autumn are temperate. Marsh regions are slightly warmer in winter.",
       "results": {
-        "1-70": "Desert: Hot, calm",
-        "71-80": "Desert: Hot, windy",
-        "81-90": "Desert: Duststorm",
-        "91-100": "Desert: Downpour"
+        "1-70": {
+          "description": "Desert: Hot, calm"
+        },
+        "71-80": {
+          "description": "Desert: Hot, windy"
+        },
+        "81-90": {
+          "description": "Desert: Duststorm"
+        },
+        "91-100": {
+          "description": "Desert: Downpour"
+        }
       }
     },
     "Ships": {
       "name": "Ships",
       "description": "",
       "results": {
-        "1-1": "Vehicle, Galley",
-        "2-2": "Vehicle, Junk",
-        "3-3": "Vehicle, Keelboat",
-        "4-4": "Vehicle, Longship",
-        "5-5": "Vehicle, Rowboat",
-        "6-6": "Vehicle, Sailing ship",
-        "7-7": "Vehicle, Ship's boat",
-        "8-8": "Vehicle, Warship"
+        "1-1": {
+          "description": "Vehicle, Galley"
+        },
+        "2-2": {
+          "description": "Vehicle, Junk"
+        },
+        "3-3": {
+          "description": "Vehicle, Keelboat"
+        },
+        "4-4": {
+          "description": "Vehicle, Longship"
+        },
+        "5-5": {
+          "description": "Vehicle, Rowboat"
+        },
+        "6-6": {
+          "description": "Vehicle, Sailing ship"
+        },
+        "7-7": {
+          "description": "Vehicle, Ship's boat"
+        },
+        "8-8": {
+          "description": "Vehicle, Warship"
+        }
       }
     },
     "Spellbooks": {
-      "name": "Spellbooks",
+      "name": "法术书 (Spellbooks)",
       "description": "Each spellbook or formula book is a unique reflection of the personality and capabilities of its creator. Many of these tomes contain more than just spells, such as notes on the caster’s other research, personal diaries, naturalist sketches, or even political treatises. Some contain preparation rituals, each of which grants a boon—or sometimes a hindrance—to spellcasters who use the book to prepare their spells.",
       "results": {
-        "1-1": "Apprentice Chapbook of Rul Thaven (Spellbook, Level 2 Diviner)",
-        "2-2": "Arctic Call (Spellbook, Level 11 Evoker)",
-        "3-3": "Arrowsong's Sorrow (Spellbook, Level 3 Universalist)",
-        "4-4": "Book of Harms (Spellbook, Level 5 Evoker)",
-        "5-5": "Book of the Grave (Spellbook, Level 6 Necromancer)",
-        "6-6": "Calamaes Fragment (Spellbook, Level 7 Transmuter)",
-        "7-7": "Chymist's Guidebook (Formula Book, Level 15 Alchemist)",
-        "8-8": "Cold Irony (Spellbook, Level 15 Bard)",
-        "9-9": "Cyrusian Codex (Spellbook, Level 11 Transmuter)",
-        "10-10": "Defensive Primer (Spellbook, Level 1 Abjurer)",
-        "11-11": "Erages Journeyman's Manual (Spellbook, Level 7 Magus)",
-        "12-12": "Galtan Cookbook (Formula Book, Level 8 Alchemist)",
-        "13-13": "Grandfather's Legacy (Spellbook, Level 14 Necromancer)",
-        "14-14": "Grimoire of Glittering Eyes (Spellbook, Level 7 Illusionist)",
-        "15-15": "Guardian Grimoire (Spellbook, Level 15 Abjurer)",
-        "16-16": "Insights of Far-Seeing Taernis (Spellbook, Level 12 Conjurer)",
-        "17-17": "Journal of the Beast Within (Formula Book, Level 10 Alchemist)",
-        "18-18": "Journeyman Book of Rul Thaven (Spellbook, Level 9 Diviner)",
-        "19-19": "Lab Journal of Constance Inflix (Formula Book, Level 5 Alchemist)",
-        "20-20": "Library of the Dancer of Skins (Spellbook, Level 19 Universalist)",
-        "21-21": "Manual of Binding (Spellbook, Level 18 Conjurer)",
-        "22-22": "Manuscript of Jack Were-son (Spellbook, Level 10 Universalist)",
-        "23-23": "Master Books of Rul Thaven (Spellbook, Level 17 Diviner)",
-        "24-24": "Mastery of Word and Thought (Spellbook, Level 20 Enchanter)",
-        "25-25": "Mysteries of Shadow (Spellbook, Level 16 Illusionist)",
-        "26-26": "Nyzam's Remedies (Formula Book, Level 3 Alchemist)",
-        "27-27": "Quest Eternal (Spellbook, Level 13 Diviner)",
-        "28-28": "Runes of Wealth (Spellbook, Level 18 Transmuter)",
-        "29-29": "Sarini's Workbook (Spellbook, Level 16 Magus with Bard Spells)",
-        "30-30": "Songs of the Linnorm Kings (Meditation Book, Level 5 Skald)",
-        "31-31": "The Formulae of Master Gebr (Formula Book, Level 20 Alchemist)",
-        "32-32": "The Guide's Analects (Spellbook, Level 6 Universalist)",
-        "33-33": "The Last Azlanti's Analects (Spellbook, Level 15 Universalist)",
-        "34-34": "The Prying Eye (Spellbook, Level 7 Universalist)",
-        "35-35": "The Swordsman's Analects (Spellbook, Level 3 Universalist)",
-        "36-36": "Tome of Stone Wards (Spellbook, Level 17 Abjurer)",
-        "37-37": "Tome of the Transmuter (Spellbook, Level 8 Transmuter)",
-        "38-38": "Traveler's Tome (Spellbook, Level 4 Transmuter)",
-        "39-39": "Unamed Journal (Spellbook, Level 3 Universalist)",
-        "40-40": "Wisdom of Jatembe (Nine Warriors Edition) (Spellbook, Level 17 Diviner)",
-        "41-41": "Wisdom of Jatembe (Six Warriors Edition) (Spellbook, Level 11 Diviner)",
-        "42-42": "Wisdom of Jatembe (Three Warriors Edition) (Spellbook, Level 5 Diviner)"
+        "1-1": {
+          "description": "Apprentice Chapbook of Rul Thaven (Spellbook, Level 2 Diviner)"
+        },
+        "2-2": {
+          "description": "Arctic Call (Spellbook, Level 11 Evoker)"
+        },
+        "3-3": {
+          "description": "Arrowsong's Sorrow (Spellbook, Level 3 Universalist)"
+        },
+        "4-4": {
+          "description": "Book of Harms (Spellbook, Level 5 Evoker)"
+        },
+        "5-5": {
+          "description": "Book of the Grave (Spellbook, Level 6 Necromancer)"
+        },
+        "6-6": {
+          "description": "Calamaes Fragment (Spellbook, Level 7 Transmuter)"
+        },
+        "7-7": {
+          "description": "Chymist's Guidebook (Formula Book, Level 15 Alchemist)"
+        },
+        "8-8": {
+          "description": "Cold Irony (Spellbook, Level 15 Bard)"
+        },
+        "9-9": {
+          "description": "Cyrusian Codex (Spellbook, Level 11 Transmuter)"
+        },
+        "10-10": {
+          "description": "Defensive Primer (Spellbook, Level 1 Abjurer)"
+        },
+        "11-11": {
+          "description": "Erages Journeyman's Manual (Spellbook, Level 7 Magus)"
+        },
+        "12-12": {
+          "description": "Galtan Cookbook (Formula Book, Level 8 Alchemist)"
+        },
+        "13-13": {
+          "description": "Grandfather's Legacy (Spellbook, Level 14 Necromancer)"
+        },
+        "14-14": {
+          "description": "Grimoire of Glittering Eyes (Spellbook, Level 7 Illusionist)"
+        },
+        "15-15": {
+          "description": "Guardian Grimoire (Spellbook, Level 15 Abjurer)"
+        },
+        "16-16": {
+          "description": "Insights of Far-Seeing Taernis (Spellbook, Level 12 Conjurer)"
+        },
+        "17-17": {
+          "description": "Journal of the Beast Within (Formula Book, Level 10 Alchemist)"
+        },
+        "18-18": {
+          "description": "Journeyman Book of Rul Thaven (Spellbook, Level 9 Diviner)"
+        },
+        "19-19": {
+          "description": "Lab Journal of Constance Inflix (Formula Book, Level 5 Alchemist)"
+        },
+        "20-20": {
+          "description": "Library of the Dancer of Skins (Spellbook, Level 19 Universalist)"
+        },
+        "21-21": {
+          "description": "Manual of Binding (Spellbook, Level 18 Conjurer)"
+        },
+        "22-22": {
+          "description": "Manuscript of Jack Were-son (Spellbook, Level 10 Universalist)"
+        },
+        "23-23": {
+          "description": "Master Books of Rul Thaven (Spellbook, Level 17 Diviner)"
+        },
+        "24-24": {
+          "description": "Mastery of Word and Thought (Spellbook, Level 20 Enchanter)"
+        },
+        "25-25": {
+          "description": "Mysteries of Shadow (Spellbook, Level 16 Illusionist)"
+        },
+        "26-26": {
+          "description": "Nyzam's Remedies (Formula Book, Level 3 Alchemist)"
+        },
+        "27-27": {
+          "description": "Quest Eternal (Spellbook, Level 13 Diviner)"
+        },
+        "28-28": {
+          "description": "Runes of Wealth (Spellbook, Level 18 Transmuter)"
+        },
+        "29-29": {
+          "description": "Sarini's Workbook (Spellbook, Level 16 Magus with Bard Spells)"
+        },
+        "30-30": {
+          "description": "Songs of the Linnorm Kings (Meditation Book, Level 5 Skald)"
+        },
+        "31-31": {
+          "description": "The Formulae of Master Gebr (Formula Book, Level 20 Alchemist)"
+        },
+        "32-32": {
+          "description": "The Guide's Analects (Spellbook, Level 6 Universalist)"
+        },
+        "33-33": {
+          "description": "The Last Azlanti's Analects (Spellbook, Level 15 Universalist)"
+        },
+        "34-34": {
+          "description": "The Prying Eye (Spellbook, Level 7 Universalist)"
+        },
+        "35-35": {
+          "description": "The Swordsman's Analects (Spellbook, Level 3 Universalist)"
+        },
+        "36-36": {
+          "description": "Tome of Stone Wards (Spellbook, Level 17 Abjurer)"
+        },
+        "37-37": {
+          "description": "Tome of the Transmuter (Spellbook, Level 8 Transmuter)"
+        },
+        "38-38": {
+          "description": "Traveler's Tome (Spellbook, Level 4 Transmuter)"
+        },
+        "39-39": {
+          "description": "Unamed Journal (Spellbook, Level 3 Universalist)"
+        },
+        "40-40": {
+          "description": "Wisdom of Jatembe (Nine Warriors Edition) (Spellbook, Level 17 Diviner)"
+        },
+        "41-41": {
+          "description": "Wisdom of Jatembe (Six Warriors Edition) (Spellbook, Level 11 Diviner)"
+        },
+        "42-42": {
+          "description": "Wisdom of Jatembe (Three Warriors Edition) (Spellbook, Level 5 Diviner)"
+        }
       }
     },
     "Tailor": {
       "name": "Tailor",
       "description": "",
       "results": {
-        "1-1": "Authoritative vestments",
-        "2-2": "Bogwalking sandals",
-        "3-3": "Brooch",
-        "4-4": "Caul",
-        "5-5": "Chain belt",
-        "6-6": "Chains of contrition",
-        "7-7": "Chausses",
-        "8-8": "Cheat sheath",
-        "9-9": "Cleats",
-        "10-10": "Cleric's vestments",
-        "11-11": "Cork vest",
-        "12-12": "Corset",
-        "13-13": "Covenant rings",
-        "14-14": "Cushion inserts",
-        "15-15": "Dancer's garb",
-        "16-16": "Dancer's garb, silver",
-        "17-17": "Decorative trim",
-        "18-18": "Diving suit",
-        "19-19": "Doctor's mask",
-        "20-20": "Doctor's outfit",
-        "21-21": "Drowner's helm",
-        "22-22": "Emissary's sash",
-        "23-23": "Eyeglasses",
-        "24-24": "False jewelry",
-        "25-25": "Fashionable accessories",
-        "26-26": "Filter scarf",
-        "27-27": "Fire-resistant boots",
-        "28-28": "Furs",
-        "29-29": "Gambeson",
-        "30-30": "Gecko gloves",
-        "31-31": "Gloom Sight Goggles",
-        "32-32": "Hat",
-        "33-33": "Headscarf",
-        "34-34": "Heated gloves",
-        "35-35": "Hennin",
-        "36-36": "Hollow-heeled boot",
-        "37-37": "Ice skates",
-        "38-38": "Inside pocket",
-        "39-39": "Jewelry",
-        "40-40": "Kilt",
-        "41-41": "Litchina",
-        "42-42": "Lodestone boots",
-        "43-43": "Long gloves",
-        "44-44": "Mask",
-        "45-45": "Mask, Battle",
-        "46-46": "Mask, Iron",
-        "47-47": "Mask, Iron (masterwork)",
-        "48-48": "Mask, Monster",
-        "49-49": "Mask, Signifier",
-        "50-50": "Masterwork flippers",
-        "51-51": "Metal glove",
-        "52-52": "Nature climbing harness",
-        "53-53": "Neck guard",
-        "54-54": "Ostentatious garment",
-        "55-55": "Outfit, Artisan's",
-        "56-56": "Outfit, Burglar's",
-        "57-57": "Outfit, Cold-weather",
-        "58-58": "Outfit, Courtesan's",
-        "59-59": "Outfit, Courtier's",
-        "60-60": "Outfit, Dilettante's",
-        "61-61": "Outfit, Entertainer's",
-        "62-62": "Outfit, Executioner's",
-        "63-63": "Outfit, Explorer's",
-        "64-64": "Outfit, Flame-retardant",
-        "65-65": "Outfit, Hot weather",
-        "66-66": "Outfit, Monk's",
-        "67-67": "Outfit, Noble's",
-        "68-68": "Outfit, Peasant's",
-        "69-69": "Outfit, Pickpocket's",
-        "70-70": "Outfit, Royal",
-        "71-71": "Outfit, Scholar's",
-        "72-72": "Outfit, Squire's",
-        "73-73": "Outfit, Traveler's",
-        "74-74": "Palm paws",
-        "75-75": "Parasol",
-        "76-76": "Parasol (umbrella)",
-        "77-77": "Patchwork cloak",
-        "78-78": "Pirate clothes",
-        "79-79": "Pirate clothes (fancy)",
-        "80-80": "Poncho",
-        "81-81": "Practice straitjacket",
-        "82-82": "Psychometrist's gloves",
-        "83-83": "Reversible cloak",
-        "84-84": "Sanctified rings (pair)",
-        "85-85": "Scarf",
-        "86-86": "Scarf (pocketed)",
-        "87-87": "Scarf (reinforced)",
-        "88-88": "Sentry mannequin (masterwork)",
-        "89-89": "Silk kimono",
-        "90-90": "Skates",
-        "91-91": "Skis",
-        "92-92": "Skis and poles",
-        "93-93": "Sleeve holster",
-        "94-94": "Snow goggles",
-        "95-95": "Snowshoes",
-        "96-96": "Softpaw boots",
-        "97-97": "Speed sheath",
-        "98-98": "Spiritual leader's vestments",
-        "99-99": "Sponge suit",
-        "100-100": "Stiletto boots",
-        "101-101": "Straitjacket (masterwork)",
-        "102-102": "Sundered mask",
-        "103-103": "Tabard",
-        "104-104": "Tear-away clothing",
-        "105-105": "Tinker's cap",
-        "106-106": "Tossglove",
-        "107-107": "Track-obscuring soles",
-        "108-108": "Trespasser's boot",
-        "109-109": "Veil",
-        "110-110": "Vest",
-        "111-111": "Vigil cap",
-        "112-112": "Wading boots",
-        "113-113": "Wet suit",
-        "114-114": "Wig",
-        "115-115": "Wing cloak",
-        "116-116": "Wrangler's gloves"
+        "1-1": {
+          "description": "Authoritative vestments"
+        },
+        "2-2": {
+          "description": "Bogwalking sandals"
+        },
+        "3-3": {
+          "description": "Brooch"
+        },
+        "4-4": {
+          "description": "Caul"
+        },
+        "5-5": {
+          "description": "Chain belt"
+        },
+        "6-6": {
+          "description": "Chains of contrition"
+        },
+        "7-7": {
+          "description": "Chausses"
+        },
+        "8-8": {
+          "description": "Cheat sheath"
+        },
+        "9-9": {
+          "description": "Cleats"
+        },
+        "10-10": {
+          "description": "Cleric's vestments"
+        },
+        "11-11": {
+          "description": "Cork vest"
+        },
+        "12-12": {
+          "description": "Corset"
+        },
+        "13-13": {
+          "description": "Covenant rings"
+        },
+        "14-14": {
+          "description": "Cushion inserts"
+        },
+        "15-15": {
+          "description": "Dancer's garb"
+        },
+        "16-16": {
+          "description": "Dancer's garb, silver"
+        },
+        "17-17": {
+          "description": "Decorative trim"
+        },
+        "18-18": {
+          "description": "Diving suit"
+        },
+        "19-19": {
+          "description": "Doctor's mask"
+        },
+        "20-20": {
+          "description": "Doctor's outfit"
+        },
+        "21-21": {
+          "description": "Drowner's helm"
+        },
+        "22-22": {
+          "description": "Emissary's sash"
+        },
+        "23-23": {
+          "description": "Eyeglasses"
+        },
+        "24-24": {
+          "description": "False jewelry"
+        },
+        "25-25": {
+          "description": "Fashionable accessories"
+        },
+        "26-26": {
+          "description": "Filter scarf"
+        },
+        "27-27": {
+          "description": "Fire-resistant boots"
+        },
+        "28-28": {
+          "description": "Furs"
+        },
+        "29-29": {
+          "description": "Gambeson"
+        },
+        "30-30": {
+          "description": "Gecko gloves"
+        },
+        "31-31": {
+          "description": "Gloom Sight Goggles"
+        },
+        "32-32": {
+          "description": "Hat"
+        },
+        "33-33": {
+          "description": "Headscarf"
+        },
+        "34-34": {
+          "description": "Heated gloves"
+        },
+        "35-35": {
+          "description": "Hennin"
+        },
+        "36-36": {
+          "description": "Hollow-heeled boot"
+        },
+        "37-37": {
+          "description": "Ice skates"
+        },
+        "38-38": {
+          "description": "Inside pocket"
+        },
+        "39-39": {
+          "description": "Jewelry"
+        },
+        "40-40": {
+          "description": "Kilt"
+        },
+        "41-41": {
+          "description": "Litchina"
+        },
+        "42-42": {
+          "description": "Lodestone boots"
+        },
+        "43-43": {
+          "description": "Long gloves"
+        },
+        "44-44": {
+          "description": "Mask"
+        },
+        "45-45": {
+          "description": "Mask, Battle"
+        },
+        "46-46": {
+          "description": "Mask, Iron"
+        },
+        "47-47": {
+          "description": "Mask, Iron (masterwork)"
+        },
+        "48-48": {
+          "description": "Mask, Monster"
+        },
+        "49-49": {
+          "description": "Mask, Signifier"
+        },
+        "50-50": {
+          "description": "Masterwork flippers"
+        },
+        "51-51": {
+          "description": "Metal glove"
+        },
+        "52-52": {
+          "description": "Nature climbing harness"
+        },
+        "53-53": {
+          "description": "Neck guard"
+        },
+        "54-54": {
+          "description": "Ostentatious garment"
+        },
+        "55-55": {
+          "description": "Outfit, Artisan's"
+        },
+        "56-56": {
+          "description": "Outfit, Burglar's"
+        },
+        "57-57": {
+          "description": "Outfit, Cold-weather"
+        },
+        "58-58": {
+          "description": "Outfit, Courtesan's"
+        },
+        "59-59": {
+          "description": "Outfit, Courtier's"
+        },
+        "60-60": {
+          "description": "Outfit, Dilettante's"
+        },
+        "61-61": {
+          "description": "Outfit, Entertainer's"
+        },
+        "62-62": {
+          "description": "Outfit, Executioner's"
+        },
+        "63-63": {
+          "description": "Outfit, Explorer's"
+        },
+        "64-64": {
+          "description": "Outfit, Flame-retardant"
+        },
+        "65-65": {
+          "description": "Outfit, Hot weather"
+        },
+        "66-66": {
+          "description": "Outfit, Monk's"
+        },
+        "67-67": {
+          "description": "Outfit, Noble's"
+        },
+        "68-68": {
+          "description": "Outfit, Peasant's"
+        },
+        "69-69": {
+          "description": "Outfit, Pickpocket's"
+        },
+        "70-70": {
+          "description": "Outfit, Royal"
+        },
+        "71-71": {
+          "description": "Outfit, Scholar's"
+        },
+        "72-72": {
+          "description": "Outfit, Squire's"
+        },
+        "73-73": {
+          "description": "Outfit, Traveler's"
+        },
+        "74-74": {
+          "description": "Palm paws"
+        },
+        "75-75": {
+          "description": "Parasol"
+        },
+        "76-76": {
+          "description": "Parasol (umbrella)"
+        },
+        "77-77": {
+          "description": "Patchwork cloak"
+        },
+        "78-78": {
+          "description": "Pirate clothes"
+        },
+        "79-79": {
+          "description": "Pirate clothes (fancy)"
+        },
+        "80-80": {
+          "description": "Poncho"
+        },
+        "81-81": {
+          "description": "Practice straitjacket"
+        },
+        "82-82": {
+          "description": "Psychometrist's gloves"
+        },
+        "83-83": {
+          "description": "Reversible cloak"
+        },
+        "84-84": {
+          "description": "Sanctified rings (pair)"
+        },
+        "85-85": {
+          "description": "Scarf"
+        },
+        "86-86": {
+          "description": "Scarf (pocketed)"
+        },
+        "87-87": {
+          "description": "Scarf (reinforced)"
+        },
+        "88-88": {
+          "description": "Sentry mannequin (masterwork)"
+        },
+        "89-89": {
+          "description": "Silk kimono"
+        },
+        "90-90": {
+          "description": "Skates"
+        },
+        "91-91": {
+          "description": "Skis"
+        },
+        "92-92": {
+          "description": "Skis and poles"
+        },
+        "93-93": {
+          "description": "Sleeve holster"
+        },
+        "94-94": {
+          "description": "Snow goggles"
+        },
+        "95-95": {
+          "description": "Snowshoes"
+        },
+        "96-96": {
+          "description": "Softpaw boots"
+        },
+        "97-97": {
+          "description": "Speed sheath"
+        },
+        "98-98": {
+          "description": "Spiritual leader's vestments"
+        },
+        "99-99": {
+          "description": "Sponge suit"
+        },
+        "100-100": {
+          "description": "Stiletto boots"
+        },
+        "101-101": {
+          "description": "Straitjacket (masterwork)"
+        },
+        "102-102": {
+          "description": "Sundered mask"
+        },
+        "103-103": {
+          "description": "Tabard"
+        },
+        "104-104": {
+          "description": "Tear-away clothing"
+        },
+        "105-105": {
+          "description": "Tinker's cap"
+        },
+        "106-106": {
+          "description": "Tossglove"
+        },
+        "107-107": {
+          "description": "Track-obscuring soles"
+        },
+        "108-108": {
+          "description": "Trespasser's boot"
+        },
+        "109-109": {
+          "description": "Veil"
+        },
+        "110-110": {
+          "description": "Vest"
+        },
+        "111-111": {
+          "description": "Vigil cap"
+        },
+        "112-112": {
+          "description": "Wading boots"
+        },
+        "113-113": {
+          "description": "Wet suit"
+        },
+        "114-114": {
+          "description": "Wig"
+        },
+        "115-115": {
+          "description": "Wing cloak"
+        },
+        "116-116": {
+          "description": "Wrangler's gloves"
+        }
       }
     },
     "Types of Weather": {

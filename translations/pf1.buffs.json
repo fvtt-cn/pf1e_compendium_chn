@@ -19,6 +19,10 @@
     "actions": {
       "path": "system.actions",
       "converter": "actions"
+    },
+    "tags": {
+      "path": "system.tags",
+      "converter": "tags"
     }
   },
   "entries": {
@@ -60,7 +64,7 @@
     },
     "Fighting Defensively": {
       "name": "防御式战斗（Fighting Defensively）",
-      "description": ""
+      "description": "<p><strong>以标准动作进行防御式战斗：</strong>你可以在发动攻击时采取较为保守的姿势，这会使你下轮开始前攻击检定-4，而AC获得+2闪避加值。</p>"
     },
     "Fox's Cunning": {
       "name": "狐之狡黠（Fox's Cunning）",
@@ -68,7 +72,7 @@
     },
     "Haste": {
       "name": "加速术（Haste）",
-      "description": "<p>&emsp;&emsp;在进行全力攻击时，加速后的生物可以进行一次额外的攻击，该次攻击可以使用天生武器或人造武器进行。这次攻击使用该生物完整的BAB，附加任何符合该情况的修正。该效果无法与类似能力叠加，例如〈追击〉武器\n<p>&emsp;&emsp;加速生物的攻击检定获得+1加值，并且AC和反射豁免获得+1闪避加值。</p>\n<p>&emsp;&emsp;加速生物的所有移动方式 (包括陆上移动、掘地、攀爬、飞行、游泳) 的速度均会增加30尺，最高达到受术者该移动方式正常速度的两倍。增加的速度是增强加值，同时也会按正常方式影响该生物的跳跃距离。</p>"
+      "description": "<p>  在进行全力攻击时，加速后的生物可以进行一次额外的攻击，该次攻击可以使用天生武器或人造武器进行。这次攻击使用该生物完整的BAB，附加任何符合该情况的修正。该效果无法与类似能力叠加，例如〈追击〉武器\n</p><p>  加速生物的攻击检定获得+1加值，并且AC和反射豁免获得+1闪避加值。</p>\n<p>  加速生物的所有移动方式 (包括陆上移动、掘地、攀爬、飞行、游泳) 的速度均会增加30尺，最高达到受术者该移动方式正常速度的两倍。增加的速度是增强加值，同时也会按正常方式影响该生物的跳跃距离。</p>"
     },
     "Heroism": {
       "name": "英雄气概（Heroism）",
@@ -84,15 +88,15 @@
     },
     "Mutagen, Con": {
       "name": "体质突变药剂（Mutagen, Con）",
-      "description": ""
+      "description": "<p>在1级时，变异人如同普通的炼金术师一般获得突变药剂能力。即使他并不具有通常给予突变药剂的炼金术职业能力，变异人也可以选取突变药剂和异变药剂科研发现。</p>"
     },
     "Mutagen, Dex": {
       "name": "敏捷突变药剂（Mutagen, Dex）",
-      "description": ""
+      "description": "<p>在1级时，变异人如同普通的炼金术师一般获得突变药剂能力。即使他并不具有通常给予突变药剂的炼金术职业能力，变异人也可以选取突变药剂和异变药剂科研发现。</p>"
     },
     "Mutagen, Str": {
       "name": "力量突变药剂（Mutagen, Str）",
-      "description": ""
+      "description": "<p>在1级时，变异人如同普通的炼金术师一般获得突变药剂能力。即使他并不具有通常给予突变药剂的炼金术职业能力，变异人也可以选取突变药剂和异变药剂科研发现。</p>"
     },
     "Owl's Wisdom": {
       "name": "枭之睿智（Owl's Wisdom）",
@@ -120,7 +124,7 @@
     },
     "Total Defense": {
       "name": "全防御（Total Defense）",
-      "description": ""
+      "description": "<p>以一个标准动作，你可以保持完全的防卫姿势，并在1轮内令AC获得+4闪避加值。你无法在全防御的同时进行防御式攻击，或者从@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{寓守于攻}专长中获益。同时，你无法在全防御的同时进行借机攻击。你的AC自这个动作开始时起即获得提升。</p>"
     }
   }
 }

@@ -1,5 +1,11 @@
 {
   "label": "职业",
+  "mapping": {
+    "tags": {
+      "path": "system.tags",
+      "converter": "tags"
+    }
+  },
   "entries": {
     "Adept": {
       "name": "导师（Adept）",
