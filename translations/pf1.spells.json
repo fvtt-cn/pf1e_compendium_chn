@@ -17138,6 +17138,20 @@
       ],
       "materials": "每具尸体一颗价值50gp的玛瑙，还有一条丝线"
     },
+    "Flesh to Ooze": {
+      "actions": [
+        {
+          "name": "施法",
+          "savingThrow": "强韧，通过则无效；意志，通过则部分生效，见下",
+          "target": "一名生物或见下",
+          "duration": "永久",
+          "range": "近距"
+        }
+      ],
+      "materials": "价值100gp的炼金试剂",
+      "name": "泥怪变形术 (Flesh to Ooze)",
+      "description": "<p>此法术如同@UUID[Compendium.pf1.spells.Item.t8ei2mrmqg7252vw]{恶意变形术}般运作，除了受术者会变成一只泥怪。HD在3或3以下的生物会变成灰泥怪，HD在4-9之间的会变成一只胶质怪或是赭冻怪，而HD10+的会变成一只黑布丁。或者，不选择生物，你可以选择具有充足质量的惰性肉块(像是@UUID[Compendium.pf1.spells.Item.a1jn7g374wcrb9mz]{解除石化}创造的肉体)，将它变成你所选择的泥怪。</p><p>因为受术者的装备不会跟着一起转化，物品会坠下，或者留在泥怪的身体内部，这或许代表物体会被摧毁。如果泥怪有着分裂能力，进行分裂的泥怪会创造一只保有生物原始身份特征的泥怪(用于保存或复原该生物)，以及一只正常且该类型的无心智泥怪。</p>"
+    },
     "Flesh to Ooze (3.5)": {
       "name": "Flesh to Ooze (3.5)",
       "description": "<p>This functions like @Compendium[pf1.spells.t8ei2mrmqg7252vw]{baleful polymorph}, except the target becomes an ooze. A creature of 3 HD or less becomes a gray ooze, 4–9 HD becomes a gelatinous cube or ochre jelly, and 10+ HD becomes a black pudding. Alternatively, instead of a creature you may target a quantity of inert flesh (such as that created by the <em>stone to flesh</em> spell) of sufficient mass, which becomes an ooze of your choice.</p><p>Because a target’s gear does not transform with it, any items fall under or within the ooze’s body, which may mean the items are destroyed. If the ooze has the split ability, splitting the ooze creates one ooze that retains the creature’s original identity (for the purpose of memories or restoring the creature) and one normal mindless ooze of that type.</p>",
@@ -22365,6 +22379,20 @@
         }
       ]
     },
+    "Imbue with Addiction": {
+      "actions": [
+        {
+          "name": "施法",
+          "savingThrow": "强韧，通过则无效",
+          "target": "一名活物",
+          "duration": "立即",
+          "range": "接触"
+        }
+      ],
+      "materials": "一剂量的成瘾毒品或物质",
+      "name": "瘾入骨髓 (Imbue with Addiction)",
+      "description": "<p>目标在该法术的施法过程中，立刻变得对用作施法材料的毒品成瘾。如果目标在过去任何时候曾对该毒品上瘾过，那么它在豁免检定上受到-4惩罚。</p><p>译注：本法术在黑市指南（PZO9462）和《魔法市集指南》中各有一版，差别在能使用的职业（是否有催眠师）以及详述文本（有无GMG具体页码的指引），其余内容相同。</p>"
+    },
     "Imbue with Aura": {
       "name": "灵氲灌注 (Imbue with Aura)",
       "description": "<p>你把你的神圣灵氲灌入另一个生物中，这会使目标散发出和你自己的牧师灵氲相同的灵氲。</p><p>虽然实际上目标的阵营并没有改变，不过诸如@UUID[Compendium.pf1.spells.Item.tr7m97npkbgm4wp7]{侦测邪恶}和@UUID[Compendium.pf1.spells.Item.mkgysr5o92kxxn59]{侦测善良}之类的法术都只会侦测到你注入的灵氲阵营，而非目标自身的。</p><p>在该法术持续时间内，根据目标所属阵营生效的效果，都以注入的灵氲为准，而非生物的实际灵氲。</p><p>法术效果结束时，目标的灵氲恢复正常，并且取决于阵营的法术效果也会变为实际阵营的效果。</p>",
@@ -22446,6 +22474,19 @@
         }
       ],
       "materials": "至少价值1000gp的钻石尘"
+    },
+    "Impede Speech": {
+      "actions": [
+        {
+          "name": "施法",
+          "savingThrow": "意志，通过则无效",
+          "target": "被碰触的生物",
+          "duration": "10分钟/等级",
+          "range": "接触"
+        }
+      ],
+      "name": "妨碍言谈 (Impede Speech)",
+      "description": "<p>这小小的诅咒会干扰受术者说话的能力。豁免检定失败后，受术者会难以将字词串连在一起。唯有在高度专注之下才能够清晰的沟通。在战斗中说话将会变成与移动动作等价的行动，而非一个自由动作。如果受术者尝试施展一个带有语言成分的法术，他会有50%的机会犯错并失去该法术。就算他可以成功施展一个法术，如果该法术正常需要的施法时间少于1轮的话，则该法术的施法时间变为1轮。如果该法术正常需要的施法时间是1轮或更长，则施展时间双倍计算(最多长到妨碍言谈结束为止)。妨碍言谈不能被@UUID[Compendium.pf1.spells.Item.gmgwyjfpeuuc4t4o]{解除魔法}，但@UUID[Compendium.pf1.spells.Item.myg2b9ww43nnlbr2]{破除结界}、@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}、@UUID[Compendium.pf1.spells.Item.s2p7a4biy7bl4ks2]{有限祈愿术}、@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}或@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}可以提早结束它。</p>"
     },
     "Impede Speech (3.5)": {
       "name": "Impede Speech (3.5)",
@@ -26960,6 +27001,19 @@
           "effect": ""
         }
       ]
+    },
+    "Marks of Forbiddance": {
+      "actions": [
+        {
+          "name": "施法",
+          "savingThrow": "意志，通过则无效；见后文",
+          "target": "一名敌人以及一名盟友",
+          "duration": "1轮/等级",
+          "range": "近距"
+        }
+      ],
+      "name": "禁令印记 (Marks of Forbiddance)",
+      "description": "<p>禁令印记会将两名生物以魔法联结，防止他们对彼此犯下暴行。当你施放该法术时需要选择处于施法范围内的一名敌人以及一名盟友。两个目标均会被烙印禁令印记。在法术的持续时间结束之前，这两名目标中的一名对另一名进行攻击，甚至是目标型法术时，攻击者均需先进行一次意志豁免。如果豁免成功，该目标可以正常攻击对方。如果豁免失败，目标无法进行攻击，并且失去该动作。该法术无法防止目标使用范围性法术或能力攻击对方。</p>"
     },
     "Martial Marionette": {
       "name": "战争人偶 (Martial Marionette)",
@@ -35009,6 +35063,20 @@
       ],
       "materials": "一滴酒精液体"
     },
+    "Reveal True Shape": {
+      "actions": [
+        {
+          "name": "施法",
+          "savingThrow": "意志，通过则无效",
+          "target": "一个生物",
+          "duration": "1轮/等级",
+          "range": "近距"
+        }
+      ],
+      "materials": "一撮价值50gp的珍稀草药",
+      "name": "显露真形 (Reveal True Shape)",
+      "description": "<p>你揭示一个经过魔法伪装或变形的生物的真实形态，无论目标的变形是物理性的（例如@UUID[Compendium.pf1.spells.Item.d40ia71c2eljm91k]{变形术}）还是幻术性的（例如@UUID[Compendium.pf1.spells.Item.oj36nfak6jc2s5ky]{易容术}）。该法术不会迫使生物恢复真实形态，而是制造出一个完美的真实形态幻象，覆盖在它身上，把伪装后的形态完全遮住，使所有旁观者都能看到它的真实形态。在法术持续时间内，如果目标改变形态或用幻术伪装外貌，旁观者仍能看到它的真实形态；不过法术结束后，目标在此期间所做的任何幻术或变形都会立即生效。该法术不能揭示隐形的生物，不能克服@UUID[Compendium.pf1.spells.Item.18kryvj2dfuymk9d]{朦胧术}和@UUID[Compendium.pf1.spells.Item.r190q9zxmei82lmv]{移位术}之类的效果，也不能看穿非魔法的伪装。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+    },
     "Reveal True Shape (3.5)": {
       "name": "Reveal True Shape (3.5)",
       "description": "<p>You reveal the true form of a magically disguised or transformed creature, whether the target’s transformation is physical (such as @Compendium[pf1.spells.d40ia71c2eljm91k]{polymorph}) or illusory (such as @Compendium[pf1.spells.oj36nfak6jc2s5ky]{disguise self}). The spell does not force the creature into its true form, but rather creates a perfect illusion of the creature’s true form that overlaps it and hides the disguised form completely, making the true form visible to all observers. For the duration of the spell, if the target changes shape or uses illusion to disguise its appearance, observers can still see its true form, though once the spell runs out any illusions or shape changes made by the target in the meantime immediately take effect. This spell does not reveal invisible creatures, overcome effects such as @Compendium[pf1.spells.18kryvj2dfuymk9d]{blur} and @UUID[Compendium.pf1.spells.r190q9zxmei82lmv]{displacement}, or penetrate mundane disguises.</p>",
@@ -38302,6 +38370,20 @@
           "effect": ""
         }
       ]
+    },
+    "Shield of Shards": {
+      "actions": [
+        {
+          "name": "施法",
+          "savingThrow": "无",
+          "target": "一面你所挥舞的盾牌",
+          "duration": "1轮/等级",
+          "range": "个人"
+        }
+      ],
+      "materialsFocus": "一面盾牌",
+      "name": "碎盾飞射 (Shield of Shards)",
+      "description": "<p>这个防御性法术必须放在一面你当前所挥舞的盾牌上，并将该盾碎裂成两块碎片，此外每2个施法者等级额外多出1块碎片（20级时最多12块）。当碎盾飞射激活时，你在AC上失去你的盾牌加值，因为它破碎的碎片正环绕着你。在你的回合，以一个移动动作，你可以指挥碎盾攻击一名邻接的敌人。碎片的攻击加值等于你的施法者等级+决定你法术豁免DC的属性的调整值。碎盾造成1d4点+1(在第一片之后的每片)点的挥砍与穿刺伤害，并且威胁范围是19-20。在决定忽略伤害减免时，他们被视为魔法武器。此外，如果你的盾牌是以特殊材料制成(像是精金)，碎盾在穿透伤害减免与硬度时，如同他们是由相同材质所制成的武器。</p><p>在此法术的持续时间结束时，碎盾重新组合成它们原先的盾牌形状。你在AC上重获它的盾牌加值，只要你仍有一只自由手可以挥舞着它。否则，该盾会坠落到你脚边(同方格)。</p>"
     },
     "Shield of the Dawnflower": {
       "name": "日蚀之盾 (Shield of the Dawnflower)",
@@ -43476,6 +43558,14 @@
       ],
       "materialsFocus": "一把音叉"
     },
+    "Sympathetic Wounds": {
+      "name": "交感痛楚 (Sympathetic Wounds)",
+      "actions": [
+        {
+          "name": "使用"
+        }
+      ]
+    },
     "Sympathetic Wounds (3.5)": {
       "name": "Sympathetic Wounds (3.5)",
       "description": "<p>This spell functions like @Compendium[pf1.spells.menqakfoa1ftvi3f]{shield other}, except some of your wounds transfer to the targeted creature rather than some of their wounds transferring to you. For example, you could link yourself to a nearby chained slave so that when you are wounded, some of the damage is transferred to the slave. You must have at least as many hit dice as the target, otherwise the spell fails. A creature can only be under the effects of one instance of this spell at a time.</p>",
@@ -45078,6 +45168,13 @@
       ],
       "materials": "价值至少为所造不死生物每HD 25gp的缟玛瑙宝石"
     },
+    "Torrent of Elemental Rage": {
+      "actions": [
+        {
+          "name": "使用"
+        }
+      ]
+    },
     "Torrent of Elemental Rage (3.5)": {
       "name": "Torrent of Elemental Rage (3.5)",
       "description": "<p>A shimmering torrent of raw elemental power springs into existence, originating from your outstretched palms. The blast resembles a horizontal whirlwind of howling winds, searing flame, and tumbling shrapnel of ice and metal. Any creature in the area of effect must make a Reflex save or take 8d6 points of damage from a variety of effects—2d6 points of fire damage, 2d6 points of cold damage, 2d6 points of sonic damage, and 2d6 points of slashing damage that overcomes adamantine damage reduction.</p><p>The elemental line is an ongoing effect that persists for as long as you remain concentrating on it, up to 1 round for every three levels you possess (maximum 6 rounds). The line affects any creatures that pass through it on their turn, requiring them to make Reflex saves or take damage as noted.</p><p>On your turn you may shift the line’s position as you please. Moving the line does not cause it to sweep through intermediary squares but only affects creatures in its new area of effect.</p>",
@@ -45764,6 +45861,14 @@
         }
       ],
       "materials": "一块宝石, 被囚困的生物所拥有的每个HD价值1000gp"
+    },
+    "Traveling Dream": {
+      "name": "梦境旅游 (Traveling Dream)",
+      "actions": [
+        {
+          "name": "使用"
+        }
+      ]
     },
     "Traveling Dream (3.5)": {
       "name": "Traveling Dream (3.5)",
@@ -47244,6 +47349,20 @@
         }
       ]
     },
+    "Veil of Ash": {
+      "actions": [
+        {
+          "name": "施法",
+          "savingThrow": "强韧无效",
+          "target": "一个生物",
+          "duration": "1 轮/等级",
+          "range": "近距"
+        }
+      ],
+      "materials": "一小撮灰烬",
+      "name": "灰烬面纱 (Veil of Ash)",
+      "description": "<p>这个法术在目标的面部周围出现一小团灼热的、令人窒息的灰烬。该生物必须通过一次强韧豁免检定，否则将受到1d6点火焰伤害且目盲。在法术持续的每轮中，受术者必须对伤害和目盲重新进行豁免。目标必须有一个可辨别的解剖结构，且最多只有一个头，才会目盲。不死生物、构装体、没有眼睛或者不依靠视觉感知周围环境的生物会被这个法术伤害，但不会目盲。</p><p>常风(每小时11 + 英里)在两轮内驱散灰烬云; 强风(每小时21 + 英里)在一轮内驱散灰烬云。</p><p>该法术在水下无效。</p>"
+    },
     "Veil of Ash (3.5)": {
       "name": "Veil of Ash (3.5)",
       "description": "<p>This spell causes a small cloud of searing, choking ash to appear around the face of the target. The creature must succeed at a Fortitude saving throw or take 1d6 points of fire damage and be @UUID[Compendium.pf1.pf1e-rules.NSqfXaj4MevUR2uJ.JournalEntryPage.A9KUpd2bsdZZsQqj]{blinded}. The victim must make a new save against damage and blindness for each round the spell persists. The target must have a discernable anatomy and no more than one head in order to be blinded. Undead, constructs, and creatures without eyes or who don’t rely on sight to sense their surroundings can be damaged by this spell, but not blinded.</p><p>A moderate wind (11+ mph) disperses the ash cloud in 2 rounds; a strong wind (21+ mph) disperses the cloud in 1 round.</p><p>This spell does not function underwater.</p>",
@@ -48591,6 +48710,18 @@
           "range": "接触"
         }
       ]
+    },
+    "Water Shield": {
+      "actions": [
+        {
+          "name": "施法",
+          "target": "自己",
+          "duration": "1轮/等级（可解消）",
+          "range": "个人"
+        }
+      ],
+      "name": "水盾 (Water Shield)",
+      "description": "<p>该法术将你包围在一股清澈的酸液中，有助于偏转攻击并伤害近战攻击你的生物。不断向上涌动的液体为你提供了一定程度的保护，庇护你只受到基于酸和火的攻击的一半伤害。如果这样的攻击允许通过反射豁免以将伤害减半，那么你在成功豁免时不会受到伤害。</p><p>任何用身体或手持武器攻击你的生物都会对你造成正常伤害，但同时攻击者会受到1d6+每2施法者等级1点（最高+10）的酸蚀伤害。如果攻击者具有法术抗力，则它适用于此效果。挥舞着特殊触及武器的生物在攻击你时不会受到这种伤害。</p>"
     },
     "Water Shield (3.5)": {
       "name": "Water Shield (3.5)",

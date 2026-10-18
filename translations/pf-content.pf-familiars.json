@@ -1,0 +1,1993 @@
+{
+    "label": "魔宠",
+    "entries": {
+        "Almiraj": {
+            "name": "独角兔 (Almiraj)",
+            "tokenName": "独角兔"
+        },
+        "Arbiter": {
+            "name": "仲裁者 (Arbiter)",
+            "items": {
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                },
+                "Outsider (Extraplanar, Inevitable, Lawful)": {
+                    "name": "异界生物 (Outsider (Extraplanar, Inevitable, Lawful))"
+                },
+                "Short Sword": {
+                    "name": "短剑 (Short Sword)"
+                }
+            },
+            "tokenName": "仲裁者"
+        },
+        "Archaeopteryx": {
+            "name": "始祖鸟 (Archaeopteryx)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "始祖鸟"
+        },
+        "Arctic Hare": {
+            "name": "北极兔 (Arctic Hare)",
+            "tokenName": "北极兔"
+        },
+        "Arctic Tern": {
+            "name": "北极燕鸥 (Arctic Tern)",
+            "tokenName": "北极燕鸥"
+        },
+        "Armadillo": {
+            "name": "犰狳 (Armadillo)",
+            "tokenName": "犰狳"
+        },
+        "Augur, Kyton": {
+            "name": "邪窥魔 (Augur, Kyton)",
+            "items": {
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Outsider (Evil, Extraplanar, Kyton, Lawful)": {
+                    "name": "异界生物 (Outsider (Evil, Extraplanar, Kyton, Lawful))"
+                },
+                "Unnerving Gaze": {
+                    "name": "不安凝视 (Unnerving Gaze)"
+                }
+            },
+            "tokenName": "邪窥魔"
+        },
+        "Bat": {
+            "name": "蝙蝠 (Bat)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "蝙蝠"
+        },
+        "Beheaded": {
+            "name": "伺服头颅 (Beheaded)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "伺服头颅"
+        },
+        "Blue-Ringed Octopus": {
+            "name": "蓝环章鱼 (Blue-Ringed Octopus)",
+            "items": {
+                "Jet": {
+                    "name": "煤玉 (Jet)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Tentacles": {
+                    "name": "畸变触须 (Tentacles)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "蓝环章鱼"
+        },
+        "Brain Mole": {
+            "name": "脑鼠 (Brain Mole)",
+            "items": {
+                "Second Sight": {
+                    "name": "第二视觉 (Second Sight)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Brain Drain": {
+                    "name": "强取记忆 (Brain Drain)"
+                }
+            },
+            "tokenName": "脑鼠"
+        },
+        "Brownie": {
+            "name": "棕仙 (Brownie)",
+            "items": {
+                "Short Sword": {
+                    "name": "短剑 (Short Sword)"
+                }
+            },
+            "tokenName": "棕仙"
+        },
+        "Butterfly/Moth": {
+            "name": "蝴蝶与蛾 (Butterfly/Moth)",
+            "tokenName": "蝴蝶与蛾"
+        },
+        "Cacodaemon": {
+            "name": "狂躁邪魔 (Cacodaemon)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Outsider (Daemon, Evil, Extraplanar)": {
+                    "name": "异界生物 (Outsider (Daemon, Evil, Extraplanar))"
+                },
+                "Disease": {
+                    "name": "疾病 (Disease)"
+                }
+            },
+            "tokenName": "狂躁邪魔"
+        },
+        "Caligraphy Wyrm": {
+            "name": "书卷龙 (Caligraphy Wyrm)",
+            "items": {
+                "Change Shape": {
+                    "name": "改变外形 (Change Shape)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "书卷龙"
+        },
+        "Carbuncle": {
+            "name": "卡班克尔 (Carbuncle)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Empath": {
+                    "name": "移情感知 (Empath)"
+                }
+            },
+            "tokenName": "卡班克尔"
+        },
+        "Cassisian": {
+            "name": "圣盔天使 (Cassisian)",
+            "items": {
+                "Outsider (Angel, Extraplanar, Good)": {
+                    "name": "异界生物 (Outsider (Angel, Extraplanar, Good))"
+                }
+            },
+            "tokenName": "圣盔天使"
+        },
+        "Cat": {
+            "name": "猫 (Cat)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "猫"
+        },
+        "Cat Sith": {
+            "name": "猫妖精 (Cat Sith)",
+            "items": {
+                "Ability Focus": {
+                    "name": "能力专攻 (Ability Focus)"
+                },
+                "Magical Beast": {
+                    "name": "魔法兽 (Magical Beast)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Stealthy": {
+                    "name": "隐秘 (Stealthy)"
+                }
+            },
+            "tokenName": "猫妖精"
+        },
+        "Caypup": {
+            "name": "凯登犬 (Caypup)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Outsider (Native)": {
+                    "name": "异界生物 (Outsider (Native))"
+                }
+            },
+            "tokenName": "凯登犬"
+        },
+        "Ceru": {
+            "name": "阇卢兽 (Ceru)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "阇卢兽"
+        },
+        "Chicken": {
+            "name": "鸡 (Chicken)",
+            "tokenName": "鸡"
+        },
+        "Chuspiki": {
+            "name": "丘斯皮基 (Chuspiki)",
+            "items": {
+                "Precise Shot": {
+                    "name": "精准射击 (Precise Shot)"
+                },
+                "Point-Blank Shot": {
+                    "name": "近距射击 (Point-Blank Shot)"
+                },
+                "Magical Beast (Air)": {
+                    "name": "魔法兽 (Magical Beast (Air))"
+                },
+                "Basic Aerokinesis": {
+                    "name": "基础大空念力 (Basic Aerokinesis)"
+                },
+                "Air Blast": {
+                    "name": "突风 (Air Blast)"
+                }
+            },
+            "tokenName": "丘斯皮基"
+        },
+        "Clockwork Familiar": {
+            "name": "发条魔宠 (Clockwork Familiar)",
+            "items": {
+                "Construct (Clockwork)": {
+                    "name": "构装体 (Construct (Clockwork))"
+                },
+                "Advice": {
+                    "name": "忠告 (Advice)"
+                },
+                "Lightning Reflexes": {
+                    "name": "闪电反射 (Lightning Reflexes)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Weapon Finesse": {
+                    "name": "武器娴熟 (Weapon Finesse)"
+                },
+                "Improved Initiative": {
+                    "name": "精通先攻 (Improved Initiative)"
+                },
+                "Alertness": {
+                    "name": "警觉 (Alertness)"
+                }
+            },
+            "tokenName": "发条魔宠"
+        },
+        "Cockroach": {
+            "name": "蟑螂 (Cockroach)",
+            "tokenName": "蟑螂"
+        },
+        "Compsognathus": {
+            "name": "秀颌龙 (Compsognathus)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "秀颌龙"
+        },
+        "Coral Capuchin": {
+            "name": "珊瑚卷尾猴 (Coral Capuchin)",
+            "items": {
+                "Magical Beast (Aquatic)": {
+                    "name": "魔法兽 (Magical Beast (Aquatic))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "珊瑚卷尾猴"
+        },
+        "Crab, King": {
+            "name": "帝王蟹 (Crab, King)",
+            "items": {
+                "Water Dependency": {
+                    "name": "依赖水源 (Water Dependency)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "帝王蟹"
+        },
+        "Creeper Ivy": {
+            "name": "爬藤常春藤 (Creeper Ivy)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "爬藤常春藤"
+        },
+        "Cyphergull": {
+            "name": "密语海鸥 (Cyphergull)",
+            "items": {
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "密语海鸥"
+        },
+        "Cythnigot, Qlippoth": {
+            "name": "寄尸魔 (Cythnigot, Qlippoth)",
+            "items": {
+                "Outsider (Chaotic, Evil, Extraplanar, Qlippoth)": {
+                    "name": "异界生物 (Outsider (Chaotic, Evil, Extraplanar, Qlippoth))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "寄尸魔"
+        },
+        "Dire Rat": {
+            "name": "凶暴鼠 (Dire Rat)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Disease": {
+                    "name": "疾病 (Disease)"
+                }
+            },
+            "tokenName": "凶暴鼠"
+        },
+        "Dodo": {
+            "name": "渡渡鸟 (Dodo)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "渡渡鸟"
+        },
+        "Dolphin, Popoto": {
+            "name": "毛依海豚 (Dolphin, Popoto)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "毛依海豚"
+        },
+        "Donkey Rat": {
+            "name": "驴鼠 (Donkey Rat)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "驴鼠"
+        },
+        "Doru, Div": {
+            "name": "飞颅妖 (Doru, Div)",
+            "items": {
+                "Outsider (Div, Evil, Extraplanar)": {
+                    "name": "异界生物 (Outsider (Div, Evil, Extraplanar))"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Weapon Focus": {
+                    "name": "武器专攻 (Weapon Focus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "飞颅妖"
+        },
+        "Dwarf Caiman": {
+            "name": "钝吻古鳄 (Dwarf Caiman)",
+            "items": {
+                "Sprint": {
+                    "name": "冲刺 (Sprint)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "钝吻古鳄"
+        },
+        "Dweomer Cap": {
+            "name": "术法菇 (Dweomer Cap)",
+            "tokenName": "术法菇"
+        },
+        "Dweomercat Cub": {
+            "name": "魔猫幼崽 (Dweomercat Cub)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "魔猫幼崽"
+        },
+        "Esipil, Sahkil": {
+            "name": "假蜱魔 (Esipil, Sahkil)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Outsider (Evil, Extraplanar, Sahkil)": {
+                    "name": "异界生物 (Outsider (Evil, Extraplanar, Sahkil))"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "假蜱魔"
+        },
+        "Faerie Dragon": {
+            "name": "仙灵龙 (Faerie Dragon)",
+            "items": {
+                "Spells": {
+                    "name": "法术 (Spells)"
+                },
+                "Dodge": {
+                    "name": "闪避 (Dodge)"
+                },
+                "Breath Weapon": {
+                    "name": "喷吐武器 (Breath Weapon)"
+                },
+                "Acrobatic": {
+                    "name": "特技专家 (Acrobatic)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "仙灵龙"
+        },
+        "Familiar Automaton": {
+            "name": "魔宠灵导械 (Familiar Automaton)",
+            "items": {
+                "Disease": {
+                    "name": "疾病 (Disease)"
+                },
+                "Construct (Automaton, Extraplanar)": {
+                    "name": "构装体 (Construct (Automaton, Extraplanar))"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "魔宠灵导械"
+        },
+        "Fire Salamander": {
+            "name": "火蝾螈 (Fire Salamander)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "火蝾螈"
+        },
+        "Flowering Lattice": {
+            "name": "花格藤 (Flowering Lattice)",
+            "tokenName": "花格藤"
+        },
+        "Flying Fox": {
+            "name": "飞狐 (Flying Fox)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "飞狐"
+        },
+        "Flying Squirrel": {
+            "name": "鼯鼠 (Flying Squirrel)",
+            "items": {
+                "Glide": {
+                    "name": "滑翔术 (Glide)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "鼯鼠"
+        },
+        "Fox": {
+            "name": "狐狸 (Fox)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "狐狸"
+        },
+        "Galluvix": {
+            "name": "鸡狐兽 (Galluvix)",
+            "items": {
+                "Deceitful": {
+                    "name": "诈欺师 (Deceitful)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "鸡狐兽"
+        },
+        "Giant Flea": {
+            "name": "巨跳蚤 (Giant Flea)",
+            "items": {
+                "Disease": {
+                    "name": "疾病 (Disease)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "巨跳蚤"
+        },
+        "Giant Isopod": {
+            "name": "深海巨虱 (Giant Isopod)",
+            "tokenName": "深海巨虱"
+        },
+        "Giant Tardigrade": {
+            "name": "巨缓步动物 (Giant Tardigrade)",
+            "items": {
+                "Hardy": {
+                    "name": "强壮 (Hardy)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "巨缓步动物"
+        },
+        "Goat": {
+            "name": "山羊 (Goat)",
+            "items": {
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Nimble Moves": {
+                    "name": "灵狐步 (Nimble Moves)"
+                }
+            },
+            "tokenName": "山羊"
+        },
+        "Greensting Scorpion": {
+            "name": "绿刺蝎 (Greensting Scorpion)",
+            "items": {
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "绿刺蝎"
+        },
+        "Harbinger Archon": {
+            "name": "预兆圣使 (Harbinger Archon)",
+            "items": {
+                "Wrath": {
+                    "name": "狂怒 (Wrath)"
+                },
+                "Outsider (Archon, Extraplanar, Good, Lawful)": {
+                    "name": "异界生物 (Outsider (Archon, Extraplanar, Good, Lawful))"
+                }
+            },
+            "tokenName": "预兆圣使"
+        },
+        "Hawk": {
+            "name": "鹰 (Hawk)",
+            "tokenName": "鹰"
+        },
+        "Hedgehog": {
+            "name": "刺猬 (Hedgehog)",
+            "items": {
+                "Athletic": {
+                    "name": "运动健将 (Athletic)"
+                }
+            },
+            "tokenName": "刺猬"
+        },
+        "Hellfire Ignis": {
+            "name": "狱火之燃 (Hellfire Ignis)",
+            "items": {
+                "Fey (Fire)": {
+                    "name": "精类 (Fey (Fire))"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Step Up": {
+                    "name": "快步跟进 (Step Up)"
+                },
+                "Combat Reflexes": {
+                    "name": "战斗反射 (Combat Reflexes)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "狱火之燃"
+        },
+        "Homunculus": {
+            "name": "何蒙库鲁兹 (Homunculus)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Telepathic Link": {
+                    "name": "连通心灵感应 (Telepathic Link)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Construct Traits": {
+                    "name": "构装体特性 (Construct Traits)"
+                }
+            },
+            "tokenName": "何蒙库鲁兹"
+        },
+        "Horned Lizard": {
+            "name": "角蜥 (Horned Lizard)",
+            "items": {
+                "Run": {
+                    "name": "飞跑 (Run)"
+                },
+                "Camouflage": {
+                    "name": "伪装 (Camouflage)"
+                }
+            },
+            "tokenName": "角蜥"
+        },
+        "House Centipede": {
+            "name": "蚰蜒 (House Centipede)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "蚰蜒"
+        },
+        "Imp": {
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Outsider (Devil, Evil, Extraplanar, Lawful)": {
+                    "name": "异界生物 (Outsider (Devil, Evil, Extraplanar, Lawful))"
+                },
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                }
+            },
+            "name": "小魔鬼 (Imp)"
+        },
+        "Impundulu": {
+            "name": "因彭杜鲁 (Impundulu)",
+            "items": {
+                "Vital Strike": {
+                    "name": "要害打击 (Vital Strike)"
+                },
+                "Hover": {
+                    "name": "盘旋 (Hover)"
+                },
+                "Blood Drain": {
+                    "name": "吸血 (Blood Drain)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Outsider (Evil, Extraplanar, Shapechanger)": {
+                    "name": "异界生物 (Outsider (Evil, Extraplanar, Shapechanger))"
+                },
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                },
+                "Witchcraft": {
+                    "name": "异端魔术 (Witchcraft)"
+                }
+            },
+            "tokenName": "因彭杜鲁"
+        },
+        "Ioun Wyrd": {
+            "name": "命途艾恩石 (Ioun Wyrd)",
+            "items": {
+                "Construct": {
+                    "name": "构装体 (Construct)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "命途艾恩石"
+        },
+        "Isitoq": {
+            "name": "飞翔眼 (Isitoq)",
+            "items": {
+                "Wings": {
+                    "name": "翅膀 (Wings)"
+                },
+                "Daze": {
+                    "name": "晕眩术 (Daze)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "飞翔眼"
+        },
+        "Jerboa": {
+            "name": "跳鼠 (Jerboa)",
+            "tokenName": "跳鼠"
+        },
+        "Kakapo": {
+            "name": "鸮鹦鹉 (Kakapo)",
+            "items": {
+                "Glide": {
+                    "name": "滑翔术 (Glide)"
+                }
+            },
+            "tokenName": "鸮鹦鹉"
+        },
+        "Katroome": {
+            "name": "卡托姆 (Katroome)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "卡托姆"
+        },
+        "Keulia": {
+            "name": "库利亚 (Keulia)",
+            "tokenName": "库利亚"
+        },
+        "Koala": {
+            "name": "树袋熊 (Koala)",
+            "tokenName": "树袋熊"
+        },
+        "Lamprey": {
+            "name": "八目鳗 (Lamprey)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "八目鳗"
+        },
+        "Lemming": {
+            "name": "旅鼠 (Lemming)",
+            "tokenName": "旅鼠"
+        },
+        "Leopard Slug": {
+            "name": "豹纹蛞蝓 (Leopard Slug)",
+            "tokenName": "豹纹蛞蝓"
+        },
+        "Lich Newt": {
+            "name": "巫妖蝾螈 (Lich Newt)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Animal (Aquatic)": {
+                    "name": "动物 (Animal (Aquatic))"
+                }
+            },
+            "tokenName": "巫妖蝾螈"
+        },
+        "Liminal Sprite": {
+            "name": "缝隙妖精 (Liminal Sprite)",
+            "items": {
+                "Rapier": {
+                    "name": "细剑 (Rapier)"
+                },
+                "Versatile Performance": {
+                    "name": "触类旁通 (Versatile Performance)"
+                }
+            },
+            "tokenName": "缝隙妖精"
+        },
+        "Lizard": {
+            "name": "蜥蜴 (Lizard)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "蜥蜴"
+        },
+        "Lyrakien": {
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Outsider (Azata, Chaotic, Extraplanar, Good)": {
+                    "name": "异界生物 (Outsider (Azata, Chaotic, Extraplanar, Good))"
+                },
+                "Agile Maneuvers": {
+                    "name": "灵巧武艺 (Agile Maneuvers)"
+                }
+            },
+            "name": "莉拉妖精 (Lyrakien)"
+        },
+        "Mamiwa": {
+            "name": "风暴蝾螈 (Mamiwa)",
+            "items": {
+                "Elemental Blast": {
+                    "name": "元素爆发 (Elemental Blast)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Outsider (Air, Elemental, Native, Water)": {
+                    "name": "异界生物 (Outsider (Air, Elemental, Native, Water))"
+                }
+            },
+            "tokenName": "风暴蝾螈"
+        },
+        "Mandragora": {
+            "name": "曼陀罗草 (Mandragora)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "曼陀罗草"
+        },
+        "Margay Cat": {
+            "name": "长尾虎猫 (Margay Cat)",
+            "tokenName": "长尾虎猫"
+        },
+        "Meerkat": {
+            "name": "狐獴 (Meerkat)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "狐獴"
+        },
+        "Mephit": {
+            "name": "魔蝠 (Mephit)",
+            "items": {
+                "Breath Weapon": {
+                    "name": "喷吐武器 (Breath Weapon)"
+                },
+                "Outsider (Varies)": {
+                    "name": "异界生物 (Outsider (Varies))"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "魔蝠"
+        },
+        "Mockingfey": {
+            "name": "拟容精 (Mockingfey)",
+            "items": {
+                "Fey": {
+                    "name": "精类 (Fey)"
+                },
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                },
+                "Mock": {
+                    "name": "嘲弄 (Mock)"
+                }
+            },
+            "tokenName": "拟容精"
+        },
+        "Mole": {
+            "name": "鼹鼠 (Mole)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "鼹鼠"
+        },
+        "Monkey": {
+            "name": "猴子 (Monkey)",
+            "tokenName": "猴子"
+        },
+        "Nehushtan": {
+            "name": "铜蛇 (Nehushtan)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Mobility": {
+                    "name": "灵活移动 (Mobility)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "铜蛇"
+        },
+        "Nosoi, Psychopomp": {
+            "name": "疫鸟 (Nosoi, Psychopomp)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Outsider (Extraplanar, Psychopomp)": {
+                    "name": "异界生物 (Outsider (Extraplanar, Psychopomp))"
+                }
+            },
+            "tokenName": "疫鸟"
+        },
+        "Nuglub": {
+            "name": "暴虐小魔怪 (Nuglub)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "暴虐小魔怪"
+        },
+        "Nycar": {
+            "name": "倪卡龙 (Nycar)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Dragon (Aquatic)": {
+                    "name": "魔宠：巨龙 (Dragon (Aquatic))"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Ferocity": {
+                    "name": "凶猛 (Ferocity)"
+                }
+            },
+            "tokenName": "倪卡龙"
+        },
+        "Otter": {
+            "name": "水獭 (Otter)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "水獭"
+        },
+        "Owl": {
+            "name": "枭 (Owl)",
+            "tokenName": "枭"
+        },
+        "Paracletus": {
+            "items": {
+                "Emotion Aura": {
+                    "name": "情绪灵氲 (Emotion Aura)"
+                },
+                "Outsider (Aeon, Extraplanar)": {
+                    "name": "异界生物 (Outsider (Aeon, Extraplanar))"
+                },
+                "Great Fortitude": {
+                    "name": "强韧加强 (Great Fortitude)"
+                },
+                "Iron Will": {
+                    "name": "钢铁意志 (Iron Will)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "name": "御衡者 (Paracletus)"
+        },
+        "Peacock": {
+            "name": "孔雀 (Peacock)",
+            "tokenName": "孔雀"
+        },
+        "Peafowl": {
+            "name": "孔雀 (Peafowl)",
+            "tokenName": "孔雀"
+        },
+        "Penguin": {
+            "name": "企鹅 (Penguin)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "企鹅"
+        },
+        "Petrifern": {
+            "name": "化石蕨 (Petrifern)",
+            "items": {
+                "Toxic Secretion": {
+                    "name": "毒躯 (Toxic Secretion)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "化石蕨"
+        },
+        "Petromin": {
+            "name": "彼特灵 (Petromin)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "彼特灵"
+        },
+        "Pig": {
+            "name": "猪 (Pig)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "猪"
+        },
+        "Pipefox": {
+            "name": "管狐 (Pipefox)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "管狐"
+        },
+        "Platypus": {
+            "name": "鸭嘴兽 (Platypus)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "鸭嘴兽"
+        },
+        "Pooka": {
+            "name": "噗咔精 (Pooka)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Dagger": {
+                    "name": "匕首 (Dagger)"
+                }
+            },
+            "tokenName": "噗咔精"
+        },
+        "Pseudodragon": {
+            "name": "伪龙 (Pseudodragon)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                },
+                "Dragon": {
+                    "name": "魔宠：巨龙 (Dragon)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "伪龙"
+        },
+        "Pseudosphinx": {
+            "name": "伪斯芬克斯 (Pseudosphinx)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "伪斯芬克斯"
+        },
+        "Pseudowyvern": {
+            "name": "双足伪龙 (Pseudowyvern)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                },
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "双足伪龙"
+        },
+        "Psyche Serpent": {
+            "name": "心灵蛇 (Psyche Serpent)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "心灵蛇"
+        },
+        "Ptarmigan": {
+            "name": "高山松鸡 (Ptarmigan)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "高山松鸡"
+        },
+        "Pufferfish": {
+            "name": "河豚鱼 (Pufferfish)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "河豚鱼"
+        },
+        "Puffin": {
+            "name": "海鹦 (Puffin)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "海鹦"
+        },
+        "Pyrausta": {
+            "name": "微火龙 (Pyrausta)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Dragon (Fire)": {
+                    "name": "龙焰 (Dragon (Fire))"
+                },
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                }
+            },
+            "tokenName": "微火龙"
+        },
+        "Quasit": {
+            "name": "小恶魔 (Quasit)",
+            "items": {
+                "Outsider (Chaotic, Demon, Evil, Extraplanar)": {
+                    "name": "异界生物 (Outsider (Chaotic, Demon, Evil, Extraplanar))"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "小恶魔"
+        },
+        "Rabbit": {
+            "name": "兔子 (Rabbit)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "兔子"
+        },
+        "Raccoon": {
+            "name": "浣熊 (Raccoon)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "浣熊"
+        },
+        "Raktavarna": {
+            "name": "化物罗剎 (Raktavarna)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Change Shape": {
+                    "name": "改变外形 (Change Shape)"
+                },
+                "Outsider (Native, Rakshasa, Shapechanger)": {
+                    "name": "异界生物 (Outsider (Native, Rakshasa, Shapechanger))"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "化物罗剎"
+        },
+        "Rat": {
+            "name": "鼠 (Rat)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "鼠"
+        },
+        "Ratling": {
+            "name": "人面鼠 (Ratling)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "人面鼠"
+        },
+        "Raven": {
+            "name": "渡鸦 (Raven)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "渡鸦"
+        },
+        "Ravenous Tumbleweed": {
+            "name": "饥饿风滚草 (Ravenous Tumbleweed)",
+            "items": {
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "饥饿风滚草"
+        },
+        "Razor Fern": {
+            "name": "刀刃蕨 (Razor Fern)",
+            "tokenName": "刀刃蕨"
+        },
+        "Red Panda": {
+            "name": "小熊猫 (Red Panda)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "小熊猫"
+        },
+        "Rhamphorhynchus": {
+            "name": "喙嘴翼龙 (Rhamphorhynchus)",
+            "items": {
+                "Lightning Reflexes": {
+                    "name": "闪电反射 (Lightning Reflexes)"
+                },
+                "Evasion": {
+                    "name": "反射闪避 (Evasion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "喙嘴翼龙"
+        },
+        "Rock Tuatara": {
+            "name": "岩喙头蜥 (Rock Tuatara)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Tail Slap": {
+                    "name": "尾扫 (Tail Slap)"
+                }
+            },
+            "tokenName": "岩喙头蜥"
+        },
+        "Sawleg Locust": {
+            "name": "锯腿蝗 (Sawleg Locust)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "锯腿蝗"
+        },
+        "Scarlet Spider": {
+            "name": "猩红蜘蛛 (Scarlet Spider)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "猩红蜘蛛"
+        },
+        "Seal": {
+            "name": "海豹 (Seal)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "海豹"
+        },
+        "Seru": {
+            "name": "翼蛇 (Seru)",
+            "items": {
+                "Spit Venom": {
+                    "name": "毒液喷吐 (Spit Venom)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "翼蛇"
+        },
+        "Shadow Drake": {
+            "name": "影龙兽 (Shadow Drake)",
+            "items": {
+                "Shadow Blend": {
+                    "name": "融影 (Shadow Blend)"
+                },
+                "Dragon (Cold)": {
+                    "name": "魔宠：巨龙 (Dragon (Cold))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Tail Slap": {
+                    "name": "尾扫 (Tail Slap)"
+                },
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                },
+                "Weapon Finesse": {
+                    "name": "武器娴熟 (Weapon Finesse)"
+                }
+            },
+            "tokenName": "影龙兽"
+        },
+        "Shikigami": {
+            "name": "式神 (Shikigami)",
+            "items": {
+                "Alertness": {
+                    "name": "警觉 (Alertness)"
+                },
+                "Outsider (Kami, Native)": {
+                    "name": "异界生物 (Outsider (Kami, Native))"
+                },
+                "Improvised Weapon Mastery": {
+                    "name": "临时武器熟稔 (Improvised Weapon Mastery)"
+                }
+            },
+            "tokenName": "式神"
+        },
+        "Shimmerwing Dragonfly": {
+            "name": "闪翼蜻蜓 (Shimmerwing Dragonfly)",
+            "tokenName": "闪翼蜻蜓"
+        },
+        "Silvanshee": {
+            "name": "灵猫神使 (Silvanshee)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Outsider (Agathion, Extraplanar, Good)": {
+                    "name": "异界生物 (Outsider (Agathion, Extraplanar, Good))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "灵猫神使"
+        },
+        "Sin Seeker": {
+            "name": "寻罪者 (Sin Seeker)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Detect Alignment": {
+                    "name": "侦测阵营 (Detect Alignment)"
+                }
+            },
+            "tokenName": "寻罪者"
+        },
+        "Skunk": {
+            "name": "臭鼬 (Skunk)",
+            "items": {
+                "Spray": {
+                    "name": "喷涌 (Spray)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "臭鼬"
+        },
+        "Skvader": {
+            "name": "斯克维德 (Skvader)",
+            "items": {
+                "Attach": {
+                    "name": "缠身 (Attach)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "斯克维德"
+        },
+        "Sloth": {
+            "name": "树獭 (Sloth)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "树獭"
+        },
+        "Small Aether Elemental": {
+            "items": {
+                "Telekinetic Deflection": {
+                    "name": "念动偏转 (Telekinetic Deflection)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Outsider (Aether, Elemental, Extraplanar)": {
+                    "name": "异界生物 (Outsider (Aether, Elemental, Extraplanar))"
+                }
+            },
+            "name": "小型以太元素 (Small Aether Elemental)"
+        },
+        "Small Air Elemental": {
+            "name": "小型气元素 (Small Air Elemental)",
+            "items": {
+                "Air Mastery": {
+                    "name": "精通天空 (Air Mastery)"
+                },
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                },
+                "Outsider (Air, Elemental, Extraplanar)": {
+                    "name": "异界生物 (Outsider (Air, Elemental, Extraplanar))"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "小型气元素"
+        },
+        "Small Earth Elemental": {
+            "name": "小型土元素 (Small Earth Elemental)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Outsider (Earth, Elemental, Extraplanar)": {
+                    "name": "异界生物 (Outsider (Earth, Elemental, Extraplanar))"
+                }
+            },
+            "tokenName": "小型土元素"
+        },
+        "Small Fire Elemental": {
+            "name": "小型火元素 (Small Fire Elemental)",
+            "items": {
+                "Outsider (Elemental, Extraplanar, Fire)": {
+                    "name": "异界生物 (Outsider (Elemental, Extraplanar, Fire))"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "小型火元素"
+        },
+        "Small Lightning Elemental": {
+            "name": "小型闪电元素 (Small Lightning Elemental)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "小型闪电元素"
+        },
+        "Small Magma Elemental": {
+            "name": "小型熔岩元素 (Small Magma Elemental)",
+            "items": {
+                "Outsider (Earth, Elemental, Extraplanar, Fire)": {
+                    "name": "异界生物 (Outsider (Earth, Elemental, Extraplanar, Fire))"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "小型熔岩元素"
+        },
+        "Small Water Elemental": {
+            "name": "小型水元素 (Small Water Elemental)",
+            "items": {
+                "Power Attack": {
+                    "name": "猛力攻击 (Power Attack)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Outsider (Elemental, Extraplanar, Water)": {
+                    "name": "异界生物 (Outsider (Elemental, Extraplanar, Water))"
+                }
+            },
+            "tokenName": "小型水元素"
+        },
+        "Smokeshade": {
+            "name": "烟影 (Smokeshade)",
+            "items": {
+                "Amorphous": {
+                    "name": "液化 (Amorphous)"
+                },
+                "Aberration (Extraplanar, Incorporeal)": {
+                    "name": "异怪 (Aberration (Extraplanar, Incorporeal))"
+                },
+                "Hide In Plain Sight": {
+                    "name": "视线躲藏 (Hide In Plain Sight)"
+                }
+            },
+            "tokenName": "烟影"
+        },
+        "Snapping Turtle": {
+            "name": "鹰嘴龟 (Snapping Turtle)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "鹰嘴龟"
+        },
+        "Snark": {
+            "name": "斯纳克 (Snark)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "斯纳克"
+        },
+        "Sootwing Bat": {
+            "name": "黯翼蝠 (Sootwing Bat)",
+            "items": {
+                "Channel Resistance": {
+                    "name": "引导抗力 (Channel Resistance)"
+                },
+                "Disease": {
+                    "name": "疾病 (Disease)"
+                },
+                "Undead": {
+                    "name": "不死生物 (Undead)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "黯翼蝠"
+        },
+        "Spiny Starfish": {
+            "name": "棘海星 (Spiny Starfish)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                }
+            },
+            "tokenName": "棘海星"
+        },
+        "Spirit Oni": {
+            "name": "恶鬼灵 (Spirit Oni)",
+            "items": {
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Outsider (Native, Oni)": {
+                    "name": "异界生物 (Outsider (Native, Oni))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "恶鬼灵"
+        },
+        "Sprite": {
+            "name": "小妖精 (Sprite)",
+            "items": {
+                "Short Sword": {
+                    "name": "短剑 (Short Sword)"
+                }
+            },
+            "tokenName": "小妖精"
+        },
+        "Squirrel": {
+            "name": "松鼠 (Squirrel)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "松鼠"
+        },
+        "Stirge": {
+            "name": "蚊蝠 (Stirge)",
+            "items": {
+                "Blood Drain": {
+                    "name": "吸血 (Blood Drain)"
+                },
+                "Attach": {
+                    "name": "缠身 (Attach)"
+                }
+            },
+            "tokenName": "蚊蝠"
+        },
+        "Suture Vine": {
+            "name": "缝线藤 (Suture Vine)",
+            "tokenName": "缝线藤"
+        },
+        "Tarsier": {
+            "name": "眼镜猴 (Tarsier)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "眼镜猴"
+        },
+        "Tauhoti": {
+            "name": "陶霍提 (Tauhoti)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "陶霍提"
+        },
+        "Thrush": {
+            "name": "画眉鸟 (Thrush)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "画眉鸟"
+        },
+        "Tidepool Dragon": {
+            "name": "潮池龙 (Tidepool Dragon)",
+            "items": {
+                "Attach": {
+                    "name": "缠身 (Attach)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Breath Weapon": {
+                    "name": "喷吐武器 (Breath Weapon)"
+                }
+            },
+            "tokenName": "潮池龙"
+        },
+        "Toad": {
+            "name": "蟾蜍 (Toad)",
+            "tokenName": "蟾蜍"
+        },
+        "Torble": {
+            "name": "托布尔 (Torble)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "托布尔"
+        },
+        "Trilobite": {
+            "name": "三叶虫 (Trilobite)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "三叶虫"
+        },
+        "Tripurasura": {
+            "name": "奇叵修罗 (Tripurasura)",
+            "items": {
+                "Outsider (Asura, Evil, Extraplanar, Lawful)": {
+                    "name": "异界生物 (Outsider (Asura, Evil, Extraplanar, Lawful))"
+                },
+                "Change Shape": {
+                    "name": "改变外形 (Change Shape)"
+                },
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "奇叵修罗"
+        },
+        "Tuatara": {
+            "name": "喙头蜥 (Tuatara)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "喙头蜥"
+        },
+        "Tullimonstrum": {
+            "name": "塔利怪 (Tullimonstrum)",
+            "items": {
+                "All-around Vision": {
+                    "name": "全局视野 (All-around Vision)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Attach": {
+                    "name": "缠身 (Attach)"
+                }
+            },
+            "tokenName": "塔利怪"
+        },
+        "Turtle": {
+            "name": "龟 (Turtle)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "龟"
+        },
+        "Typhilipede": {
+            "name": "蝠虫 (Typhilipede)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Outsider (Evil, Extraplanar, Lawful)": {
+                    "name": "异界生物 (Outsider (Evil, Extraplanar, Lawful))"
+                }
+            },
+            "tokenName": "蝠虫"
+        },
+        "Vampire Squid": {
+            "name": "吸血鬼乌贼 (Vampire Squid)",
+            "items": {
+                "Pressure Adaptation": {
+                    "name": "压力适应 (Pressure Adaptation)"
+                },
+                "Tentacles": {
+                    "name": "畸变触须 (Tentacles)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "吸血鬼乌贼"
+        },
+        "Viper": {
+            "name": "蝮蛇 (Viper)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                }
+            },
+            "tokenName": "蝮蛇"
+        },
+        "Voidworm": {
+            "name": "虚空虫 (Voidworm)",
+            "items": {
+                "Freedom Of Movement": {
+                    "name": "行动自如 (Freedom Of Movement)"
+                },
+                "Confusion": {
+                    "name": "困惑术 (Confusion)"
+                },
+                "Outsider (Chaotic, Extraplanar, Protean, Shapechanger)": {
+                    "name": "异界生物 (Outsider (Chaotic, Extraplanar, Protean, Shapechanger))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Tail Slap": {
+                    "name": "尾扫 (Tail Slap)"
+                }
+            },
+            "tokenName": "虚空虫"
+        },
+        "Wallaby": {
+            "name": "沙袋鼠 (Wallaby)",
+            "items": {
+                "Skill Focus": {
+                    "name": "技能专攻 (Skill Focus)"
+                },
+                "Animal": {
+                    "name": "动物 (Animal)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "沙袋鼠"
+        },
+        "Weasel": {
+            "name": "黄鼠狼 (Weasel)",
+            "items": {
+                "Attach": {
+                    "name": "缠身 (Attach)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "黄鼠狼"
+        },
+        "Wolpertinger": {
+            "name": "沃尔珀丁格 (Wolpertinger)",
+            "items": {
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "沃尔珀丁格"
+        },
+        "Wysp, Aether": {
+            "items": {
+                "Outsider (Aether, Elemental)": {
+                    "name": "异界生物 (Outsider (Aether, Elemental))"
+                }
+            },
+            "name": "以太微灵（Aether） (Wysp, Aether)"
+        },
+        "Wysp, Air": {
+            "name": "气系微灵 (Wysp, Air)",
+            "items": {
+                "Outsider (Air, Elemental)": {
+                    "name": "异界生物 (Outsider (Air, Elemental))"
+                },
+                "Flyby Attack": {
+                    "name": "飞越攻击 (Flyby Attack)"
+                }
+            },
+            "tokenName": "气系微灵"
+        },
+        "Wysp, Earth": {
+            "name": "土系微灵 (Wysp, Earth)",
+            "items": {
+                "Toughness": {
+                    "name": "健壮 (Toughness)"
+                },
+                "Outsider (Earth, Elemental)": {
+                    "name": "异界生物 (Outsider (Earth, Elemental))"
+                }
+            },
+            "tokenName": "土系微灵"
+        },
+        "Wysp, Fire": {
+            "name": "火系微灵 (Wysp, Fire)",
+            "items": {
+                "Improved Initiative": {
+                    "name": "精通先攻 (Improved Initiative)"
+                },
+                "Outsider (Elemental, Fire)": {
+                    "name": "异界生物 (Outsider (Elemental, Fire))"
+                }
+            },
+            "tokenName": "火系微灵"
+        },
+        "Wysp, Water": {
+            "name": "水系微灵 (Wysp, Water)",
+            "items": {
+                "Outsider (Elemental, Water)": {
+                    "name": "异界生物 (Outsider (Elemental, Water))"
+                },
+                "Drench": {
+                    "name": "浸湿 (Drench)"
+                }
+            },
+            "tokenName": "水系微灵"
+        },
+        "Xiao": {
+            "name": "嚣猴 (Xiao)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "嚣猴"
+        },
+        "Zoog": {
+            "name": "祖各 (Zoog)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "祖各"
+        }
+    }
+}

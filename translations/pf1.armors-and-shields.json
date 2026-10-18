@@ -15,6 +15,23 @@
     }
   },
   "entries": {
+    "Agile Breastplate": {
+      "name": "灵活胸甲 (Agile Breastplate)",
+      "description": "<p>这副@UUID[Compendium.pf1.armors-and-shields.Item.5TzaS38RPAx1oj9p]{胸甲}在打造时使用了特别的改装，使得穿戴者在装备它的时候可以进行更为灵巧的身体活动。灵活胸甲在穿戴者进行攀爬检定、以及跳跃的特技检定时防具检定减值仅有-1（精制和秘银材质的灵活胸甲会同时降低这一减值和通常的防具检定减值）。</p>"
+    },
+    "Agile Half-Plate": {
+      "name": "灵活半身甲 (Agile Half-Plate)",
+      "description": "<p>这副@UUID[Compendium.pf1.armors-and-shields.Item.Y10QTnY9wVXg5VCm]{半身甲}在打造时使用了特别的改装，使得穿戴者在装备它的时候可以进行更为灵巧的身体活动。灵活半身甲在穿戴者进行攀爬检定、以及跳跃的特技检定时防具检定减值仅有-4（秘银材质和精制品会像正常情况一样继续降低此减值）。除此之外，灵活半身甲的穿戴者可以在奔跑的时候进行四倍速度移动，而不是像其他重甲一样只能进行三倍速度移动。</p>"
+    },
+    "Armor of Insults": {
+      "name": "骂阵护甲 (Armor of Insults)",
+      "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 7；<strong>部位</strong> 护甲；<strong>价格</strong> 16,175 gp；<strong>重量</strong> 20磅</p><p>这件+1镶嵌皮甲上的每一枚金属嵌钉，看起来都不像普通的铆钉，而像一张张冷嘲热讽的小脸。每天1次，穿戴者可以命令这些“嘴”对60尺内每一个能看到并听到穿戴者的敌对生物倾泻一通污言秽语。每个这样的生物都必须通过DC 16的意志豁免，否则会在接下来的7轮内产生攻击穿戴者的强烈冲动。如果该生物在它的下一个回合无法攻击穿戴者，或者攻击穿戴者会使其身陷险境（比如穿过受威胁的方格、冲锋跳入陷坑等），则它在那个回合可以如常行动。这是一种影响心灵的音波效果，对不使用口头语言的生物无效。</p><h3>制作</h3><p><strong>需求</strong> 制造魔法武器和防具、困惑术；<strong>成本</strong> 7,675 gp</p>",
+      "actions": [
+        {
+          "name": "使用"
+        }
+      ]
+    },
     "Armored Coat": {
       "name": "装甲外套 (Armored Coat)",
       "description": "<p>这套结实坚固的皮大衣内侧缝缀有金属护板以资加固。装甲外套比轻型盔甲更笨重，但防护效果不如大多数中型盔甲。它的好处是穿戴者只需要一个移动动作就可以穿上或脱下它（装甲外套没有“快速着甲”选项）。如果将装甲外套套在其他护甲之外，护甲加值取二者中较好的，其他各项数值则取二者中较差的；与重型盔甲一同穿着时，装甲外套不起作用。只有穿在最外层的护甲、衣物或物品的魔法效果才会生效。</p>"
@@ -67,6 +84,10 @@
           "name": "盾击"
         }
       ]
+    },
+    "Elven Chain": {
+      "name": "精灵链甲 (Elven Chain)",
+      "description": "<p><strong>灵光</strong> 无灵氲（非魔法）；<strong>部位</strong> 护甲；<strong>价格</strong> 5,150 gp；<strong>重量</strong> 20磅</p><p>这件异乎寻常轻便的@UUID[Compendium.pf1.armors-and-shields.Item.unY9jt1B8a5bbnzO]{链甲}是用极其精细的秘银小环编织而成的。这件护甲在各方面都被视为轻甲，包括判定护甲擅长时。它具有20%的奥术失败率、+4的最大敏捷加值和-2的防具检定减值。</p>"
     },
     "Field Plate": {
       "name": "战铠 (Field Plate)",

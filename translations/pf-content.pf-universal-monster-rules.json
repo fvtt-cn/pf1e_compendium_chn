@@ -1,0 +1,689 @@
+{
+    "label": "通用怪物规则",
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        }
+    },
+    "entries": {
+        "Ability Damage and Drain": {
+            "name": "属性伤害和吸取 (Ability Damage and Drain)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：特殊攻击和个体攻击</p><p>一些攻击或者特殊能力会造成属性伤害或吸取。属性伤害可以被自然治愈，但是属性吸取是永久有效并且只能通过魔法恢复。</p><p><strong>格式</strong>：1d4 力量吸取</p>"
+        },
+        "Abyssal Resurrection": {
+            "name": "深渊复活 (Abyssal Resurrection)",
+            "description": "<p>恶魔领主统治着无底深渊的一层，这巨大的世界不仅是其家园，也提供了能量。如果恶魔领主被杀，尸体迅速腐朽融化 (留下其所持或所携带的一切装备)，灵魂逃回国度里某个隐蔽的场所，立刻于此地复生 (如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术})。恶魔领主该能力生效后一年内无法再度使用。考虑到这一弱点它们通常在这一年里会龟缩不出，依赖国度的防御机能和喽啰来保护自己。此年内再度被杀，或被特殊方式消灭 (比如被某位真神消灭，被特殊目的的神器击杀) 的恶魔领主永久死亡，尸首和过去死掉的恶魔领主堆放在无底深渊的某处。不占据领地的恶魔领主不具备该能力。</p>"
+        },
+        "All-Around Vision": {
+            "name": "全局视野 (All-Around Vision)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>这个生物一次性可以看到所有方向。他不会被夹击。</p><p><strong>格式</strong>：全局视野</p>"
+        },
+        "Amazing Initiative [Mythic]": {
+            "name": "神奇先攻 (Amazing Initiative [Mythic])",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：特殊攻击</p><p>该生物的先攻检定获得加值，数值等同于它的神话阶层。此外，在它的回合以自由动作，它能够花费 1 次@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.y8PMDRCSaeulnqFN]{神话之力}来在该回合获得 1 个额外的标准动作。这个额外标准动作不能用于施法。它在每回合以此方式获得的额外动作不能超过 1 次。</p><p><strong>格式</strong>：神奇先攻</p>"
+        },
+        "Amorphous": {
+            "name": "不定型体 (Amorphous)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>这个生物的身体变幻不定。他免疫精准伤害（例如偷袭）和重击。</p><p><strong>格式</strong>：不定型体</p>"
+        },
+        "Apocalyptic Resurrection": {
+            "name": "天启复苏 (Apocalyptic Resurrection)",
+            "description": "<ul><li><strong>天启复苏（Apocalyptic Resurrection，Ex）</strong>：如果天启驭者被杀死，它的身体会枯萎、腐烂并化为尘土，只留下它所持有或携带的装备，而它会立即在其领地内自己选定的地点复活（如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术}）。天启驭者在 1 年之内无法再次使用该能力，并会尽可能避免直接战斗，直到这 1 年过去。如果它在 1 年之内再次被杀，或被非常规手段所杀（例如被真正的神祇、专为此目的制造的神器或另一位天启驭者所杀），该天启驭者就是永远死去了。发生这种情况时，其余三位天启驭者的 CR 会立即提升 1（通常是获得少量生命骰，并可能将某些属性值提高 2 至 4 点），同时一位全新的天启驭者会升格填补空缺的位置，成为 CR 27 的半神，并拥有自己独特的能力。</li></ul><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Archdevil Traits": {
+            "name": "大魔鬼特性 (Archdevil Traits)",
+            "description": "<p>大魔鬼统治着地狱中的一片领地。大魔鬼是守序邪恶的异界生物，CR 至少为 26。大魔鬼共有以下特性，并且拥有魔鬼亚种 (除非生物条目中另有说明)。</p><p>大魔鬼能如同神祇般授予法术。每位大魔鬼都有一件偏好武器，并授予邪恶领域和守序领域，外加另外两个领域和四个子域。</p><p>大魔鬼的天生武器以及它所持的任何武器，在克服@UUID[Compendium.pf1.template-abilities.Item.7OTFbD9OXXSdFd3Y]{伤害减免}时视为传奇、邪恶且守序。</p><p><strong>气势凶猛（Frightful Presence，Su）</strong>：大魔鬼可以以自由动作启动@UUID[Compendium.pf1.monster-abilities.Item.tbYOVRDBl2uywz2o]{气势凶猛}，作为任何攻击、特殊攻击或类法术能力的一部分，或者通过高声说话来启动。</p><p><strong>地狱复活（Infernal Resurrection，Ex）</strong>：如果大魔鬼被杀，它的身体会崩解成灰烬 (留下其所持或所携带的一切装备)，同时它立即在其领地内自己选定的地点复生 (如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术})。大魔鬼在 1 年内不能再次使用此能力，并且在这一年过去之前会尽可能避免直接战斗。如果它再次被杀，或被非常规手段杀死 (例如被真神，或为此目的而制造的神器)，这位大魔鬼就永远死亡。不掌管领地的大魔鬼不具备此能力 (严格来说，它是一位地狱公爵，而非真正的大魔鬼)。</p><p>@UUID[Compendium.pf1.template-abilities.Item.sY8RqBBoh6bH3QRy]{免疫}属性伤害、属性吸取、魅惑、胁迫、死亡效果、能量吸取和石化。</p><p><strong>语言掌握（Language Mastery，Ex）</strong>：大魔鬼通晓所有语言，如同使用了@UUID[Compendium.pf1.spells.Item.m1rmcpcaixcpz9ib]{巧言术}，但这个能力不是超自然的，也无法被解除。语言学对大魔鬼来说永远是本职技能。</p><p><strong>再生（Regeneration，Ex）</strong>：只有神话伤害，或来自地位相当或更高的生物 (例如另一位大魔鬼、神祇、至高天领主、旧日支配者、驭者或古魔领主) 的伤害才能打断大魔鬼的@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.0mMLZzjWNFFmL8G3]{再生}。</p><p>酸蚀抗性 30，寒冷抗性 30。</p><p><strong>召唤魔鬼（Summon Devils，Sp）</strong>：每天三次，大魔鬼可以以一个迅捷动作召唤总 CR 不超过 20 的任何一只魔鬼或魔鬼组合。此能力其余方面如同@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则，成功率 100%，并视为 9 级法术效果。</p><p>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 300 尺。</p><p><em>（本页为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Attach": {
+            "name": "缠身 (Attach)",
+            "description": "<p><strong>类型</strong>：Ex；位置：个体攻击</p><p>当该生物用列出的攻击命中目标时，他就可以缠绕到该目标上。该生物此时被视为擒抱状态，而目标却否。目标可以像通常那样攻击或者擒抱该生物，或者通过成功的擒抱或脱逃技能检定来摆脱缠身。</p><p><strong>格式</strong>：缠身</p>"
+        },
+        "Bleed": {
+            "name": "出血 (Bleed)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击和个体攻击</p><p>拥有该能力的生物造成的伤口会持续流血，受到该效果的生物每回合开始时遭受额外伤害。出血效果可以被一次 DC 15 的医疗检定或者任何魔法治疗所治愈。该效果每轮造成的伤害根据生物而不同。</p><p><strong>格式</strong>：出血 (2d6)</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Block Attacks [Mythic]": {
+            "name": "招架攻击 (Block Attacks [Mythic])",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：防御能力</p><p>每轮 1 次，当该名生物被近战或远程攻击命中时，它能够尝试使用其最高的攻击加值进行 1 次近战攻击。如果结果超过对抗它的攻击结果，该名生物就会免受这次攻击 (如同攻击失手)。</p><p><strong>格式</strong>：招架攻击</p>"
+        },
+        "Blood Rage": {
+            "name": "鲜血狂怒 (Blood Rage)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>当该生物在战斗中受到伤害，在他的下回合里他可以以一个自由动作进入狂暴状态。他的体质和力量 +2，但是 AC 承受 –2 减值。狂暴持续到战斗结束或者 1 分钟，取较短者。他不能自愿结束狂暴状态。</p><p><strong>格式</strong>：鲜血狂怒</p>"
+        },
+        "Burn": {
+            "name": "燃烧 (Burn)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击和个体攻击</p><p>拥有燃烧特殊攻击的生物会在近战攻击造成伤害时附带额外火焰伤害。那些受到燃烧效果影响的生物必须做反射检定，未通过则会着火，在额外的 1d4 轮中每轮开始时受到列出的火焰伤害 (DC 为 {10+1/2 燃烧生物种族 HD + 燃烧生物的体质修正})。燃烧中的生物可以通过整轮动作重新做一次检定。在地上翻滚扑打可以获得 +4 的豁免加值。用天生武器或徒手攻击命中燃烧中生物的生物，会如同被该燃烧生物命中一样受到火焰伤害，并且必须通过反射检定来避免着火。</p><p><strong>格式</strong>：燃烧 (2d6，DC 15)</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Capsize": {
+            "name": "倾覆 (Capsize)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>拥有此特质的生物可以通过冲锋攻击加上一次战技检定来试图将一艘船弄翻。该检定的 DC 为 25，或者是船长的专业 (水手) 检定结果，两者取高。倾覆生物如果想要弄翻一艘体型大于他的船，那么船体型每大一个等级，该生物在战技检定上额外承受 –10 减值，可累加。</p><p><strong>格式</strong>：倾覆</p>"
+        },
+        "Change Shape": {
+            "name": "改变外形 (Change Shape)",
+            "description": "<p><strong>类型</strong>：Su；位置：特性，如果有特殊能力会单独列出</p><p>拥有此特质的生物获得将外貌改变成一个特定生物或者某种类型生物 (通常是类人生物) 的能力，但保留其大部分自身的物理特性。除非特殊说明，该生物不能使用改变外形能力变成体型比原有体型大或者小超过 1 级的样子。这个能力的作用如同变形法术，具体是哪一种会在生物描述中列出，但是该生物不会调整自己的属性值 (尽管他获得了所模仿生物的其他能力)。某些生物，例如兽化人，可以通过变成独一无二的形态获得特殊调整值和能力。这些生物确实会调整自己的属性值，如其描述所列。</p><p><strong>格式</strong>：改变外形 (狼，@UUID[Compendium.pf1.spells.Item.tjdfluulncmqacc3]{野兽形态 I})</p>"
+        },
+        "Compression": {
+            "name": "压缩 (Compression)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>该生物在没有紧缩时能够通过仅为其所占空间四分之一大小的区域，并且在紧缩时可以通过仅为其所占空间八分之一大小的区域。</p><p><strong>格式</strong>：压缩</p>"
+        },
+        "Constrict": {
+            "name": "紧勒 (Constrict)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>当生物做了一个成功的擒抱检定时，他可以使用这种特殊攻击挤压敌人，造成钝击伤害 (可与成功检定引起的其他效果共存，包括额外伤害)。伤害数值已经在该生物的介绍中给出，并且通常等于该生物近战攻击造成的伤害。</p><p><strong>格式</strong>：紧勒 (1d8+6)</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Curse": {
+            "name": "诅咒 (Curse)",
+            "description": "<p><strong>类型</strong>：Su；位置：特殊攻击和个体攻击</p><p>拥有该能力的生物可以给予敌人诅咒。诅咒的效果，包括豁免、频率以及如何治愈，都包含在生物的描述中。如果一个诅咒允许豁免，它通常是一个意志豁免 (DC 为 {10+1/2 诅咒生物种族 HD + 该生物的魅力修正}；具体的 DC 会在生物描述中给出)。诅咒可以通过@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}或者类似效果解除。</p><p><strong>格式</strong>：<strong>诅咒名称 (Su)</strong> 挥击—接触；豁免 意志 DC 14，频率 1 次/天，效果 1d4 力量吸取</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Curse of Lycanthropy": {
+            "name": "兽化诅咒 (Curse of Lycanthropy)",
+            "description": "<p><strong>类型</strong>：Su；位置：个体攻击</p><p>任何被处于动物或混种形态下的天生兽化人，被其啮咬攻击所击中的类人生物都必须通过 DC 15 的强韧豁免检定，否则就会被传染上兽化症。如果受害者的体型超出或小于兽化人 1 级以上，则不会被该兽化人的兽化症传染。</p><p><strong>格式</strong>：兽化诅咒</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Damage Reduction": {
+            "name": "伤害减免 (Damage Reduction)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：防御能力</p><p>具有这种特性的生物能够减免由大多数武器和天生武器造成的伤害。伤口立即愈合，或者武器未造成伤害便弹开 (不管是哪一种，对手都会发现攻击无效)。该生物在被能量攻击 (包括非魔法的) 、法术、类法术能力、以及超自然能力攻击时仍受到正常伤害。某些特定的武器有时也可以造成正常伤害，见如下说明。</p><p>在怪物的说明中会给出 DR 减免的伤害数量 (通常为 5 到 15 点) 以及能克服该 DR 的武器种类。某些怪物的弱点是惧怕钝击、穿刺或挥砍伤害。某些怪物的弱点是惧怕一些特殊材料，比如精金、寒铁或炼银。类型不对或材料不对的武器做出的攻击，其伤害都会被减免，不过较高的增强加值可以克服某些形式的 DR。</p><p>某些怪物的弱点是惧怕魔法武器。任何在攻击和伤害上具有 +1 以上魔法增强加值的武器都可以克服这些怪物的 DR。这些生物的天生武器 (而不是他们持有的武器) 在克服 DR 时被视为魔法武器。</p><p>极少数非常强大的怪物仅仅惧怕传奇武器；即增强加值在 +6 以上的魔法武器。这些生物的天生武器在克服 DR 时也被视为是传奇武器。</p><p>某些怪物的弱点是惧怕混乱、邪恶、善良、或守序阵营的武器。牧师施展@UUID[Compendium.pf1.spells.Item.zujht80bgjdk9cyb]{阵营武器}法术时，被影响的武器会获得一个或更多这类属性，而某些魔法武器本身也具有这类属性。一个具有阵营亚种 (混乱、邪恶、善良或守序亚种) 的生物在克服 DR 时，它的天生武器或持用武器视作具有和它阵营亚种相匹配的阵营属性。</p><p>如果在伤害减免说明中的斜线之后是一短横 (–)，则没有武器可以克服此 DR。</p><p>一些生物会受到不止一种武器的伤害。其中任意一种武器造成的伤害都可以克服此 DR。</p><p>一些生物需要两种不同攻击的组合来克服 DR。这时武器必须同时具有这两种属性来克服 DR。仅有其中一种属性的武器仍然会受到 DR。</p><p><strong>格式</strong>：<strong>DR</strong> 5/银</p>"
+        },
+        "Demon Lord Traits": {
+            "name": "恶魔领主特性 (Demon Lord Traits)",
+            "description": "<p>恶魔领主是强大而独特的恶魔，统治着深渊的一层。所有恶魔领主都是混乱邪恶的@UUID[Compendium.pf1.racial-hd.Item.cV7yHt8i5YCV0ZTd]{异界生物}，CR 至少是 26。恶魔领主有一套独有的特性 (除非在生物的条目中另有说明)，总结如下。</p><p>恶魔领主能如神祇般向信徒提供法术。恶魔领主的领域包括混乱和邪恶，及和其主题与兴趣相关的另两个领域。恶魔领主也拥有偏好武器，如同神祇一般。</p><p>恶魔领主的天生武器和所持有的武器在克服@UUID[Compendium.pf1.template-abilities.Item.7OTFbD9OXXSdFd3Y]{伤害减免}时视为混乱，传奇和邪恶武器。</p><p><strong>深渊复活（Abyssal Resurrection，Ex）</strong>：恶魔领主统治着无底深渊的一层，这巨大的世界不仅是其家园，也提供了能量。如果恶魔领主被杀，尸体迅速腐朽融化 (留下其所持或所携带的一切装备)，灵魂逃回国度里某个隐蔽的场所，立刻于此地复生 (如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术})。恶魔领主该能力生效后一年内无法再度使用。考虑到这一弱点它们通常在这一年里会龟缩不出，依赖国度的防御机能和喽啰来保护自己。此年内再度被杀，或被特殊方式消灭 (比如被某位真神消灭，被特殊目的的神器击杀) 的恶魔领主永久死亡，尸首和过去死掉的恶魔领主堆放在无底深渊的某处。不占据领地的恶魔领主不具备该能力。</p><p><strong>气势凶猛（Frightful Presence，Su）</strong>：作为任何攻击、类法术能力、特殊攻击的一部分，恶魔领主可以以自由动作启动@UUID[Compendium.pf1.monster-abilities.Item.tbYOVRDBl2uywz2o]{气势凶猛}，或者通过大吼启动。</p><p>@UUID[Compendium.pf1.template-abilities.Item.sY8RqBBoh6bH3QRy]{免疫}属性伤害，属性吸取，魅惑效果，胁迫效果，死亡效果，能量吸取，石化。</p><p><strong>再生（Regeneration，Ex）</strong>：只有传奇及善良伤害，或来自于同级或更高实力的生物 (比如大魔鬼，神祇，恶魔领主，幻蛇领主) 的伤害才能打断恶魔领主的@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.0mMLZzjWNFFmL8G3]{再生}。</p><p>酸蚀抗性 30，寒冷抗性 30，火焰抗性 30。</p><p><strong>召唤恶魔（Summon Demons，Sp）</strong>：每天三次以一个迅捷动作，恶魔领主能召唤总 CR 不超过 20 的一只或多只恶魔。该能力其余方面如同@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则，成功率 100%，视为 9 级法术效果。</p><p>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 300 尺。</p>"
+        },
+        "Disease": {
+            "name": "疾病 (Disease)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：特殊攻击和个体攻击</p><p>拥有该能力的生物会在接触的同时传播疾病。疾病的效果，包括豁免，频率以及如何治愈，都包括在了生物的描述当中。疾病的豁免通常是强韧豁免 (DC 为 {10+1/2 病原生物种族 HD + 该生物的体质修正}；具体的 DC 会在生物描述中给出)。疾病可以通过@UUID[Compendium.pf1.spells.Item.ocbjt6z7amc3yn8w]{移除疾病}或者类似效果解除。</p><p><strong>格式</strong>：<strong>疾病名称 (Ex 或 Su)</strong> 啮咬—伤口；豁免 强韧 DC 15，潜伏期 1d3 天，频率 1 次/天，效果 1 点体质伤害，痊愈 连续 2 次豁免</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Display of Strength [Mythic]": {
+            "name": "力量显现 (Display of Strength [Mythic])",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：特性</p><p>以自由动作，该生物可以花费 1 次@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.y8PMDRCSaeulnqFN]{神话之力}来尝试一项关于力量的技艺，这使其在一次基于力量的技能检定或者力量属性检定中获得 +20 环境加值。或者，也能够将该能力用于判定自身的负重能力，在这么做的时候视为它的力量属性获得 +20 环境加值，持续等同于其神话等级的小时数。</p><p><strong>格式</strong>：力量显现</p>"
+        },
+        "Dragon Blood [Mythic]": {
+            "name": "龙血 (Dragon Blood [Mythic])",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：防御能力</p><p>神话龙类的血液和其他体液都蕴含着酸蚀、寒冷、闪电或者火焰，这些都与它们喷吐武器的能量类型相符。每当这些龙类被穿刺或挥砍武器伤害时，进行攻击的生物会按照下表受到能量伤害（重击则伤害翻倍）。使用长触及武器的攻击者不会因此能力而遭受危险。如果这些龙类具有@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.cJ8ApelhYihzGh9t]{活吞}能力，那么它还会将龙血伤害加到活吞的伤害上。</p><p><strong>表 6-6：龙血伤害</strong></p><table><tr><th>龙类体型</th><th>能量伤害</th></tr><tr><td>中型或更小</td><td>1d4</td></tr><tr><td>大型</td><td>1d6</td></tr><tr><td>超大型</td><td>1d8</td></tr><tr><td>巨型</td><td>2d6</td></tr><tr><td>超巨型</td><td>2d8</td></tr></table><p><strong>格式</strong>：龙血（2d6 火焰）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Dragon Cantrips [Mythic]": {
+            "name": "龙类戏法 (Dragon Cantrips [Mythic])",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：特性</p><p>如果神话龙类能够施放奥术法术，那么它们就会自动了解其等效施法职业所具有的所有戏法，而且能够随意施展。</p><p><strong>格式</strong>：龙类戏法</p>"
+        },
+        "Dragon Fury [Mythic]": {
+            "name": "龙怒 (Dragon Fury [Mythic])",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：特殊攻击</p><p>如果神话龙类使用天生武器确认重击的话，它就能将其龙血伤害加到该次天生武器攻击造成的伤害上。</p><p><strong>格式</strong>：龙怒（1d6 火焰）</p>"
+        },
+        "Dual Initiative [Mythic]": {
+            "name": "双重先攻 (Dual Initiative [Mythic])",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：先攻</p><p>怪物每轮会获得两个回合，一次按照其先攻进行计算，另一次为先攻结果 –20。例如：如果怪物的先攻为 23，那么它的第一回合能够在轮到先攻 23 的时候行动，并作出一次全力攻击（外加一次五尺快步），之后会在轮到先攻为 3 的时候行动并进行第二回合的动作，它可以进行一次移动动作然后施放一个法术。这使得怪物能够在每轮内进行两次通常为花费整个回合的行动，比如使用@UUID[Compendium.pf1.spells.Item.kyo0kwhw2jhuztju]{召唤怪物}法术。在判断持续时间为 1 轮或更长时间、在 1 轮的起始或者生物的回合开始时触发的法术或效果带来的作用时（比如对抗持续性效果的豁免检定或者受到流血伤害），只有每轮内该名怪物的第一个回合为这些持续时间进行计数。</p><p><strong>格式</strong>：21（译注：AoN 原文作「21」，CHM 作「+21/+1」，疑为笔误，应为 +21/+1。）</p>"
+        },
+        "Earth Glide": {
+            "name": "潜地 (Earth Glide)",
+            "description": "<p><strong>类型</strong>：Ex；位置：速度</p><p>当生物掘洞时，可以通过石头，泥土以及几乎除了金属外的任何物体，就如同鱼类在水中游泳一般轻松。若生物受到防火保护，它甚至可以通过熔岩。生物的身后不会留下隧道或空洞，也不会产生类似波纹或其他形式的痕迹标示生物的存在。对包含正在掘洞的潜地生物的区域施放@UUID[Compendium.pf1.spells.Item.ukuyfbufbglbzfco]{地动术}，会将该生物甩退 30 尺，并使其震慑 1 轮，除非它通过 DC 15 的强韧豁免。</p><p><strong>格式</strong>：潜地</p>"
+        },
+        "Emotion Aura": {
+            "name": "情绪灵氲 (Emotion Aura)",
+            "description": "<p><strong>类型</strong>：Su；位置：灵氲</p><p>混乱的情绪漩涡环绕着具有该能力的生物。这些情绪让施法者们难以施放具有情绪成分的法术（详见异能冒险）。30 尺内的活物必须进行一次专注检定（DC = 10 + 具有情绪灵氲能力的生物的生命骰的 1/2 + 该生物的魅力调整值），成功才能够施放具有情绪成分的法术。检定失败会失去法术而且不会产生任何效果。此外，任何施法者在施放具有情绪或恐惧描述符的法术时，如果法术目标位于该灵氲的范围内，则必须通过此次检定，否则无法影响灵氲范围内的目标（灵氲外的其他目标仍旧如常受到影响）。具有该能力的生物免疫它的效果，而且可以如常施法。</p><p><strong>格式</strong>：情绪（DC 17）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Empyreal Lord Traits": {
+            "name": "至高天领主特性 (Empyreal Lord Traits)",
+            "description": "<p>天界领主是福使、天使、圣使和灵使中最伟大的存在，有时他们会被当做神来崇拜。所有的天界领主都是至少 CR 21（大多数至少为 CR 26 或更高）的善良异界生物。除了拥有福使、天使、圣使或灵使的特性之外，天界领主还有一套独有的特性（除非在生物条目中另有说明），总结如下：</p><ul><li>福使、天使、圣使或灵使的能量抗力提升到 30。</li><li>天界领主能如神祇般向崇拜者提供法术。天界领主的领域为混乱（如果自身为混乱）、善良、守序（如果自身为守序），再加上另外的 2 个（或 3 个，如果其既不混乱也不守序）与其主题及兴趣关联的领域。天界领主也有偏好武器。</li><li>天界领主的天生武器和使用的武器，在克服@UUID[Compendium.pf1.template-abilities.Item.7OTFbD9OXXSdFd3Y]{伤害减免}时视为传奇与善良。如果天界领主是守序或混乱的，这些武器在克服伤害减免时也视为那种阵营。</li><li>@UUID[Compendium.pf1.monster-abilities.Item.VkXlIb0zYsH4IDxz]{盲感} 60 尺。</li><li><strong>@UUID[Compendium.pf1.spells.Item.5cdmojmydhwowzy1]{高等传送}（Greater Teleport，Sp）</strong>：天界领主能随意使用高等传送作为类法术能力（CL 20）。</li><li><strong>@UUID[Compendium.pf1.template-abilities.Item.sY8RqBBoh6bH3QRy]{免疫}</strong>：属性伤害、属性吸取、魅惑效果、胁迫效果、死亡效果、能量吸取、石化。</li><li><strong>太初灵氲（Primal Aura，Su）</strong>：每个天界领主都被远古之力的灵氲所环绕，每种灵氲的特性各不相同。</li><li><strong>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.0mMLZzjWNFFmL8G3]{再生}（Regeneration，Ex）</strong>：只有神话伤害，或来源于同等及以上能力的生物（比如神祇或半神）的伤害，才能打断天界领主的再生。</li><li><strong>生命之种（Seed of Life，Sp）</strong>：天界领主可以接触一个自愿生物，灌注治愈的魔力。目标如异界生物般放射善良灵氲，在所有对抗负能量与死亡效果的豁免中获得 +2 内在加值。以一个标准动作，目标能将能量向内释放，如同对自己施展@UUID[Compendium.pf1.spells.Item.4re1j2w8wkvsvnsi]{医疗术}，或向外释放，如同对 30 尺范围内的友军施展@UUID[Compendium.pf1.spells.Item.8y24u1ejlqeoiyqb]{群体治疗重伤}（CL 15）。如不释放，该能量在 24 小时后无害地消散。天界领主每天可以使用该能力 5 次，但只能用于其他生物。</li></ul>"
+        },
+        "Energy Drain": {
+            "name": "能量吸取 (Energy Drain)",
+            "description": "<p><strong>类型</strong>：Su；位置：特殊攻击和个体攻击</p><p>具有此能力的生物，当它近战或远程攻击命中时，会自动从对手的身上吸取生命能量。每次成功的能量吸取会造成一个或多个负向等级（在生物的描述中将给出具体数目）。如果包含能量吸取的攻击确认了重击，它将造成两倍于所列数量的负向等级。除非生物的描述中另有说明，每造成一个负向等级，该吸取生物都将获得 5 点临时 HP。这种临时 HP 持续时间最多为 1 小时。负向等级将持续 24 个小时或者通过法术来移除，比如@UUID[Compendium.pf1.spells.Item.anya5qwdjhdfyk8u]{复原术}。如果 24 小时之后一个负向等级没有被移除，则被影响的生物必须通过强韧豁免（DC = 10 + 1/2 吸取生物种族 HD + 吸取生物魅力修正；具体的 DC 会在生物描述中给出）。如果成功，这个负向等级将消失而不对该生物造成伤害。如果失败，此负向等级变成永久负向等级。对于每个负向等级要分别投豁免检定。</p><p><strong>格式</strong>：能量吸取（2 负向等级，DC 18）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Entrap": {
+            "name": "诱捕 (Entrap)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：特殊攻击和个体攻击</p><p>拥有该能力的生物通常能用一次带有寒冰、泥、熔岩或者蛛网效果的物理攻击限制其他生物的移动力。受到诱捕攻击的生物必须通过强韧豁免否则进入被纠缠状态，持续时间在描述中列出。如果生物已经被诱捕攻击纠缠住了，第二次诱捕攻击会让该生物再做一次强韧豁免，否则进入无助状态，持续时间在描述中列出。此项豁免 DC 基于体质。被该能力影响进入无助状态的生物保持清醒，但是不能做身体动作（除了尝试打破束缚）直到该效果被移除。目标通过 DC 20 的专注检定后可以使用只带语言成分的法术或者类法术能力。被纠缠的生物可以用一个整轮动作做力量检定（与诱捕豁免 DC 相同）来打破束缚；无助生物的 DC 高 5 点。破坏造成诱捕的物质可以解放该生物。</p><p><strong>格式</strong>：诱捕（DC 13，1d10 分钟，硬度 5，HP 10）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Fast Healing": {
+            "name": "快速治疗 (Fast Healing)",
+            "description": "<p><strong>类型</strong>：Ex；位置：HP</p><p>具有快速治疗特性的生物能够以不寻常的速度恢复 HP，通常每轮恢复 1 点或多点，该数值在生物说明中给出。除非下文另有说明，否则快速治疗的效果和自然治愈没有区别。快速治疗无法恢复由饥饿、口渴、窒息引起的 HP 减少，也不能够让生物重新长出失去的肢体部位。除非特别说明，它亦不能使断落的肢体部位重新接在一起。快速治疗会持续生效（即使 HP 为负值）直到生物死亡，生物死亡时该效果立即结束。</p><p><strong>格式</strong>：快速治疗 5</p>"
+        },
+        "Fast Swallow": {
+            "name": "快速下咽 (Fast Swallow)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>该生物在其回合的任意时点可以通过自由动作使用@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.cJ8ApelhYihzGh9t]{活吞}能力，而不只是回合开始时。</p><p><strong>格式</strong>：快速下咽</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Fear": {
+            "name": "恐惧 (Fear)",
+            "description": "<p><strong>类型</strong>：Su 或 Sp；位置：灵氲或特殊攻击</p><p>恐惧攻击有多种效果。</p><p><strong>恐惧灵氲（Su）</strong>：使用该能力是自由动作。这种灵氲可以使对手僵住（如木乃伊的绝望），或者像@UUID[Compendium.pf1.spells.Item.be88e90guqbi1q1z]{恐惧术}法术那样起效；也可能有其他效果。恐惧灵氲是一种区域效果，其范围大小和种类在描述中给出。</p><p><strong>恐惧锥（Sp）与恐惧射线（Su）</strong>：这些效果通常如同@UUID[Compendium.pf1.spells.Item.be88e90guqbi1q1z]{恐惧术}法术那样起效。如果恐惧效果允许豁免，则是意志豁免（DC = 10 + 1/2 恐惧生物种族 HD + 魅力修正；具体的 DC 会在生物描述中给出）。所有的恐惧攻击都是影响心灵的恐惧效果。</p><p><strong>格式</strong>：恐惧灵氲（30 尺，DC 17）或恐惧锥（50 尺，DC 19）</p><p><em>（本页为 AI 从英文译出，未经人工校对。）</em></p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Feral Savagery [Mythic]": {
+            "name": "狂猛野性 (Feral Savagery [Mythic])",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：特殊攻击</p><p>在怪物属性数据中列出的情形下（比如进行全力攻击或者@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.N6x2eWgqlAtfV5bn]{撕扯}攻击时），它能够立刻对一名对手尝试进行一次额外攻击。这次攻击会使用生物完整的基本攻击加值，加上任何适合该情况的调整值。此次额外攻击并不能与任何类似方式获取的额外攻击叠加，比如@UUID[Compendium.pf1.spells.Item.s9amdo5398alb5p0]{加速术}和追击武器。该能力不会赋予它额外动作，因此你无法利用该能力在 1 轮内施放另一个法术或者以别的方式获取额外的动作。</p><p><strong>格式</strong>：狂猛野性（全力攻击）</p>"
+        },
+        "Ferocity": {
+            "name": "凶猛 (Ferocity)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>拥有凶猛能力的生物即使在 HP 达到 0 以下，也可以保持清醒并且继续战斗。该生物还是会在 HP 低于 0 时进入恍惚状态，并且每轮失去 1 点 HP。拥有凶猛能力的生物在 HP 降到其体质属性值的负数时还是会死亡。</p><p><strong>格式</strong>：凶猛</p>"
+        },
+        "Flight": {
+            "name": "飞行 (Flight)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：速度</p><p>具有此能力的生物能以自由动作开始或者停止飞行。如果此能力是超自然能力，它在@UUID[Compendium.pf1.spells.Item.niqxt53lhxrjfaty]{反魔场}中将会失效，并且此生物在反魔场效果持续期间都将失去飞行的能力。</p><p><strong>格式</strong>：飞行 30 尺（普通）</p>"
+        },
+        "Formian Traits": {
+            "name": "弗米蚁族特性 (Formian Traits)",
+            "description": "<p>弗米蚁族是一个类似昆虫的太空种族，来自一个森林世界，热衷于对其他世界进行侵略性的殖民。弗米蚁族具有以下特性（除非在生物条目中另有说明）：</p><ul><li>黑暗视觉 60 尺，@UUID[Compendium.pf1.monster-abilities.Item.VkXlIb0zYsH4IDxz]{盲感} 30 尺。</li><li><strong>群体思维（Hive Mind，Ex）</strong>：弗米蚁族与他们蜂巢的其他成员共享心灵，从而增强了他们群体的感知能力。只要一个弗米蚁族在心灵感应范围内至少有一个蜂巢成员，它在先攻检定和察觉检定上获得 +4 种族加值。如果至少一个弗米蚁族不相信一个幻觉，那么其感应范围内所有弗米蚁族也不相信幻觉。如果一个弗米蚁族意识到了战斗人员的存在，那么感应范围内的所有其他成员也意识到了这些战斗人员。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.EGCNz0LVbVt7ypPL]{抗性} 音波 10。</li><li><strong>心灵施法者（Telepathic Caster，Ex）</strong>：由于弗米蚁族的心灵感应天赋，如果它施放法术，那么它将以类法术能力的形式施放。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 60 尺。</li></ul>"
+        },
+        "Fortification": {
+            "name": "护命 (Fortification)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>怪物有 50% 的概率将重击或偷袭视为普通命中的攻击，就如同穿戴中度护命铠甲一般。</p><p><strong>格式</strong>：护命（50%）</p>"
+        },
+        "Gaze": {
+            "name": "凝视 (Gaze)",
+            "description": "<p><strong>类型</strong>：Su；位置：特殊攻击</p><p>对手看到该生物眼睛时，凝视攻击就会产生作用。这种攻击可以具有任何效果；常见的有魅惑、死亡和石化。通常凝视攻击的范围是 30 尺，具体见该生物的说明。凝视攻击的豁免类型存在差别，但通常是意志或强韧豁免（DC = 10 + 1/2 凝视攻击生物种族 HD + 魅力修正；具体的 DC 会在生物描述中给出），通过则无效。怪物的凝视攻击在它的描述中会有简要说明。在凝视攻击范围内的每个对手必须每轮按照先攻顺序，在其回合开始时进行一次豁免检定。只有直接看到具有凝视攻击的生物才会受此效果影响。对手可以通过以下两种方式来不直视该生物，从而免投此豁免检定。</p><p><strong>移开双眼</strong>：对手避免看向该生物的脸，而是看它的身体、注视它的影子、通过反光表面追踪它等等。每轮，对手有 50% 的几率不必对该凝视攻击进行豁免检定。但是，具有凝视攻击的生物对该对手获得隐蔽。</p><p><strong>戴上眼罩</strong>：敌人完全看不到该生物（背对该生物或者闭上眼睛也能做到）。具有凝视攻击的生物对该对手获得全隐蔽。</p><p>具有凝视攻击的生物可以作为一个攻击动作主动凝视，选择范围内的一个目标。该对手必须进行豁免检定，但可以按上述方式尝试避免。因此，同一轮内对手有可能对同一生物的凝视进行两次豁免，一次在对手自己的行动之前，一次在该生物的回合中。</p><p>凝视攻击可以影响处于灵界的对手。除非另有说明，生物对同类的凝视攻击免疫。具有凝视攻击的盟友可能会受到影响：该生物的盟友被视为正在移开双眼不看该生物，因此每轮有 50% 的几率不必对该凝视攻击进行豁免检定。该生物也可以遮住自己的眼睛，从而使其凝视能力失效。</p><p><strong>格式</strong>：凝视</p><p><em>（本页为 AI 从英文译出，未经人工校对。）</em></p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Greensight": {
+            "name": "翡翠视域 (Greensight)",
+            "description": "<p><strong>类型</strong>：Su；位置：感官</p><p>怪物能够看透茂密的植物就如同植物是透明的一般，翡翠视域的范围通常为 60 尺。对拥有此类视域的怪物来说，其他生物无法用叶片、藤条、草木和灌木形成隐蔽，不过实体的树木仍旧会遮挡其视线。</p><p><strong>格式</strong>：翡翠视域 60 尺</p>"
+        },
+        "Hardness": {
+            "name": "硬度 (Hardness)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>当具有硬度的生物受到伤害时，要从伤害中扣除相当于硬度的数值。只有在伤害超过硬度时，才会扣除该生物的生命值。具有硬度的生物不会像物体那样进一步降低来自能量攻击、远程攻击或者其他类型的攻击。精金武器会忽略 20 点或更低的硬度。</p><p><strong>格式</strong>：硬度 10</p>"
+        },
+        "Heat": {
+            "name": "高温 (Heat)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>这个生物温度非常高，以至于仅仅是被接触到就会造成额外的火焰伤害。该生物的金属近战武器同样会传递高温。</p><p><strong>格式</strong>：高温（1d6 火焰）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Hive Mind": {
+            "name": "群体思维 (Hive Mind)",
+            "description": "<ul><li><strong>群体思维（Hive Mind，Ex）</strong>：弗米蚁族与他们蜂巢的其他成员共享心灵，从而增强了他们群体的感知能力。只要一个弗米蚁族在心灵感应范围内至少有一个蜂巢成员，它在先攻检定和察觉检定上获得 +4 种族加值。如果至少一个弗米蚁族不相信一个幻觉，那么其感应范围内所有弗米蚁族也不相信幻觉。如果一个弗米蚁族意识到了战斗人员的存在，那么感应范围内的所有其他成员也意识到了这些战斗人员。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.EGCNz0LVbVt7ypPL]{抗性} 音波 10。</li></ul>"
+        },
+        "Hold Breath": {
+            "name": "屏息 (Hold Breath)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>该生物可以在有溺水的危险之前保持屏息状态，这个状态最多可以持续的分钟数为体质属性的 6 倍。译注：无此能力的生物，只能在体质属性 2 倍的轮数内屏息，相差 30 倍之多。</p><p><strong>格式</strong>：屏息</p>"
+        },
+        "Horrific Appearance": {
+            "name": "恐怖外貌 (Horrific Appearance)",
+            "description": "<ul><li><strong>恐怖外貌（Horrific Appearance，Su）</strong>：所有古魔都拥有如此恐怖、摧折心智的形态。古魔能以标准动作展现自身，冲击 30 尺内所有活物的感官。恐怖外貌造成的具体效果随古魔种类而异。成功的意志豁免（DC = 10 + 1/2 古魔 HD + 古魔的魅力调整值）可以减轻或无效该效果。这是一种影响心灵的@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.JFdLfBNsMjGTlTbj]{凝视}攻击。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应}。</li><li>除非另有说明，古魔说深渊语。</li></ul>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Horseman Traits": {
+            "name": "天启驭者特性 (Horseman Traits)",
+            "description": "<p>天启驭者是强大而独一无二的邪魔，统治着末日荒原的一大片区域，并化身为死亡、饥荒、瘟疫或战争。所有天启驭者都是 CR 至少为 27 的邪恶@UUID[Compendium.pf1.racial-hd.Item.cV7yHt8i5YCV0ZTd]{异界生物}。除非生物条目中另有说明，天启驭者具有一套特定的特性，总结如下。</p><p>天启驭者可以像神祇一样向其崇拜者提供法术。天启驭者的领域为邪恶，再加上另外三个与其主题和兴趣相关的领域和四个子域。与神祇一样，天启驭者也有偏好武器。</p><p>天启驭者的天生武器以及它所持用的任何武器，在克服伤害减免时视为传奇与邪恶。</p><ul><li><strong>天启复苏（Apocalyptic Resurrection，Ex）</strong>：如果天启驭者被杀死，它的身体会枯萎、腐烂并化为尘土，只留下它所持有或携带的装备，而它会立即在其领地内自己选定的地点复活（如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术}）。天启驭者在 1 年之内无法再次使用该能力，并会尽可能避免直接战斗，直到这 1 年过去。如果它在 1 年之内再次被杀，或被非常规手段所杀（例如被真正的神祇、专为此目的制造的神器或另一位天启驭者所杀），该天启驭者就是永远死去了。发生这种情况时，其余三位天启驭者的 CR 会立即提升 1（通常是获得少量生命骰，并可能将某些属性值提高 2 至 4 点），同时一位全新的天启驭者会升格填补空缺的位置，成为 CR 27 的半神，并拥有自己独特的能力。</li><li><strong>@UUID[Compendium.pf1.monster-abilities.Item.tbYOVRDBl2uywz2o]{气势凶猛}（Frightful Presence，Su）</strong>：天启驭者可以在进行任何攻击、类法术能力或特殊攻击时，或在开口说话时，以自由动作发动其气势凶猛。</li><li><strong>@UUID[Compendium.pf1.template-abilities.Item.sY8RqBBoh6bH3QRy]{免疫}</strong>：属性伤害、属性吸取、酸、魅惑效果、胁迫效果、死亡效果、疾病、能量吸取、石化和毒素。</li><li><strong>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.0mMLZzjWNFFmL8G3]{再生}（Regeneration，Ex）</strong>：只有神话伤害，或来自力量同等或更强的生物（例如魔鬼大公、神祇、天界领主、旧日支配者、天启驭者或古魔领主）的伤害，才会中断天启驭者的再生。</li><li><strong>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.EGCNz0LVbVt7ypPL]{抗性}</strong>：寒冷 30、电击 30 和火焰 30。</li><li><strong>召唤邪魔（Summon Daemon，Sp）</strong>：每日 3 次，天启驭者可以以迅捷动作召唤任意一只或数只邪魔，其 CR 总和不超过 20。除此之外，该能力与@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则相同，成功率为 100%，并视为 9 环法术效果。</li><li><strong>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应}</strong>：300 尺。</li></ul><p><em>（本页为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Immunity": {
+            "name": "免疫 (Immunity)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：防御能力</p><p>带有免疫能力的生物不会受到所列出来源的伤害。免疫同样可以作用于苦难、状态、法术（基于环阶、豁免类型或学派）和其他效果。生物不会受到其所免疫的效果通常会触发的任何后续效果。</p><p><strong>格式</strong>：<strong>免疫</strong> 酸、火焰、麻痹</p>"
+        },
+        "Infernal Resurrection": {
+            "name": "地狱复活 (Infernal Resurrection)",
+            "description": "<p>如果大魔鬼被杀，它的身体会崩解成灰烬 (留下其所持或所携带的一切装备)，同时它立即在其领地内自己选定的地点复生 (如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术})。大魔鬼在 1 年内不能再次使用此能力，并且在这一年过去之前会尽可能避免直接战斗。如果它再次被杀，或被非常规手段杀死 (例如被真神，或为此目的而制造的神器)，这位大魔鬼就永远死亡。不掌管领地的大魔鬼不具备此能力 (严格来说，它是一位地狱公爵，而非真正的大魔鬼)。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Jet": {
+            "name": "水力喷射 (Jet)",
+            "description": "<p><strong>类型</strong>：Ex；位置：速度</p><p>该生物可以用一个整轮动作，按照所列出的速度向后游泳。它进行水力喷射时必须沿直线移动，并且这样做不会引发借机攻击。</p><p><strong>格式</strong>：水力喷射（200 尺）</p>"
+        },
+        "Keen Scent": {
+            "name": "水下嗅觉 (Keen Scent)",
+            "description": "<p><strong>类型</strong>：Ex；位置：感官</p><p>该生物可以在水下用嗅觉注意到半径 180 尺范围内的其他生物，并且可以在水中 1 英里范围内侦测到血液的味道。</p><p><strong>格式</strong>：水下嗅觉</p>"
+        },
+        "Language Mastery": {
+            "name": "语言掌握 (Language Mastery)",
+            "description": "<p>大魔鬼通晓所有语言，如同使用了@UUID[Compendium.pf1.spells.Item.m1rmcpcaixcpz9ib]{巧言术}，但这个能力不是超自然的，也无法被解除。语言学对大魔鬼来说永远是本职技能。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Light Blindness": {
+            "name": "强光失明 (Light Blindness)",
+            "description": "<p><strong>类型</strong>：Ex；位置：弱点</p><p>拥有强光失明的生物暴露在强光（如阳光或@UUID[Compendium.pf1.spells.Item.7x2z0i8rcx7s81fk]{昼明术}）下时，会目盲 1 轮。只要继续留在强光区域内，这些生物还会目眩。</p><p><strong>格式</strong>：强光失明</p>"
+        },
+        "Lingering Breath [Mythic]": {
+            "name": "神话龙息延续 (Lingering Breath [Mythic])",
+            "description": "<p><em>你强大的龙息覆盖着战场。</em></p><p><strong>先决条件</strong>：龙脉术士3级。</p><p><strong>效果</strong>：在对抗你的龙息时豁免检定失败的生物，将被附着性的效果笼罩，每轮受到「1d6×你每天可使用龙息的次数」点伤害。此延续伤害的能量类型与你的龙息相同。延续龙息的效果持续等同「你@UUID[Compendium.pf1e-archetypes.pf-prestige-classes.Item.3KNVDOuz0SsFbjJ5]{龙脉术士}等级」轮，但过程中的每一轮，受此效果的生物皆可用一个标准动作重新进行豁免检定（对抗你的龙息DC）来移除此效果。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Lycanthropic Empathy": {
+            "name": "兽化认同 (Lycanthropic Empathy)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>在任何形态下，天生兽化人都可以与和其动物形态相关的动物交流，并对它们产生共鸣。他们可以用交涉改变这类动物的态度，并且在这样做时获得 +4 种族加值。苦难兽化人只有在动物或混血形态下才会获得此能力。</p><p><strong>格式</strong>：兽化认同（熊和狂暴熊）</p>"
+        },
+        "Mental Static Aura": {
+            "name": "思维静止灵氲 (Mental Static Aura)",
+            "description": "<p><strong>类型</strong>：Su；位置：灵氲</p><p>具有该能力的生物会在自己周围制造一个领域，使没有该能力的生物难以保持精神集中。30 尺内的活物必须通过一次专注检定（DC = 10 + 具有思维静止灵氲的生物的生命骰的 1/2 + 该生物的魅力调整值），才能施放带有思维成分的法术（思维成分详见《异能冒险》）。检定失败会使该法术损失，且不产生任何效果。此外，所有正在专注维持某个进行中的法术或效果的施法者，必须在自己回合开始时进行上述检定。失败则意味着他们停止对该法术或效果的专注。具有该能力的生物免疫它的效果，并且可以如常施法。</p><p><strong>格式</strong>：思维静止（DC 18）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Multiweapon Mastery": {
+            "name": "精通多重攻击 (Multiweapon Mastery)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>该生物在使用多件武器战斗时，攻击检定不会承受减值。</p><p><strong>格式</strong>：精通多重攻击</p>"
+        },
+        "Mythic Immortality [Mythic]": {
+            "name": "神话不朽 (Mythic Immortality [Mythic])",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：特性</p><p>若该生物被杀死，它会在 24 小时后恢复生命，无论它的尸体状态如何，也不管它是如何被杀死的。在恢复生命之后，并不会被视为已经休息，而且直至下一次进行休息之前，它都不会恢复那些需要休息才能恢复的能力。若它是被神话生物（或者具有更强力量的生物）、或者持用能够穿透传奇伤害减免的武器的非神话生物所进行的致命一击或重击杀死，则该能力不适用。若该生物的神话等级为 10 级，就只能被神器进行的致命一击或重击杀死。（该能力在《神话冒险》中被称为“不朽”。）</p><p><strong>格式</strong>：神话不朽</p>"
+        },
+        "Mythic Magic (Mythic)": {
+            "name": "神话法能 (Mythic Magic (Mythic))",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：特殊攻击</p><p>每日最多 3 次，当该生物施放法术时，它可以改为施放该法术的神话版本（与所有神话法术相同，该生物必须花费神话之力才能以此方式施放神话法术）。</p><p><strong>格式</strong>：神话法能 3/日</p>"
+        },
+        "Mythic Power (Mythic)": {
+            "name": "神话之力 (Mythic Power (Mythic))",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：特殊攻击</p><p>神话怪物能够利用它的力量之源来完成惊人的壮举并欺骗命运。它每天能够花费神话之力的次数等同于其神话等级，这是它的神话之力的最大数量。如果某个能力允许它恢复神话之力，它也无法让总量超出这个数额。怪物会自动获得神力涌动能力，并且能够使用这些神话之力来发动它。怪物也可能具有其他依赖于神话之力的能力。（更多信息见神话规则。）</p><p><strong>格式</strong>：神话之力（3 次/日，神力涌动 +1d6）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Natural Invisibility": {
+            "name": "天生隐形 (Natural Invisibility)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：防御能力</p><p>该能力是持续性的——生物始终保持隐形，即使在攻击时也是如此。由于这一能力是天生的，@UUID[Compendium.pf1.spells.Item.xsecnbuvc3rbrefu]{消除隐形}对它不起作用。</p><p><strong>格式</strong>：天生隐形</p>"
+        },
+        "Negative Energy Affinity": {
+            "name": "负能量亲和 (Negative Energy Affinity)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>该生物是活着的，但是它对正能量和负能量的反应如同@UUID[Compendium.pf1.racial-hd.Item.mp1Zmbx0OAzSW4oW]{不死生物}一般——正能量会伤害它，负能量会治愈它。</p><p><strong>格式</strong>：负能量亲和</p>"
+        },
+        "No Breath": {
+            "name": "没有呼吸 (No Breath)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>该怪物不用呼吸，所以它免疫依靠呼吸产生的效果（比如吸入性毒素）。这个能力并不使它免疫那些不依靠呼吸就能生效的云状或气态攻击。</p><p><strong>格式</strong>：没有呼吸</p>"
+        },
+        "Paralysis": {
+            "name": "麻痹 (Paralysis)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：特殊攻击和个体攻击</p><p>麻痹会使受害者无法动作。麻痹的生物无法移动、说话或进行任何身体动作。该生物被定在原地，身体僵硬并处于无助状态。麻痹作用于身体，角色通常可以通过一次强韧豁免来抵抗它（DC = 10 + 麻痹生物种族 HD 的 1/2 + 该生物的体质调整值；具体的 DC 会在生物描述中给出）。和@UUID[Compendium.pf1.spells.Item.78kwl5t99j9e8tzh]{人类定身术}及类似效果不同，麻痹效果不允许每轮重新豁免。如果被麻痹时该生物正在空中飞行，它将无法拍打翅膀而坠落。游泳者无法游泳，可能会溺毙。麻痹的持续时间各不相同，会包含在生物描述中。</p><p><strong>格式</strong>：麻痹（1d4 轮，DC 18）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Plantbringer [Mythic]": {
+            "name": "神话万物之绿 (Plantbringer [Mythic])",
+            "description": "<p><span id=\"万物之绿\"></span></p><p>所有距你半径1英里范围内的植物都会以两倍于正常的速率成长，而且不会遭受任何疾病或病害。此外，距你30尺内的植物类生物盟友会获得等同于你的阶层的快速治疗。若你使用植物形态或者自然变身来化身为植物的形态，你也会在植物形态中获得这些快速回复。</p>"
+        },
+        "Poisonous Blood [Mythic]": {
+            "name": "毒血 (Poisonous Blood [Mythic])",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：防御能力</p><p>任何使用穿刺或挥砍近战武器对怪物确认重击的生物会受到毒液的喷溅。（具有触及的近战武器不会以这种方式危及其使用者。）毒素的类型取决于怪物。除非另有说明，毒素使用其正常的 DC，不过有的怪物的毒素 DC 并非基于体质。</p><p><strong>格式</strong>：毒血（龙胆汁）</p>"
+        },
+        "Pounce": {
+            "name": "猛扑 (Pounce)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>当具有这种特殊攻击的生物冲锋时，它可以进行一次全力攻击（如果该生物同时具有@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.oCNZwfsQJ8DXfOdY]{耙抓}能力，其中也包括耙抓攻击）。</p><p><strong>格式</strong>：猛扑</p>"
+        },
+        "Powerful Blows [Mythic]": {
+            "name": "强劲打击 (Powerful Blows [Mythic])",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：特性</p><p>生物的某个特定攻击会将 1.5 倍的力量加值加到伤害检定上，用于取代普通的 1 倍或者 0.5 倍力量加值。</p><p><strong>格式</strong>：强劲打击（挥击）</p>"
+        },
+        "Powerful Charge": {
+            "name": "强力冲锋 (Powerful Charge)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>具有这种特殊攻击的生物在冲锋时，除了冲锋通常的优势和劣势之外，它的攻击还会造成额外伤害。该攻击和这次攻击造成的伤害会在生物的描述中给出。</p><p><strong>格式</strong>：强力冲锋（抵撞，4d8+24）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Primal Aura": {
+            "name": "太初灵氲 (Primal Aura)",
+            "description": "<ul><li><strong>太初灵氲（Primal Aura，Su）</strong>：每个天界领主都被远古之力的灵氲所环绕，每种灵氲的特性各不相同。</li></ul>"
+        },
+        "Psychic Magic": {
+            "name": "异能魔法 (Psychic Magic)",
+            "description": "<p><strong>类型</strong>：Sp；位置：位于类法术能力之前</p><p>具有该能力的生物能够使用精神力施放特定法术。使用异能魔法施放每个法术都要消耗一定量的异能点（简称 PE）。生物每日可以使用的异能点有一个最大值，并且会在夜间休息后得到补充。具有该能力的生物只要还有足够的异能点支付法术的 PE 消耗，便能够施放该条目内列出的任何法术。这些法术的豁免 DC 等同于 10 + 用于施放该法术的异能点 + 该生物的魅力或智力调整值（取较高者）。通过该能力获得可降阶施放的法术的生物，可以施放该法术的降阶版本，法术每降低 1 环，就少花 1 点 PE。PE 消耗为 0 的异能魔法可以施放任意次，即便该生物剩余的 PE 为 0 点也可以施放。通过该能力赋予的异能魔法与异能法术一样具有思维成分和情绪成分。怪物能够将超魔专长应用至这些法术上，方法是额外付出数值等同于该超魔专长所增加的法术环级的 PE，并且要像自发施放超魔法术一样按常规增加施放时间。由于该能力赋予异能施法，因此它还允许该生物使用神秘技能解放。</p><p><strong>格式</strong>：异能魔法（Sp）（CL 10 级；专注 +14）12 PE——@UUID[Compendium.pf1.spells.Item.tjog6bufg5b08lvq]{魅惑人类}（1 PE，DC 14），@UUID[Compendium.pf1.spells.Item.oj36nfak6jc2s5ky]{易容术}（2 PE），@UUID[Compendium.pf1.spells.Item.8semprhq10vg0cbm]{心灵戳刺 III}（3 PE，DC 16），@UUID[Compendium.pf1.spells.Item.e3793htz3ml2thev]{意志钢塔 I}（5 PE）</p>"
+        },
+        "Psychic Resilience": {
+            "name": "异能抗力 (Psychic Resilience)",
+            "description": "<p><strong>类型</strong>：Ex；位置：位于豁免之后，以及防御能力中</p><p>具有该能力的生物能够抵御许多异能法术的效果。它们在对抗所有异能法术时，豁免检定均会获得 +4 加值。</p><p><strong>格式</strong>：+4 对抗异能法术</p>"
+        },
+        "Psychopomp Usher Traits": {
+            "name": "渡魂使引座人特性 (Psychopomp Usher Traits)",
+            "description": "<p>引座人统治着骨园中的一处领地。引座人是中立异界生物，CR 至少为 25。除非另有说明，引座人都具有下列特性，并且具有渡魂使亚种。</p><ul><li>引座人的天生武器以及它所持用的任何武器，在克服伤害减免和免疫时都视为传奇武器，并视为具有幽冥武器特性。</li><li>免疫属性伤害、属性吸取、魅惑效果、胁迫效果、死亡效果、能量吸取和石化。</li><li><strong>气势凶猛（Frightful Presence，Su）</strong>：引座人可以以自由动作启动其@UUID[Compendium.pf1.monster-abilities.Item.tbYOVRDBl2uywz2o]{气势凶猛}，作为任何攻击、特殊攻击或类法术能力的一部分，或者通过大声说话来启动。</li><li><strong>召唤渡魂使（Summon Psychopomps，Su）</strong>：每天三次，以一个迅捷动作，引座人可以召唤一只或多只渡魂使，其总 CR 不超过 20。除此之外，该能力如同@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则，成功率为 100%，并视为 9 环法术效果。</li><li><strong>与死亡同行（Walk with Death，Su）</strong>：引座人与死亡女神法莱斯玛有着亲密的联系，身处骨园时无法被降至 0 生命值以下。任何在骨园之外被杀死的引座人会化作雾气与羽毛消散，留下它携带的所有装备，并立刻在其领地内自己选择的地点复生（如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术}）。引座人在 1 年内无法再次使用该能力。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 300 尺。</li><li>引座人可以像神祇一样提供法术。每位引座人都有一种偏好武器，并提供@UUID[Compendium.pf1.class-abilities.Item.eROVW8PzBztdcMd6]{安眠领域}，外加另外三个领域和四个子域。</li></ul><p>此外，渡魂使引座人身处其国度时会获得下列能力（其数据不包含这些能力）：</p><ul><li><strong>敏锐感知（Heightened Awareness，Ex）</strong>：引座人在察言观色检定和先攻检定上获得 +10 洞察加值。</li><li><strong>神话</strong>：引座人视为 10 级神话生物，包括拥有@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.y8PMDRCSaeulnqFN]{神话之力}能力（每日 10 次，神力涌动 +1d12）。它可以花费神话之力，使用任何标有上标“M”的类法术能力的神话版本，如同该能力是神话法术。</li><li><strong>类法术能力</strong>：随意——@UUID[Compendium.pf1.spells.Item.gw2sgj93dgarpem8]{感知位置}、@UUID[Compendium.pf1.spells.Item.rxk9rk8gvqau3f3l]{鬼斧神工}、@UUID[Compendium.pf1.spells.Item.2sa3881har33geo1]{变形万物}（用于该国度原生的物体或生物时，变形持续时间因子增加 6）和@UUID[Compendium.pf1.spells.Item.zaw5yh1c7ftk45tf]{永恒安眠}；每日 1 次——@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}（仅限操纵该国度的物理效应，或与引座人所掌管事务相关的效果）、@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术}（引座人可以用完全复生术让被杀死的异界生物复生）。</li></ul><p><em>（本页为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Pull": {
+            "name": "拉拽 (Pull)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击和个体攻击</p><p>该生物在一次成功的攻击后可以用自由动作做一次战技检定。如果成功，那么它可以将生物拉拽得离自己更近。拉拽的距离取决于该能力。该能力的攻击类型和拉拽距离都在生物描述中给出。这个能力只能作用于体型不超过自己的生物。被拉拽的生物不会引起借机攻击，如果拉拽会使它们撞上实体物体或生物则会停下来。</p><p><strong>格式</strong>：拉拽（触手，5 尺）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Push": {
+            "name": "推离 (Push)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击和个体攻击</p><p>该生物在一次特定的成功攻击后（通常是挥击）可以用自由动作做一次战技检定。如果成功，那么它可以像冲撞一样将生物直接推离，不过推离的距离取决于该能力。该能力的攻击类型和推离距离都在生物描述中给出。这个能力只能作用于体型不超过自己的生物。被推离的生物不会引起借机攻击，如果推离会使它们撞上实体物体或生物则会停下来。</p><p><strong>格式</strong>：推离（挥击，10 尺）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Qlippoth Lord Traits": {
+            "name": "古魔领主特性 (Qlippoth Lord Traits)",
+            "description": "<p>古魔领主是一种强大而独特的古魔，它们曾统治着无底深渊的一片区域，如今被迫退至深渊深处被人遗忘的角落之中。在创世之初，古魔领主是强大的生物，也许足以与神灵媲美，但今天它们的力量只余下一小片苍白的阴影。尽管如此，在极少数情况下，它们对与其遭遇的凡间生命仍有着潜在的威胁。所有的古魔领主都是 CR 从 21 到 25 的混乱邪恶古魔。古魔领主有一套特定的特性（除非在生物条目中另有说明），概述如下。</p><ul><li>古魔领主可以向它的崇拜者提供法术，就好像它是一位神祇。古魔领主的领域为混乱和邪恶，外加与它的主题和兴趣相关的另外两个领域和四个子域。如同神祇，古魔领主有一种偏好武器。</li><li>古魔领主的天生武器和它持用的任何武器，在克服伤害减免时都视为混乱、传奇和邪恶武器。</li><li><strong>骇人外貌（Horrific Appearance，Su）</strong>：这项能力与典型的古魔能力类似，不过古魔领主的骇人外貌会对受害者产生物理效应和改变。尽管存在这些物理效应，古魔领主的骇人外貌仍然是一种影响心灵的效果。</li><li>免疫寒冷、死亡效果、影响心灵的效果和毒素。</li><li><strong>再生（Regeneration，Ex）</strong>：守序伤害会中断古魔领主的@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.0mMLZzjWNFFmL8G3]{再生}。</li><li>酸蚀抗力 30、电击抗力 30 和火焰抗力 30。</li><li><strong>召唤古魔（Summon Qlippoth，Sp）</strong>：每天一次，以一个标准动作，古魔领主可以召唤总 CR 为 20 或更低的任意古魔组合。除此之外，该能力如同@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则，成功率为 100%，并视为 9 环法术效果。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 300 尺。</li></ul>"
+        },
+        "Rake": {
+            "name": "耙抓 (Rake)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>具有这种特殊攻击的生物会在特定状况下（通常为擒抱对手时）获得额外的天生武器攻击。除了所有擒抱者都能采用的选项之外，具有耙抓能力的怪物还会获得两次自由的爪抓攻击，这两次攻击仅可以用来针对被它擒抱的对手。这些攻击的攻击加值和伤害会在生物描述中给出。具有耙抓能力的怪物在使用耙抓之前，必须在自己的回合开始时就已处于擒抱状态——它不能在同一回合内开始擒抱并进行耙抓。</p><p><strong>格式</strong>：耙抓（2 爪抓 +8，1d4+2）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Recuperation [Mythic]": {
+            "name": "神话自愈能力 (Recuperation [Mythic])",
+            "description": "<p>异化者受到的物理创伤会快速愈合，她获得@UUID[Compendium.pf1.template-abilities.Item.mbbVZLwIlTfJ5cmR]{快速治疗}5。</p>"
+        },
+        "Regeneration": {
+            "name": "再生 (Regeneration)",
+            "description": "<p><strong>类型</strong>：Ex；位置：生命值</p><p>具有这种能力的生物难以被杀死。具有再生的生物会以一定的速率回复自身受到的伤害，如同@UUID[Compendium.pf1.template-abilities.Item.mbbVZLwIlTfJ5cmR]{快速治疗}一般，但只要再生能力仍然生效，它们就不会死亡（尽管具有再生的生物在生命值低于 0 时仍然会失去意识）。特定的伤害类型——通常是酸蚀和火焰——会使生物的再生在受到该攻击之后的那一轮停止生效。在这一轮里，生物不会治疗任何伤害，并会如常死亡。怪物的描述文本会说明会导致再生停止生效的伤害类型。</p><p>不造成生命值伤害的攻击不会被再生治愈。再生也不能恢复因饥饿、窒息或口渴而损失的生命值。再生生物可以重新长出失去的部分身体，如果断肢或断开的身体部位在断开后 1 小时内被合拢，它们还可以将其重新接上。没有被重新接上的断肢会如常枯萎死亡。</p><p>生物必须有体质属性值才能有再生能力。</p><p><strong>格式</strong>：再生 5（酸蚀，火焰）</p>"
+        },
+        "Rend": {
+            "name": "撕扯 (Rend)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>如果一个生物在 1 轮内用 2 次或更多次天生武器攻击命中，那么具有撕扯特殊攻击的它可以牢牢抓住对手的身体并撕扯血肉，造成巨额伤害。这次攻击造成额外伤害，但一轮不能超过一次。必须命中的攻击类型和额外伤害会在生物描述中给出。这个额外伤害通常等于其中一次攻击造成的伤害，再加上 1.5 倍该生物的力量加值。</p><p><strong>格式</strong>：撕扯（2 爪抓，1d8+9）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Resistance": {
+            "name": "抗性 (Resistance)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>具有此特性的生物在每次遭受特定种类的伤害时都可以抵消掉一些（通常为酸蚀、寒冷、电击或火焰）。在说明中会给出抵消伤害的数目和种类。</p><p><strong>格式</strong>：<strong>抗性</strong> 强酸 10</p>"
+        },
+        "Rock Catching": {
+            "name": "接石 (Rock Catching)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>该生物（体型必须至少为大型）可以接住小型、中型或者大型的岩石（或者类似的投射物）。每轮 1 次，一个本来会被岩石命中的生物可以通过一个自由动作做一次反射豁免，将石头接住。小型石头 DC 15，中型 DC 20，大型 DC 25。（如果投射物在攻击检定上带有魔法加值，DC 会增加相同的数值。）为了使用接石，该生物必须意识到这次攻击。</p><p><strong>格式</strong>：接石</p>"
+        },
+        "Rock Throwing": {
+            "name": "投石 (Rock Throwing)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击（伤害在远程攻击中列出）</p><p>该生物在投掷石头的攻击检定上获得 +1 种族加值。它可以投出体型最多比自己小两级的石头。“石头”是指任何庞大、笨重、形状相对规则、由硬度至少为 5 的任何材料构成的物体。该生物可以将石头最远投出 5 倍射程增量。射程增量的大小取决于具体是哪种生物。投石的伤害通常是该生物基础挥击伤害的 2 倍，再加上 1.5 倍力量加值。</p><p><strong>格式</strong>：投石（120 尺）</p>"
+        },
+        "Sand Glide [Mythic]": {
+            "name": "潜沙 (Sand Glide [Mythic])",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：速度</p><p>该能力的功能与土元素的@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.LavJnZj8ZD17gkKf]{潜地}能力完全一致，不过它只能作用在沙子、灰尘以及其他固态细小颗粒组成的物质上。使用潜沙能力移动的生物速度与其基本速度一致。</p><p><strong>格式</strong>：潜沙</p>"
+        },
+        "Second Save (Mythic)": {
+            "name": "二次豁免 (Second Save (Mythic))",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：位于豁免之后</p><p>在对抗持续时间高于 1 轮的效果时，每当该生物的豁免检定失败后，它能够继续尝试摆脱效果的影响。在它的回合开始时，如果仍旧受到影响，它能够以自由动作再一次尝试豁免。如果该次豁免成功，该效果对生物的影响就会如同它最初的豁免成功一般。如果这效果本身已经允许在之后的回合内进行另一次豁免来打破效果（比如@UUID[Compendium.pf1.spells.Item.d8hypv6zdyan3rzr]{怪物定身术}），该能力是在效果自带的额外豁免检定之外另加的。</p><p><strong>格式</strong>：二次豁免</p>"
+        },
+        "Seed of Life": {
+            "name": "生命之种 (Seed of Life)",
+            "description": "<ul><li><strong>生命之种（Seed of Life，Sp）</strong>：天界领主可以接触一个自愿生物，灌注治愈的魔力。目标如异界生物般放射善良灵氲，在所有对抗负能量与死亡效果的豁免中获得 +2 内在加值。以一个标准动作，目标能将能量向内释放，如同对自己施展@UUID[Compendium.pf1.spells.Item.4re1j2w8wkvsvnsi]{医疗术}，或向外释放，如同对 30 尺范围内的友军施展@UUID[Compendium.pf1.spells.Item.8y24u1ejlqeoiyqb]{群体治疗重伤}（CL 15）。如不释放，该能量在 24 小时后无害地消散。天界领主每天可以使用该能力 5 次，但只能用于其他生物。</li></ul>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Simple Arcane Spellcasting [Mythic]": {
+            "name": "简单奥术能力 (Simple Arcane Spellcasting [Mythic])",
+            "description": "<p><strong>类型</strong>：神话；位置：特殊攻击</p><p>该生物获得施放术士/法师列表中法术的能力。选择一定数量的法术，这些法术的环位总和要等于生物 CR 的两倍。这些法术的环位都不应高于 1 + 生物 CR 的一半。在计算环位总和时，0 环法术视为 1/2 环。该生物每日可以施放其中每个法术各 1 次。它的施法者等级等同于其生命骰。它使用智力或魅力调整值（取较高者）来确定法术 DC。</p><p><strong>格式</strong>：简单奥术能力</p>"
+        },
+        "Simple Divine Spellcasting [Mythic]": {
+            "name": "简单神术能力 (Simple Divine Spellcasting [Mythic])",
+            "description": "<p><strong>类型</strong>：神话；位置：特殊攻击</p><p>该生物获得施放牧师或德鲁伊列表中法术的能力。选择一定数量的法术，这些法术的环位总和要等于生物 CR 的两倍。这些法术的环位都不应高于 1 + 生物 CR 的一半。在计算环位总和时，0 环法术视为 1/2 环。该生物每日可以施放其中每个法术各 1 次。它的施法者等级等同于其生命骰。它使用感知或魅力（取较高者）来确定法术 DC。</p><p><strong>格式</strong>：简单神术能力</p>"
+        },
+        "Smother": {
+            "name": "扼喉 (Smother)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>若生物擒抱住的敌人正在屏息，怪物能够强迫敌人排出或消耗它呼吸的气体，或者以其他方式缩短目标在必须进行检定以避免窒息之前所剩的时间。</p><p>如果怪物对该敌人的擒抱检定成功，那么敌人能够屏息的剩余时间会减少 1d6 轮。如果这使得该生物能够屏息的剩余时间减少至 0 轮或者更少，那么它的窒息检定 DC 会增加 5 点。例如：如果怪物擒抱住的生物在需要进行窒息检定之前还有 10 轮时间，那么成功的擒抱检定会使这段时间减少 1d6 轮。</p><p>若怪物有其他能力（比如@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.uiMteAicpAgqnmVr]{紧勒}）可以在擒抱检定成功时伤害敌人，那么当它为使用那项能力而擒抱检定成功时，可以自动使用扼喉能力。</p><p><strong>格式</strong>：扼喉</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Sound Mimicry": {
+            "name": "拟音 (Sound Mimicry)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>该生物可以完美地模仿各种声响甚至是特定的嗓音。该生物需要进行一次唬骗检定，对抗听者用来识破这一模仿的察言观色检定；如果听者不熟悉被模仿的那个人或那类生物，其察言观色检定承受 –8 减值。该生物如果听过某种声音至少 10 分钟，那么在模仿这种声音（如果是嗓音模仿，则包括口音和说话方式）的唬骗检定上有 +8 的种族加值。该生物无法复制魔法能力的效果（比如吟游诗人的表演，或鹰身女妖的迷魂曲），尽管它也许能模仿出这些能力发出的声音。该能力不会使生物会说或者听懂自己不懂的语言。</p><p><strong>格式</strong>：拟音（嗓音）</p>"
+        },
+        "Spell Resistance": {
+            "name": "法术抗力 (Spell Resistance)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>具有法术抗力的生物有可能不受那些直接影响到它的法术或类法术能力的影响。要判定法术或类法术能力是否对一个具有法术抗力的生物有效，施法者必须先进行一次施法者等级检定（1d20 + CL）。如果结果等于或大于生物的法术抗力，则法术正常生效；当然，该生物仍然可以进行豁免检定。</p><p><strong>格式</strong>：<strong>SR</strong> 18</p>"
+        },
+        "Spell-Like Abilities": {
+            "name": "类法术能力 (Spell-Like Abilities)",
+            "description": "<p><strong>类型</strong>：Sp；位置：类法术能力</p><p>类法术能力是种魔法能力，运作方式类似法术（虽然它们不是法术，也不包含言语、姿势、器材或材料成分）。类法术能力在@UUID[Compendium.pf1.spells.Item.niqxt53lhxrjfaty]{反魔场}中会失效，并且如果类法术能力所类似的法术会受到@UUID[Compendium.pf1.template-abilities.Item.mVBeF0wnBk6xcORi]{法术抗力}影响，则该类法术能力也会受到法术抗力的影响。</p><p>类法术能力通常存在使用频率上的限制。常驻或随意使用的类法术能力不存在次数限制。重新激活一个常驻的类法术能力为迅捷动作。除非另有说明，使用其他类型的类法术能力都是一个标准动作，同时会引发借机攻击。和施放法术类似，可以通过专注检定来防御式地使用类法术能力，以避免引发借机攻击。类法术能力和法术一样可能被干扰。但类法术能力不能用来反制法术，同样也无法被反制。</p><p>具有类法术能力的生物，其指定的施法者等级会决定解除它们类法术效果的难度，以及这些能力具有的任何随等级变化的数值（比如距离和持续时间）。生物的施法者等级不会影响生物具有哪些类法术能力；有时这个给定的施法者等级会低于施法者施放同名法术所需的等级。如果没有特别给定，施法者等级就等于该生物的 HD。类法术能力的豁免 DC（若需要豁免）等于 10 + 该能力所类似或复制的法术环位 + 该生物的魅力调整值。</p><p>某些类法术能力所复制的法术，在由不同职业的角色施放时效果不同。怪物的类法术能力默认对应于术士/法师版本。如果这个法术不属于术士/法师法术，那么按此顺序默认：牧师、德鲁伊、吟游诗人、圣武士、游侠。</p><p><strong>格式</strong>：随意——@UUID[Compendium.pf1.spells.Item.lndeaqm2j2nvgm6p]{燃烧之手}（DC 13）</p>"
+        },
+        "Spells": {
+            "name": "法术 (Spells)",
+            "description": "<p>该生物可以如同某个施法职业的成员一般施放法术。在判断与施法有关的任何效果或能力时，该生物被视为属于该职业。举例说明：它能够使用该职业可以使用的法术完成型和法术触发型物品，也可以使用那些影响该职业施法能力的魔法物品（比如@UUID[Compendium.pf-content.pf-wondrous.Item.xQPuZaM87vJy0aBr]{冥想熏香}和法力再生珍珠）。如果该生物具有任何其他与该职业相关的能力（比如牧师的领域或者术士的血统），也会在其条目中说明。若该生物获得了这个施法职业的等级，那么这些能力会叠加（举例说明：幽魂娜迦若获得 3 个术士等级，便如同 10 级术士一般施法）。有些生物可能具有该职业的施法者无法获得的特殊能力（比如幽魂娜迦可以把牧师法术加入其术士已知法术）。</p>"
+        },
+        "Split": {
+            "name": "分裂 (Split)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>生物在受到某些攻击或者效果时，会分裂成 2 个完全相同的复制体。每个复制体拥有原生物当前 HP 的一半（向下取整）。该生物的 HP 低于列出的数值后将不再分裂，并能被如常杀死。</p><p><strong>格式</strong>：分裂（穿刺和挥砍，10 HP）</p>"
+        },
+        "Steal [Mythic]": {
+            "name": "神话盗取 (Steal [Mythic])",
+            "description": "<p><strong>盗取</strong>是一种战技。发动方式、CMB 与 CMD 的算法见 战技总则。</p><p>你可以用一个标准动作尝试夺取敌人的一件物品。你能够靠此战技从目标身上盗取一个没有被持用、没有放在包里且没有被隐藏起来的物品。要使用此战技，你必须至少有一只手处于自由状态（什么都不能拿）。你必须在进行战技检定前指定你想夺取的物品。如果你没有“@UUID[Compendium.pf1.feats.Item.Kbuy0bkPlOYz5yaO]{精通盗取}（出自APG）”专长或是类似的能力，那么你会受到进行战技攻击目标的借机攻击。</p><p>仅是被简单别在衣上皮带上等处的物品如别针、项链等很容易便能被取下（目标不会得到任何额外的CMD加值），紧紧系在身上的物品如斗篷、收在鞘中的武器、小@UUID[Compendium.pf1.items.Item.wjvxmolafiegvesl]{腰包}等较难以被夺取，目标将得到+5（或更多）的CMD加值对抗你的盗取战技。完全固定在身上的物品如铠甲、@UUID[Compendium.pf1.items.Item.lSCPUK5Ea6R0t4fz]{背包}、靴子、衣服、戒指等无法以此战技夺取。正被手持的物品，如武器、魔杖等亦不会被盗取，必须使用缴械战技才能将其夺下或打落。虽然此战技只能对你触及范围内的目标使用，但作为例外，你可以用鞭子对攻击范围内的目标使用盗取，但必须使战技攻击检定承受-4减值。</p><p>GM拥有裁判哪样物品可以被盗取的最终决定权。若战技成功，你将夺下目标的1样物品，你必须要能够碰到你想夺取的物品（由GM裁量）。若你不具有“@UUID[Compendium.pf1.feats.Item.XxZgIRc2UMLXHtZh]{高等盗取}（出自APG）”专长，敌人将马上发现你偷走了他的物品。【译注：若有此专长，敌人在战斗结束后才会发现。】</p><h3>其他战技</h3><p>冲撞、缴械、擒抱、闯越、击破、摔绊、阴招、拖拽、移位。</p><p>战斗规则总目见 战斗规则。</p>"
+        },
+        "Stench": {
+            "name": "恶臭 (Stench)",
+            "description": "<p><strong>类型</strong>：Ex；位置：灵氲</p><p>拥有恶臭特殊能力的生物会分泌一种油质的化学物，使其他生物感到难以忍受。30 尺内所有的活物（除了同样拥有恶臭能力的生物）必须通过强韧豁免，否则陷入恶心状态（DC = 10 + 1/2 恶臭生物的种族 HD + 该生物的体质修正；具体 DC 会在生物描述中给出）。恶心状态的持续时间也在生物描述中给出。成功通过豁免的生物，24 小时内不会再受同一生物的恶臭影响。@UUID[Compendium.pf1.spells.Item.l7e01shgg8c44zfg]{减缓毒发}或@UUID[Compendium.pf1.spells.Item.6l904edkt8jv9jor]{中和毒性}法术可以移除受恶心生物身上的该效果。免疫毒素的生物不受影响，对毒素有抗力的生物可以在豁免检定上获得其正常加值。</p><p><strong>格式</strong>：恶臭（DC 15，10 轮）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Strangle": {
+            "name": "窒息擒抱 (Strangle)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>被该生物擒抱的对手无法说话，也无法施展带有语言成分的法术。</p><p><strong>格式</strong>：窒息擒抱</p>"
+        },
+        "Summon": {
+            "name": "召唤 (Summon)",
+            "description": "<p><strong>类型</strong>：Sp；位置：类法术能力</p><p>具有召唤能力的生物可以召唤同类的其他特定生物，如同施展@UUID[Compendium.pf1.spells.Item.kyo0kwhw2jhuztju]{召唤怪物}法术，但通常只有有限的成功几率（在生物条目中给出）。投 d%；失败则没有生物响应召唤。被召唤的生物会在 1 小时后自动回到来处。以这种方式被召唤的生物不能使用任何需要价值超过 1 gp 材料成分的法术或类法术能力（除非提供了这些材料成分），在 1 小时内也不能使用其自身的召唤能力。大多数具有此能力的生物不会轻易使用召唤，因为这样它需要报答被召唤的生物。大体上说，只有在该生物需要救命的时候才会使用。每种召唤能力都给出了相应的法术环位，用于施法者等级检定、专注检定和意志豁免。打倒被召唤的怪物不会获得经验值。</p><p><strong>格式</strong>：1 次/天—召唤（4 环，1 狂战魔 35%）</p>"
+        },
+        "Summon Daemon": {
+            "name": "召唤邪魔 (Summon Daemon)",
+            "description": "<ul><li><strong>召唤邪魔（Summon Daemon，Sp）</strong>：每日 3 次，天启驭者可以以迅捷动作召唤任意一只或数只邪魔，其 CR 总和不超过 20。除此之外，该能力与@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则相同，成功率为 100%，并视为 9 环法术效果。</li></ul><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Summon Demon": {
+            "name": "召唤恶魔 (Summon Demon)",
+            "description": "<p><span id=\"召唤恶魔\"></span>4级起，每日一次，恶魔狂信者可以施放@UUID[Compendium.pf1.spells.Item.mf6k8tg8xu0wedoz]{召唤怪物 VI}，召来一只魅魔、1d3只暴怖魔或1d4+1只火灾魔<sup>B6</sup>来供她驱使。8级时，恶魔狂信者还获得每日一次施放@UUID[Compendium.pf1.spells.Item.j91n23p4tfjixp3s]{召唤怪物 VIII}的能力，召来一只狂战魔、1d3只鹫魔或1d4+1只魅魔来供她驱使。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Summon Devils": {
+            "name": "召唤魔鬼 (Summon Devils)",
+            "description": "<p>每天三次，大魔鬼可以以一个迅捷动作召唤总 CR 不超过 20 的任何一只魔鬼或魔鬼组合。此能力其余方面如同@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则，成功率 100%，并视为 9 级法术效果。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Summon Psychopomps": {
+            "name": "召唤渡魂使 (Summon Psychopomps)",
+            "description": "<ul><li><strong>召唤渡魂使（Summon Psychopomps，Su）</strong>：每天三次，以一个迅捷动作，引座人可以召唤一只或多只渡魂使，其总 CR 不超过 20。除此之外，该能力如同@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则，成功率为 100%，并视为 9 环法术效果。</li></ul><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Summon Qlippoth": {
+            "name": "召唤古魔 (Summon Qlippoth)",
+            "description": "<ul><li><strong>召唤古魔（Summon Qlippoth，Sp）</strong>：每天一次，以一个标准动作，古魔领主可以召唤总 CR 为 20 或更低的任意古魔组合。除此之外，该能力如同@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.iDvNySIdxxIWPM6g]{召唤}通用怪物规则，成功率为 100%，并视为 9 环法术效果。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 300 尺。</li></ul>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Sunlight Powerlessness": {
+            "name": "阳光虚弱 (Sunlight Powerlessness)",
+            "description": "<p><strong>类型</strong>：Ex；位置：弱点</p><p>如果该生物处于阳光下（@UUID[Compendium.pf1.spells.Item.7x2z0i8rcx7s81fk]{昼明术}或类似法术形成的日光区域不算），它无法攻击，并陷入恍惚状态。</p><p><strong>格式</strong>：阳光虚弱</p>"
+        },
+        "Surge [Mythic]": {
+            "name": "神话浪涌 (Surge [Mythic])",
+            "description": "<p>你以标准动作唤来汹涌的波涛冲刷一个目标，以“牧师等级+感知调整值”做为战技攻击加值来推拉对手，如同使用冲撞或拖拽战技。每天“3+感知调整值”次。此能力替换@UUID[Compendium.pf1.class-abilities.Item.mtDcvNtXAwM66T9v]{冰柱}能力。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Swallow Whole": {
+            "name": "活吞 (Swallow Whole)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>如果具有此特殊攻击的生物在自己的回合开始时，正用嘴擒抱着一名对手（参见@UUID[Compendium.pf1.monster-abilities.Item.gliqmaokX6kcR9eU]{攫抓}），它可以再进行一次新的战技检定（如同尝试压制对手）。如果成功，它便吞下猎物，且对手受到啮咬伤害。除非另有说明，对手的体型必须至少比活吞生物小一级。被吞下会使生物每轮都受到伤害，伤害量和类型各异，在生物的数据中给出。被吞下的生物仍处于擒抱状态，而进行活吞的生物则不处于擒抱状态。被吞下的生物可以尝试用任何轻型挥砍或穿刺武器切开生路（切开逃脱所需造成的伤害等于该生物总 HP 的 1/10），也可以直接尝试挣脱擒抱。活吞生物体内的 AC 通常为 10 + 1/2 其天生护甲加值，没有体型或敏捷修正。如果被吞下的生物切开生路逃出，则在伤害被治愈之前，活吞生物不能再使用活吞。如果被吞下的生物挣脱了擒抱，它会回到攻击者的嘴边，可能再次被啮咬或者被吞下。</p><p><strong>格式</strong>：活吞（5d6 酸蚀伤害，AC 15，18 HP）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Telepathic Caster": {
+            "name": "心灵施法者 (Telepathic Caster)",
+            "description": "<ul><li><strong>心灵施法者（Telepathic Caster，Ex）</strong>：由于弗米蚁族的心灵感应天赋，如果它施放法术，那么它将以类法术能力的形式施放。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 60 尺。</li></ul>"
+        },
+        "Telepathy": {
+            "name": "心灵感应 (Telepathy)",
+            "description": "<p><strong>类型</strong>：Su；位置：语言</p><p>具有这种能力的生物可以在特定范围内（在生物条目中指定，通常为 100 尺）与其他具有语言的生物进行心灵沟通。它可以同时与多个生物心灵感应，但同时维持与多个生物的心灵交谈，就像同时与多人进行听说交流一样困难。</p><p><strong>格式</strong>：心灵感应 100 尺</p>"
+        },
+        "Thoughtsense": {
+            "name": "感知思维 (Thoughtsense)",
+            "description": "<p><strong>类型</strong>：Su；位置：感官</p><p>具有此能力的生物会自动侦测并定位指定范围内（通常为 60 尺）有意识的生物。该能力的功能类似于@UUID[Compendium.pf1.monster-abilities.Item.aEP8PdxGohVVBkei]{盲视}。@UUID[Compendium.pf1.spells.Item.awia42zci8nufpfl]{回避侦测}、@UUID[Compendium.pf1.spells.Item.blvetbc929cfx4m8]{心灵屏障}以及类似的效果能够屏蔽感知思维。感知思维能够分辨有思维（智力为 3 或更高）与无思维（智力为 1–2）的生物，但除此之外不提供关于被侦测生物的任何其他信息。</p><p><strong>格式</strong>：感知思维 60 尺</p>"
+        },
+        "Trample": {
+            "name": "践踏 (Trample)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>通过一个整轮动作，具有践踏能力的生物可以尝试越过任何体型比自己至少小一级的生物。这就像使用闯越战技一样，但践踏生物不需要进行检定，只需从路线上的对手身上越过。被践踏的目标受到的伤害等于践踏生物的挥击伤害加上 1.5 倍力量修正。被践踏的目标可以进行一次借机攻击，但承受 –4 减值。如果目标放弃借机攻击，可以进行一次反射豁免来避开践踏生物，并只受一半伤害。对抗践踏生物践踏攻击的豁免 DC = 10 + 1/2 该生物的 HD + 该生物的力量修正（具体 DC 会在生物描述中给出）。无论移动使践踏生物从目标身上越过多少次，践踏生物每轮只能对每个被践踏的目标造成一次践踏伤害。践踏生物可以在践踏中移动至多两倍陆地速度。</p><p><strong>格式</strong>：践踏（2d6+9，DC 20）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Tremorsense": {
+            "name": "颤动感知 (Tremorsense)",
+            "description": "<p><strong>类型</strong>：Ex；位置：感官</p><p>该生物对地面的震颤十分敏感，可以自动辨别出任何接触地面之物的位置。具有颤动感知能力的水栖生物亦可感觉出在水中移动的生物的位置。此能力的有效范围在生物的描述中给出。</p><p><strong>格式</strong>：颤动感知 60 尺</p>"
+        },
+        "Undersized Weapons": {
+            "name": "次体型武器 (Undersized Weapons)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>该生物在使用人造武器时，如同它的体型小一级一般，即使用型号比其体型小一级的武器。</p><p><strong>格式</strong>：次体型武器</p>"
+        },
+        "Unnatural Aura": {
+            "name": "反自然灵氲 (Unnatural Aura)",
+            "description": "<p><strong>类型</strong>：Su；位置：灵氲</p><p>动物不愿意接近该生物，除非动物的主人通过 DC 25 的驯养动物、骑术或野性认同检定。</p><p><strong>格式</strong>：反自然灵氲（30 尺）</p>"
+        },
+        "Unstoppable (Mythic)": {
+            "name": "无人可挡 (Unstoppable (Mythic))",
+            "description": "<p><strong>类型</strong>：Ex</span><span class=\"sk-a\">神话；位置：防御能力</p><p>该生物可以用自由动作花费 1 次神话之力，立即结束当前正影响它的下列状态中的任意一种：流血、目盲、困惑、畏缩、晕眩、目眩、耳聋、纠缠、力竭、迷魂、疲乏、惊惧、反胃、恐慌、麻痹、战栗、恶心、恍惚或震慑。所有其他状态或效果都会保持，即便它们与所选状态来自同一个法术或效果。即使某个状态会妨碍它行动，它也可以在自己的回合开始时使用该能力。</p><p><strong>格式</strong>：无人可挡</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vulnerabilities": {
+            "name": "易伤 (Vulnerabilities)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：弱点</p><p>拥有易伤的生物，不管是否允许豁免、豁免成功与否，都会额外承受一半（+50%）特定能量类型的伤害。具有非能量类型易伤的生物，在对抗造成或使用所列易伤的法术或效果（例如带有〔光〕描述符的法术）时，豁免检定承受 –4 减值。有的生物可能还会遭受其他效果，详情在其描述中列出。</p><p><strong>格式</strong>：火焰易伤</p>"
+        },
+        "Walk with Death": {
+            "name": "与死亡同行 (Walk with Death)",
+            "description": "<ul><li><strong>与死亡同行（Walk with Death，Su）</strong>：引座人与死亡女神法莱斯玛有着亲密的联系，身处骨园时无法被降至 0 生命值以下。任何在骨园之外被杀死的引座人会化作雾气与羽毛消散，留下它携带的所有装备，并立刻在其领地内自己选择的地点复生（如同@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术}）。引座人在 1 年内无法再次使用该能力。</li><li>@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.d2PiI8lNT7FjJhUx]{心灵感应} 300 尺。</li><li>引座人可以像神祇一样提供法术。每位引座人都有一种偏好武器，并提供@UUID[Compendium.pf1.class-abilities.Item.eROVW8PzBztdcMd6]{安眠领域}，外加另外三个领域和四个子域。</li></ul><p>此外，渡魂使引座人身处其国度时会获得下列能力（其数据不包含这些能力）：</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Water Breathing": {
+            "name": "水下呼吸 (Water Breathing)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>拥有此特殊能力的生物可以在水下无限期地呼吸。它在水下也可以自由使用喷吐武器、法术或者其他能力。</p><p><strong>格式</strong>：水下呼吸</p>"
+        },
+        "Water Dependency": {
+            "name": "依赖水源 (Water Dependency)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>拥有此特殊能力的生物离开水后，每点体质值可以存活 1 分钟。超过这个限度，该生物就有窒息的危险，如同溺水一般。</p><p><strong>格式</strong>：依赖水源</p>"
+        },
+        "Web": {
+            "name": "织网 (Web)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>拥有织网能力的生物用网来支撑自己，以及至多一个同体型或更小的其他生物。这类生物每天最多可以喷出网 8 次。这类似于使用@UUID[Compendium.pf1.weapons-and-ammo.Item.6oevs2mE3QqqQEAK]{捕网}攻击，但最大射程为 50 尺，射程增量 10 尺，并且对最大比织网生物大一级体型的目标有效。被纠缠的生物可以通过成功的脱逃检定逃脱，或通过成功的力量检定挣破网。两者都是标准动作，DC = 10 + 1/2 该生物的 HD + 该生物的体质修正。被网缠住的生物在挣破网时承受 –4 减值。</p><p>织网者可以织出至多其体型 3 倍大的黏性网面。它们通常把这些网面布置来捕捉飞行生物，但也可以用来捕食地面上的猎物。接近的生物必须通过 DC 20 的察觉检定才能注意到网；否则就会一头撞进网里，如同被一次成功的织网攻击命中而困住。被困的生物如果在挣脱时能够踩在某物上或抓住某物，则在尝试脱逃或挣破网时获得 +5 加值。每 5 尺见方的网面拥有等同于制造它的生物 HD 的 HP，并有 DR 5/—。</p><p>生物可以用自己的攀爬速度穿过自己的网，并且能精确定位任何接触其网的生物。</p><p><strong>格式</strong>：织网（+8 远程，DC 16，5 HP）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Whirlwind": {
+            "name": "旋风 (Whirlwind)",
+            "description": "<p><strong>类型</strong>：Su；位置：特殊攻击</p><p>有些生物可以把自己变成旋风，并且每 2 HD 可以维持该形态至多 1 轮。如果该生物拥有飞行速度，它在旋风形态下可以继续以相同速度飞行；否则，它在旋风形态下会获得等同于其基础陆地速度的飞行速度（机动性一般）。</p><p>旋风的底部总是宽 5 尺，但其高度和顶部的宽度因生物而异（高度至少 10 尺）。旋风顶部的宽度总是等于其高度的一半。生物可以控制旋风的具体高度，但至少要有 10 尺。</p><p>旋风形态不会引发借机攻击，即使该生物进入了其他生物占据的空间。如果其他生物接触或进入旋风，或者旋风移进或穿过该生物占据的空间，该生物就可能被卷入旋风。处于旋风形态的生物不能进行其正常攻击，也不威胁周围的区域。</p><p>体型比旋风小一级或更多的生物被卷入旋风时可能受到伤害（通常等于该怪物在其体型下的挥击伤害），并且可能被卷到空中。受影响的生物在接触旋风时必须通过一次反射豁免（DC = 10 + 1/2 怪物 HD + 怪物的力量修正），否则受到相当于旋风生物挥击的伤害。它还必须通过第二次反射豁免，否则整个身体会被卷起，悬吊在强劲的风中，每轮自动受到所示的伤害。</p><p>会飞的生物每轮都可进行一次反射豁免以逃脱旋风。该生物仍会受到伤害，但豁免成功就可以离开。</p><p>被困在旋风中的生物除了被旋风带着移动或逃离旋风之外无法移动。被困的生物在其他方面可以正常行动，但必须通过 DC 为 15 + 法术环位的专注检定才能施展法术。被卷入旋风的生物敏捷承受 –4 减值，攻击检定承受 –2 减值。旋风同一时间能困住的生物数量，以旋风的容积能容纳得下为限。旋风可以随时以自由动作抛出任何被它带着的生物，把它们丢在自己所占的空间中。</p><p>如果旋风的底部接触地面，就会形成一团旋转的碎屑云。这团云以该生物为中心，直径等于旋风高度的一半。这团云会遮挡 5 尺以外的所有视觉，包括黑暗视觉。5 尺远处的生物拥有隐蔽，更远的生物则拥有全隐蔽。被碎屑云笼罩的生物必须通过 DC 为 15 + 法术环位的专注检定才能施展法术。</p><p><strong>格式</strong>：旋风（3 次/天，高 10–30 尺，1d6+6 伤害，DC 15）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "X-Ray Vision (Mythic)": {
+            "name": "X 光视域 (X-Ray Vision (Mythic))",
+            "description": "<p><strong>类型</strong>：Su</span><span class=\"sk-a\">神话；位置：感官</p><p>怪物可以看透固体物质，如同佩戴了@UUID[Compendium.pf-content.pf-wondrous.Item.smoNWgZWgVlVqFwK]{X射线视觉戒指}一般。使用该能力同样十分耗费体力，如同怪物实际使用该戒指一样。</p><p><strong>格式</strong>：X 光视域</p>"
+        }
+    }
+}

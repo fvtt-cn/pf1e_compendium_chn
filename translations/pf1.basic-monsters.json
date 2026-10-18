@@ -1,0 +1,632 @@
+{
+    "label": "基础怪物",
+    "entries": {
+        "Acolyte": {
+            "name": "侍祭 (Acolyte)",
+            "items": {
+                "Aura": {
+                    "name": "灵氲 (Aura)"
+                },
+                "Cure Light Wounds": {
+                    "name": "治疗轻伤 (Cure Light Wounds)"
+                },
+                "Extra Channel": {
+                    "name": "额外引导 (Extra Channel)"
+                },
+                "Law Domain": {
+                    "name": "秩序领域 (Law Domain)"
+                },
+                "Shortspear": {
+                    "name": "短矛 (Shortspear)"
+                },
+                "Bonus Languages (CLE)": {
+                    "name": "额外语言 (Bonus Languages (CLE))"
+                },
+                "Guidance": {
+                    "name": "神导术 (Guidance)"
+                },
+                "Touch of Law": {
+                    "name": "秩序之触 (Touch of Law)"
+                },
+                "Bless": {
+                    "name": "祝福术 (Bless)"
+                },
+                "Scale Mail": {
+                    "name": "鳞甲 (Scale Mail)"
+                },
+                "Cleric": {
+                    "name": "牧师模板 (Cleric)"
+                },
+                "Resistance": {
+                    "name": "提升抗力 (Resistance)"
+                },
+                "Spontaneous Casting (CLE)": {
+                    "name": "Spontaneous Casting (CLE)"
+                },
+                "Virtue": {
+                    "name": "恩赐 (Virtue)"
+                },
+                "Orisons": {
+                    "name": "祷念 (Orisons)"
+                },
+                "Domains": {
+                    "name": "领域 (Domains)"
+                },
+                "Healer's Kit": {
+                    "name": "医疗包 (Healer's Kit)"
+                },
+                "Selective Channeling": {
+                    "name": "选择导能 (Selective Channeling)"
+                },
+                "Holy symbol (Silver)": {
+                    "name": "银质圣徽 (Holy symbol (Silver))"
+                },
+                "Rebuke Death": {
+                    "name": "制止死亡 (Rebuke Death)"
+                },
+                "Command": {
+                    "name": "命令术 (Command)"
+                },
+                "Channel Energy": {
+                    "name": "引导能量 (Channel Energy)"
+                },
+                "Human": {
+                    "name": "人类 (Human)"
+                },
+                "Heavy Wooden Shield": {
+                    "name": "重木盾 (Heavy Wooden Shield)"
+                }
+            },
+            "tokenName": "侍祭"
+        },
+        "Battle Mage": {
+            "name": "战斗法师 (Battle Mage)",
+            "items": {
+                "Longbow": {
+                    "name": "长弓 (Longbow)"
+                },
+                "Daze": {
+                    "name": "晕眩术 (Daze)"
+                },
+                "Detect Magic": {
+                    "name": "侦测魔法 (Detect Magic)"
+                },
+                "Point-Blank Shot": {
+                    "name": "近距射击 (Point-Blank Shot)"
+                },
+                "Shocking Grasp": {
+                    "name": "电爪 (Shocking Grasp)"
+                },
+                "Cantrips": {
+                    "name": "戏法 (Cantrips)"
+                },
+                "Scribe Scroll": {
+                    "name": "抄写卷轴 (Scribe Scroll)"
+                },
+                "Arcane Bond (Rapier)": {
+                    "name": "奥术联结 (Arcane Bond (Rapier))"
+                },
+                "Wizard": {
+                    "name": "法师模板 (Wizard)"
+                },
+                "Scorching Ray": {
+                    "name": "灼热射线 (Scorching Ray)"
+                },
+                "Arrow": {
+                    "name": "箭矢 (Arrow)"
+                },
+                "Resistance": {
+                    "name": "提升抗力 (Resistance)"
+                },
+                "Universalist School": {
+                    "name": "普通学派 (Universalist School)"
+                },
+                "Spellbooks (WIZ)": {
+                    "name": "法术书 (Spellbooks (WIZ))"
+                },
+                "Light": {
+                    "name": "光亮术 (Light)"
+                },
+                "Elf": {
+                    "name": "精灵 (Elf)"
+                },
+                "Arcane School": {
+                    "name": "奥术学派 (Arcane School)"
+                },
+                "Mage Armor": {
+                    "name": "法师护甲 (Mage Armor)"
+                },
+                "Mirror Image": {
+                    "name": "镜影术 (Mirror Image)"
+                },
+                "Combat Casting": {
+                    "name": "战斗施法 (Combat Casting)"
+                },
+                "Hand of the Apprentice": {
+                    "name": "普通学派 (Hand of the Apprentice)"
+                },
+                "Magic Missile": {
+                    "name": "魔法飞弹 (Magic Missile)"
+                },
+                "Shield": {
+                    "name": "护盾术 (Shield)"
+                },
+                "Spellbook": {
+                    "name": "法术书 (Spellbook)"
+                },
+                "Rapier": {
+                    "name": "细剑 (Rapier)"
+                }
+            },
+            "tokenName": "战斗法师"
+        },
+        "Fire Beetle": {
+            "name": "火甲虫 (Fire Beetle)",
+            "items": {
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Low-Light Vision": {
+                    "name": "昏暗视觉 (Low-Light Vision)"
+                }
+            },
+            "tokenName": "火甲虫"
+        },
+        "Goblin": {
+            "name": "地精 (Goblin)",
+            "items": {
+                "Improved Initiative": {
+                    "name": "精通先攻 (Improved Initiative)"
+                },
+                "Light Wooden Shield": {
+                    "name": "轻木盾 (Light Wooden Shield)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Arrow": {
+                    "name": "箭矢 (Arrow)"
+                },
+                "Shortsword": {
+                    "name": "短剑 (Shortsword)"
+                },
+                "Warrior": {
+                    "name": "武者 (Warrior)"
+                },
+                "Goblin": {
+                    "name": "地精 (Goblin)"
+                },
+                "Leather Armor": {
+                    "name": "皮甲 (Leather Armor)"
+                },
+                "Shortbow": {
+                    "name": "短弓 (Shortbow)"
+                }
+            },
+            "tokenName": "地精"
+        },
+        "Goblin Alchemist": {
+            "items": {
+                "Brew Potion": {
+                    "name": "调制药剂 (Brew Potion)"
+                },
+                "Goblin": {
+                    "name": "地精 (Goblin)"
+                },
+                "Cure Light Wounds": {
+                    "name": "治疗轻伤 (Cure Light Wounds)"
+                },
+                "Crossbow Bolt": {
+                    "name": "弩矢 (Crossbow Bolt)"
+                },
+                "Alchemist's Fire": {
+                    "name": "炽火胶 (Alchemist's Fire)"
+                },
+                "Bomb": {
+                    "name": "炸裂弹 (Bomb)"
+                },
+                "Acid": {
+                    "name": "强酸 (Acid)"
+                },
+                "True Strike": {
+                    "name": "克敌机先 (True Strike)"
+                },
+                "Toughness": {
+                    "name": "健壮 (Toughness)"
+                },
+                "Throw Anything": {
+                    "name": "随手投掷 (Throw Anything)"
+                },
+                "Light Crossbow": {
+                    "name": "轻弩 (Light Crossbow)"
+                },
+                "Leather Armor": {
+                    "name": "皮甲 (Leather Armor)"
+                },
+                "Formula Book": {
+                    "name": "公式簿 (Formula Book)"
+                },
+                "Alchemy": {
+                    "name": "炼金术 (Alchemy)"
+                },
+                "Mutagen": {
+                    "name": "突变药剂 (Mutagen)"
+                },
+                "Enlarge Person": {
+                    "name": "变巨术 (Enlarge Person)"
+                },
+                "Dagger": {
+                    "name": "匕首 (Dagger)"
+                },
+                "Firebelly": {
+                    "name": "暖腹火 (Firebelly)"
+                },
+                "Alchemist": {
+                    "name": "炼金术师 (Alchemist)"
+                },
+                "Smokestick": {
+                    "name": "发烟棒 (Smokestick)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                }
+            }
+        },
+        "Homunculus": {
+            "name": "何蒙库鲁兹 (Homunculus)",
+            "items": {
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Construct Traits": {
+                    "name": "构装体特性 (Construct Traits)"
+                },
+                "Construct": {
+                    "name": "构装体 (Construct)"
+                },
+                "Lightning Reflexes": {
+                    "name": "闪电反射 (Lightning Reflexes)"
+                },
+                "Low-Light Vision": {
+                    "name": "昏暗视觉 (Low-Light Vision)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Telepathic Link": {
+                    "name": "连通心灵感应 (Telepathic Link)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                }
+            },
+            "tokenName": "何蒙库鲁兹"
+        },
+        "Human Bandit": {
+            "items": {
+                "Sap": {
+                    "name": "闷棍 (Sap)"
+                },
+                "Studded Leather Armor": {
+                    "name": "镶嵌皮甲 (Studded Leather Armor)"
+                },
+                "Arrow": {
+                    "name": "箭矢 (Arrow)"
+                },
+                "Human": {
+                    "name": "人类 (Human)"
+                },
+                "Warrior": {
+                    "name": "武者 (Warrior)"
+                },
+                "Composite Longbow": {
+                    "name": "复合长弓 (Composite Longbow)"
+                },
+                "Buckler": {
+                    "name": "小圆盾 (Buckler)"
+                },
+                "Rapier": {
+                    "name": "细剑 (Rapier)"
+                },
+                "Dodge": {
+                    "name": "闪避 (Dodge)"
+                },
+                "Point-Blank Shot": {
+                    "name": "近距射击 (Point-Blank Shot)"
+                },
+                "Composite Longbow (+1 Str)": {
+                    "name": "复合长弓 (Composite Longbow (+1 Str))"
+                }
+            }
+        },
+        "Human Skeleton": {
+            "items": {
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Scimitar": {
+                    "name": "弯刀 (Scimitar)"
+                },
+                "Chain Shirt": {
+                    "name": "链甲衫 (Chain Shirt)"
+                },
+                "Undead Traits": {
+                    "name": "不死特性 (Undead Traits)"
+                },
+                "Improved Initiative": {
+                    "name": "精通先攻 (Improved Initiative)"
+                },
+                "Undead": {
+                    "name": "不死生物 (Undead)"
+                }
+            }
+        },
+        "Human Zombie": {
+            "name": "丧尸 (Human Zombie)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Undead": {
+                    "name": "不死生物 (Undead)"
+                },
+                "Toughness": {
+                    "name": "健壮 (Toughness)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Staggered": {
+                    "name": "恍惚 (Staggered)"
+                },
+                "Undead Traits": {
+                    "name": "不死特性 (Undead Traits)"
+                }
+            },
+            "tokenName": "丧尸"
+        },
+        "Orc": {
+            "name": "兽人 (Orc)",
+            "items": {
+                "Orc": {
+                    "name": "兽人 (Orc)"
+                },
+                "Javelin": {
+                    "name": "标枪 (Javelin)"
+                },
+                "Falchion": {
+                    "name": "弯刃大刀 (Falchion)"
+                },
+                "Weapon Familiarity": {
+                    "name": "武器精熟 (Weapon Familiarity)"
+                },
+                "Studded Leather Armor": {
+                    "name": "镶嵌皮甲 (Studded Leather Armor)"
+                },
+                "Warrior": {
+                    "name": "武者 (Warrior)"
+                },
+                "Light Sensitivity": {
+                    "name": "强光敏感 (Light Sensitivity)"
+                },
+                "Weapon Focus (Falchion)": {
+                    "name": "武器专攻 (Weapon Focus (Falchion))"
+                },
+                "Ferocity": {
+                    "name": "凶猛 (Ferocity)"
+                }
+            },
+            "tokenName": "兽人"
+        },
+        "Poacher": {
+            "name": "偷猎者 (Poacher)",
+            "items": {
+                "Combat Style Feat": {
+                    "name": "战斗流派专长 (Combat Style Feat)"
+                },
+                "Bonus Feat": {
+                    "name": "奖励专长 (Bonus Feat)"
+                },
+                "Wild Empathy": {
+                    "name": "野性认同 (Wild Empathy)"
+                },
+                "Favored Enemy (Animals +2)": {
+                    "name": "宿敌 (Favored Enemy (Animals +2))"
+                },
+                "Track": {
+                    "name": "追踪 (Track)"
+                },
+                "Skilled": {
+                    "name": "技能精通 (Skilled)"
+                },
+                "Endurance": {
+                    "name": "坚忍 (Endurance)"
+                },
+                "Favored Terrain (Forest)": {
+                    "name": "偏好地形 (Favored Terrain (Forest))"
+                },
+                "Quick Draw": {
+                    "name": "即时备战 (Quick Draw)"
+                },
+                "Improved Shield Bash": {
+                    "name": "精通盾击 (Improved Shield Bash)"
+                },
+                "Heavy Crossbow": {
+                    "name": "重弩 (Heavy Crossbow)"
+                },
+                "Ranger": {
+                    "name": "游侠模板 (Ranger)"
+                },
+                "Crossbow Bolt": {
+                    "name": "弩矢 (Crossbow Bolt)"
+                },
+                "Handaxe": {
+                    "name": "手斧 (Handaxe)"
+                },
+                "Two-Weapon Fighting": {
+                    "name": "双武器格斗 (Two-Weapon Fighting)"
+                },
+                "Weapon Focus (Handaxe)": {
+                    "name": "武器专攻 (Weapon Focus (Handaxe))"
+                },
+                "Human": {
+                    "name": "人类 (Human)"
+                }
+            },
+            "tokenName": "偷猎者"
+        },
+        "Stirge": {
+            "name": "蚊蝠 (Stirge)",
+            "items": {
+                "Blood Drain": {
+                    "name": "吸血 (Blood Drain)"
+                },
+                "Weapon Finesse": {
+                    "name": "武器娴熟 (Weapon Finesse)"
+                },
+                "Magical Beast": {
+                    "name": "魔法兽 (Magical Beast)"
+                },
+                "Attach": {
+                    "name": "缠身 (Attach)"
+                },
+                "Scent": {
+                    "name": "灵敏嗅觉 (Scent)"
+                }
+            },
+            "tokenName": "蚊蝠"
+        },
+        "Street Magician": {
+            "name": "街头魔术师 (Street Magician)",
+            "items": {
+                "Ghost Sound": {
+                    "name": "幻音术 (Ghost Sound)"
+                },
+                "Enchanting Smile": {
+                    "name": "惑控学派 (Enchanting Smile)"
+                },
+                "Dagger": {
+                    "name": "匕首 (Dagger)"
+                },
+                "Color Spray": {
+                    "name": "七彩喷射 (Color Spray)"
+                },
+                "Dodge": {
+                    "name": "闪避 (Dodge)"
+                },
+                "Arcane School": {
+                    "name": "奥术学派 (Arcane School)"
+                },
+                "Scribe Scroll": {
+                    "name": "抄写卷轴 (Scribe Scroll)"
+                },
+                "Light Crossbow": {
+                    "name": "轻弩 (Light Crossbow)"
+                },
+                "Cantrips": {
+                    "name": "戏法 (Cantrips)"
+                },
+                "Thunderstone": {
+                    "name": "爆雷石 (Thunderstone)"
+                },
+                "Enchantment School": {
+                    "name": "惑控学派 (Enchantment School)"
+                },
+                "Dazing Touch (WIZ)": {
+                    "name": "Dazing Touch (WIZ)"
+                },
+                "Dancing Lights": {
+                    "name": "舞光术 (Dancing Lights)"
+                },
+                "Wizard": {
+                    "name": "法师模板 (Wizard)"
+                },
+                "Prestidigitation": {
+                    "name": "魔法伎俩 (Prestidigitation)"
+                },
+                "Alchemist's Fire": {
+                    "name": "炽火胶 (Alchemist's Fire)"
+                },
+                "Spellbook": {
+                    "name": "法术书 (Spellbook)"
+                },
+                "Arcane Bond (Amulet)": {
+                    "name": "奥术联结 (Arcane Bond (Amulet))"
+                },
+                "Grease": {
+                    "name": "油腻术 (Grease)"
+                },
+                "Spellbooks (WIZ)": {
+                    "name": "法术书 (Spellbooks (WIZ))"
+                },
+                "Speak with Animals": {
+                    "name": "动物交谈 (Speak with Animals)"
+                },
+                "Smokestick": {
+                    "name": "发烟棒 (Smokestick)"
+                },
+                "Brooch of Shielding": {
+                    "name": "护盾胸针 (Brooch of Shielding)"
+                },
+                "Charm Person": {
+                    "name": "魅惑人类 (Charm Person)"
+                },
+                "Sleep": {
+                    "name": "睡眠术 (Sleep)"
+                },
+                "Mage Hand": {
+                    "name": "法师之手 (Mage Hand)"
+                },
+                "Gnome": {
+                    "name": "侏儒 (Gnome)"
+                }
+            },
+            "tokenName": "街头魔术师"
+        },
+        "Wasp Swarm": {
+            "name": "黄蜂群 (Wasp Swarm)",
+            "items": {
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Poison": {
+                    "name": "毒击术 (Poison)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Distraction": {
+                    "name": "分神 (Distraction)"
+                }
+            },
+            "tokenName": "黄蜂群"
+        },
+        "Wolf": {
+            "name": "狼 (Wolf)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Skill Focus (Perception)": {
+                    "name": "技能专攻 (Skill Focus (Perception))"
+                },
+                "Trip": {
+                    "name": "摔绊 (Trip)"
+                },
+                "Scent": {
+                    "name": "灵敏嗅觉 (Scent)"
+                },
+                "Animal": {
+                    "name": "动物 (Animal)"
+                },
+                "Low-Light Vision": {
+                    "name": "昏暗视觉 (Low-Light Vision)"
+                }
+            },
+            "tokenName": "狼"
+        }
+    }
+}

@@ -70,6 +70,10 @@
       "name": "纸包弹（Alchemical Cartridge (Paper, Bullet Or Pellet)）",
       "description": "<p>&emsp;&emsp;这种黑火药和子弹或霰弹的简单混合使哑火值提高1。</p>"
     },
+    "Alchemical Cartridge (Paper, Bullet or Pellet)": {
+      "name": "纸包弹 (Alchemical Cartridge (Paper, Bullet or Pellet))",
+      "description": "<p>这种黑火药和子弹或霰弹的简单混合使哑火值提高1。</p>"
+    },
     "Alchemical Cartridge (Repellent)": {
       "name": "驱虫定装弹 (Alchemical Cartridge (Repellent))",
       "description": "<p>这种定装弹只能用在具备霰弹特性的早期或近代火器上。使用驱虫定装弹需要进行一次对抗AC为5的霰弹射击。若该攻击成功，则其将创造出一个有着恶臭熏烟的锥形区域，持续2轮，此后这股恶臭将会淡化消散。任何在恶臭出现时处于影响区域的生物或是主动进入恶臭区域的生物必须通过DC15的强韧豁免，否则将恶心1d6轮。被恶臭多次影响将会延长恶心状态的持续时间。若你的攻击结果导致火器哑火爆炸，则该恶臭云雾的范围将会以你所在方格的某个角（由你选择）为中心，其范围等同于该火器的哑火爆发范围。发射这种定装弹会使火器的哑火值增加1。</p>"
@@ -81,6 +85,10 @@
     "Alchemical Cartridge (Smoke Cartridge)": {
       "name": "Alchemical Cartridge (Smoke Cartridge)（Alchemical Cartridge (Smoke Cartridge)）",
       "description": "<p><strong>Source</strong> <em>Heroes of Golarion pg. 18</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />Statistics</h3>\n<p><strong>Cost</strong> 35 gp <strong>Weight</strong> -</p>\n<p><strong>Category</strong> Ammunition; <strong>Proficiency</strong> Exotic</p>\n<h3 class=\"framing\">Description</h3>\n<p>An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge-a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry.</p>\n<p>&nbsp;</p>\n<p><strong><em>Smoke Cartridge</em></strong>: (<strong>Source</strong> <em>Heroes of Golarion pg. 18</em>) This cartridge can be loaded only into a weapon with the scatter quality. Upon striking a target, it deals no damage, but instead bursts into a cloud of smoke in a 20-foot radius. This smoke impairs sight beyond 5 feet; any creature farther away gains concealment (20% miss chance). The cloud disperses after 1d4 rounds, or in 1 round in light wind.</p>\n<p>&nbsp;</p>"
+    },
+    "Alchemical Cartridge (Smoke)": {
+      "name": "炼金定装弹 (Alchemical Cartridge (Smoke))",
+      "description": "<p>1发炼金定装弹是将黑火药和1颗弹头或霰弹（有时候加入别的特殊材料）用纸或布包起来，并用蜡、猪油或牛油密封起来的，准备完毕的一捆东西。炼金定装弹有很多种类，最简单的就是纸包定装弹——一种黑火药和子弹或霰弹的简单混合。炼金定装弹使装填火器变得容易，使装填一件火器所需时间减少一级（整轮动作变为标准动作，标准动作变为移动动作，移动动作变为自由动作），可是它们也倾向于不稳定。一件武器发射1发炼金定装弹时，哑火值的提升见各类型的页面。</p><p>各类型：@UUID[Compendium.pf1.weapons-and-ammo.Item.bJvZu1QKqPgqla9F]{龙息弹}、@UUID[Compendium.pf1.weapons-and-ammo.Item.D8vmpkNccryOnG4b]{纠缠弹}、@UUID[Compendium.pf1.weapons-and-ammo.Item.ru3xxm4XDuUI4rE1]{闪光弹}、@UUID[Compendium.pf1.weapons-and-ammo.Item.78PZxXfzjQfaupGN]{纸包弹}、@UUID[Compendium.pf1.weapons-and-ammo.Item.Rh1P93bhaSeYWV57]{盐弹}；近代火器用@UUID[Compendium.pf1.weapons-and-ammo.Item.syi2cVWBrZ5zdPUO]{金属定装弹}。</p>"
     },
     "Alchemical Cartridge (Toxin)": {
       "name": "毒气定装弹 (Alchemical Cartridge (Toxin))",
@@ -107,6 +115,10 @@
           "name": "攻击"
         }
       ]
+    },
+    "Arrow, grappling": {
+      "name": "爪钩箭 (Arrow, grappling)",
+      "description": "<p>这种小@UUID[Compendium.pf1.items.Item.gnynrdudvahpbxkz]{爪钩}被设计成系在丝绳上用弓发射。发射时，其射程增量为30尺。也有用于弩的爪钩箭存在。</p>"
     },
     "Arrows (20)": {
       "name": "箭矢（Arrows (20)）",
@@ -274,6 +286,10 @@
         }
       ]
     },
+    "Bolas Bolt": {
+      "name": "捆绑矢 (Bolas Bolt)",
+      "description": "<p>捆绑矢是类似套牛绳的投射物，用作捕俘弩的弹药。当你用捕俘弩发射捆绑矢命中目标时，对该目标进行一次摔绊战技检定（进行此战技检定时不加你的力量加值）。使用捆绑矢时，你在这次摔绊尝试中不会遭到反摔。</p><p>重击时，捆绑矢不造成额外伤害，而是缠住目标。目标陷入纠缠状态，直到它自己或一名盟友成功通过DC15的力量检定、扯断捆绑绳为止。轻型捕俘弩最多能纠缠与其设计使用者体型相同的生物，重型捕俘弩则可以纠缠大一级以内的生物。精制的捆绑矢，或增强加值至少为+1的捆绑矢，会使扯断捆绑绳的力量检定DC提高到20。</p><p>如果这次攻击既绊倒又纠缠了目标，该生物在挣脱捆绑绳之前无法离开当前所在的方格。</p>"
+    },
     "Bolas Bolts": {
       "name": "Bolas Bolts（Bolas Bolts）",
       "description": "<p><strong>Source</strong> <em>Monster Codex pg. 44</em></p><h3 class=\"framing\">Statistics</h3><p><strong>Cost</strong> 20 gp <strong>Weight</strong> 4 lbs.</p><p><strong>Category</strong> Ammunition; <strong>Proficiency</strong> Ammunition</p><h3 class=\"framing\">Description</h3><p>Bolas bolts are bolas-like projectiles used as ammunition for slaver's crossbows. If you hit a target with a bolas bolt fired from a slaver's crossbow, attempt a trip combat maneuver against your target (don't add your Strength bonus when attempting the combat maneuver check). You can't be tripped during your own trip attempt when using a bolas bolt.</p><p></p><p> On a critical hit, instead of dealing extra damage, the bolas bolt ensnares its target. Your target is entangled until it or an ally succeeds at a DC 15 Strength check to break the bolas cords. A light slaver's crossbow can entangle a target up to the same size as its intended wielder, and a heavy slaver's crossbow can entangle a creature up to one size larger. A masterwork bolas bolt or one with an enhancement bonus of at least +1 increases the DC of the Strength check to break the bolas to 20.</p><p></p><p> If the attack trips and entangles a target, the creature cannot move from its square until it breaks free of the bolas cords.</p>"
@@ -394,6 +410,10 @@
         }
       ]
     },
+    "Crossbow Bolt, grappling": {
+      "name": "弩矢（grappling） (Crossbow Bolt, grappling)",
+      "description": "<p>弩矢用作近战武器时，视为轻型临时武器（攻击检定-4），并造成与同体型匕首相同的伤害（重击倍率×2）。弩矢装在匣子或箭袋里，每份10支。除连射弩外，所有弩都使用这种弩矢，它们有时也被称为“quarrel”。</p>"
+    },
     "Crossbow Bolts (10)": {
       "name": "弩矢（Crossbow Bolts (10)）",
       "description": "<p>&emsp;&emsp;一支弩矢在作为近战武器时属于轻型临时武器，它可以造成与同样型号的匕首相同的伤害（重击倍率×2）。买到的弩矢放在一个可以容纳10支弩矢（连射弩是5支）的木制小匣里。</p>"
@@ -463,6 +483,10 @@
     "Distance Arrow": {
       "name": "Distance Arrow（Distance Arrow）",
       "description": "<p>&emsp;&emsp;Used tactically for long-range attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage.</p>\n<p>&emsp;&emsp;<strong>Benefit</strong>: Iron-tipped distance arrows increase their bow’s range increment by 10 feet but take a –1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.</p>"
+    },
+    "Distance Arrow (Iron-tipped)": {
+      "name": "铁簇矢 (Distance Arrow (Iron-tipped))",
+      "description": "<p><strong>铁簇矢</strong>：这种箭矢用于对部队进行远程战术攻击，装有沉重的铁质箭头。铁质箭头帮助它们飞得更远，但也使箭矢的杀伤力有所下降。铁簇矢使所用弓的射程增量提高10尺，但每个射程增量承受-1的伤害减值（最少造成1点伤害）。它们装在皮革箭袋里出售，每袋20支。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
     },
     "Doru": {
       "name": "杜鲁 (Doru)",
@@ -791,6 +815,10 @@
         }
       ]
     },
+    "Firearm Bullet": {
+      "name": "弹头 (Firearm Bullet)",
+      "description": "<p><strong>弹头</strong>：大部分单手和双手火器使用的弹药，弹头通常是铅或其他金属制成的小球。30颗弹头重半磅。</p>"
+    },
     "Firearm Bullet (1)": {
       "name": "火器弹头（Firearm Bullet (1)）",
       "description": "<p>&emsp;&emsp;大部分单手和双手火器的弹药。弹头的典型形态是一个小铅球，或其它金属。</p>"
@@ -871,6 +899,16 @@
         {
           "name": "攻击"
         }
+      ]
+    },
+    "Frost Brand": {
+      "name": "寒冰之烙 (Frost Brand)",
+      "description": "<p><strong>灵光</strong> 强烈塑能系；<strong>施法者等级</strong> 14；<strong>部位</strong> 无；<strong>价格</strong> 54,475 gp；<strong>重量</strong> 8磅</p><p>当气温降到0°F（-18°C）以下时，这把+3冻寒@UUID[Compendium.pf1.weapons-and-ammo.Item.oyUApQSVsAqzyjdz]{巨剑}会像火把一样发光。此时它一旦拔出就无法隐藏，它的光也无法遮蔽。持用者受到火焰的保护：这把剑每轮会吸收持用者本会受到的前10点火焰伤害。</p><p>寒冰之烙会熄灭20尺半径内所有的非魔法火焰。它还可以以标准动作解除持续性的火焰法术，但不能解除瞬发效应。持用者必须对每个法术通过一次@UUID[Compendium.pf1.spells.Item.gmgwyjfpeuuc4t4o]{解除魔法}检定（1d20+14）才能将其解除。解除这类法术的DC为11+该火焰法术的施法者等级。</p><h3>制作</h3><p><strong>需求</strong> 制造魔法武器和防具、解除魔法、冰风暴、防护能量伤害；<strong>成本</strong> 27,375 gp</p>",
+      "actions": [
+        {
+          "name": "攻击"
+        },
+        {}
       ]
     },
     "Gargantuan Gallery": {
@@ -972,6 +1010,10 @@
         }
       ]
     },
+    "Groaning Bullet": {
+      "name": "蜂鸣弹丸 (Groaning Bullet)",
+      "description": "<p>这些投石索弹丸内部被掏出层叠交错的孔洞，形如蜂窝，飞行时会发出诡异的呻吟声，在其飞行路径500尺内都能听见。</p>"
+    },
     "Groaning Bullets (10)": {
       "name": "Groaning Bullets (10)（Groaning Bullets (10)）",
       "description": "<p><strong>Source</strong> <em>Adventurer's Armory pg. 3</em></p>\n<h3 class=\"framing\"><img style=\"margin: 3px 3px 0px 3px;\" title=\"PFS Legal\" src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" />Statistics</h3>\n<p><strong>Cost</strong> 2 gp <strong>Weight</strong> 5 lbs.</p>\n<p><strong>Category</strong> Ammunition; <strong>Proficiency</strong> Ammunition</p>\n<h3 class=\"framing\">Description</h3>\n<p>These sling bullets are honeycombed with overlapping perforations that cause them to emit an eerie moan audible within 500 feet of their flight path.</p>"
@@ -1024,6 +1066,10 @@
           "name": "攻击"
         }
       ]
+    },
+    "Heartstake Bolt": {
+      "name": "穿心弩箭 (Heartstake Bolt)",
+      "description": "<p>穿心弩箭由实心黑木特制而成，专门用来猎杀吸血鬼。穿心弩箭可以用任何弩发射，但会使攻击检定承受-2减值，并使该武器的射程增量减半。吸血鬼被穿心弩箭命中时受到正常伤害，但还必须通过一次DC20的强韧豁免，否则会倒地无助1轮。吸血鬼以此方式无助期间，其他生物可以用一个整轮动作尝试将穿心弩箭扎进它的心脏，以此将其终结。穿心弩箭的致残效果结束后，吸血鬼可以用一个移动动作把弩箭拔出来。被穿心弩箭杀死的吸血鬼，适用吸血鬼弱点中关于以木桩杀死吸血鬼的规则和限制。</p><p>穿心弩箭造成其所用那种弩的正常伤害。</p>"
     },
     "Heartstake Bolts (5)": {
       "name": "Heartstake Bolts (5)（Heartstake Bolts (5)）",
@@ -1221,6 +1267,10 @@
         }
       ]
     },
+    "Kestros Dart": {
+      "name": "投镖 (Kestros Dart)",
+      "description": "<p>投镖用于由投镖索投掷，它将一根约9寸长的沉重金属尖头安装在约12寸长的木杆上，并装上羽毛以保持飞行稳定。作为近战武器使用时，投镖属于轻型临时武器（攻击检定-4），造成与同体型匕首相同的伤害（重击倍率×2）。</p><p>10支投镖为一组，装在一个箭袋里。</p>"
+    },
     "Kestros Dart (10)": {
       "name": "投镖（Kestros Dart (10)）",
       "description": "<p>&emsp;&emsp;投镖用投镖索来投掷，它将9寸长的金属尖端安装在12寸长的木杆上、再加装羽毛等物来协助飞行稳定性。一只投镖在作为近战武器时属于轻型临时武器，它可以造成与同样型号的匕首相同的伤害（重击倍率×2）。10只投镖一组放在一个皮袋里。</p>"
@@ -1344,6 +1394,10 @@
     "Liquid Ice (Siege)": {
       "name": "寒冰弹 (Liquid Ice (Siege))",
       "description": "<p>这只坚硬的瓷罐中装满了炼金冻结剂，可以作为投石车和抛石机的弹药。它在命中目标方格后，对目标方格5尺范围内的每个生物造成4d6点寒冷伤害，每个生物必须通过DC为20的强韧豁免，否则被纠缠1轮；目标方格5尺到30尺之间范围的每个生物也必须进行DC为20的强韧豁免以减半伤害。若攻城兵器掉链，该弹药会在投射前爆炸，如同目标为此攻城兵器所占据的某个方格般（具体由机师长决定）对附近所有生物造成伤害。</p>"
+    },
+    "Little Starstones Sling Bullet": {
+      "name": "小星石 (Little Starstones Sling Bullet)",
+      "description": "<p><strong>小星石</strong>（type：钝击）：这些鹅卵石用线或布包裹，虽然严格说来属于投石索弹药，但主要用于发信号或庆典而非战斗，因为它们的力道勉强只够让人感到刺痛。用油或烈酒浸泡后，它们会明亮地燃烧1轮，如同蜡烛一般照亮一片区域，并在飞行途中划出短暂的光带。它们通常不够热，又燃烧得太快，无法点燃可燃物。</p>"
     },
     "Little Starstones Sling Bullets (10)": {
       "name": "Little Starstones Sling Bullets (10)（Little Starstones Sling Bullets (10)）",
@@ -1672,6 +1726,16 @@
         }
       ]
     },
+    "Reaver's Scythe": {
+      "name": "掠夺镰刀 (Reaver's Scythe)",
+      "description": "<p><strong>灵光</strong> 中等死灵系；<strong>施法者等级</strong> 12；<strong>部位</strong> 无；<strong>价格</strong> 80,318 gp；<strong>重量</strong> 10磅</p><p>这把+2锐锋邪恶@UUID[Compendium.pf1.weapons-and-ammo.Item.oAb9EXEzaLRGfYxL]{镰刀}的黑色刀刃上映着被它夺走的灵魂的模糊影像。每当用这把镰刀将一个生物打到-1或更少生命值时，该生物必须立即通过一次DC 14的意志豁免，否则当场死亡。如果掠夺镰刀杀死了一个生物，无论是通过伤害，还是因为该生物意志豁免失败，持用者都会立即获得1点英雄点。这个英雄点必须在1小时内用掉，否则就会失去。在第一个英雄点被用掉或失去之前，持用者不能再从这把镰刀获得另一个英雄点。</p><h3>制作</h3><p><strong>需求</strong> 制造魔法武器和防具、锐锋术、咒魂、邪影击；<strong>成本</strong> 40,318 gp</p>",
+      "actions": [
+        {
+          "name": "攻击"
+        },
+        {}
+      ]
+    },
     "Reflex Bow": {
       "name": "反射弓 (Reflex Bow)",
       "description": "<p>这些C形弓最常被天京的骑卫在弘古苔原上使用，在罕见的情况下也被夏海的贵族使用。这些弓的独特形状和工艺使它们能够以与@UUID[Compendium.pf1.weapons-and-ammo.Item.PqJih70EG2A1XNGf]{长弓}相同的速度和力量来射击。较短的尺寸也便于在马背上（或其他任何坐骑背上）使用。在骑乘时，你使用反射弓的攻击检定获得+1环境加值。所有的反射弓都是复合弓，可以像复合弓一样改造，使其受益于高力量值。适用于长弓和@UUID[Compendium.pf1.weapons-and-ammo.Item.Ata6ajiY9wuAnBLB]{短弓}的效果也适用于反射弓。</p>",
@@ -1846,6 +1910,10 @@
         }
       ]
     },
+    "Sharpstones Sling Bullet": {
+      "name": "利石 (Sharpstones Sling Bullet)",
+      "description": "<p><strong>利石</strong>（type：穿刺或挥砍）：这种特别设计的弹丸表面布满尖刺和锯齿状的棱脊，外面裹着一层薄薄的烧制黏土。熟练的使用者知道如何敲裂黏土层（自由动作），使其在发射时从尖刺或棱脊上剥落，从而造成穿刺或挥砍伤害。</p>"
+    },
     "Sharpstones Sling Bullets (10)": {
       "name": "Sharpstones Sling Bullets (10)（Sharpstones Sling Bullets (10)）",
       "description": "<p><strong>Source</strong> <em>Halflings of Golarion pg. 23</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/PathfinderSocietySymbol.gif\" title=\"PFS Legal\" style=\"margin:3px 3px 0px 3px;\">Statistics</h3><p><strong>Cost</strong> 1 gp <strong>Weight</strong> 5 lbs.</p><p><strong>Category</strong> Ammunition; <strong>Proficiency</strong> Ammunition</p><h3 class=\"framing\">Description</h3><p>A thin layer of baked clay covers the spikes and jagged ridges covering this specially designed bullet. A proficient user knows how to crack the clay (a free action) so that it peels off from either the spikes or ridges when fired, dealing either piercing or slashing damage.</p>"
@@ -1906,6 +1974,10 @@
       "name": "银弹头 (Silver Firearm Bullet)",
       "description": "<p>这种弹药专门用银制成。它虽然没有魔法，但对兽化人尤其有害，对这类生物的重击威胁自动确认。发射银弹头的火器，伤害检定受到-1减值（最低为1点伤害）。</p>"
     },
+    "Sling Bullet": {
+      "name": "投石索弹丸 (Sling Bullet)",
+      "description": "<p>投石索弹丸是成形的金属球，设计用于投石索或半身人投石杖。买到的弹丸装在一个可容纳10颗的皮质小袋里。</p>"
+    },
     "Sling Bullets (10)": {
       "name": "投石索弹丸（Sling Bullets (10)）",
       "description": "<p>&emsp;&emsp;买到的弹丸放在一个可以容纳10颗弹丸的皮质小袋里。</p>"
@@ -1926,6 +1998,10 @@
     "Smoke Shot (Siege)": {
       "name": "烟雾弹 (Smoke Shot (Siege))",
       "description": "<p>这只坚硬的瓷球内装有两种炼金物质，中间以一层薄膜隔开，如同放大版的烟玉，可由加农火炮和鬼头火炮发射。它命中目标方格时，对该方格内的任何生物造成2d6点伤害，两种物质随即混合，从目标方格向外30尺的范围内产生一团恶臭但无害的黄色浓烟。此效果视同@UUID[Compendium.pf1.spells.Item.g33euis7yi9pwddy]{云雾术}法术。</p><p>若攻城兵器掉链，该弹药会在发射前爆炸，其效果以攻城兵器所占据的某个方格为中心（由机师长决定）。</p>"
+    },
+    "Softstones Sling Bullet": {
+      "name": "软石 (Softstones Sling Bullet)",
+      "description": "<p><strong>软石</strong>（type：钝击）：这些由弹性纤维紧紧扎成的团块，用投石索发射时造成非致命伤害。</p>"
     },
     "Softstones Sling Bullets (10)": {
       "name": "Softstones Sling Bullets (10)（Softstones Sling Bullets (10)）",
@@ -1969,6 +2045,10 @@
           "name": "攻击"
         }
       ]
+    },
+    "Spongestones Sling Bullet": {
+      "name": "海绵石 (Spongestones Sling Bullet)",
+      "description": "<p><strong>海绵石</strong>（type：穿刺）：这些弹丸其实是用多孔石或重木制成的，能吸收液体，撞击时会碎裂。海绵石常用来投送毒药或燃烧的油。一瓶油可以完全浸透10颗海绵石。点燃后（有火源时是自由动作），一颗燃烧的、浸了油的海绵石会额外造成+1d2点火焰伤害，并能点燃可燃物（例如茅草屋顶）。若任由海绵石在投石索的兜里燃烧超过1d3轮，投石索就会获得破损状态。</p>"
     },
     "Spongestones Sling Bullets (10)": {
       "name": "Spongestones Sling Bullets (10)（Spongestones Sling Bullets (10)）",
@@ -2134,6 +2214,10 @@
         }
       ]
     },
+    "Thorn Arrow": {
+      "name": "荆棘箭 (Thorn Arrow)",
+      "description": "<p><strong>荆棘箭</strong>：这些小箭的箭头是一根凶险的玫瑰刺，箭羽则以上漆的玫瑰花瓣制成。</p>"
+    },
     "Thorn Arrows (20)": {
       "name": "Thorn Arrows (20)（Thorn Arrows (20)）",
       "description": "<p><strong>Source</strong> <em>Conquest of Bloodsworn Vale pg. 31</em></p><h3 class=\"framing\"><img src=\"https://www.aonprd.com/images/ThreeFiveSymbol.gif\" title=\"3.5 Material\" style=\"margin: 3px 3px 0px 3px\">Statistics</h3><p><strong>Cost</strong> 1 gp <strong>Weight</strong> 2 lbs.</p><p><strong>Category</strong> Ammunition; <strong>Proficiency</strong> Ammunition</p><h3 class=\"framing\">Description</h3><p>These small arrows are tipped with a wicked rose thorn and fletched with lacquered rose petals.</p>"
@@ -2195,6 +2279,15 @@
     "Totem Spear": {
       "name": "图腾矛 (Totem Spear)",
       "description": "<p>休盎提的斯克拉-郭部族偏爱使用图腾矛，它将致命的武器与瓦瑞西亚流离失所的原住民那哀婉的音乐融为一体。这些宽刃长矛铲子般的矛头上装饰着朝向各异的凹孔。除了用作武器，图腾矛还可以通过表演（吹奏乐器）技能来演奏。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>",
+      "actions": [
+        {
+          "name": "攻击"
+        }
+      ]
+    },
+    "Traveling Kettle": {
+      "name": "旅行壶 (Traveling Kettle)",
+      "description": "<p>这种小@UUID[Compendium.pf-content.pf-items.Item.FYTPp8emCcOJWiu4]{茶壶}有着加固过的坚固把手和紧实的盖子，允许它像木棒一样被挥舞。一个装有沸水的旅行壶在命中时造成1点额外的火焰伤害。煮沸的水会在5分钟后冷却到无害的温度。</p>",
       "actions": [
         {
           "name": "攻击"

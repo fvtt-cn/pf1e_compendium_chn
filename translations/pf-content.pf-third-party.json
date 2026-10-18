@@ -1,0 +1,179 @@
+{
+    "label": "第三方内容",
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        },
+        "auraSchool": "system.aura.school"
+    },
+    "entries": {
+        "Bonus Feat (MNK, EitR)": {
+            "name": "奖励专长（MNK，EitR） (Bonus Feat (MNK, EitR))"
+        },
+        "Catch Off-Guard (EitR)": {
+            "name": "随手武器 (Catch Off-Guard (EitR))",
+            "description": "<p><em>你的敌人惊讶于你能熟练使用各种非常规武器和临时武器。</em></p><p><strong>效果</strong>：在你使用临时武器进行近战攻击时不会受到任何惩罚。未武装的敌人对于你的临时近战武器攻击视为措手不及。</p><p><strong>通常</strong>：当你使用临时武器时在攻击检定时受到-4的减值。</p><p><strong>耐力</strong>：在以临时武器攻击手持武器的敌人时，你可以花费5点耐力令目标对此次攻击呈措手不及状态。如果目标认出你并目睹你使用过@UUID[Compendium.pf1.feats.Item.bZ1YdzkT8NtRIEJ4]{随手武器}能力，该战策无效。</p>"
+        },
+        "Club of Taige": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Combat Expertise (WiS)": {
+            "name": "寓守于攻 (Combat Expertise (WiS))",
+            "description": "<p><em>以精准度的代价获得防御的提升。</em></p><p><strong>先决条件</strong>：智力13。</p><p><strong>效果</strong>：你可以选择用近战攻击和战技检定的-1减值来换取AC的+1闪避加值。每当BAB+4，攻击减值会再-1，AC加值也会再+1。你只能在以近战武器进行攻击或全力攻击时，才能选择使用这个专长；专长效果持续到你下轮开始。</p><p><strong>耐力</strong>：即使你不符合前提条件（13智力）你依然可以选择该专长，但只有在耐力池保有至少1点耐力时才生效。如果你花费耐力点通过战斗耐力专长提升命中，在使用@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{寓守于攻}时忽视等同所消耗耐力的命中惩罚。</p>"
+        },
+        "Combat Style Feat (Rng, EitR)": {
+            "name": "战斗流派专长（Rng，EitR） (Combat Style Feat (Rng, EitR))",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Dacris": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Dagger of Impact": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Dagger of the Shadowlands": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Deadly Aim (WiS)": {
+            "name": "致命瞄准 (Deadly Aim (WiS))",
+            "description": "<p><em>通过减少命中率，你能对准敌人的弱点做出极具威胁的远程攻击。</em></p><p><strong>先决条件</strong>：敏捷 13，基本攻击加值+1。</p><p><strong>效果</strong>：你可以选择使所有的远程攻击检定受到-1的减值以换取伤害+2。你的BAB每+4，减值再-1，伤害再+2。你必须在攻击检定前选择使用本专长，效果持续到你的下一轮。本专长对于接触攻击或不造成HP伤害的攻击无效。</p><p><strong>耐力</strong>：每花费4点耐力，可以将该专长造成的命中惩罚消减1点，直至你下一轮开始。惩罚不能消减低于0。</p>"
+        },
+        "Deflect Arrows (EitR)": {
+            "name": "拨挡飞箭 (Deflect Arrows (EitR))",
+            "description": "<p><em>你可以挡开飞来的箭和其他飞行物，防止它们命中你。</em></p><p><strong>先决条件</strong>：敏捷 13，精通徒手打击。</p><p><strong>效果</strong>：你必须至少空出一只手（没有拿任何东西）才能使用本专长。当你被远程武器击中时，每轮有一次机会挡掉而不受伤害。你必须察觉到该攻击，且不能处于措手不及状态。拨挡远程武器不算是一个动作。通常大型远程武器（例如巨石或弩炮巨矢）和源自天生攻击或法术效果的远程攻击无法被挡开。</p><p><strong>耐力</strong>：花费5点耐力，你可以在措手不及时使用该专长。</p>"
+        },
+        "Demonclaw": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Dodge (EitR)": {
+            "name": "闪避 (Dodge (EitR))",
+            "description": "<p><em>你的训练和反应令你能够迅速闪避攻击。</em></p><p><strong>先决条件</strong>：敏捷13。</p><p><strong>效果</strong>：你可以在AC上获得+1闪避加值。若你失去AC的敏捷加值时，也会同时失去此专长的加值。</p><p><strong>耐力</strong>：如果你移动了自己的移动速度或更远的距离，你可花费最多等同2倍你敏捷加值的耐力点数，这样的话直到你下次回合开始，你获得等同所消耗耐力值一半的AC闪避加值。</p>"
+        },
+        "Dodge (WiS)": {
+            "name": "闪避 (Dodge (WiS))",
+            "description": "<p><em>你的训练和反应令你能够迅速闪避攻击。</em></p><p><strong>先决条件</strong>：敏捷13。</p><p><strong>效果</strong>：你可以在AC上获得+1闪避加值。若你失去AC的敏捷加值时，也会同时失去此专长的加值。</p><p><strong>耐力</strong>：如果你移动了自己的移动速度或更远的距离，你可花费最多等同2倍你敏捷加值的耐力点数，这样的话直到你下次回合开始，你获得等同所消耗耐力值一半的AC闪避加值。</p>"
+        },
+        "Finesse Training (UR, EitR)": {
+            "name": "巧技训练（UR，EitR） (Finesse Training (UR, EitR))"
+        },
+        "Greater Shield Focus (EitR)": {
+            "name": "高等盾牌专攻 (Greater Shield Focus (EitR))",
+            "description": "<p><em>你擅长用盾牌挡开攻击。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.7mD4ZksvKFaorAfj]{盾牌专攻}，@UUID[Compendium.pf1.feats.Item.WZj7zDvuelEoeXWX]{擅长盾牌}，基本攻击加值+1，战士等级8。</p><p><strong>效果</strong>：任何盾牌带来的AC加值增加1。此加值与@UUID[Compendium.pf1.feats.Item.7mD4ZksvKFaorAfj]{盾牌专攻}带来的加值累计。</p>"
+        },
+        "Greater Two-Weapon Fighting (EitR)": {
+            "name": "高等双武器格斗 (Greater Two-Weapon Fighting (EitR))",
+            "description": "<p><em>你是双武器战斗的高手。</em></p><p><strong>先决条件</strong>：敏捷19，@UUID[Compendium.pf1.feats.Item.3fNdl7eIUJ5d5fwg]{精通双武器格斗}，@UUID[Compendium.pf1.feats.Item.Ee7JHADKEK37tTHs]{双武器格斗}，基本攻击加值+11。</p><p><strong>效果</strong>：你可使用副手武器作第三次攻击，但受到-10减值。</p>"
+        },
+        "Improved Two-Weapon Fighting (WiS)": {
+            "name": "精通双武器格斗 (Improved Two-Weapon Fighting (WiS))",
+            "description": "<p><em>你是使用双武器战斗的专家。</em></p><p><strong>先决条件</strong>：敏捷17，@UUID[Compendium.pf1.feats.Item.Ee7JHADKEK37tTHs]{双武器格斗}，基本攻击加值+6。</p><p><strong>效果</strong>：除了原本额外的一次副手攻击外，你还可用副手再多攻击一次，但受-5减值。</p><p><strong>通常</strong>：无此专长时副手武器仅能进行一次额外攻击。</p>"
+        },
+        "Improvised Weapon Mastery (EitR)": {
+            "name": "临时武器熟稔 (Improvised Weapon Mastery (EitR))",
+            "description": "<p><em>你可以把手边的任何东西转变为致命的武器，从尖利的椅子腿到装满面粉的袋子。</em></p><p><strong>先决条件</strong>：随手武器或随手投掷，基本攻击加值+8。</p><p><strong>效果</strong>：你在使用临时武器时不受任何减值。临时武器的伤害骰上升一个级别（例如1d4变为1d6）但最高仅到d8（双手临时武器则最高为2d6）。临时武器重击范围为19-20，重击倍率×2。</p>"
+        },
+        "Martial Mastery (WiS)": {
+            "name": "武器熟稔 (Martial Mastery (WiS))",
+            "description": "<p><em>你将你全部的武器技巧拓展到其他相似的武器上。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf-content.pf-feats.Item.GVjFNXqADJ9ey0aN]{武器变通}，战士16级，人类。</p><p><strong>效果</strong>：你可以将你已知的所有适用于特定武器的战斗专长（如@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}）应用到与其相同武器组的所有武器上。</p>"
+        },
+        "Mirror of Mental Prowess": {
+            "name": "灵氲镜 (Mirror of Mental Prowess)",
+            "description": "<p><strong>灵光</strong> 强烈防护系、预言系；<strong>施法者等级</strong> 17；<strong>部位</strong> 无；<strong>价格</strong> 175,000 gp；<strong>重量</strong> 40磅</p><p>这面镜子看上去像一面普通的镜子，高5尺、宽2尺。知道正确命令的生物可以让它发挥下列功能：</p><ul><li>读取映在镜中的任何生物的思想，只要操控镜子的生物在镜子25尺内；即使对方的思想使用的是自己不懂的语言也一样。</li><li>如同使用@UUID[Compendium.pf1.spells.Item.6kmkxepwgsbta6ui]{锐耳术/鹰眼术}般观看其他地方；如果操控者对其他位面上的地点足够熟悉，甚至可以观看那里。</li><li>把它当作传送门前往其他地方。操控者先用上一项观看功能看到那个地方，然后踏过镜子，到达所见的地点。其他人愿意的话也可以跟她一起穿过镜子。在她抵达的另一端会留下一道隐形的传送门，她可以通过这道门返回。她一旦返回，传送门就会关闭。传送门也会在24小时后自行关闭（如果使用者仍在另一处，就会被困在那里），使用者也可以用命令字将其关闭。智力12或更高的生物可能会注意到这道传送门，就像他们可能注意到@UUID[Compendium.pf1.spells.Item.g66w32kdup1f43bp]{探知}法术的魔法感应器一样。任何穿过传送门的生物都会出现在镜子前。</li><li>每周一次，镜子会准确回答一个关于镜面上映出的生物的简短问题（给出类似@UUID[Compendium.pf1.spells.Item.b5mz8voksps5g4yq]{通晓传奇}法术的回答）。</li></ul><h3>制作</h3><p><strong>需求</strong> 制造奇物、锐耳术/鹰眼术、侦测思想、异界之门、通晓传奇；<strong>成本</strong> 87,500 gp</p>",
+            "auraSchool": "咒法系和预言系"
+        },
+        "Natural Spell (EitR)": {
+            "name": "自然施法 (Natural Spell (EitR))",
+            "description": "<p><em>你可在自然变身状态下施法，即使该形态正常无法施法。</em></p><p><strong>先决条件</strong>：感知 13，【自然变身】职业特性。</p><p><strong>效果</strong>：你可在自然变身状态下完成法术的言语与姿势。你使用各种声音和动作代替原本法术正常的言语与姿势。你仍旧能够使用任何你拥有的施法材料或器材，即使这些东西已经融进了你现在的形态中。若此型态原本就无法使用某种魔法物品，这项专长并不赋予使用物品的能力，此外本专长也不能让你在自然变身型态时说话。</p>"
+        },
+        "Pipes of Pain": {
+            "name": "刺耳乐笙 (Pipes of Pain)",
+            "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 6；<strong>部位</strong> 无；<strong>价格</strong> 12,000 gp；<strong>重量</strong> 3磅</p><p>通过一次DC 15的表演（吹奏乐器）检定，持有者可以用这套乐笙奏出一段奇妙的旋律，使30尺内的生物在持有者持续吹奏期间陷入迷魂状态（DC 14意志豁免可无效）。这是一个影响心灵的音波强迫效果。持有者免疫乐笙的声音。持有者停止吹奏后，在接下来的2d4轮内，所有曾被这段乐声迷魂的生物会因最轻微的声响而遭受剧痛。除非身处完全寂静的区域，否则该生物在自己的回合中每轮受到1d4点伤害，并且在这段时间结束之前具有音波易伤。此后，除非身处完全寂静的区域，该生物陷入战栗；这种对噪音的过度敏感是一个诅咒效果。</p><h3>制作</h3><p><strong>需求</strong> 制造奇物、音鸣爆，制造者必须拥有吟游表演职业能力；<strong>成本</strong> 6,000 gp</p>",
+            "auraSchool": "惑控系和塑能系"
+        },
+        "Point-Blank Shot (EitR)": {
+            "name": "近距射击 (Point-Blank Shot (EitR))",
+            "description": "<p><em>你对远程攻击近程目标颇有心得。</em></p><p><strong>效果</strong>：你使用远程武器攻击30尺内的目标时在攻击和伤害检定上获得+1加值。</p>"
+        },
+        "Powerful Stride (EitR)": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Precise Shot (EitR)": {
+            "name": "精准射击 (Precise Shot (EitR))",
+            "description": "<p><em>你擅长向近战中进行远程攻击。</em></p><p><strong>先决条件</strong>：近距射击。</p><p><strong>效果</strong>：你对近战中的对手射击或投掷远程武器时不需在攻击检定上承受标准的-4减值。</p>"
+        },
+        "Precise Shot (WiS)": {
+            "name": "精准射击 (Precise Shot (WiS))",
+            "description": "<p><em>你擅长向近战中进行远程攻击。</em></p><p><strong>先决条件</strong>：近距射击。</p><p><strong>效果</strong>：你对近战中的对手射击或投掷远程武器时不需在攻击检定上承受标准的-4减值。</p>"
+        },
+        "Rapid Reload (EitR)": {
+            "name": "快速装填 (Rapid Reload (EitR))",
+            "description": "<p><em>选择一种弩（手弩、轻弩、重弩），或者单手、双手火器中单一的一类火器，你必须擅长你所选择的武器。你能够更快地装填这种武器。</em></p><p><strong>先决条件</strong>：武器擅长：选择一种弩或异种武器熟悉：火器</p><p><strong>效果</strong>：你所选择的那类武器可以以自由动作装填（对于手弩或者轻弩来说），或者以移动动作装填（对于重弩或单手火器来说），或者以标准动作装填（双手火器）。装填弩或者火器仍旧会引起借机攻击。如果你为了手弩或者轻弩选取该专长，那么你可以在全回合攻击中使用该种武器进行多次攻击，就如同使用弓一般。</p><p><strong>通常</strong>：不具有该专长的角色需要使用移动动作装填手弩或轻弩，使用标准动作装填单手火器，或者使用整轮动作装填重弩或双手火器。</p><p><strong>特殊</strong>：你可以多次选取快速装填专长。每次选取该专长，都会应用在新的一类弩或者火器上。</p>"
+        },
+        "Savage Charge (EitR)": {
+            "name": "野性冲锋（EitR） (Savage Charge (EitR))"
+        },
+        "Shield Focus (EitR)": {
+            "name": "盾牌专攻 (Shield Focus (EitR))",
+            "description": "<p><em>你善于用盾牌偏转攻击。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.WZj7zDvuelEoeXWX]{擅长盾牌}，基本攻击加值+1。</p><p><strong>效果</strong>：你由盾牌获得的AC加值+1。</p>"
+        },
+        "The Glutton": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Two-Weapon Fighting (EitR)": {
+            "name": "双武器格斗 (Two-Weapon Fighting (EitR))",
+            "description": "<p><em>你可以用双武器进行战斗，每轮可用副手武器进行一次额外攻击。</em></p><p><strong>先决条件</strong>：敏捷15。</p><p><strong>效果</strong>：当你使用双武器攻击，主手的攻击检定减值减少2，副手则减少6。参见@UUID[Compendium.pf1.feats.Item.Ee7JHADKEK37tTHs]{双武器战斗}规则。</p><p><strong>通常</strong>：若你用副手持有第二把武器，你可以每轮用该武器做出一次额外攻击。当你如此做时你的主手正常攻击（一次或多次）受-6减值，副手受-10减值。若你副手武器为轻型武器，则双手减值均减少2。@UUID[Compendium.pf-content.pf-third-party.Item.ZmAwyO86RFKC9xjw]{徒手打击}视同轻型武器。</p>"
+        },
+        "Unarmed Strike (EitR)": {
+            "name": "徒手打击 (Unarmed Strike (EitR))",
+            "description": "<p>徒手打击是诸如拳击或脚踢等攻击者未使用武器而做出的攻击。中型体型的角色的徒手打击造成1d3点非致命伤害，小型体型则为1d2点。一名武僧或任何拥有@UUID[Compendium.pf1.feats.Item.2aTFNMs3pW6nUBlr]{精通徒手打击}专长的角色可以根据自己的选择，以徒手打击造成致命或非致命伤害。徒手打击的伤害在获得加值的效果或状况下，可以视为武器伤害。徒手打击永远被视为轻武器。因此你能通过@UUID[Compendium.pf1.feats.Item.vWiTqHC4Y3Xn1Pme]{武器娴熟}专长在徒手打击的攻击检定中，以敏捷修正取代力量修正。徒手打击不被视为天生武器。徒手打击无法被缴械。</p>"
+        },
+        "Warden Ring": {
+            "name": "戒指（Warden） (Warden Ring)",
+            "description": "<p>很多魔法物品需要穿戴在身上，角色才能使用它们、或者从其能力中受益。具有类人形体的生物最多可以同时穿戴15件魔法物品。当然，所有这些物品必须穿戴在身体的某个特定部位，这被称为“栏位 ”。</p><p>类人形体可以穿戴的魔法物品分为以下几组、每组一件，它们用代表栏位的词标注。</p><div><div>盔甲</div><div>一套盔甲。</div></div><div><div>腰带</div><div>腰带和缠腰。</div></div><div><div>躯体</div><div>长袍和@UUID[Compendium.pf1.items.Item.mjcG0FIfk7wYYRHR]{礼服}。</div></div><div><div>胸部</div><div>披肩、衬衫和@UUID[Compendium.pf1.items.Item.hrtzkctwvnyoaiuj]{背心}。</div></div><div><div>眼睛</div><div>眼睛、@UUID[Compendium.pf1.items.Item.rmkzxxrkxdqykzwm]{眼镜}和护目镜。</div></div><div><div>脚部</div><div>靴子、鞋子和拖鞋。</div></div><div><div>手部</div><div>@UUID[Compendium.pf1.weapons-and-ammo.Item.IdkQOHJcRMq1Rm1r]{铁手套}和手套。</div></div><div><div>头部</div><div>头环、皇冠、帽子、头盔和面具。</div></div><div><div>头带</div><div>头带和经匣。</div></div><div><div>颈部</div><div>护符、@UUID[Compendium.pf1.items.Item.vzwbifqupjkgjerc]{胸针}、勋章、项链、护符和圣甲虫。</div></div><div><div>戒指（最多2个）</div><div>戒指。</div></div><div><div>盾牌</div><div>盾牌。</div></div><div><div>肩部</div><div>披风和斗篷。</div></div><div><div>手臂</div><div>手镯和臂环。</div></div><p>当然，角色可以携带或拥有任意多件同样栏位的魔法物品。但超过上面列出栏位的额外物品不会生效。</p><p>某些物品可以穿戴或携带，却不占用上述身体位。若物品有此性质，物品的描述中会加以指出。</p>"
+        },
+        "Weapon Finesse (WiS)": {
+            "name": "武器娴熟 (Weapon Finesse (WiS))",
+            "description": "<p><em>你善于在近身战斗中使用敏捷代替蛮力。</em></p><p><strong>效果</strong>：使用适于你体型的轻型武器、@UUID[Compendium.pf1.weapons-and-ammo.Item.LA6TC5679iOXDNwq]{细剑}、@UUID[Compendium.pf1.weapons-and-ammo.Item.OPTlPwKg2NyQAjhe]{长鞭}、@UUID[Compendium.pf1.weapons-and-ammo.Item.u6Hv3AYMgkAtR7Jm]{刺链}时，你可以在攻击检定中改为使用敏捷修正，而非力量修正。若你持用盾牌，攻击检定会受到盾牌的防具检定减值。</p><p><strong>特殊</strong>：天生武器视为轻型武器。</p>"
+        },
+        "Weapon Proficiency (EitR)": {
+            "name": "武器擅长（EitR） (Weapon Proficiency (EitR))"
+        }
+    }
+}

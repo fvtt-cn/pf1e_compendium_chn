@@ -1,6 +1,9 @@
 {
   "label": "额外随机表",
   "entries": {
+    "Advanced Fleshwarp Mutations": {
+      "name": "高级扭肉突变"
+    },
     "Black Market Items": {
       "name": "黑市物品",
       "description": "不是每个冒险者都认可这些货品，但有些把它们当作无价之宝。",
@@ -140,6 +143,12 @@
         "34-34": "银小丑 权杖之二 牌组拥有者自身的幻象(性别反转)"
       }
     },
+    "Deck of Illusions": {
+      "name": "幻术牌组"
+    },
+    "Early Fleshwarp Mutations": {
+      "name": "早期扭肉突变"
+    },
     "Entertainment": {
       "name": "娱乐",
       "description": "许多冒险者喜欢偶尔坐下来玩把游戏来打发时间——或是赚些快钱。",
@@ -233,6 +242,17 @@
         },
         "30-30": {
           "description": "恐惧风筝"
+        }
+      }
+    },
+    "Expanded Oddities (Ganzi)": {
+      "name": "扩展异状（熵裔）"
+    },
+    "Flickering Lights": {
+      "name": "闪烁光芒",
+      "results": {
+        "T8bJacDyh88ovsus": {
+          "description": "黑暗术"
         }
       }
     },
@@ -461,6 +481,12 @@
         }
       }
     },
+    "Ganzi Oddity": {
+      "name": "熵裔异状"
+    },
+    "Greater Madness": {
+      "name": "重度疯狂"
+    },
     "Horror Adventures: Advanced Fleshwarp Mutations": {
       "name": "Horror Adventures: Advanced Fleshwarp Mutations",
       "description": "d% Mutation",
@@ -552,6 +578,9 @@
         "4-4": "Nabasu (CR 8, Bestiary 64)"
       }
     },
+    "Ioun Stone Resonance Powers Method 2": {
+      "name": "艾恩石共鸣能力（方法二）"
+    },
     "Kits": {
       "name": "Kits",
       "description": "Contains Tool, Crafting, Entertainment, and Class kits",
@@ -626,6 +655,15 @@
           "description": "Kit, Bird-training"
         }
       }
+    },
+    "Lesser Madness": {
+      "name": "轻度疯狂"
+    },
+    "Maze of Madness": {
+      "name": "疯狂迷宫"
+    },
+    "Moon Phase": {
+      "name": "月相"
     },
     "Mounts": {
       "name": "Mounts",
@@ -797,6 +835,23 @@
           "description": "Vulture, Giant"
         }
       }
+    },
+    "Nightmare - Features": {
+      "name": "梦魇：特征"
+    },
+    "Nightmare - Goal": {
+      "name": "梦魇：目标"
+    },
+    "Nightmare - Gravity": {
+      "name": "梦魇：重力",
+      "results": {
+        "9yrIHg3n9qxZVimz": {
+          "description": "光亮术"
+        }
+      }
+    },
+    "Nightmare - Size and Shape": {
+      "name": "梦魇：大小与形状"
     },
     "Pet & Mount Gear": {
       "name": "Pet & Mount Gear",
@@ -1436,6 +1491,9 @@
         }
       }
     },
+    "Spawn of the Abyss": {
+      "name": "深渊之子"
+    },
     "Spellbooks": {
       "name": "法术书 (Spellbooks)",
       "description": "Each spellbook or formula book is a unique reflection of the personality and capabilities of its creator. Many of these tomes contain more than just spells, such as notes on the caster’s other research, personal diaries, naturalist sketches, or even political treatises. Some contain preparation rituals, each of which grants a boon—or sometimes a hindrance—to spellcasters who use the book to prepare their spells.",
@@ -1921,6 +1979,9 @@
           "description": "Wrangler's gloves"
         }
       }
+    },
+    "Terrified Behavior": {
+      "name": "惊恐行为"
     },
     "Types of Weather": {
       "name": "Types of Weather",

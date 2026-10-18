@@ -11,6 +11,10 @@
         }
     },
     "entries": {
+        "Ability Focus": {
+            "name": "能力专攻 (Ability Focus)",
+            "description": "<p><em>这个生物的某种特殊攻击能力极难抵抗。</em></p><p><strong>先决条件</strong>：拥有特殊攻击。</p><p><strong>效果</strong>：选择一项该生物拥有的特殊攻击能力，其他生物对抗这项特殊攻击能力的所有豁免DC+2。</p><p><strong>特殊</strong>：你可以多次选择本专长，但其效果不能叠加。每次你选择此专长时，它的效果将应用在另一个特殊攻击能力上。</p>"
+        },
         "Acrobatic": {
             "name": "特技专家 (Acrobatic)",
             "description": "<p><em>你擅长纵跃、跳跃和飞行。</em></p><p><strong>效果</strong>：对于所有的特技和飞行检定获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。</p>"
@@ -40,6 +44,18 @@
                 }
             ]
         },
+        "Amateur Gunslinger": {
+            "name": "业余枪手 (Amateur Gunslinger)",
+            "description": "<p><em>虽然你并不是一个枪手，但你仍拥有并可以使用勇毅能力。</em></p><p><strong>先决条件</strong>：在拥有【勇毅】能力的职业上没有等级。</p><p><strong>效果</strong>：你获得少量的勇毅点，并且可以使用一项1级枪手铳技。在一天的开始，你获得1点勇毅点，不过在这一天里你仍然可以通过额外奖励获得最大为感知修正的勇毅点数（最低为1）。你像其他枪手一样适用勇毅点恢复的规则。你可以花费这些勇毅点来使用你在获得该专长时选择的1级枪手铳技，或通过专长或魔法物品获得的其他铳技。</p><p><strong>特殊</strong>：如果你在拥有【勇毅】能力的职业上获得了等级，你可以立刻将本专长替换为@UUID[Compendium.pf1.feats.Item.dahncmkl8bFmFlmi]{额外勇毅}专长。</p><p><strong>耐力</strong>：选择第二个1级枪手铳技。你可以花费勇毅点数来使用此铳技，或以5点耐力为代价使用这两个铳技。如果你在提供勇毅点的职业上升了级，你可以选择花费5点耐力而非勇毅点来使用任何一种你的1级铳技。该战策也适用于额外勇毅专长。</p>"
+        },
+        "Amateur Investigator": {
+            "name": "业余调查员 (Amateur Investigator)",
+            "description": "<p><em>你拥有的知识和灵感已经足够用来解决神秘事件。</em></p><p><strong>先决条件</strong>：智力 13，至少在一个知识技能上拥有技能等级，在拥有灵感职业能力的职业上不具有任何等级</p><p><strong>效果</strong>：你获得一个大小等同于你智力调整值的灵感池，如同调查员的灵感一样，你可以以一个自由动作使用一点灵感点数，在你受过训练的知识、语言学或法术辨识技能检定上增加1d6点结果（即使你在这项检定上取10或取20也可以），但你必须在掷出检定之后、公布结果之前作出这一选择。你在每次技能检定上只能使用最多1点灵感点数。你的灵感池会在每天的完整休息以后得到恢复。</p><p><strong>特殊</strong>：如果你在拥有灵感职业能力的职业上获得了职业等级，那么本专长将立刻替换为@UUID[Compendium.pf1.feats.Item.4VUSgCTR3kUUtKxp]{额外灵感}专长。</p>"
+        },
+        "Amateur Swashbuckler": {
+            "name": "业余剑客 (Amateur Swashbuckler)",
+            "description": "<p><em>虽然不经常搏命，但你的派头已经超越了普通的决斗者。</em></p><p><strong>先决条件</strong>：在拥有派头职业能力的职业上不具有任何等级</p><p><strong>效果</strong>：你获得少量的时髦值，并且可以选择学会一项1级游荡剑客炫技（不能选择适时格挡反击），一旦选择即不能更改。在一天的开始，你获得1点时髦值，不过在这一天里你仍然可以通过额外奖励获得最大为魅力调整值的时髦值（最低为1）。你像其他游荡剑客一样适用时髦值恢复的规则。你可以花费这些时髦值来使用你在获得该专长时选择的1级炫技，或通过专长或魔法物品获得的其他炫技。</p><p><strong>特殊</strong>：如果你在拥有派头职业能力的职业上获得了职业等级，那么你可以立刻将本专长替换为@UUID[Compendium.pf1.feats.Item.vxDz1Rt1XKfFvWBV]{额外派头}专长。</p><p><strong>耐力</strong>：选择第二个1级游荡剑客炫技。你可以花费时髦值来使用此炫技，或以5点耐力为代价使用这两个炫技。如果你在提供时髦值的职业上升了级，你可以选择花费5点耐力而非时髦值来使用任何一种你的1级炫技。该战策也适用于@UUID[Compendium.pf1.feats.Item.vxDz1Rt1XKfFvWBV]{额外派头}专长。</p>"
+        },
         "Animal Affinity": {
             "name": "动物亲和 (Animal Affinity)",
             "description": "<p><em>你对于与动物以及坐骑的工作颇有心得。</em></p><p><strong>效果</strong>：在驯养动物和骑乘技能检定上获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。</p>"
@@ -68,6 +84,10 @@
             "name": "擅长中型盔甲 (Armor Proficiency, Medium)",
             "description": "<p><em>你对于穿戴中型盔甲颇有心得。</em></p><p><strong>先决条件</strong>：擅长轻型盔甲。</p><p><strong>效果</strong>：见@UUID[Compendium.pf1.feats.Item.FszchlqR39lnNduC]{擅长轻型盔甲}。</p><p><strong>通常</strong>：见擅长轻型盔甲。</p><p><strong>特殊</strong>：野蛮人，牧师，德鲁伊，战士，圣武士和游侠自动学会“擅长中型盔甲”作为奖励专长，他们无需选择这个专长。</p>"
         },
+        "Aspect of the Beast": {
+            "name": "化兽态 (Aspect of the Beast)",
+            "description": "<p><em>无论是由于血液中流淌的魔法还是诅咒，你身上的某些部分更像野兽而非人类。</em></p><p><strong>先决条件</strong>：【自然变身】职业特性；见特殊说明。</p><p><strong>效果</strong>：你的兽性以后述中的一种形式展露出来。当你选择该专长时从这些形式中进行选择，一旦选取则无法改变。</p><p><strong>特殊</strong>：已经染上兽化症的生物能够选择该专长，而无需满足先决条件。选择【天武战斗流派】的游侠也可以选择该专长，无需满足先决条件（即使他不选择“化兽态”作为奖励专长）。</p>"
+        },
         "Athletic": {
             "name": "运动健将 (Athletic)",
             "description": "<p><em>你拥有与生俱来的身体素质。</em></p><p><strong>效果</strong>：对于攀爬和游泳检定获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。</p>"
@@ -75,6 +95,16 @@
         "Augment Summoning": {
             "name": "增强召唤 (Augment Summoning)",
             "description": "<p><em>你的召唤生物将更加强健有力。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.V2zY7BltkpSXwejy]{法术专攻}（咒法）。</p><p><strong>效果</strong>：你用召唤法术召唤的任何生物获得力量和体质的+4增强加值，持续时间与召唤它的法术相同。</p>"
+        },
+        "Awesome Blow": {
+            "name": "可怖殴击 (Awesome Blow)",
+            "description": "<p><em>这个生物猛恶的攻击足以将对手打飞。</em></p><p><strong>先决条件</strong>：力量25，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}，体型大型以上。</p><p><strong>效果</strong>：以一个标准动作，该生物可以发动一次“可怖殴击”战技攻击。如果战技攻击成功且目标是一个比该生物体型更小的非虚体生物，那么目标除了受到该生物的攻击伤害（通常为挥击伤害加上该生物的力量修正）外，还会被击飞10尺（方向由攻击生物选择）并被击倒至俯卧。击飞路线必须是直线，且目标生物不可被移动至比它受到攻击的起始位置距离攻击生物更近的方格。如果击飞路线上有障碍物阻挡了目标生物的移动，那么障碍物和目标生物都会受到1d6点伤害，目标生物将在障碍物的邻接格被击倒至俯卧。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                },
+                {}
+            ]
         },
         "Bleeding Critical": {
             "name": "流血重击 (Bleeding Critical)",
@@ -93,9 +123,25 @@
                 }
             ]
         },
+        "Block Chakras": {
+            "name": "脉轮封禁 (Block Chakras)",
+            "description": "<p><em>你学会了如何封锁敌人的低级脉轮。</em></p><p><strong>先决条件</strong>：异能敏感或在一名异能职业上有等级，连打或疾风连击职业能力，气池。</p><p><strong>效果</strong>：以一个标准动作，你可以花费1点气池进行一次@UUID[Compendium.pf-content.pf-third-party.Item.ZmAwyO86RFKC9xjw]{徒手打击}尝试封锁一个目标的脉轮。如果你命中了目标并且造成了伤害，你可以选择海底、本我或脐脉轮，只要你能自己开启这一层脉轮。该目标受到一种基于选定脉轮的特殊效果（如下），但它可以通过成功的强韧豁免减轻这些效果（DC=10+角色等级的一半+你用来计算气池的属性调整值）。<br><strong>海底脉轮：</strong>目标的DR在1分钟内减少10点。如果目标拥有多种DR，你可以选择削减哪一种。成功豁免的情况下，目标的DR改为1回合内减少5点。<br><strong>本我脉轮：</strong>目标不能使用陆地移动速度（对水生生物为游泳速度）以外的任何移动速度，持续1轮，且在1分钟内移动速度减半。如果它正在飞行，目标可以尝试一次飞行检定来成功落地。成功豁免的情况下，目标的移动速度在1轮内变为一半。<br><strong>脐脉轮：</strong>目标在攻击和伤害检定上受到-2减值，并且法术和能力的DC减少2点，持续1分钟。成功豁免的情况下，减值变为一半，持续时间变为1轮。</p>"
+        },
+        "Block Upper Chakras": {
+            "name": "高等脉轮封禁 (Block Upper Chakras)",
+            "description": "<p><em>你可以封锁更高阶的脉轮。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.Ak0uWIHfOROMnywq]{脉轮封禁}，异能敏感或在一名异能职业上有等级，连打或疾风连击职业能力，气池，角色等级8级。</p><p><strong>效果</strong>：当你封禁脉轮的时候，你可以选择心、喉、三眼与灵冠顶脉轮，只要你能自己开启这一层脉轮，获得以下效果。<br>心脉轮：目标1分钟之内不能通过任何手段回覆生命值。这也会阻止快速治疗和再生能力，但不会取消再生能力，因此这不会让再生生物通过生命值损伤被击杀。豁免成功的情况下，目标在1轮内生命恢复量变为一半。<br>咽喉脉轮：目标1轮内不能说话，也不能施展有思维成分的法术，一分钟内，需要说话或思想成分的行动有20%概率失败。豁免成功的情况下，需要说话或思想成分的行动有50%的概率失败，持续1轮。<br>三眼脉轮：目标目盲1分钟。成功豁免的情况下，目标失去所有特殊视觉（包括昏暗视觉、看穿黑暗，真视）1轮；这不会影响盲视和盲感之类的非视觉感官。<br>灵冠顶脉轮：目标在1轮内所有d20双骰取低，并且1分钟内每轮的第一次攻击骰或施法者等级检定双骰取低。豁免成功的情况下，目标在其下一次d20检定上双骰取低。</p>"
+        },
+        "Bodyguard": {
+            "name": "保镖 (Bodyguard)",
+            "description": "<p><em>你的快速攻击能够格挡开敌人对附近盟友的攻击。</em></p><p><strong>先决条件</strong>：战斗反射。</p><p><strong>效果</strong>：当邻近的盟友被攻击时，你能够使用借机攻击来尝试进行协助他人动作来增加盟友的AC。你无法以借机攻击来使用协助他人动作增加盟友的攻击检定。</p><p><strong>通常</strong>：协助他人是标准动作。</p><p><strong>耐力</strong>：你可选择花费1-2点耐力，并提升盟友的AC等同你花费的耐力点数。</p>"
+        },
         "Brew Potion": {
             "name": "调制药剂 (Brew Potion)",
             "description": "<p><em>你能制造魔法药水。</em></p><p><strong>先决条件</strong>：施法者等级3级。</p><p><strong>效果</strong>：你能基于任意你所知的、3环以下、目标为一个或多个生物或物体的法术制造魔法药水。制造基础价格250gp或以下的药水需要花费2个小时，否则每1000gp基础价格需花费1天。当你调制药剂的时候，由你设定其CL，该等级需满足施放该法术的条件并且不高于你当前的等级。调制药剂时，你需要消耗价值等同于其基础价格一半的原料。更多信息请参见魔法物品规则。</p><p><strong>注</strong>：译注：这就是说目标为〔自己〕的法术不能制药，譬如@UUID[Compendium.pf1.spells.Item.xco22162bwgxn7pj]{克敌机先}。</p>"
+        },
+        "Brilliant Planner": {
+            "name": "锦囊妙计 (Brilliant Planner)",
+            "description": "<p><em>凭藉自身的经验和聪明才智，你能够做出预备计划以应对突发事件。</em></p><p><strong>先决条件</strong>：智力 13，角色等级5级</p><p><strong>效果</strong>：你能够为未来的突发事件做出准备，即便事先不知道这些突发情况会是哪方面的内容也不在话下。作为妙计的准备工作，你要在1个定居点内逗留至少24小时，你能花费8小时并且支付至多每角色等级50gp作为妙计的资金。当你的妙计没有付诸实施时，你总是被视为额外背负20磅重的物品，即便妙计的内容本身仍未敲定也是如此。每日1次，你能够花费10分钟制定妙计，取得在之前造访的定居点内可以获取的1件物品，或者获得你的角色提前计划过的1项普通服务。一旦你制定了妙计之后，便可以从专长的资金中扣除物品或服务带来的开销。由妙计获取的任何物品的重量必须小于等于10磅。同样地，你通过该专长获得的任何非魔法服务是否在该地区内适用，必须由GM进行判定。一旦你将为了妙计预存的资金用尽，或者使用该专长获取了共计20磅重的物体的话，则必须重新补满妙计的资金才能够再次使用该专长。</p>"
         },
         "Caster's Champion": {
             "name": "术师先锋 (Caster's Champion)",
@@ -162,6 +208,10 @@
             "name": "制造构装体 (Craft Construct)",
             "description": "<p><em>你可以制造构装体生物，比如魔像。</em></p><p><strong>先决条件</strong>：施法者等级5级，制造魔法武器和防具，制造奇物。</p><p><strong>效果</strong>：你可以制造任何满足前提要求的构装体。唤醒构装体的过程需要花费“构装体市场价格/1000”天时间。你必须消耗相当于构装体基础价格一半的原材料来进行制造，再加上为该构装体制造基础躯体的全部费用。每具构装体都有独立的价格花费及制造要求说明。新制造的构装体拥有相当于其生命骰数平均数的HP。</p>"
         },
+        "Craft Cybernetics": {
+            "name": "制造电子殖装 (Craft Cybernetics)",
+            "description": "<p><em>你可以制造用来增强生体的机械殖装物</em></p><p><strong>先决条件</strong>：技师，医疗9级，知识（工程学）9级</p><p><strong>效果</strong>：你可以制造电子殖装物。制造电子殖装物需要花费价格每价值1000GP/1天的时间，以及需要你支付价格一半的原材料费用。见下文制造高科技物品章以获得更多信息。除此之外，你还可以修复损坏的殖装物（只要你可以制造它们）。修理一件殖装物需要花费制造这件殖装物的原材料花费和制造时间的一半。你还可以通过这个专长为其他生物安装电子殖装物。见物品章的电子殖装物以了解更多关于殖装物的信息。</p>"
+        },
         "Craft Magic Arms and Armor": {
             "name": "制造魔法武器和防具 (Craft Magic Arms and Armor)",
             "description": "<p><em>你能制造魔法盔甲，盾牌和武器。</em></p><p><strong>先决条件</strong>：施法者等级5级。</p><p><strong>效果</strong>：你能制造魔法盔甲，盾牌和武器。为一件武器、一套盔甲或盾牌附魔需要的时间为：附加的魔法特性的价格每增加1000gp，工期增加1天。加工所需耗材的价格为成品价格的一半。更多信息请参见魔法物品规则。将被附魔的武器、盔甲或盾牌必须为精制品，其成本不在上述之列。你还可以修理损坏的武器、盔甲或盾牌，只要你能制造它。修理耗费一半制造该物品所需的原料和时间。</p>"
@@ -170,9 +220,17 @@
             "name": "创造泥怪 (Craft Ooze)",
             "description": "<p><em>你可以用炼金术来制造危险的泥怪生物。</em></p><p><strong>先决条件</strong>：制造药剂，@UUID[Compendium.pf1.feats.Item.tD76K8QGco9scT0r]{制造奇物}，工艺（炼金）3级，施法者等级5级。</p><p><strong>效果</strong>：你可以如同制造魔法物品一般制造活体泥怪。创造泥怪生物每500gp制造成本，就需要一天的时间。要创造一个泥怪，你必须有一个泥怪瓮（见下文）。你必须使用价值相当于泥怪制造成本的原材料，并且你必须成功通过工艺（炼金）检定（DC10 + 2*泥怪CR）。失败的检定会摧毁使用的原材料，而失败5点或以上则还会导致泥怪攻击制造者1d4轮，然后化为无用的废料。新创造出来的泥怪拥有其HD的平均生命值。使用该专长创造出来的泥怪是无心智并且不受控制的，甚至类似滑行猎手这种通常拥有智力的泥怪，以这种方法创造出来也是没有智力属性，并且不会忠于其创造者的。 虽然通常不能在传统市场上购买泥怪生物，但是希望在游戏中包含这种选项的GM——也许可以让黑市商品出售的泥怪——只需要将特定泥怪生物的制造成本加倍，以便找到一个公平的市场价。 下表列出了一些最常见的可创造泥怪及其创造要求。由GM裁决，其他类型的泥怪生物也可以使用此专长创建。来自探索者怪物图鉴2、3、4的生物用匹配的上标标记。</p>"
         },
+        "Craft Pharmaceutical": {
+            "name": "制造合成药物 (Craft Pharmaceutical)",
+            "description": "<p><em>你了解如何制造高科技合成药物。</em></p><p><strong>先决条件</strong>：技师，医疗9级，知识（自然）9级</p><p><strong>效果</strong>：你可以制造合成药物或毒药。制造价格不高于250GP的化合药物只需要2小时；高于这个价格的合成药物则需要花费价格每价值1000GP/1天的时间。制造化合药物或者毒药需要你支付价格一半的原材料费用。见下文制造高科技物品章以获得更多信息。</p>"
+        },
         "Craft Poppet": {
             "name": "制造人偶 (Craft Poppet)",
             "description": "<p><em>一些构装体建造者通过制造人偶来学习他们的艺术。</em></p><p><strong>先决条件</strong>：施法者等级1级。</p><p><strong>效果</strong>：你可以制造人偶并可以向你控制之下的现存人偶添加强化。出于满足@UUID[Compendium.pf1.feats.Item.DMSYzt5jD9vk0DGy]{制造构装体}先决条件的目的，你被视为同时拥有@UUID[Compendium.pf1.feats.Item.4hNO4OAWYF5vXphH]{制造魔法武器和防具}以及@UUID[Compendium.pf1.feats.Item.tD76K8QGco9scT0r]{制造奇物}。</p>"
+        },
+        "Craft Robot": {
+            "name": "制造机器人 (Craft Robot)",
+            "description": "<p><em>你能够制造机器人。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.SkiZsGPMlsMNeBhf]{制造科技武器和护甲}，@UUID[Compendium.pf1.feats.Item.u9wRB7bsYgX0jCdk]{制造科技装置}，@UUID[Compendium.pf1.feats.Item.1foaZv9wfqZVrZ90]{技师}，工艺（机械）9级，知识（工程）9级。</p><p><strong>效果</strong>：只要你能使用机器人实验室，并拥有必需的材料，就能制造机器人。机器人的售价等于其CR×20,000gp，制造成本为其一半。制造机器人所需的时间为其售价每1,000gp一天。流程结束时，你必须进行一次工艺（机械）技能检定来完成机器人。检定失败意味着机器人无法运作，材料和时间都白费了。此检定的DC等于20+机器人的CR（最低21）。新制造出的机器人拥有其生命骰对应的平均生命值。</p><p><strong>特殊</strong>：制造机器人需要机器人实验室，该实验室每运转一天消耗200点电荷。有关科技实验室的更多信息，参见《科技指南(战役设定)》第16页。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
         },
         "Craft Rod": {
             "name": "制造权杖 (Craft Rod)",
@@ -185,6 +243,14 @@
         "Craft Staff": {
             "name": "制造法杖 (Craft Staff)",
             "description": "<p><em>你能制造法杖。</em></p><p><strong>先决条件</strong>：施法者等级11级。</p><p><strong>效果</strong>：你能制造任何你满足其先决条件的法杖。法杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。新制造的法杖拥有10发充能。更多信息请参见魔法物品规则。</p>"
+        },
+        "Craft Technological Arms and Armor": {
+            "name": "制造科技武器和护甲 (Craft Technological Arms and Armor)",
+            "description": "<p><em>你能够制造高科技的护甲和武器。</em></p><p><strong>先决条件</strong>：技师，手艺（组装机械）7级，知识（工程学）7级</p><p><strong>效果</strong>：你能制造科技护甲，盾牌和武器。制造科技武器或护甲需要花费价格每价值1000GP/1天的时间，以及需要你支付价格一半的原材料费用。见下文制造高科技物品章以获得更多信息。除此之外，你还可以修复损坏的科技武器和护甲（只要你可以制造它们）。修理一件科技武器或护甲需要花费制造该物品的原材料花费和制造时间的一半。</p>"
+        },
+        "Craft Technological Item": {
+            "name": "制造科技装置 (Craft Technological Item)",
+            "description": "<p><em>你能够制造科技驱动的装置和器物。</em></p><p><strong>先决条件</strong>：技师，手艺（组装机械）5级，知识（工程学）5级</p><p><strong>效果</strong>：你能制造科技装置。制造科技装置需要花费价格每价值1000GP/1天的时间，以及需要你支付价格一半的原材料费用。见下文制造高科技物品章以获得更多信息。除此之外，你还可以修复损坏的科技装置（只要你可以制造它们）。修理一件科技装置需要花费制造该装置的原材料花费和制造时间的一半。</p>"
         },
         "Craft Wand": {
             "name": "制造魔杖 (Craft Wand)",
@@ -294,6 +360,10 @@
             "name": "法术强效 (Empower Spell)",
             "description": "<p><em>你可以增强法术的力量，使其造成更大的伤害。</em></p><p><strong>效果</strong>：搭配此专长时，法术效果中的所有可变量值皆增加一半，包括这些骰子上的加值。但本专长不影响豁免检定与对抗检定，对没有变量的法术也无影响。强效的法术须占用高于原本2个环位的法术位。</p>"
         },
+        "Empower Spell-Like Ability": {
+            "name": "类法术能力强效 (Empower Spell-Like Ability)",
+            "description": "<p><em>该生物的一种类法术能力极其强而有力。</em></p><p><strong>先决条件</strong>：拥有施法者等级6级以上的类法术能力。</p><p><strong>效果</strong>：选择一个该生物拥有的类法术能力（不过要遵守以下列出的限制）。每天3次，该生物可以如同搭配了@UUID[Compendium.pf1.feats.Item.77gXSucrxfrE9yWk]{法术强效}超魔般使用此类法术能力（除非该生物每天可以使用该类法术能力的次数低于3次）。每当该生物使用类法术能力强效时，法术效果中的所有可变量值皆增加一半（+50%）。但本专长不影响豁免检定与对抗检定，对没有随机变量的类法术能力也无影响。该生物只能选择所复制法术的环级不超过“生物施法者等级的一半（向下取整）-2”的类法术能力以搭配此专长。详见@UUID[Compendium.pf1.feats.Item.P4tmHYQVGowcstjO]{类法术能力瞬发}专长中的表：类法术能力强效与瞬发。</p><p><strong>特殊</strong>：生物可以多次选择本专长。每次选择此专长时，它的效果将应用在另一个类法术能力上。</p>"
+        },
         "Endurance": {
             "name": "坚忍 (Endurance)",
             "description": "<p><em>严酷的环境或者长时间的竭尽全力不会轻易令你陷入疲劳。</em></p><p><strong>效果</strong>：本专长可使以下检定获得+4加值：游泳时疲劳造成非致命伤害的技能检定、持续跑步时的体质检定、强行军造成非致命伤害的体质检定、屏息时的体质检定、饥饿或口渴造成非致命伤害的体质检定、冷热环境造成非致命伤害的强韧检定、窒息造成伤害的强韧检定。此外，拥有本项专长者穿着轻型或中型盔甲睡觉也不会陷入疲乏状态。</p><p><strong>通常</strong>：没有本专长者若穿着中型以上的盔甲睡觉，隔天将自动陷入疲乏状态。</p>"
@@ -318,13 +388,77 @@
             "name": "法术延时 (Extend Spell)",
             "description": "<p><em>此专长可使法术效果的持续时间加长。</em></p><p><strong>效果</strong>：搭配此专长的法术持续时间加倍。持续时间为专注、立即或永久的法术不受本专长影响。延时的法术须占用高于原本1个环位的法术位。</p>"
         },
+        "Extra Amplification": {
+            "name": "额外精神增幅 (Extra Amplification)",
+            "description": "<p><em>你精通于使用精神能量产生增幅效果。</em></p><p><strong>先决条件</strong>：精神增幅职业能力</p><p><strong>效果</strong>：你获得一个额外的精神增幅。但不能选取高等精神增幅。</p><p><strong>特殊</strong>：你可以多次选取该专长。每次选择该专长，都会获得另一个精神增幅。</p>"
+        },
+        "Extra Arcana": {
+            "name": "额外奥能 (Extra Arcana)",
+            "description": "<p><em>你发掘了一个新魔战士奥能的秘密。</em></p><p><strong>先决条件</strong>：【魔战士奥能】职业特性。</p><p><strong>效果</strong>：你获得一个额外的魔战士奥能。你必须符合这一魔战士奥能所有的先决条件。</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果累计。</p>"
+        },
+        "Extra Arcane Pool": {
+            "name": "额外奥能力池 (Extra Arcane Pool)",
+            "description": "<p><em>你学会了如何从奥能力池中获得更多的力量。</em></p><p><strong>先决条件</strong>：【奥能力池】职业特性。</p><p><strong>效果</strong>：你的奥能力池增加2点。</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果累计。</p>"
+        },
+        "Extra Arcanist Exploit": {
+            "name": "额外奥能技艺 (Extra Arcanist Exploit)",
+            "description": "<p><em>你比其他的奥能师了解了更多关于魔法的秘密。</em></p><p><strong>先决条件</strong>：奥能师奥能技艺职业能力</p><p><strong>效果</strong>：你获得一个额外的奥能技艺，你必须满足获得此奥能技艺的前提条件。</p><p><strong>特殊</strong>：你可以多次选择本专长，每次选择，你需要选择一个额外的奥能技艺。</p>"
+        },
+        "Extra Bane": {
+            "name": "额外破敌 (Extra Bane)",
+            "description": "<p><em>你能使用更多次的破敌能力。</em></p><p><strong>先决条件</strong>：【破敌】职业特性。</p><p><strong>效果</strong>：你每天的破敌能力使用时间增加3轮。</p>"
+        },
         "Extra Bombs": {
             "name": "额外炼金炸弹 (Extra Bombs)",
             "description": "<p><em>你每天可以多投掷几个炸弹。</em></p><p><strong>先决条件</strong>：【炼金炸弹】职业特性。</p><p><strong>效果</strong>：你每天能够额外投掷2次【炼金炸弹】。</p><p><strong>特殊</strong>：你能够多次选择本专长。</p>"
         },
+        "Extra Cantrips or Orisons": {
+            "name": "额外戏法或祷念 (Extra Cantrips or Orisons)",
+            "description": "<p><em>你是使用小戏法的大师。</em></p><p><strong>先决条件</strong>：施展戏法或祷念的能力。</p><p><strong>效果</strong>：你所知道的戏法或祷念数量增加2.</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果累计。</p>"
+        },
         "Extra Channel": {
             "name": "额外引导 (Extra Channel)",
             "description": "<p><em>你可以更频繁地引导神圣能量。</em></p><p><strong>先决条件</strong>：引导能量职业能力</p><p><strong>效果</strong>：你每日的引导能量次数增加两次。</p><p><strong>特殊</strong>：如果你是能够引导正能量的圣武士，那么你获得每日四次额外的圣疗能力使用次数，但只能用来引导正能量；如果你是能够引导能量的战斗祭司，那么你获得每日四次额外的热诚能力使用次数，但只能用来引导能量</p>"
+        },
+        "Extra Discovery": {
+            "name": "额外科研发现 (Extra Discovery)",
+            "description": "<p><em>你完成了一种新的炼金科研发现。</em></p><p><strong>先决条件</strong>：【科研发现】职业特性。</p><p><strong>效果</strong>：你获得一个【科研发现】。你必须满足这个科研发现的全部先决条件才能选取。</p><p><strong>特殊</strong>：你能够多次选择本专长。</p>"
+        },
+        "Extra Evolution": {
+            "name": "额外进化 (Extra Evolution)",
+            "description": "<p><em>你的幻灵拥有更多的进化。</em></p><p><strong>先决条件</strong>：【幻灵】职业特性。</p><p><strong>效果</strong>：你幻灵的进化池增加1点。</p><p><strong>特殊</strong>：你可以在1级选择这一次进化，并且在5级、10级、15级和20级再次选择。</p>"
+        },
+        "Extra Feature": {
+            "name": "额外特征 (Extra Feature)",
+            "description": "<p><em>你是个非凡的变形者。</em></p><p><strong>先决条件</strong>：体质13，兽态人</p><p><strong>效果</strong>：当你变化成兽形时，你可以从你的变形能力所列的特征中多选一项，并在兽形态下获得该好处。</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果叠加。</p>"
+        },
+        "Extra Focus Power": {
+            "name": "额外灵器之力 (Extra Focus Power)",
+            "description": "<p><em>你从灵器中获得一项额外的灵器之力。</em></p><p><strong>先决条件</strong>：灵器之力职业能力</p><p><strong>效果</strong>：你获得一个额外的灵器之力，该项灵器之力要从你已经选取的灵器学派中选择。你必须选择已经满足先决条件的灵器之力。</p><p><strong>特殊</strong>：对于每个已知的灵器学派，你可以选择一次该专长，至多为18级时的7次。每当你这么做时，都必须选择一项不同的灵器之力。若你多次选择了相同的灵器学派，那么每一次你选择该学派时，都可以从该学派中选择一项灵器之力。</p>"
+        },
+        "Extra Gnome Magic": {
+            "name": "额外侏儒魔法 (Extra Gnome Magic)",
+            "description": "<p><em>你血脉中流淌的原始魔力比普通侏儒更加强大。</em></p><p><strong>先决条件</strong>：魅力13，侏儒</p><p><strong>效果</strong>：你每天额外获得3次使用侏儒类法术能力（@UUID[Compendium.pf1.spells.Item.zymaptg3vmnvfvxl]{舞光术}、@UUID[Compendium.pf1.spells.Item.mtxqp85izkb20djq]{幻音术}、魔法伎俩）的机会。这些次数可以任意组合使用：例如你可以一天内使用四次舞光术（将所有额外次数用于同一个法术），或者各使用两次幻音术、魔法伎俩和@UUID[Compendium.pf1.spells.Item.ct9fhh8uawn8e4md]{动物交谈}，再加一次舞光术。如果你拥有其他能改变种族0环类法术能力的专长、特性或能力，本专长同样适用于改变后的法术。</p>"
+        },
+        "Extra Grit": {
+            "name": "额外勇毅 (Extra Grit)",
+            "description": "<p><em>你比一般的枪手更为勇毅。</em></p><p><strong>先决条件</strong>：【勇毅】职业特性或业余枪手专长。</p><p><strong>效果</strong>：你每天获得2点额外勇毅点，你的勇毅点上限增加2点。</p><p><strong>通常</strong>：如果你是一个枪手，你每天获得等同你感知调整值的勇毅点，同时这也是你的勇毅点上限值。如果你拥有@UUID[Compendium.pf1.feats.Item.nxfb1Cxl628nYR3L]{业余枪手}专长，你每天获得1点勇毅点，而你的勇毅点上限等于你的感知调整值。</p><p><strong>特殊</strong>：如果你拥有枪手职业等级，你可以选择这个专长多次。</p>"
+        },
+        "Extra Hex": {
+            "name": "额外巫术 (Extra Hex)",
+            "description": "<p><em>你学习了一个新巫术的秘密。</em></p><p><strong>先决条件</strong>：巫术职业能力</p><p><strong>效果</strong>：你可以获得一个新的巫术，你必须满足选取此巫术的前提条件。如果你是一个萨满，那么这个巫术必须是你的魂域所属的巫术，而不可从飘渺魂域中获得。</p><p><strong>特殊</strong>：你可以多次选择本专长，每次选择，你需要选择一个额外的巫术。</p>"
+        },
+        "Extra Inspiration": {
+            "name": "额外灵感 (Extra Inspiration)",
+            "description": "<p><em>你的灵感力源源不绝。</em></p><p><strong>先决条件</strong>：业余调查员专长或灵感职业能力</p><p><strong>效果</strong>：你的灵感池获得每日3点额外的灵感点数</p><p><strong>特殊</strong>：如果你在调查员职业上拥有等级，你可以多次选择本专长，每次选择，你获得额外3点额外的每日灵感点数。</p>"
+        },
+        "Extra Investigator Talent": {
+            "name": "额外调查员天赋 (Extra Investigator Talent)",
+            "description": "<p><em>在灵感的驱动下，你的口袋里总有一堆花招可用。</em></p><p><strong>先决条件</strong>：调查员天赋职业能力</p><p><strong>效果</strong>：你获得一个额外的调查员天赋，你必须满足获得此调查员天赋的前提条件。</p><p><strong>特殊</strong>：你可以多次选择本专长，每次选择，你需要选择一个额外的调查员天赋。</p>"
+        },
+        "Extra Item Slot": {
+            "name": "额外装备位 (Extra Item Slot)",
+            "description": "<p><em>相比其他同类生物，你更容易穿戴魔法物品。</em></p><p><strong>先决条件</strong>：非类人身体形态</p><p><strong>效果</strong>：选择一个在你的形态下通常来说不可用的魔法装备位。你现在可以使用该位置的魔法物品。</p>"
         },
         "Extra Ki": {
             "name": "额外斗气 (Extra Ki)",
@@ -334,9 +468,29 @@
             "name": "额外圣疗 (Extra Lay On Hands)",
             "description": "<p><em>你可以更频繁的使用圣疗能力。</em></p><p><strong>先决条件</strong>：【圣疗】职业特性。</p><p><strong>效果</strong>：你每日可以多使用圣疗2次。</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果累计。</p>"
         },
+        "Extra Martial Flexibility": {
+            "name": "额外招式 (Extra Martial Flexibility)",
+            "description": "<p><em>你的武技可谓千变万化。</em></p><p><strong>先决条件</strong>：千招百式职业能力</p><p><strong>效果</strong>：你每天使用千招百式能力的次数增加3次。</p>"
+        },
+        "Extra Mental Focus": {
+            "name": "额外心智点 (Extra Mental Focus)",
+            "description": "<p><em>你的心智点得到了提升。</em></p><p><strong>先决条件</strong>：心智点职业能力</p><p><strong>效果</strong>：你获得2点额外的心智点。</p>"
+        },
         "Extra Mercy": {
             "name": "额外恩惠 (Extra Mercy)",
             "description": "<p><em>你的圣疗能力额外获得一种恩惠。</em></p><p><strong>先决条件</strong>：【圣疗】职业特性，【恩惠】职业特性。</p><p><strong>效果</strong>：选择一种你能够使用的额外恩惠。当你使用圣疗为一个目标治疗伤害时，目标额外获得该恩惠的效果。</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果不累计。每次你选择本专长时，选择一个新的恩惠。</p>"
+        },
+        "Extra Mesmerist Tricks": {
+            "name": "额外催眠师诡计 (Extra Mesmerist Tricks)",
+            "description": "<p><em>你可以比以往使用更多次的催眠师诡计。</em></p><p><strong>先决条件</strong>：催眠师诡计职业能力</p><p><strong>效果</strong>：你每日可以额外植入2次催眠师诡计。</p><p><strong>特殊</strong>：你可以多次选取该专长，其效果会叠加。</p>"
+        },
+        "Extra Ninja Trick": {
+            "name": "额外忍术 (Extra Ninja Trick)",
+            "description": "<p><em>你对自身暗影技艺的修炼超越了大部分人。</em></p><p><strong>先决条件</strong>：忍术职业能力</p><p><strong>效果</strong>：你获得一个额外的忍术。你必须满足这个忍术的一切先决条件。</p><p><strong>特殊</strong>：你可以多次选取“额外忍术”专长。</p>"
+        },
+        "Extra Panache": {
+            "name": "额外派头 (Extra Panache)",
+            "description": "<p><em>你比普通的游荡剑客更加时髦。</em></p><p><strong>先决条件</strong>：业余剑客专长或派头职业能力</p><p><strong>效果</strong>：你获得每日额外两点时髦值，以及两点时髦最大值。</p><p><strong>特殊</strong>：如果你在游荡剑客职业上拥有等级，你可以多次选择本专长，每次选择，专长效果叠加。</p>"
         },
         "Extra Performance": {
             "name": "额外表演 (Extra Performance)",
@@ -346,9 +500,29 @@
             "name": "额外狂暴 (Extra Rage)",
             "description": "<p><em>你可以更久地狂暴。</em></p><p><strong>先决条件</strong>：【狂暴】职业特性。</p><p><strong>效果</strong>：你可以每日多狂暴6轮。</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果累计。</p>"
         },
+        "Extra Rage Power": {
+            "name": "额外狂暴之力 (Extra Rage Power)",
+            "description": "<p><em>你解锁了一种狂暴中可以使用的新能力。</em></p><p><strong>先决条件</strong>：【狂暴之力】职业特性。</p><p><strong>效果</strong>：你获得一个狂暴之力。你必须满足这个狂暴之力的全部先决条件才能选取。</p><p><strong>特殊</strong>：你能够多次选择本专长。</p>"
+        },
+        "Extra Reservoir": {
+            "name": "额外魔源 (Extra Reservoir)",
+            "description": "<p><em>奥术能量在你体内畅快地涌动。</em></p><p><strong>先决条件</strong>：奥能师奥能源泉职业能力</p><p><strong>效果</strong>：你的奥能源泉获得每日3点额外的魔法能量，并且最大值上升3点。</p><p><strong>特殊</strong>：你可以多次选择本专长，每次选择效果叠加。</p>"
+        },
+        "Extra Revelation": {
+            "name": "额外启示 (Extra Revelation)",
+            "description": "<p><em>你领悟了领域中的一种新的表现方式。</em></p><p><strong>先决条件</strong>：【启示】职业特性。</p><p><strong>效果</strong>：你获得一个【启示】。你必须满足这个启示的全部先决条件才能选取。</p><p><strong>特殊</strong>：你能够多次选择本专长。</p>"
+        },
         "Extra Rogue Talent": {
             "name": "额外盗贼天赋 (Extra Rogue Talent)",
             "description": "<p><em>通过不断练习，你习得了一种新的技法。</em></p><p><strong>先决条件</strong>：【盗贼天赋】职业特性。</p><p><strong>效果</strong>：你获得一个【盗贼天赋】。你必须满足这个盗贼天赋的全部先决条件才能选取。</p><p><strong>特殊</strong>：你能够多次选择本专长。</p>"
+        },
+        "Extra Slayer Talent": {
+            "name": "额外杀手天赋 (Extra Slayer Talent)",
+            "description": "<p><em>经年累月的摘取目标让你练就了更多杀人技巧。</em></p><p><strong>先决条件</strong>：杀手天赋职业能力</p><p><strong>效果</strong>：你获得一个额外的杀手天赋，你必须满足获得此杀手天赋的前提条件。</p><p><strong>特殊</strong>：你可以多次选择本专长，每次选择，你需要选择一个额外的杀手天赋。</p>"
+        },
+        "Extra Surge": {
+            "name": "额外激增 (Extra Surge)",
+            "description": "<p><em>你可以比一般机型更常使用你的奈米机械激增能力。</em></p><p><strong>先决条件</strong>：体质13，奈米机械激增能力</p><p><strong>效果</strong>：你使用奈米机械激增能力的次数每日多一次。</p><p><strong>特殊</strong>：你可以多次选择本专长，其效果叠加。</p>"
         },
         "Far Shot": {
             "name": "远程射击 (Far Shot)",
@@ -361,6 +535,19 @@
         "Fleshwarper": {
             "name": "塑肉者 (Fleshwarper)",
             "description": "<p><em>你可以通过一个可憎的炼金术工序创造生命。</em></p><p><strong>先决条件</strong>：工艺（炼金术）5级，医疗5级，邪恶阵营</p><p><strong>效果</strong>：你能制造塑肉生物（译注详见怪物图鉴4，其中《内海魔法》中将 Fleshwarped 翻译为塑肉模板）和血肉移植物——全部细节见 肉体改制。新创造的塑肉生物拥有其生命骰的平均生命值。</p>"
+        },
+        "Flyby Attack": {
+            "name": "飞越攻击 (Flyby Attack)",
+            "description": "<p><em>该生物可以在飞行移动的前后发起攻击。</em></p><p><strong>先决条件</strong>：拥有飞行速度。</p><p><strong>效果</strong>：当生物飞行时，该生物可以在移动途中进行一个移动动作和另一个标准动作。不过在飞行途中，生物不能进行多于一个移动动作。</p><p><strong>通常</strong>：没有此专长的情况下，生物只能在移动前或移动后进行标准动作。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Following Step": {
+            "name": "咄咄逼人 (Following Step)",
+            "description": "<p><em>当敌人试图从你身边逃开时，你能够反覆尝试跟上他而不会妨碍自身的正常移动。</em></p><p><strong>先决条件</strong>：敏捷 13，@UUID[Compendium.pf1.feats.Item.Mz8ZG6nqW3NKFZhK]{快步跟进}。</p><p><strong>效果</strong>：当你使用@UUID[Compendium.pf1.feats.Item.Mz8ZG6nqW3NKFZhK]{快步跟进}专长跟上邻近的敌人时，你能够移动至多10尺。你可以在下一轮内使用五尺快步，并且任何使用此专长进行的移动，均不会扣除你下一轮的移动距离。</p><p><strong>通常</strong>：你只能使用“快步跟进”专长进行五尺快步跟上敌人。</p>"
         },
         "Forge Ring": {
             "name": "锻造戒指 (Forge Ring)",
@@ -391,9 +578,17 @@
             "name": "高等冲撞 (Greater Bull Rush)",
             "description": "<p><em>你的冲撞令敌人失去平衡。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，基本攻击加值+6，力量13。</p><p><strong>效果</strong>：你在冲撞检定中获得+2加值。此加值与@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}专长带来的加值累计。当你冲撞敌人时，他的移动会引发所有你的同伴的借机攻击（但不包括你）。</p><p><strong>通常</strong>：冲撞带来的生物移动不会引发借机攻击。</p>"
         },
+        "Greater Dirty Trick": {
+            "name": "高等阴招 (Greater Dirty Trick)",
+            "description": "<p><em>你的敌人会被你的阴招搞得晕头转向。</em></p><p><strong>先决条件</strong>：智力13，@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{寓守于攻}，@UUID[Compendium.pf1.feats.Item.LUOETW7Fm0oPKKWj]{精通阴招}，基本攻击加值+6。</p><p><strong>效果</strong>：你所实行的阴招战技检定获得+2加值。这个加值与@UUID[Compendium.pf1.feats.Item.LUOETW7Fm0oPKKWj]{精通阴招}提供的加值叠加。每当你成功进行阴招战技之后，产生的惩罚持续1d4轮，你的攻击每比目标的CMD高5点，则再多持续1轮。此外，目标移除状态需要耗费一个标准动作。</p><p><strong>通常</strong>：阴招所赋予的状态持续1轮，你的攻击每比目标的CMD高5点，则再多持续1轮。目标移除状态需要耗费一个移动动作。</p>"
+        },
         "Greater Disarm": {
             "name": "高等缴械 (Greater Disarm)",
             "description": "<p><em>你可以将敌人手中的武器击飞。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{寓守于攻}，@UUID[Compendium.pf1.feats.Item.711B9WNFgpdDKKf2]{精通缴械}，基本攻击加值+6，智力13。</p><p><strong>效果</strong>：你在缴械检定中获得+2加值，此加值与@UUID[Compendium.pf1.feats.Item.711B9WNFgpdDKKf2]{精通缴械}专长带来的加值累计。每当你成功卸除敌人武器时，该武器由其持有者位置向随机方向飞出15尺。</p><p><strong>通常</strong>：被卸除的武器和装备落在被卸除的生物脚下。</p>"
+        },
+        "Greater Drag": {
+            "name": "高等拖拽 (Greater Drag)",
+            "description": "<p><em>被你拖拽的敌人会失去平衡。</em></p><p><strong>先决条件</strong>：力量13，@UUID[Compendium.pf1.feats.Item.e1zIVW9AcrmRrYvx]{精通拖拽}，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，基本攻击加值+6。</p><p><strong>效果</strong>：你所实行的拖拽战技检定获得+2加值。这个加值与@UUID[Compendium.pf1.feats.Item.e1zIVW9AcrmRrYvx]{精通拖拽}提供的加值叠加。每当你拖拽敌人，他的移动会引起你的盟友的借机攻击（但是不包括你）。</p><p><strong>通常</strong>：被拖拽的生物不会引起借机攻击。</p>"
         },
         "Greater Feint": {
             "name": "高等虚招 (Greater Feint)",
@@ -411,6 +606,10 @@
             "name": "高等穿透打击 (Greater Penetrating Strike)",
             "description": "<p><em>你的攻击能够穿透大多数敌人的防御。</em></p><p><strong>先决条件</strong>：穿透打击，@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}，战士等级16。</p><p><strong>效果</strong>：你使用通过@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}选择的武器进行的攻击，忽略最多10点伤害减免。对于不带类型的伤害减免（例如伤害减免10/—），此数值降为5点。</p>"
         },
+        "Greater Reposition": {
+            "name": "高等移位 (Greater Reposition)",
+            "description": "<p><em>当你改变敌人的位置时，他们会变得容易遭受你盟友的攻击。</em></p><p><strong>先决条件</strong>：智力13，@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{寓守于攻}，@UUID[Compendium.pf1.feats.Item.CYHloH6aEnfgdxAV]{精通移位}，基本攻击加值+6。</p><p><strong>效果</strong>：你所实行的移位战技检定获得+2加值。这个加值与@UUID[Compendium.pf1.feats.Item.CYHloH6aEnfgdxAV]{精通移位}提供的加值叠加。每当你通过移位使敌人移动时，他的移动会引起你的盟友的借机攻击（但是不包括你）。</p><p><strong>通常</strong>：由于移位战技而移动的生物不会引起借机攻击。</p>"
+        },
         "Greater Shield Focus": {
             "name": "高等盾牌专攻 (Greater Shield Focus)",
             "description": "<p><em>你擅长用盾牌挡开攻击。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.7mD4ZksvKFaorAfj]{盾牌专攻}，@UUID[Compendium.pf1.feats.Item.WZj7zDvuelEoeXWX]{擅长盾牌}，基本攻击加值+1，战士等级8。</p><p><strong>效果</strong>：任何盾牌带来的AC加值增加1。此加值与@UUID[Compendium.pf1.feats.Item.7mD4ZksvKFaorAfj]{盾牌专攻}带来的加值累计。</p>"
@@ -422,6 +621,19 @@
         "Greater Spell Penetration": {
             "name": "高等法术穿透 (Greater Spell Penetration)",
             "description": "<p><em>你的法术威力强大，较易穿透法术抗力。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.nWFr8SNcjcMqsXSH]{法术穿透}。</p><p><strong>效果</strong>：施法时若受术者有法术抗力，你的施法者等级检定（1d20+CL）可获得+2加值。此加值可与@UUID[Compendium.pf1.feats.Item.nWFr8SNcjcMqsXSH]{法术穿透}累加。</p>"
+        },
+        "Greater Spring Attack": {
+            "name": "高等跳跃攻击 (Greater Spring Attack)",
+            "description": "<p><em>你是一股贯穿战场的收割风暴，使你的敌手们摇摇欲坠。</em></p><p><strong>先决条件</strong>：敏捷17，@UUID[Compendium.pf1.feats.Item.B6wEQOUMv2ifm2Nj]{神行步}，@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{闪避}，@UUID[Compendium.pf1.feats.Item.D5VflgZupUiegFAY]{精通跳跃攻击}，@UUID[Compendium.pf1.feats.Item.R7L4SlGRlnThqFrP]{灵活移动}，@UUID[Compendium.pf1.feats.Item.VMVAqGze4cs3naya]{灵狐步}，@UUID[Compendium.pf1.feats.Item.ugQyUpqPBDsqLyra]{跳跃攻击}，基础攻击加值+16。</p><p><strong>效果</strong>：当你使用@UUID[Compendium.pf1.feats.Item.ugQyUpqPBDsqLyra]{跳跃攻击}专长时，你可在移动期间选择三个攻击目标，而非一个目标。若以这种方式进行第二次攻击的话，需要应用你完整基础攻击加值-5进行攻击，而若以这种方式进行第三次攻击的话，则需应用你完整基础攻击加值-10进行攻击。跳跃攻击的专长的所有限制都适用于每个目标，且你的移动并不会引发任何目标的借机攻击。你不能以同一生物为目标进行超过一次的攻击。</p><p><strong>特殊</strong>：一名至少有18个武僧等级的武僧，可以选择此专长作为其武僧奖励专长，但前提是该角色已拥有@UUID[Compendium.pf1.feats.Item.D5VflgZupUiegFAY]{精通跳跃攻击}专长和跳跃攻击专长。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Greater Steal": {
+            "name": "高等盗取 (Greater Steal)",
+            "description": "<p><em>你懂得在战斗中从敌人那里扒窃道具的窍门。</em></p><p><strong>先决条件</strong>：智力13，@UUID[Compendium.pf1.feats.Item.NFxHebU1XhEs5WJh]{寓守于攻}，@UUID[Compendium.pf1.feats.Item.Kbuy0bkPlOYz5yaO]{精通盗取}，基本攻击加值+6。</p><p><strong>效果</strong>：你所实行的盗取战技检定获得+2加值。这个加值与@UUID[Compendium.pf1.feats.Item.Kbuy0bkPlOYz5yaO]{精通盗取}提供的加值叠加。如果你成功在战斗中从敌人身上盗取一件物品，那么他直至战斗结束或者尝试使用这件丢失的物品前不会察觉这件事情。</p><p><strong>通常</strong>：被盗取战技检定取走物品的生物会自动察觉这点。</p>"
         },
         "Greater Sunder": {
             "name": "高等击破 (Greater Sunder)",
@@ -463,6 +675,10 @@
             "name": "法术升阶 (Heighten Spell)",
             "description": "<p><em>你可以使法术表现得比原本等级高。</em></p><p><strong>效果</strong>：本专长可以使法术表现得比原本等级高（最高不可超过9环）。与其他超魔专长不同的是，法术升阶可以确实提升法术的有效等级。法术效果中所有与法术等级有关的变量（如法术豁免检定DC或穿透‘次级@UUID[Compendium.pf1.spells.Item.w6ttezzz9rt4qnh7]{法术无效结界}’法术的能力）都以升阶后的法术等级计算。升阶法术准备和释放的难度都以提升后的法术等级计算。</p>"
         },
+        "Hover": {
+            "name": "盘旋 (Hover)",
+            "description": "<p><em>这个生物可以在空中盘旋飞行，同时扬起沙尘和碎石。</em></p><p><strong>先决条件</strong>：拥有飞行速度。</p><p><strong>效果</strong>：拥有此专长的生物可以停止飞行移动，而是进行无需飞行检定的盘旋动作。如果一个拥有此专长的大型或更大体型的生物在离地20尺内、地面有大量松散碎屑的区域盘旋，其翅膀带起的气流会形成一团半径60尺的半球形沙尘云。沙尘气流可以熄灭影响范围内的火把、营火、提灯等暴露的小型非魔法火源。在沙尘内生物的能见度下降为10尺，距离15至20尺时，生物获得隐蔽（20%失手率），而在25尺或更远时，生物获得全隐蔽（50%失手率，且无法被视觉定位）。</p><p><strong>通常</strong>：一个生物必须通过飞行技能检定才能盘旋，且无法通过盘旋卷起沙尘。</p>"
+        },
         "Hurricane Punch": {
             "name": "暴风拳 (Hurricane Punch)",
             "description": "<p><em>随着你带有暴风之力的快速攻击，你的敌人就被撞飞了。</em></p><p><strong>先决条件</strong>：力量13，@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}，@UUID[Compendium.pf1.feats.Item.2aTFNMs3pW6nUBlr]{精通徒手打击}，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}</p><p><strong>效果</strong>：当你一轮内对一个生物命中至少2次徒手攻击时，你可以用迅捷动作尝试冲撞敌人。你可以在你没有剩余移动力的情况下和目标一起移动，但是你移动的距离不能超过你速度的一半。</p>"
@@ -483,9 +699,17 @@
             "name": "精通重击 (Improved Critical)",
             "description": "<p><em>你使用特定的武器攻击起来更易击中敌人要害。</em></p><p><strong>先决条件</strong>：擅长选择的特定武器，基本攻击加值+8。</p><p><strong>效果</strong>：使用特定武器的重击威胁范围加倍。</p><p><strong>特殊</strong>：你可以多次选择本专长，但并非累加效果。每次你选择本专长时，需选择一个新的武器类型。本专长不可与任何增加重击威胁范围的效果累加。</p>"
         },
+        "Improved Dirty Trick": {
+            "name": "精通阴招 (Improved Dirty Trick)",
+            "description": "<p><em>你很擅长对敌人耍一些小伎俩。</em></p><p><strong>先决条件</strong>：智力 13，寓守于攻。</p><p><strong>效果</strong>：当你使用阴招战技时不会引起借机攻击。此外，你所实行的阴招战技检定获得+2加值。你还在对抗针对自身的阴招战技时，CMD获得+2加值。</p><p><strong>通常</strong>：当你使用阴招战技时会引起借机攻击。</p>"
+        },
         "Improved Disarm": {
             "name": "精通缴械 (Improved Disarm)",
             "description": "<p><em>你擅长在战斗中卸除对手的武器。</em></p><p><strong>先决条件</strong>：智力 13，寓守于攻。</p><p><strong>效果</strong>：当你试图卸除对手的武器时，不会引发对方的借机攻击。此外，在你缴械检定上获得+2加值。你在对抗缴械的战技防御上同样获得+2加值。</p><p><strong>通常</strong>：你在使用缴械战技时会引发借机攻击。</p>"
+        },
+        "Improved Drag": {
+            "name": "精通拖拽 (Improved Drag)",
+            "description": "<p><em>你擅长在战场中拖拽敌人。</em></p><p><strong>先决条件</strong>：力量13，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，基本攻击加值+1。</p><p><strong>效果</strong>：当你使用拖拽战技时不会引起借机攻击。此外，你所实行的拖拽战技检定获得+2加值。你还在对抗针对自身的拖拽战技时，CMD获得+2加值。</p><p><strong>通常</strong>：当你使用拖拽战技时会引起借机攻击。</p>"
         },
         "Improved Familiar": {
             "name": "进阶魔宠 (Improved Familiar)",
@@ -519,6 +743,14 @@
             "name": "精通闪电反射 (Improved Lightning Reflexes)",
             "description": "<p><em>你有避开所有周遭危险的本事。</em></p><p><strong>先决条件</strong>：闪电反射。</p><p><strong>效果</strong>：每日1次，你可以重掷一次反射检定。你必须在宣布结果前选择使用本能力。你必须接受重掷的结果，即使比原来的结果还要差。</p>"
         },
+        "Improved Natural Armor": {
+            "name": "精通天生护甲 (Improved Natural Armor)",
+            "description": "<p><em>这个生物皮厚异常。</em></p><p><strong>先决条件</strong>：拥有天生护甲，体质13。</p><p><strong>效果</strong>：该生物的AC天生护甲加值+1。</p><p><strong>特殊</strong>：生物可以多次选择本专长。每次选择此专长时，AC天生护甲加值额外+1。</p>"
+        },
+        "Improved Natural Attack": {
+            "name": "精通天生武器攻击 (Improved Natural Attack)",
+            "description": "<p><em>这个生物的天生武器可以造成可怕的伤害。</em></p><p><strong>先决条件</strong>：拥有天生武器攻击，基本攻击加值+4。</p><p><strong>效果</strong>：选择一种你拥有的天生武器攻击（不可以是徒手打击），其可造成的伤害投骰按以下列表提升一级，如同该生物的体型增大了一个级别：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始伤害为1d10，则依据此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。</p><p><strong>特殊</strong>：生物可以多次选择本专长，每次选择本专长时，它必须将之应用在一项新的天生武器攻击上。</p>"
+        },
         "Improved Overrun": {
             "name": "精通闯越 (Improved Overrun)",
             "description": "<p><em>你善于击倒对手。</em></p><p><strong>先决条件</strong>：力量13，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，基本攻击加值+1。</p><p><strong>效果</strong>：当你试图使用闯越战技时，不会引发借机攻击。此外你在闯越检定获得+2加值，同时在对抗闯越的战技防御上获得+2加值。你试图闯越的目标无法躲避你。</p><p><strong>通常</strong>：正常情况使用闯越战技会引发借机攻击。</p>"
@@ -527,9 +759,22 @@
             "name": "精通精准射击 (Improved Precise Shot)",
             "description": "<p><em>你的远程攻击可无视掩蔽与隐蔽的影响。除了完全掩蔽和隐蔽。</em></p><p><strong>先决条件</strong>：敏捷19，@UUID[Compendium.pf1.feats.Item.8rsFtye3PwM6CKli]{近距射击}，@UUID[Compendium.pf1.feats.Item.53urYIbYYpQuoSLd]{精准射击}，基本攻击加值+11。</p><p><strong>效果</strong>：你的远程攻击可忽略大多数掩蔽与隐蔽所提供的AC加值与失手机率，除了全掩蔽与全隐蔽，它们将照常对远程攻击造成影响。</p><p><strong>通常</strong>：参见关于掩蔽和隐蔽的正常规则。</p>"
         },
+        "Improved Reposition": {
+            "name": "精通移位 (Improved Reposition)",
+            "description": "<p><em>你习得了如何迫使敌人在战场中移动的技巧。</em></p><p><strong>先决条件</strong>：智力 13，寓守于攻。</p><p><strong>效果</strong>：当你使用移位战技时不会引起借机攻击。此外，你所实行的移位战技检定获得+2加值。你还在对抗针对自身的移位战技时，CMD获得+2加值。</p><p><strong>通常</strong>：当你使用移位战技时会引起借机攻击。</p>"
+        },
         "Improved Shield Bash": {
             "name": "精通盾击 (Improved Shield Bash)",
             "description": "<p><em>即便你使用盾牌猛击，你还是可以正常使用它保护自身。</em></p><p><strong>先决条件</strong>：擅长盾牌。</p><p><strong>效果</strong>：当你使用盾牌猛击时，其对AC的盾牌加值依旧适用。</p><p><strong>通常</strong>：没有本专长的人一旦使用盾牌猛击，直到下个回合都将丧失盾牌对AC的加值。</p>"
+        },
+        "Improved Spring Attack": {
+            "name": "精通跳跃攻击 (Improved Spring Attack)",
+            "description": "<p><em>你如风一般掠过焦灼的战场，并在经过时攻击敌手。</em></p><p><strong>先决条件</strong>：敏捷15，@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{闪避}，@UUID[Compendium.pf1.feats.Item.R7L4SlGRlnThqFrP]{灵活移动}，@UUID[Compendium.pf1.feats.Item.VMVAqGze4cs3naya]{灵狐步}，@UUID[Compendium.pf1.feats.Item.ugQyUpqPBDsqLyra]{跳跃攻击}，基础攻击加值+9。</p><p><strong>效果</strong>：当你使用@UUID[Compendium.pf1.feats.Item.ugQyUpqPBDsqLyra]{跳跃攻击}专长时，你可在移动期间选择两个攻击目标，而非一个目标。若以这种方式进行第二次攻击的话，需要应用你完整基础攻击加值-5进行攻击。跳跃攻击的专长的所有限制都适用于每个目标，且你的移动并不会引发任何目标的借机攻击。你不能以同一生物为目标进行超过一次的攻击。</p><p><strong>特殊</strong>：一名至少有14个武僧等级的武僧，可以选择此专长作为其武僧奖励专长，但前提是该角色已拥有跳跃攻击专长。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
         },
         "Improved Steal": {
             "name": "精通盗取 (Improved Steal)",
@@ -538,6 +783,10 @@
         "Improved Sunder": {
             "name": "精通击破 (Improved Sunder)",
             "description": "<p><em>你善于攻击对手的武器和盔甲。</em></p><p><strong>先决条件</strong>：力量13，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，基本攻击加值+1。</p><p><strong>效果</strong>：当你使用击破战技时不会引发对手的借机攻击。此外，你在击破检定上获得+2加值，在对抗击破的战技防御上也获得+2加值。</p><p><strong>通常</strong>：你使用击破战技时会引发借机攻击。</p>"
+        },
+        "Improved Swap Places": {
+            "name": "精通换位 (Improved Swap Places)",
+            "description": "<p><em>无论你们之间的身材差异多大，你和伙伴已经完全掌握了互相移身的技巧。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.4FheAz49TCHTCl6O]{换位}APG</p><p><strong>效果</strong>：当你和你的盟友使用@UUID[Compendium.pf1.feats.Item.4FheAz49TCHTCl6O]{换位}专长时，你的盟友可以比你大或者小至多一个体型等级，并且你在移入盟友占据的方格时不会引发借机攻击。如果你的盟友无法完全容纳于你原先占据的空间，并且没有相邻的空闲方格可容纳其余部分，该盟友必须挤过。或者，你的盟友可以在此移动中，对占据其将要进入的方格的一个生物发动一次冲撞战技攻击，但这次冲撞无法将该生物推开超过5尺。</p><p><strong>通常</strong>：你必须和你的盟友同一体型才能发动换位专长，并且你移入盟友的方格会引发借机攻击。</p>"
         },
         "Improved Trip": {
             "name": "精通摔绊 (Improved Trip)",
@@ -558,6 +807,15 @@
         "Improvised Weapon Mastery": {
             "name": "临时武器熟稔 (Improvised Weapon Mastery)",
             "description": "<p><em>你可以把手边的任何东西转变为致命的武器，从尖利的椅子腿到装满面粉的袋子。</em></p><p><strong>先决条件</strong>：随手武器或随手投掷，基本攻击加值+8。</p><p><strong>效果</strong>：你在使用临时武器时不受任何减值。临时武器的伤害骰上升一个级别（例如1d4变为1d6）但最高仅到d8（双手临时武器则最高为2d6）。临时武器重击范围为19-20，重击倍率×2。</p>"
+        },
+        "In Harm’s Way": {
+            "name": "肉盾 (In Harm’s Way)",
+            "description": "<p><em>为了保护盟友，你将自身置于危险之中。</em></p><p><strong>先决条件</strong>：保镖。</p><p><strong>效果</strong>：当你使用协助他人动作提高相邻盟友的AC时，你能够以直觉动作拦截对抗该名盟友的成功攻击，受到该次攻击的全部伤害以及任何可能的效果（流血，毒素等等）。一名生物从该专长获得的好处不能超过每次攻击一次。</p><p><strong>注</strong>：译注：即不能由多人同时为同一人挡刀。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
         },
         "Infuse Poison": {
             "name": "灌法毒药 (Infuse Poison)",
@@ -607,6 +865,10 @@
             "name": "魔法天赋 (Magical Aptitude)",
             "description": "<p><em>你在释放魔法和使用魔法物品方面有资质。</em></p><p><strong>效果</strong>：你的法术辨识与使用魔法装置检定获得+2加值。如果某技能受训等级10以上，则对应的加值改为+4。</p>"
         },
+        "Magical Tail": {
+            "name": "魔性之尾 (Magical Tail)",
+            "description": "<p><em>你长出了额外的尾巴，它代表着你不断成长的魔力。</em></p><p><strong>先决条件</strong>：狐妖。</p><p><strong>效果</strong>：你获得了新的类法术能力，每个每天都能用2次，按照后述内容依序选取：@UUID[Compendium.pf1.spells.Item.oj36nfak6jc2s5ky]{易容术}，@UUID[Compendium.pf1.spells.Item.tjog6bufg5b08lvq]{魅惑人类}，@UUID[Compendium.pf1.spells.Item.8nrt26t37v7koqr8]{误导术}，@UUID[Compendium.pf1.spells.Item.oylikodnyku2zewu]{隐形术}，@UUID[Compendium.pf1.spells.Item.zqj5qzyl46af27v0]{暗示术}，@UUID[Compendium.pf1.spells.Item.r190q9zxmei82lmv]{移位术}，@UUID[Compendium.pf1.spells.Item.n0bsyxchnigkkuqo]{困惑术}，@UUID[Compendium.pf1.spells.Item.q070n0zoq3zojpas]{支配人类}。例如，你第一次选择该专长，你获得每天2次的‘易容术’，第二次选择该专长获得每天2次的‘魅惑人类’。你的CL等同于你的HD。这些能力的DC基于魅力。</p><p><strong>特殊</strong>：你最多能够选择该专长8次。每次你选择该专长都会按照以上描述获得额外的能力。</p>"
+        },
         "Manyshot": {
             "name": "多重射击 (Manyshot)",
             "description": "<p><em>你可对一个目标同时发射数箭。</em></p><p><strong>先决条件</strong>：敏捷17，@UUID[Compendium.pf1.feats.Item.8rsFtye3PwM6CKli]{近距射击}，@UUID[Compendium.pf1.feats.Item.NABgOSBRECIREaha]{快速射击}，基本攻击加值+6。</p><p><strong>效果</strong>：当以弓箭做出全力攻击动作时，你的第一击射出两支箭。若攻击检定成功，则两支箭均命中。基于精准攻击的伤害（例如偷袭）和重击伤害在该次攻击中仅计算一次。使用@UUID[Compendium.pf1.weapons-and-ammo.Item.msTiRxZVnecbPCA8]{复合长弓}时的力量修正，以及其他伤害加值例如游侠的【宿敌】加值，均在每只箭上正常生效。对抗每箭的伤害减免与其他抗力都要分别计算。</p>"
@@ -643,6 +905,10 @@
             "name": "骑乘战斗 (Mounted Combat)",
             "description": "<p><em>你善于骑乘战斗。</em></p><p><strong>先决条件</strong>：骑术1级。</p><p><strong>效果</strong>：坐骑被击中时，你可以做一次骑术检定（视为直觉动作），若检定结果大于对手的攻击检定，则该攻击无效。此专长每轮只能使用1次。</p>"
         },
+        "Multiattack": {
+            "name": "多重攻击 (Multiattack)",
+            "description": "<p><em>这个生物精于利用自己的天生武器进行攻击。</em></p><p><strong>先决条件</strong>：三次或更多天生武器攻击。</p><p><strong>效果</strong>：生物的次要天生武器攻击仅在攻击上承受-2减值。</p><p><strong>通常</strong>：若无此专长支持，生物的次要天生武器攻击在攻击投骰上将承受-5减值。</p>"
+        },
         "Natural Spell": {
             "name": "自然施法 (Natural Spell)",
             "description": "<p><em>你可在自然变身状态下施法，即使该形态正常无法施法。</em></p><p><strong>先决条件</strong>：感知 13，【自然变身】职业特性。</p><p><strong>效果</strong>：你可在自然变身状态下完成法术的言语与姿势。你使用各种声音和动作代替原本法术正常的言语与姿势。你仍旧能够使用任何你拥有的施法材料或器材，即使这些东西已经融进了你现在的形态中。若此型态原本就无法使用某种魔法物品，这项专长并不赋予使用物品的能力，此外本专长也不能让你在自然变身型态时说话。</p>"
@@ -655,6 +921,10 @@
             "name": "包抄 (Outflank)",
             "description": "<p><em>在夹击敌人时你能够积极寻找任何获得优势的契机。</em></p><p><strong>先决条件</strong>：基本攻击加值+4。</p><p><strong>效果</strong>：每当你和同样拥有该专长的一名盟友夹击相同的生物时，你的攻击检定获得的夹击加值提升至+4。此外，每当你对夹击的生物成功进行重击时，它会引起你的盟友的借机攻击。</p>"
         },
+        "Pack Attack": {
+            "name": "机动攻击 (Pack Attack)",
+            "description": "<p><em>你擅长绕着敌人转。</em></p><p><strong>先决条件</strong>：基本攻击加值+1。</p><p><strong>效果</strong>：当你和拥有此专长的盟友邻接、且首次对一名对手发动近战攻击时，你可以通过直觉动作进行五尺快步，即便你这轮已经移动过位置。</p><p><strong>通常</strong>：你只能在没有移动过的状况下使用五尺快步。</p>"
+        },
         "Painful Collision": {
             "name": "痛苦撞击 (Painful Collision)",
             "description": "<p><em>你让敌人撞在一起，十分痛苦。</em></p><p><strong>先决条件</strong>：力量13，@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}</p><p><strong>效果</strong>：当你把一个敌人冲撞到另一个生物身上时，两个生物都会受到1d6点钝击伤害，加上你的主要目标因为冲撞结果每移动5尺1d6伤害。比如，如果你把一个地精撞出10尺然后撞到了另一个地精，则两个生物都会受到3d6点钝击伤害。</p>",
@@ -663,6 +933,10 @@
                     "name": "使用"
                 }
             ]
+        },
+        "Paired Opportunists": {
+            "name": "双重借机 (Paired Opportunists)",
+            "description": "<p><em>你明白如何让敌人为了懈怠的防守而付出代价。</em></p><p><strong>效果</strong>：每当你邻近一名拥有该专长的盟友，那么在对抗同时处于你们威胁范围内的生物时，你们的借机攻击都会获得+4环境加值。若敌人处于你的威胁范围，那么只要他引起你的盟友的借机攻击，就也会引起你的借机攻击（即使由于某些能力或者环境，导致正常情况下不会引起你的借机攻击）。在对抗一名生物的一次特定动作时，该专长不会允许你获得超过一次的借机攻击机会。</p>"
         },
         "Penetrating Strike": {
             "name": "穿透打击 (Penetrating Strike)",
@@ -697,13 +971,30 @@
                 }
             ]
         },
+        "Psychic Sensitivity": {
+            "name": "异能敏感 (Psychic Sensitivity)",
+            "description": "<p><em>你了解了世界的神秘侧面。</em></p><p><strong>效果</strong>：你获得对于所有你拥有技能等级的技能的神秘技能解放。如果你在特定技能上并未受训，那么你就不能使用该技能的神秘技能解放，即使你可以在未受训的情况下使用这个技能进行检定也不行。</p><p><strong>通常</strong>：你必须能够施放异能法术才能获得神秘技能解放。</p>"
+        },
         "Quick Draw": {
             "name": "即时备战 (Quick Draw)",
             "description": "<p><em>你能够比大多数人更快的拔出武器。</em></p><p><strong>先决条件</strong>：基本攻击加值+1。</p><p><strong>效果</strong>：你能够以自由动作而不是移动动作拔出一把武器。你能够以移动动作拔出一把隐藏的武器（见巧手技能）。选择此专长的人物能以他的正常攻击频率投掷武器（如同使用弓的人物一样）。炼金物品、药水、卷轴和魔杖不能用此专长快速拿取。</p><p><strong>通常</strong>：没有此专长，你拔出一把武器是移动动作，或做为移动一部分的自由动作（如果你的BAB+1以上）。没有此专长，你拔出一把隐藏的武器是标准动作。</p>"
         },
+        "Quick Stow": {
+            "name": "快速收纳 (Quick Stow)",
+            "description": "<p><em>你能轻松地收纳物品并入鞘武器。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.WKIVfdosc5SqYzmP]{即时备战}，基础攻击加值+1。</p><p><strong>效果</strong>：你在入鞘武器时不会引发借机攻击，并且你可以将用于入鞘武器的一个移动动作结合在一次常规移动动作中（以此方式，你可以在同一个移动动作中同时收起与拔出一把武器）。若你具有@UUID[Compendium.pf1.feats.Item.Ee7JHADKEK37tTHs]{双武器战斗}专长，你可以在通常入鞘一把武器的时间内入鞘两把轻型或单手武器。你也可以将物品快速收纳至你所穿戴或携带的@UUID[Compendium.pf1.items.Item.lSCPUK5Ea6R0t4fz]{背包}或其他容器中。当你成功使用一个动作拾起一件物品时（包括当你通过巧手检定或偷窃战技检定成功偷取一件物品时），你可以将该物品作为取得它的同一动作的一部分收纳。你可以尝试通过一次承受–20减值的巧手检定来隐藏该物品，该检定与所有对手的察觉检定结果对抗。</p>"
+        },
         "Quicken Spell": {
             "name": "法术瞬发 (Quicken Spell)",
             "description": "<p><em>你能够在一瞬间施展法术。</em></p><p><strong>效果</strong>：施展瞬发法术是迅捷动作。在施展瞬发法术的同一轮里，你可以做另一个动作，甚至施展另一个法术。施法时间超过1个整轮动作或一轮的法术无法被瞬发。瞬发法术占用比该法术实际等级高4环的法术位。施展瞬发法术不会触发借机攻击。</p><p><strong>特殊</strong>：你能够将此专长的效果应用于自发施展的法术，只要其施法时间不超过1个整轮动作，这样做不会增加该法术的施法时间。</p>"
+        },
+        "Quicken Spell-Like Ability": {
+            "name": "类法术能力瞬发 (Quicken Spell-Like Ability)",
+            "description": "<p><em>这个生物可以以极短的时间发动类法术能力。</em></p><p><strong>先决条件</strong>：拥有施法者等级10级以上的类法术能力。</p><p><strong>效果</strong>：选择一项该生物拥有的类法术能力（不过要遵守本专长所述的限制），每天3次，该生物可以如同搭配了@UUID[Compendium.pf1.feats.Item.wFoLrh5FeeqBXsQ8]{法术瞬发}超魔般使用此类法术能力（除非该生物每天可以使用该类法术能力的次数低于3次）。每当该生物使用类法术能力瞬发时，这个法术的施法时间降低为迅捷动作且不会引发借机攻击。在本轮内，这个生物仍然可以进行其他动作——包括使用另一个类法术能力（但不能是另一个迅捷动作）。这个生物每轮只能使用一个瞬发类法术能力。该生物只能选择所复制法术的环级不超过“生物施法者等级的一半（向下取整）-4”的类法术能力以搭配此专长。复制施法时间超过1整轮的法术的类法术能力不能被瞬发。详见表：@UUID[Compendium.pf1.feats.Item.NJoSHKbpJj9aD84E]{类法术能力强效}与瞬发。</p><p><strong>通常</strong>：使用类法术能力通常至少需要一个标准动作，且会引发其他生物的借机攻击。</p><p><strong>特殊</strong>：生物可以多次选择本专长。每次选择此专长时，它的效果将应用在另一个类法术能力上。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
         },
         "Rapid Reload": {
             "name": "快速装填 (Rapid Reload)",
@@ -721,9 +1012,17 @@
             "name": "骑乘掠击 (Ride-By Attack)",
             "description": "<p><em>骑乘冲锋时，你能够移动，攻击，然后继续移动。</em></p><p><strong>先决条件</strong>：骑术1级，@UUID[Compendium.pf1.feats.Item.0spsP9ylE3goD3jc]{骑乘战斗}。</p><p><strong>效果</strong>：骑乘冲锋时，你可以如同标准冲锋一样移动并攻击，然后再次移动（沿着冲锋的直线路径）。你该轮总的移动距离不能超过骑乘速度的两倍。你和你的坐骑不会触发你所攻击目标的借机攻击。</p>"
         },
+        "Robot's Bane": {
+            "name": "机械公敌 (Robot's Bane)",
+            "description": "<p><em>你学习过如何与机械与高科技生物战斗，避开它们的优势火力并击破这些造物的脆弱部分。</em></p><p><strong>先决条件</strong>：知识（工程学）5级</p><p><strong>效果</strong>：在对抗拥有机体亚种的生物时，你在攻击和伤害检定上获得＋1加值；并在所有对抗机体生物的攻击和能力时，在防御等级上获得＋1闪避加值，在所有的豁免检定上获得＋1加值。如果你在知识（工程学）技能上获得至少11个等级，这些加值将提升到＋2；在你拥有17个知识（工程学）等级时，这些加值提升到＋3.</p><p><strong>特殊</strong>：如果你同时拥有宿敌（构造体）职业能力，你可以使用你对构造体的宿敌加值来代替本专长赋予的加值（如果前者更高）。这些加值无法和其他可以让你将宿敌加值加到防御等级和豁免检定的能力叠加。</p>"
+        },
         "Run": {
             "name": "飞跑 (Run)",
             "description": "<p><em>你是个飞毛腿。</em></p><p><strong>效果</strong>：奔跑时，你移动正常速度的五倍（如果穿着中甲、轻甲或无甲并且没有超过中载）或四倍（如果穿着重甲或重载）。如果你助跑后再跳跃（见特技技能说明），你在特技检定上获得+4加值。奔跑时，你保留敏捷加值到你的AC上。</p><p><strong>通常</strong>：奔跑时，你移动正常速度的四倍（如果穿着中甲、轻甲或无甲并且没有超过中载）或三倍（如果穿着重甲或重载），并且你失去AC上的敏捷加值。</p>"
+        },
+        "Scavenger's Luck": {
+            "name": "拾荒者之幸 (Scavenger's Luck)",
+            "description": "<p><em>你懂得哄老旧的科技乖乖运作。</em></p><p><strong>先决条件</strong>：知识（工程）1级。</p><p><strong>效果</strong>：当你使用一件老旧科技物品的检定结果出现故障时，你可以重骰一次。你必须在决定具体故障之前选择是否重骰，并且必须采用第二次的结果，即使它更糟。你使用老旧科技物品时，掷出天然1不会自动引发故障。</p>"
         },
         "Scorpion Style": {
             "name": "蝎形拳 (Scorpion Style)",
@@ -740,6 +1039,10 @@
         "Self-Sufficient": {
             "name": "自给自足 (Self-Sufficient)",
             "description": "<p><em>你知道如何在野外生存和如何有效的治疗伤口。</em></p><p><strong>效果</strong>：你在医疗和生存技能检定上获得+2加值。如果某技能受训等级10以上，该技能获得的加值提升为+4。</p>"
+        },
+        "Shake It Off": {
+            "name": "摆脱困境 (Shake It Off)",
+            "description": "<p><em>你知道如何协助你的盟友，帮助他们从负面状况中复原。</em></p><p><strong>效果</strong>：当你和拥有此专长的盟友邻接时，每个盟友将提供你+1的豁免加值（最多+4）。</p>"
         },
         "Shatter Defenses": {
             "name": "粉碎防御 (Shatter Defenses)",
@@ -889,6 +1192,10 @@
             "name": "技能专攻 (Skill Focus)",
             "description": "<p><em>选择一项技能。你特别擅长该技能。</em></p><p><strong>效果</strong>：你在所有涉及该技能的检定上获得+3加值。如果你该技能的等级为10或更高，此加值提升为+6。</p><p><strong>特殊</strong>：你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新技能。</p>"
         },
+        "Snatch": {
+            "name": "攫抓 (Snatch)",
+            "description": "<p><em>这个生物可以轻松抓握住另一个生物。</em></p><p><strong>先决条件</strong>：体型超大型以上。</p><p><strong>效果</strong>：生物能以一次爪抓或啮咬攻击展开擒抱战技，如同它具有＜攫抓＞能力。如果目标生物的体型比该生物至少小三个级别，该生物可以每轮通过一个成功的擒抱检定自动对目标造成一个爪抓或啮咬伤害。如果目标生物因为受到啮咬攻击而被擒抱、且攻击生物拥有喷吐武器，那么目标生物无法对此喷吐武器攻击进行反射豁免。生物可以通过一个自由动作丢下被擒抱的生物或者通过一个标准动作将其抛飞。被抛飞的生物会移动“1d6×10尺”距离，并且每被移动10尺就会承受1d6点伤害。如果生物在飞行状态抛出被攫抓的目标，目标承受的伤害为上述伤害与坠落伤害中的较高者。</p>"
+        },
         "Snatch Arrows": {
             "name": "抓取飞箭 (Snatch Arrows)",
             "description": "<p><em>你能够接住半空中的箭支或远程武器，而不是把它震到一旁。</em></p><p><strong>先决条件</strong>：敏捷15，@UUID[Compendium.pf1.feats.Item.ACEQfonKVqh0fwkK]{拨挡飞箭}，精通徒手打击。</p><p><strong>效果</strong>：当使用@UUID[Compendium.pf1.feats.Item.ACEQfonKVqh0fwkK]{拨挡飞箭}专长时你可以选择抓住那武器而不仅仅只是偏转它。投掷武器可以立刻被扔回去，视为对原攻击者的一次攻击（即使不是你的行动轮）或留下来在以后使用。你必须至少空出一只手（不拿任何东西）来使用此专长。</p>"
@@ -912,6 +1219,15 @@
         "Spirited Charge": {
             "name": "奋力冲锋 (Spirited Charge)",
             "description": "<p><em>你的骑乘冲锋攻击能造成大量的伤害。</em></p><p><strong>先决条件</strong>：骑乘1级，@UUID[Compendium.pf1.feats.Item.0spsP9ylE3goD3jc]{骑乘战斗}，@UUID[Compendium.pf1.feats.Item.liPAO5urMI9chctT]{骑乘掠击}。</p><p><strong>效果</strong>：当在骑乘时使用冲锋动作，你使用近战武器造成双倍伤害（持用@UUID[Compendium.pf1.weapons-and-ammo.Item.wuW25pHWYQGW81jL]{长枪}则是三倍）。</p>"
+        },
+        "Spit Venom": {
+            "name": "喷毒 (Spit Venom)",
+            "description": "<p><em>你已经掌握了娜迦裔战士的技巧——将毒素喷入敌人的眼睛。</em></p><p><strong>先决条件</strong>：娜迦裔。</p><p><strong>效果</strong>：以一个整轮动作，你能够用远程接触攻击将毒液喷出10尺远。如果你命中目标，他必须进行一次成功的强韧豁免，否则将会目盲1d6轮。豁免DC等同于“10+1/2总生命骰+体质修正”。每天你能够使用该能力1次，每拥有3个HD时额外再增加1次。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
         },
         "Spring Attack": {
             "name": "跳跃攻击 (Spring Attack)",
@@ -943,6 +1259,15 @@
             "name": "快步跟进 (Step Up)",
             "description": "<p><em>当敌人想移开时你能够跟上去。</em></p><p><strong>先决条件</strong>：基本攻击加值+1。</p><p><strong>效果</strong>：每当一个邻近的敌人试图做一个五尺快步远离你时，你能以直觉动作也做一个五尺快步，只要你结束移动时和触发此能力的敌人相邻。如果你做了此种移动，你下一回合不能做五尺快步。如果你下一回合进行了移动，从你的总移动距离里面减去5尺。</p>"
         },
+        "Step Up and Strike": {
+            "name": "飞步进击 (Step Up and Strike)",
+            "description": "<p><em>当敌人试图移开的时候，你能够追上他并且进行一次攻击。</em></p><p><strong>先决条件</strong>：敏捷13，@UUID[Compendium.pf1.feats.Item.QvfsBWvx7Rfb9Wb7]{咄咄逼人}，@UUID[Compendium.pf1.feats.Item.Mz8ZG6nqW3NKFZhK]{快步跟进}，基本攻击加值+6。</p><p><strong>效果</strong>：当你使用@UUID[Compendium.pf1.feats.Item.QvfsBWvx7Rfb9Wb7]{咄咄逼人}或者@UUID[Compendium.pf1.feats.Item.Mz8ZG6nqW3NKFZhK]{快步跟进}专长跟随邻近的敌人时，你还能以最高的BAB进行单次近战攻击对抗该名敌人。这个攻击被计为你在该轮的一次借机攻击。使用本专长不计入正常每轮能够进行的动作数量。</p><p><strong>通常</strong>：正常情况下你只能进行一次标准动作和一次五尺快步。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
         "Still Spell": {
             "name": "法术定发 (Still Spell)",
             "description": "<p><em>你能够不做动作施展法术。</em></p><p><strong>效果</strong>：法术施展时不需姿势成分。没有姿势成分的法术不受影响。定发法术占用比该法术实际等级高1环的法术位。</p>"
@@ -963,6 +1288,26 @@
         "Stunning Fist": {
             "name": "震慑拳 (Stunning Fist)",
             "description": "<p><em>你知道攻击哪里可以暂时瘫痪一个人的行动。</em></p><p><strong>先决条件</strong>：敏捷13，感知13，@UUID[Compendium.pf1.feats.Item.2aTFNMs3pW6nUBlr]{精通徒手打击}，基本攻击加值+8。</p><p><strong>效果</strong>：你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。震慑拳在正常造成伤害的同时，还会强制受到你徒手打击伤害的敌人进行一次DC为“10+1/2你的角色等级+感知修正”的强韧豁免检定。豁免检定失败的防御者将被震慑1轮（直到你的下一轮开始前）。被震慑的人物会丢下手中所持的一切，不能行动，失去AC上的任何敏捷加值，并且AC承受-2减值。每达到4级，你每天可以尝试一次震慑攻击（见特殊），每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被震慑。</p><p><strong>特殊</strong>：武僧1级时获得“震慑拳”做为奖励专长，即使他不满足所需先决条件。武僧每天可尝试的震慑攻击的次数等同于他的武僧等级，再加上每天每4个非武僧职业等级1次。</p>"
+        },
+        "Swap Places": {
+            "name": "换位 (Swap Places)",
+            "description": "<p><em>你很擅长与盟友在混乱的近战格斗中交换位置。</em></p><p><strong>效果</strong>：每当你邻近一名拥有该专长的盟友，你就能够将移入盟友所在的方格作为正常移动的一部分进行。与此同时，你的盟友会以直觉动作移入你原本的空间。你们两人必须都是自愿这么做，并且能够利用该专长进行移动。你的盟友必须与你体型相同才能利用该专长。你的盟友不会因这次移动而引起借机攻击，但是你会如常引发。这个移动不会计算入盟友的下一轮总移动距离内。</p>"
+        },
+        "Tail Terror": {
+            "name": "惊骇之尾 (Tail Terror)",
+            "description": "<p><em>你的尾巴有足够的力量进行攻击。</em></p><p><strong>先决条件</strong>：基本攻击加值+1，狗头人。</p><p><strong>效果</strong>：你可以使用尾巴进行拍击。这是可以造成1d4钝器伤害的次要天生武器攻击。此外，你可以给你的尾巴添加上狗头人尾部附属武器。并且在选择武器专长时，视为你擅长所有狗头人尾部附属武器。</p>"
+        },
+        "Technologist": {
+            "name": "技师 (Technologist)",
+            "description": "<p><em>你熟悉超科技机械的基本构成和运行原理。</em></p><p><strong>效果</strong>：在技能目标为高科技事物时，你在所有的技能检定上都视为这些技能已受训。如果某项技能即使用于非科技事物也必须受训才能使用，你仍须在该技能上拥有等级，才能获得技师专长的好处。</p><p><strong>通常</strong>：你在解决高科技事物的技能检定时，这些技能视为你未受训——因此，你可能无法进行特定的技能检定，即使你在这些技能上拥有等级。</p><p><strong>注</strong>：民间汉化 CHM 这一条写了先决条件「知识（工程学）1级」，AoN 上没有，照 AoN 删去。这条专长同时见于《钢铁诸神玩家手册》。</p>"
+        },
+        "Technology Adept": {
+            "name": "科技专家 (Technology Adept)",
+            "description": "<p><em>你擅长操作超科技火器。</em></p><p><strong>先决条件</strong>：敏捷13，@UUID[Compendium.pf1.feats.Item.BJBC4lbo7xGWPsKJ]{擅长异种武器}（火器），@UUID[Compendium.pf1.feats.Item.8rsFtye3PwM6CKli]{近距射击}</p><p><strong>效果</strong>：当你使用消耗充能的火器攻击时，这些火器可能造成的效果的豁免DC＋1；如果你受益于近距射击专长的效果，这些加值提升到＋2。</p>"
+        },
+        "Technophobe": {
+            "name": "科技毁灭者 (Technophobe)",
+            "description": "<p><em>你从击毁复杂机械的过程中获得愉悦。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.lpXdFoT6OqS5vi2X]{精通击破}</p><p><strong>效果</strong>：每当你将一个机体生物的生命值降到0或以下，或是摧毁一件敌人使用的科技物品，你就会在相当于你的感知调整值（最小为1）轮的时间内，在属性检定，豁免检定，攻击检定和技能检定上获得＋2士气加值。如果一件科技物品离开敌人的控制一轮内被你摧毁，你也可以获得此加值。</p>"
         },
         "Throw Anything": {
             "name": "随手投掷 (Throw Anything)",
@@ -1035,6 +1380,19 @@
         "Wind Stance": {
             "name": "疾风步 (Wind Stance)",
             "description": "<p><em>你移动时步伐飘忽不定，令敌人难以瞄准你的位置。</em></p><p><strong>先决条件</strong>：敏捷15，@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{闪避}，基本攻击加值+6。</p><p><strong>效果</strong>：若你在本回合移动超过5尺，则你在1轮内针对远程攻击获得20％隐蔽。</p>"
+        },
+        "Wingover": {
+            "name": "侧滑飞行 (Wingover)",
+            "description": "<p><em>这个生物可以在飞行的时候急转弯。</em></p><p><strong>先决条件</strong>：拥有飞行速度。</p><p><strong>效果</strong>：每轮1次，拥有此专长的生物能以一个自由动作，在飞行时做至多180度急转弯而无需进行飞行技能检定，这次转向不需要消耗该生物的任何移动。</p><p><strong>通常</strong>：一个飞行生物如果要在飞行时进行至多90度转弯，它需要进行一个DC15的飞行检定且消耗5尺移动。如果要进行至多180度转弯，生物需要进行一个DC20的飞行检定且消耗10尺移动。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Wrest Charge": {
+            "name": "榨取能量 (Wrest Charge)",
+            "description": "<p><em>即使是废弃的能量容器对你来说也有回收价值。</em></p><p><strong>先决条件</strong>：解除装置5级，知识（工程学）5级</p><p><strong>效果</strong>：通过一个成功的DC20的解除装置检定，你可以将一具枯竭（但没有被摧毁）的电池中剩余的能量抽取出来，它可以提供额外1点充能。使用这点充能，或者你在技能检定上失败且结果比DC低5点或更多，都会使这具电池永久性枯竭。你也可以尝试同样的技能检定，为一件已耗尽能量的老旧科技物品再添最后1点充能。无论结果如何，之后都不能再对它进行此类尝试，即使是另一个人也不行。榨取能量的过程持续1分钟，你也可以以一个移动动作来尝试榨取，但在技能检定上承受－10减值。本专长不能与科技枪手的回收充能勇毅动作叠加。</p>"
         }
     }
 }

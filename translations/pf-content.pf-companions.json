@@ -1,0 +1,4463 @@
+{
+    "label": "动物伙伴",
+    "entries": {
+        "Allosaurus": {
+            "name": "异龙 (Allosaurus)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "异龙"
+        },
+        "Amargasaurus (Dinosaur)": {
+            "name": "阿马加龙 (Amargasaurus (Dinosaur))",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "阿马加龙"
+        },
+        "Anglerfish": {
+            "items": {
+                "Bite (plus Grab)": {
+                    "name": "啮咬 (Bite (plus Grab))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "name": "鮟鱇 (Anglerfish)"
+        },
+        "Ankylosaurus": {
+            "name": "甲龙 (Ankylosaurus)",
+            "items": {
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "甲龙"
+        },
+        "Antelope": {
+            "name": "羚羊 (Antelope)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "羚羊"
+        },
+        "Archaeopteryx": {
+            "name": "始祖鸟 (Archaeopteryx)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "始祖鸟"
+        },
+        "Archelon": {
+            "name": "古巨龟 (Archelon)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "古巨龟"
+        },
+        "Armorfish": {
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "盾皮鱼 (Armorfish)"
+        },
+        "Arsinoitherium": {
+            "name": "重脚兽 (Arsinoitherium)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "重脚兽"
+        },
+        "Aurochs": {
+            "name": "原牛 (Aurochs)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "原牛"
+        },
+        "Axe Beak": {
+            "name": "斧嘴鸟 (Axe Beak)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "斧嘴鸟"
+        },
+        "Baboon": {
+            "name": "狒狒 (Baboon)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "狒狒"
+        },
+        "Bacallia": {
+            "name": "彩羊驼 (Bacallia)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "彩羊驼"
+        },
+        "Baluchitherium": {
+            "name": "俾路支兽 (Baluchitherium)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "俾路支兽"
+        },
+        "Basilosaurus": {
+            "name": "龙王鲸 (Basilosaurus)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "龙王鲸"
+        },
+        "Blackwisp Egret": {
+            "name": "黑嘴白鹭 (Blackwisp Egret)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "黑嘴白鹭"
+        },
+        "Blue Whale": {
+            "name": "蓝鲸 (Blue Whale)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "蓝鲸"
+        },
+        "Boar": {
+            "name": "野猪 (Boar)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "野猪"
+        },
+        "Brachiosaurus": {
+            "name": "腕龙 (Brachiosaurus)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                }
+            },
+            "tokenName": "腕龙"
+        },
+        "Bristle Boar": {
+            "name": "鬃毛野猪 (Bristle Boar)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "鬃毛野猪"
+        },
+        "Brontotherium (Megafauna)": {
+            "name": "雷兽 (Brontotherium (Megafauna))",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "雷兽"
+        },
+        "Bull of Zagresh": {
+            "name": "扎格雷什公牛 (Bull of Zagresh)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "扎格雷什公牛"
+        },
+        "Bustard": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "鸨 (Bustard)"
+        },
+        "Camel": {
+            "name": "骆驼 (Camel)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "骆驼"
+        },
+        "Cameroceras": {
+            "name": "房角石 (Cameroceras)",
+            "items": {
+                "Tentacles (plus Grab)": {
+                    "name": "畸变触须 (Tentacles (plus Grab))"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "房角石"
+        },
+        "Capybara": {
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "水豚 (Capybara)"
+        },
+        "Ceratosaurus (Dinosaur)": {
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "角鼻龙 (Ceratosaurus (Dinosaur))"
+        },
+        "Chalicotherium (Megafauna)": {
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "爪兽 (Chalicotherium (Megafauna))"
+        },
+        "Cheetah": {
+            "name": "猎豹 (Cheetah)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite (plus trip)": {
+                    "name": "啮咬 (Bite (plus trip))"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "猎豹"
+        },
+        "Chimpanzee": {
+            "items": {
+                "Slam (plus grab)": {
+                    "name": "挥击 (Slam (plus grab))"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "黑猩猩 (Chimpanzee)"
+        },
+        "Corpse-Eater Fungus": {
+            "name": "食腐真菌 (Corpse-Eater Fungus)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "食腐真菌"
+        },
+        "Cow": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "家牛 (Cow)"
+        },
+        "Creeping Puffball": {
+            "name": "喷孢爬球 (Creeping Puffball)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "喷孢爬球"
+        },
+        "Crocodile": {
+            "name": "鳄鱼 (Crocodile)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "鳄鱼"
+        },
+        "Dallo": {
+            "name": "达洛 (Dallo)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "达洛"
+        },
+        "Deinonychus": {
+            "name": "恐爪龙 (Deinonychus)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "恐爪龙"
+        },
+        "Deinotherium (Megafauna)": {
+            "name": "恐象 (Deinotherium (Megafauna))",
+            "items": {
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "恐象"
+        },
+        "Devil Monkey": {
+            "name": "魔猿 (Devil Monkey)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "魔猿"
+        },
+        "Digmaul": {
+            "name": "钉锤猞猁 (Digmaul)",
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "钉锤猞猁"
+        },
+        "Dimetrodon": {
+            "name": "帆龙 (Dimetrodon)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "帆龙"
+        },
+        "Dimorphodon": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "name": "双型齿翼龙 (Dimorphodon)"
+        },
+        "Diplodocus": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "梁龙 (Diplodocus)"
+        },
+        "Dire Bat": {
+            "name": "凶暴蝙蝠 (Dire Bat)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "凶暴蝙蝠"
+        },
+        "Dire Polar Bear": {
+            "name": "凶暴北极熊 (Dire Polar Bear)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "凶暴北极熊"
+        },
+        "Dire Rat": {
+            "name": "凶暴鼠 (Dire Rat)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "凶暴鼠"
+        },
+        "Dog": {
+            "name": "犬 (Dog)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "犬"
+        },
+        "Dolphin": {
+            "name": "海豚 (Dolphin)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "海豚"
+        },
+        "Dolphin, Orca": {
+            "name": "虎鲸 (Dolphin, Orca)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "虎鲸"
+        },
+        "Dunkleosteus": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "邓氏鱼 (Dunkleosteus)"
+        },
+        "Eagle": {
+            "name": "鹰 (Eagle)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "鹰"
+        },
+        "Elasmosaurus": {
+            "name": "薄片龙 (Elasmosaurus)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "薄片龙"
+        },
+        "Elasmotherium (Megafauna)": {
+            "items": {
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "板齿犀 (Elasmotherium (Megafauna))"
+        },
+        "Electric Eel": {
+            "name": "电鳗 (Electric Eel)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "电鳗"
+        },
+        "Elephant": {
+            "name": "象 (Elephant)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "象"
+        },
+        "Elk": {
+            "name": "麋鹿 (Elk)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "麋鹿"
+        },
+        "Embolotherium": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "大角雷兽 (Embolotherium)"
+        },
+        "Enchanter Heron": {
+            "name": "惑人苍鹭 (Enchanter Heron)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "惑人苍鹭"
+        },
+        "Eohippus": {
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "始祖马 (Eohippus)"
+        },
+        "Eurypterid": {
+            "name": "广翅鲎 (Eurypterid)",
+            "items": {
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "广翅鲎"
+        },
+        "Faerie Mount": {
+            "name": "妖精犬 (Faerie Mount)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "妖精犬"
+        },
+        "Falcon": {
+            "name": "猎鹰 (Falcon)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "猎鹰"
+        },
+        "Frog Father": {
+            "name": "蛙父 (Frog Father)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "蛙父"
+        },
+        "Gallerok": {
+            "name": "加勒洛克 (Gallerok)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "加勒洛克"
+        },
+        "Gar": {
+            "name": "雀鳝 (Gar)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "雀鳝"
+        },
+        "Giant Ant": {
+            "name": "巨蚁 (Giant Ant)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite (plus Grab)": {
+                    "name": "啮咬 (Bite (plus Grab))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "巨蚁"
+        },
+        "Giant Assassin Bug": {
+            "name": "巨猎蝽 (Giant Assassin Bug)",
+            "items": {
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "巨猎蝽"
+        },
+        "Giant Beetle": {
+            "items": {
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "巨甲虫 (Giant Beetle)"
+        },
+        "Giant Caterpillar": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "巨毛虫 (Giant Caterpillar)"
+        },
+        "Giant Centipede": {
+            "name": "巨蜈蚣 (Giant Centipede)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "巨蜈蚣"
+        },
+        "Giant Chameleon": {
+            "name": "巨变色龙 (Giant Chameleon)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "巨变色龙"
+        },
+        "Giant Cockroach": {
+            "name": "巨蟑螂 (Giant Cockroach)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                }
+            },
+            "tokenName": "巨蟑螂"
+        },
+        "Giant Crab": {
+            "name": "巨蟹 (Giant Crab)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "巨蟹"
+        },
+        "Giant Dragonfly": {
+            "name": "巨蜻蜓 (Giant Dragonfly)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "巨蜻蜓"
+        },
+        "Giant Frilled Lizard": {
+            "name": "巨伞蜥 (Giant Frilled Lizard)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "巨伞蜥"
+        },
+        "Giant Frog": {
+            "name": "巨蛙 (Giant Frog)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "巨蛙"
+        },
+        "Giant Gecko": {
+            "name": "巨壁虎 (Giant Gecko)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "巨壁虎"
+        },
+        "Giant Leech": {
+            "name": "巨水蛭 (Giant Leech)",
+            "items": {
+                "Bite (plus attach)": {
+                    "name": "啮咬 (Bite (plus attach))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                }
+            },
+            "tokenName": "巨水蛭"
+        },
+        "Giant Locust": {
+            "name": "巨蝗虫 (Giant Locust)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "巨蝗虫"
+        },
+        "Giant Mantis": {
+            "name": "巨螳螂 (Giant Mantis)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Claws (plus grab)": {
+                    "name": "爪抓 (Claws (plus grab))"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                }
+            },
+            "tokenName": "巨螳螂"
+        },
+        "Giant Mantis Shrimp": {
+            "name": "巨螳螂虾 (Giant Mantis Shrimp)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Pincers": {
+                    "name": "螯夹 (Pincers)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "巨螳螂虾"
+        },
+        "Giant Mole": {
+            "items": {
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "巨鼹鼠 (Giant Mole)"
+        },
+        "Giant Moray Eel": {
+            "name": "巨海鳗 (Giant Moray Eel)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "巨海鳗"
+        },
+        "Giant Mosquito": {
+            "name": "巨蚊 (Giant Mosquito)",
+            "items": {
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite (plus bleed and grab)": {
+                    "name": "啮咬 (Bite (plus bleed and grab))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "巨蚊"
+        },
+        "Giant Owl": {
+            "name": "巨枭 (Giant Owl)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "巨枭"
+        },
+        "Giant Porcupine": {
+            "name": "巨豪猪 (Giant Porcupine)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "巨豪猪"
+        },
+        "Giant Raven": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "巨渡鸦 (Giant Raven)"
+        },
+        "Giant Salamander": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "巨蝾螈 (Giant Salamander)"
+        },
+        "Giant Scorpion": {
+            "name": "巨蝎 (Giant Scorpion)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                },
+                "Claws (plus grab)": {
+                    "name": "爪抓 (Claws (plus grab))"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "巨蝎"
+        },
+        "Giant Seahorse": {
+            "name": "巨海马 (Giant Seahorse)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "巨海马"
+        },
+        "Giant Skunk": {
+            "name": "巨臭鼬 (Giant Skunk)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "巨臭鼬"
+        },
+        "Giant Slug": {
+            "name": "巨蛞蝓 (Giant Slug)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "巨蛞蝓"
+        },
+        "Giant Snapping Turtle": {
+            "name": "巨鹰嘴龟 (Giant Snapping Turtle)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "巨鹰嘴龟"
+        },
+        "Giant Solifugid": {
+            "name": "巨避日蛛 (Giant Solifugid)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "巨避日蛛"
+        },
+        "Giant Spider": {
+            "name": "巨蜘蛛 (Giant Spider)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                }
+            },
+            "tokenName": "巨蜘蛛"
+        },
+        "Giant Squid": {
+            "name": "巨乌贼 (Giant Squid)",
+            "items": {
+                "Tentacles (plus Grab)": {
+                    "name": "畸变触须 (Tentacles (plus Grab))"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "巨乌贼"
+        },
+        "Giant Termite": {
+            "name": "巨白蚁 (Giant Termite)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "巨白蚁"
+        },
+        "Giant Tortoise": {
+            "name": "巨陆龟 (Giant Tortoise)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "巨陆龟"
+        },
+        "Giant Vulture": {
+            "name": "巨秃鹫 (Giant Vulture)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "巨秃鹫"
+        },
+        "Giant Wasp": {
+            "name": "巨黄蜂 (Giant Wasp)",
+            "items": {
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "巨黄蜂"
+        },
+        "Giant Weasel": {
+            "name": "巨黄鼠狼 (Giant Weasel)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "巨黄鼠狼"
+        },
+        "Giant Whiptail Centipede": {
+            "name": "巨鞭尾蜈蚣 (Giant Whiptail Centipede)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "巨鞭尾蜈蚣"
+        },
+        "Giganotosaurus (Dinosaur)": {
+            "name": "南方巨兽龙 (Giganotosaurus (Dinosaur))",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "南方巨兽龙"
+        },
+        "Giraffe": {
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "name": "长颈鹿 (Giraffe)"
+        },
+        "Gliding Turtle": {
+            "name": "滑翔龟 (Gliding Turtle)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "滑翔龟"
+        },
+        "Goblin Dog": {
+            "name": "地精犬 (Goblin Dog)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "地精犬"
+        },
+        "Goliath Grog": {
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            }
+        },
+        "Gorilla": {
+            "name": "大猩猩 (Gorilla)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "大猩猩"
+        },
+        "Gorthek": {
+            "name": "戈斯兽 (Gorthek)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "戈斯兽"
+        },
+        "Griffon": {
+            "name": "狮鹫 (Griffon)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Magical Beast": {
+                    "name": "魔法兽 (Magical Beast)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "狮鹫"
+        },
+        "Grizzly Bear": {
+            "name": "灰熊 (Grizzly Bear)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "灰熊"
+        },
+        "Gulper Plant": {
+            "name": "植物吞咽者 (Gulper Plant)",
+            "items": {
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "植物吞咽者"
+        },
+        "Gylptodon": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "雕齿兽 (Gylptodon)"
+        },
+        "Hammerhead Shark": {
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "name": "锤头鲨 (Hammerhead Shark)"
+        },
+        "Hippocampus": {
+            "name": "水马 (Hippocampus)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Magical Beast": {
+                    "name": "魔法兽 (Magical Beast)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "水马"
+        },
+        "Hippogriff": {
+            "name": "鹫马 (Hippogriff)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Magical Beast": {
+                    "name": "魔法兽 (Magical Beast)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "鹫马"
+        },
+        "Hippopotamus": {
+            "name": "河马 (Hippopotamus)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "河马"
+        },
+        "Hobbe Hound": {
+            "name": "大地精犬 (Hobbe Hound)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "大地精犬"
+        },
+        "Horse": {
+            "name": "马 (Horse)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "马"
+        },
+        "Hunting Cactus": {
+            "name": "猎人掌 (Hunting Cactus)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                }
+            },
+            "tokenName": "猎人掌"
+        },
+        "Hyenas": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "鬣狗 (Hyenas)"
+        },
+        "Iguanodon": {
+            "name": "禽龙 (Iguanodon)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "禽龙"
+        },
+        "Impaler Shrike": {
+            "name": "穿刺伯劳 (Impaler Shrike)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "穿刺伯劳"
+        },
+        "Kangaroo": {
+            "name": "袋鼠 (Kangaroo)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "袋鼠"
+        },
+        "Kaprosuchus (Megafauna)": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "野猪鳄 (Kaprosuchus (Megafauna))"
+        },
+        "Kentrosaurus (Dinosaur)": {
+            "name": "钉状龙 (Kentrosaurus (Dinosaur))",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "钉状龙"
+        },
+        "Lion": {
+            "name": "狮子 (Lion)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "狮子"
+        },
+        "Llama": {
+            "name": "羊驼 (Llama)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "羊驼"
+        },
+        "Manta Ray": {
+            "name": "蝠鲼 (Manta Ray)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "蝠鲼"
+        },
+        "Marax": {
+            "name": "玛拉克斯 (Marax)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "玛拉克斯"
+        },
+        "Marsupial Devil": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "袋獾 (Marsupial Devil)"
+        },
+        "Marsupial Lion": {
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "name": "袋狮 (Marsupial Lion)"
+        },
+        "Megalania": {
+            "name": "古巨蜥 (Megalania)",
+            "items": {
+                "Bite (plus Grab)": {
+                    "name": "啮咬 (Bite (plus Grab))"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "古巨蜥"
+        },
+        "Megaloceros": {
+            "name": "大角鹿 (Megaloceros)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "大角鹿"
+        },
+        "Megaprimatus (Ape)": {
+            "name": "大金刚 (Megaprimatus (Ape))",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "大金刚"
+        },
+        "Megatherium": {
+            "name": "大地獭 (Megatherium)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "大地獭"
+        },
+        "Mindspin Ram": {
+            "name": "旋心山公羊 (Mindspin Ram)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "旋心山公羊"
+        },
+        "Moa (Megafauna)": {
+            "name": "摩亚鸟 (Moa (Megafauna))",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "摩亚鸟"
+        },
+        "Mokele-Mbembe": {
+            "name": "河霸龙 (Mokele-Mbembe)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "河霸龙"
+        },
+        "Mome Rath": {
+            "name": "莫姆拉斯 (Mome Rath)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "莫姆拉斯"
+        },
+        "Monitor Lizard": {
+            "name": "王蜥 (Monitor Lizard)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite (plus Grab)": {
+                    "name": "啮咬 (Bite (plus Grab))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "王蜥"
+        },
+        "Moose": {
+            "name": "驼鹿 (Moose)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "驼鹿"
+        },
+        "Narwhal": {
+            "name": "一角鲸 (Narwhal)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "一角鲸"
+        },
+        "Octopus": {
+            "name": "章鱼 (Octopus)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Tentacles (plus Grab)": {
+                    "name": "畸变触须 (Tentacles (plus Grab))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "章鱼"
+        },
+        "Ornithomimosaur": {
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "似鸟龙 (Ornithomimosaur)"
+        },
+        "Ostrich": {
+            "name": "鸵鸟 (Ostrich)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "鸵鸟"
+        },
+        "Pachycephalosaurus": {
+            "name": "肿头龙 (Pachycephalosaurus)",
+            "items": {
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "肿头龙"
+        },
+        "Panda": {
+            "name": "熊猫 (Panda)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "熊猫"
+        },
+        "Parasaurolophus": {
+            "name": "副栉龙 (Parasaurolophus)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "副栉龙"
+        },
+        "Pilo": {
+            "name": "皮洛 (Pilo)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "皮洛"
+        },
+        "Plesiosaurus (Dinosaur)": {
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "name": "蛇颈龙 (Plesiosaurus (Dinosaur))"
+        },
+        "Polar Bear": {
+            "name": "北极熊 (Polar Bear)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "北极熊"
+        },
+        "Pony": {
+            "items": {
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "矮种马 (Pony)"
+        },
+        "Prionosuchus": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite (plus Grab)": {
+                    "name": "啮咬 (Bite (plus Grab))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "name": "锯齿螈 (Prionosuchus)"
+        },
+        "Pteranodon": {
+            "name": "翼龙 (Pteranodon)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "翼龙"
+        },
+        "Quetzalcoatlus (Dinosaur)": {
+            "name": "风神翼龙 (Quetzalcoatlus (Dinosaur))",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "风神翼龙"
+        },
+        "Ram": {
+            "name": "公羊 (Ram)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "公羊"
+        },
+        "Rash Creeper": {
+            "name": "疹爬蔓 (Rash Creeper)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "疹爬蔓"
+        },
+        "Reef Snake": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "name": "礁蛇 (Reef Snake)"
+        },
+        "Reindeer": {
+            "name": "驯鹿 (Reindeer)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "驯鹿"
+        },
+        "Rhinoceros": {
+            "name": "犀牛 (Rhinoceros)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "犀牛"
+        },
+        "Ringhorn": {
+            "name": "环角鹿 (Ringhorn)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "环角鹿"
+        },
+        "Roc": {
+            "name": "大鹏 (Roc)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "大鹏"
+        },
+        "Saber-Toothed Cat": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "剑齿猫 (Saber-Toothed Cat)"
+        },
+        "Sea Crawler": {
+            "name": "海爬兽 (Sea Crawler)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Tentacles": {
+                    "name": "畸变触须 (Tentacles)"
+                }
+            },
+            "tokenName": "海爬兽"
+        },
+        "Shark": {
+            "name": "鲨鱼 (Shark)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "鲨鱼"
+        },
+        "Shissah": {
+            "name": "沙漠骏马 (Shissah)",
+            "items": {
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "沙漠骏马"
+        },
+        "Skittergoat": {
+            "name": "蹿跳山羊 (Skittergoat)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "蹿跳山羊"
+        },
+        "Slithering Sundew": {
+            "name": "滑行捕虫草 (Slithering Sundew)",
+            "items": {
+                "Slam": {
+                    "name": "挥击 (Slam)"
+                },
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "滑行捕虫草"
+        },
+        "Snake, Constrictor": {
+            "name": "大蟒 (Snake, Constrictor)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "大蟒"
+        },
+        "Snake, Viper": {
+            "name": "蝮蛇 (Snake, Viper)",
+            "items": {
+                "Scent": {
+                    "name": "灵敏嗅觉 (Scent)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite (plus poison)": {
+                    "name": "啮咬 (Bite (plus poison))"
+                }
+            },
+            "tokenName": "蝮蛇"
+        },
+        "Snapping Flytrap": {
+            "name": "咬蝇草 (Snapping Flytrap)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "咬蝇草"
+        },
+        "Sniper Cactus": {
+            "name": "狙人掌 (Sniper Cactus)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Plant": {
+                    "name": "植物 (Plant)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "狙人掌"
+        },
+        "Sorico": {
+            "name": "索里科 (Sorico)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "索里科"
+        },
+        "Spinosaurus": {
+            "name": "棘龙 (Spinosaurus)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "棘龙"
+        },
+        "Spitting Cobra": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "name": "射毒眼镜蛇 (Spitting Cobra)"
+        },
+        "Squid": {
+            "name": "乌贼 (Squid)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal": {
+                    "name": "动物 (Animal)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Tentacles (plus Grab)": {
+                    "name": "畸变触须 (Tentacles (plus Grab))"
+                }
+            },
+            "tokenName": "乌贼"
+        },
+        "Stag": {
+            "name": "牡鹿 (Stag)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "牡鹿"
+        },
+        "Stegosaurus": {
+            "name": "剑龙 (Stegosaurus)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Tail": {
+                    "name": "尾巴 (Tail)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "剑龙"
+        },
+        "Stingray": {
+            "name": "魟鱼 (Stingray)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Sting": {
+                    "name": "尾刺 (Sting)"
+                }
+            },
+            "tokenName": "魟鱼"
+        },
+        "Styracosaurus": {
+            "name": "戟龙 (Styracosaurus)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "戟龙"
+        },
+        "Switchback Jackal": {
+            "name": "折返胡狼 (Switchback Jackal)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "折返胡狼"
+        },
+        "Therizinosaurus (Dinosaur)": {
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "镰刀龙 (Therizinosaurus (Dinosaur))"
+        },
+        "Thylacine": {
+            "name": "袋狼 (Thylacine)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "袋狼"
+        },
+        "Titanoboa (Megafauna)": {
+            "name": "泰坦巨蟒 (Titanoboa (Megafauna))",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "泰坦巨蟒"
+        },
+        "Triceratops": {
+            "name": "三角龙 (Triceratops)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "三角龙"
+        },
+        "Troodon (Dinosaur)": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "伤齿龙 (Troodon (Dinosaur))"
+        },
+        "Trumpeter Swan": {
+            "name": "号手天鹅 (Trumpeter Swan)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Wings": {
+                    "name": "翅膀 (Wings)"
+                }
+            },
+            "tokenName": "号手天鹅"
+        },
+        "Tylosaurus": {
+            "name": "海王龙 (Tylosaurus)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "海王龙"
+        },
+        "Tyrannosaurus": {
+            "name": "暴龙 (Tyrannosaurus)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "暴龙"
+        },
+        "Uintatherium (Megafauna)": {
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "name": "犹因他兽 (Uintatherium (Megafauna))"
+        },
+        "Velociraptor": {
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "name": "迅猛龙 (Velociraptor)"
+        },
+        "Walrus": {
+            "name": "海象 (Walrus)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "海象"
+        },
+        "Warcat of Rull": {
+            "name": "鲁尔战猫 (Warcat of Rull)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "tokenName": "鲁尔战猫"
+        },
+        "Web Tyrant Spider": {
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Vermin": {
+                    "name": "虫类 (Vermin)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "蛛网暴君 (Web Tyrant Spider)"
+        },
+        "Whisperfall Vulture": {
+            "name": "低语瀑秃鹫 (Whisperfall Vulture)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                }
+            },
+            "tokenName": "低语瀑秃鹫"
+        },
+        "Wolf": {
+            "name": "狼 (Wolf)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "tokenName": "狼"
+        },
+        "Wolfdog": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            },
+            "name": "狼狗 (Wolfdog)"
+        },
+        "Wolliped": {
+            "name": "沃力派 (Wolliped)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "沃力派"
+        },
+        "Wolliped (Combat Trained)": {
+            "name": "沃力派 (Wolliped (Combat Trained))",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "沃力派"
+        },
+        "Wolverine": {
+            "name": "狼獾 (Wolverine)",
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Claws": {
+                    "name": "爪抓 (Claws)"
+                }
+            },
+            "tokenName": "狼獾"
+        },
+        "Worg": {
+            "name": "座狼 (Worg)",
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Magical Beast": {
+                    "name": "魔法兽 (Magical Beast)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "座狼"
+        },
+        "Yak": {
+            "name": "牦牛 (Yak)",
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                }
+            },
+            "tokenName": "牦牛"
+        },
+        "Yolubilis Heron": {
+            "name": "约卢比利斯苍鹭 (Yolubilis Heron)",
+            "items": {
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                }
+            },
+            "tokenName": "约卢比利斯苍鹭"
+        },
+        "Yzobu": {
+            "name": "牦角马 (Yzobu)",
+            "items": {
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Gore": {
+                    "name": "抵撞 (Gore)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                }
+            },
+            "tokenName": "牦角马"
+        },
+        "Zebra": {
+            "items": {
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bonus Tricks": {
+                    "name": "奖励技巧 (Bonus Tricks)"
+                },
+                "Animal Companion": {
+                    "name": "动物伙伴 (Animal Companion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Hooves": {
+                    "name": "蹄踢 (Hooves)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                }
+            },
+            "name": "斑马 (Zebra)"
+        }
+    }
+}

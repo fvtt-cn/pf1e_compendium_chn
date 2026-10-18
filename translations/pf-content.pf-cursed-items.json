@@ -1,0 +1,337 @@
+{
+    "label": "诅咒物品",
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        },
+        "auraSchool": "system.aura.school"
+    },
+    "entries": {
+        "-2 Cursed Sword": {
+            "name": "-2诅咒长剑 (-2 Cursed Sword)",
+            "description": "<p><strong>灵光</strong> 强烈塑能系；<strong>施法者等级</strong> 15；<strong>部位</strong> 无；<strong>重量</strong> 4磅</p><p>用来练习时，这把@UUID[Compendium.pf1.weapons-and-ammo.Item.zWRlna42PMJVX6un]{长剑}对付靶子表现不错，但在战斗中使用时，持有者的攻击检定承受-2减值。它造成的所有伤害也减少2点，但每次成功命中至少造成1点伤害。</p><p>这把剑总是迫使持有者使用它，而不是别的武器：即使持有者本打算拔出或准备别的武器，也会自动拔出这把剑并用它战斗。</p><h3>制作</h3><p><strong>需求</strong> +2长剑，或任意魔法武器</p>"
+        },
+        "Amulet of Inescapable Location": {
+            "name": "无处藏身护符 (Amulet of Inescapable Location)",
+            "description": "<p><strong>灵光</strong> 中等防护系；<strong>施法者等级</strong> 10；<strong>部位</strong> 颈部；<strong>重量</strong> 1/2磅</p><p>这件器物看起来能够像回避侦测护符那样，防止佩戴者被定位、探知和侦测，或受到@UUID[Compendium.pf1.spells.Item.xllxylvvqr82o2d5]{侦测思想}、@UUID[Compendium.pf1.spells.Item.lovx4kiq18gbvg4e]{心灵感应}的影响。实际上，这枚护符使佩戴者在对抗所有预言系法术的豁免上承受-10减值。</p><h3>制作</h3><p><strong>需求</strong> 回避侦测护符</p>"
+        },
+        "Armor of Arrow Attraction": {
+            "name": "箭靶护甲 (Armor of Arrow Attraction)",
+            "description": "<p><strong>灵光</strong> 强烈防护系；<strong>施法者等级</strong> 16；<strong>部位</strong> 护甲；<strong>重量</strong> 50磅</p><p>魔法分析显示，这套护甲是一套普通的+3全身甲。它在面对近战攻击时表现正常，但实际上会吸引远程武器：穿戴者在对抗远程武器时AC承受-15减值。直到穿戴者真正遭到射击，这套护甲的真面目才会显露。</p><h3>制作</h3><p><strong>需求</strong> +3全身甲</p>"
+        },
+        "Armor of Rage": {
+            "name": "暴怒护甲 (Armor of Rage)",
+            "description": "<p><strong>灵光</strong> 强烈死灵系；<strong>施法者等级</strong> 16；<strong>部位</strong> 护甲；<strong>重量</strong> 50磅</p><p>这套护甲的外观与命令胸甲相似，功能相当于+1胸甲。但穿上它之后，穿戴者的魅力值承受-4减值。300尺内所有不友善的生物，在对她发动的攻击检定上获得+1士气加值。穿戴者和受影响的生物都察觉不到这一效果；换言之，穿戴者不会立刻意识到麻烦是穿上护甲引起的，敌人也不明白自己为何对她怀有如此深的敌意。</p><h3>制作</h3><p><strong>需求</strong> 命令胸甲、+1胸甲</p>"
+        },
+        "Arrowbreak Bow": {
+            "name": "损箭弓 (Arrowbreak Bow)",
+            "description": "<p><strong>灵光</strong> 中等塑能系；<strong>施法者等级</strong> 6；<strong>部位</strong> 无；<strong>重量</strong> 2磅</p><p>这把@UUID[Compendium.pf1.weapons-and-ammo.Item.Ata6ajiY9wuAnBLB]{短弓}做工精美，镶嵌着虹彩图案，看起来是一把+2短弓。然而，它射出箭矢时力量大得惊人，无论命中还是落空，箭矢必定折断。这把弓必须作为持有者的主要远程武器使用，只有持有者受到@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}或类似效果之后才能丢弃。</p><h3>制作</h3><p><strong>需求</strong> +2短弓</p>"
+        },
+        "Bag of Devouring": {
+            "name": "吞噬袋 (Bag of Devouring)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系；<strong>施法者等级</strong> 17；<strong>部位</strong> 无；<strong>重量</strong> 15磅</p><p>这个袋子看上去就是一只普通的口袋。以魔法侦测它时，它会显得像是一个@UUID[Compendium.pf1.items.Item.At9EUYmQrLCwIDKg]{次元袋}。然而，这只口袋完全是另一回事，而且阴险得多——它是某种异次元生物的进食口之一。</p><p>任何动物或植物性质的物质被塞进袋内，都有可能被“吞没”。吞噬袋有90%的几率无视最初的任何侵入，但此后一旦它察觉到袋内有活的血肉（比如有人把手伸进袋里想取东西），就有60%的几率合拢包住那只冒犯的肢体，并试图把整个受害者拖进去。袋子在为擒抱而进行的战技检定上有+8加值。如果它压制住了某个生物，就以自由动作把受害者拖进袋内。试图挣脱的生物要对抗袋子的CMD，其值为18。</p><p>袋内最多可容纳30立方尺的物质。它的作用相当于I型次元袋，但每过1小时，它就有累积5%的几率吞没袋内的全部内容物，并把它们吐到某个虚无空间或另一个位面。被拖入袋内的生物会在1轮内被消化掉。袋子会毁掉受害者的身体，并使任何需要用到部分尸体的复活手段都无法生效。@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}、@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}或@UUID[Compendium.pf1.spells.Item.mxqi375ya2rka7cp]{完全复生术}有50%的几率使被吞噬的受害者复生；每个被毁灭的生物检定一次。如果检定失败，该生物就无法再被凡间的魔法复活。</p><h3>制作</h3><p><strong>需求</strong> 次元袋（任意类型）</p>"
+        },
+        "Berserking Sword": {
+            "name": "狂暴巨剑 (Berserking Sword)",
+            "description": "<p><strong>灵光</strong> 中等塑能系；<strong>施法者等级</strong> 8；<strong>部位</strong> 无；<strong>重量</strong> 8磅</p><p>这把剑看起来是一把+2巨剑。然而，只要在战斗中使用它，持有者就会陷入狂暴（获得野蛮人狂暴能力的全部益处和弊端）。他会攻击离自己最近的生物，并持续战斗，直到昏迷或死亡，或者30尺内不再有任何活物。虽然许多人认为这把剑是被诅咒的物品，但也有人视它为一份恩赐。</p><h3>制作</h3><p><strong>需求</strong> +2巨剑，或任意魔法武器</p>"
+        },
+        "Biting Battleaxe": {
+            "name": "撕咬战斧 (Biting Battleaxe)",
+            "description": "<p><strong>灵光</strong> 中等塑能系；<strong>施法者等级</strong> 8；<strong>部位</strong> 无；<strong>重量</strong> 6磅</p><p>这把看起来凶残的+2战斧赐予持有者大顺势斩专长。但使用该专长时，持有者是对一个随机的相邻生物进行额外攻击，而不是自行选择攻击哪个生物。在判定攻击哪个生物时，持有者始终把自己也算作可能的目标，即使他与目标并不相邻。撕咬战斧的持有者必须始终以它作为主要武器，并且必须一有机会就使用大顺势斩，直到受到@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}或类似效果为止。</p><h3>制作</h3><p><strong>需求</strong> +2战斧</p>"
+        },
+        "Book of Perilous Journeys": {
+            "name": "险途之书 (Book of Perilous Journeys)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系；<strong>施法者等级</strong> 13；<strong>部位</strong> 无；<strong>重量</strong> 1/2磅</p><p>这本皮面书看上去像一本被潮气毁坏了一部分的日志。尚能辨读的书页详细记述了三起暴力事件，这些事件显然发生在作者穿越某片未知土地的旅途中。这本书有多个版本，每个版本描述的是穿越一种不同地形的凶险旅程，对应《怪物图鉴》第324页的遭遇表。</p><p>阅读三段记述中的任何一段都会触发诅咒，此后读者会被迫不惜一切代价保护这本书，并在接下来的2天里偷偷读完另外两段记述。持有者每天读完一段记述，当晚就会有与该书地形相符的怪物类型来袭。具体是什么怪物，通过在相应的遭遇表上掷骰决定。如果当时的天气与日志所述气候的典型天气大相径庭，通常会有一场骤变的天气预示怪物的到来（如同@UUID[Compendium.pf1.spells.Item.578t0lra5ll3aifs]{操控天气}）。</p><p>三次袭击结束之后，这本书会神秘地消失，诅咒随之解除。然而，这本书稍后会在某个随机地点重新出现。</p><h3>制作</h3><p><strong>需求</strong> 怪物年鉴（见第221页）</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Boots of Dancing": {
+            "name": "舞动靴 (Boots of Dancing)",
+            "description": "<p><strong>灵光</strong> 强烈惑控系；<strong>施法者等级</strong> 16；<strong>部位</strong> 脚部；<strong>重量</strong> 1磅</p><p>这双靴子起初的外观和功能与某一种别的魔法靴子无异。当穿戴者处于（或正在脱离）近战战斗时，舞动靴会阻碍他的移动，使他的行为如同被施放了迷舞一样。一旦这双靴子的真实面目暴露，只有@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术才能让穿戴者摆脱它们。</p><h3>制作</h3><p><strong>需求</strong> 精灵靴、浮空靴、加速靴、跑跳靴、传送靴、北地靴、飞翼靴</p>"
+        },
+        "Bracers of Defenselessness": {
+            "name": "破防护腕 (Bracers of Defenselessness)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系；<strong>施法者等级</strong> 16；<strong>部位</strong> 腕部；<strong>重量</strong> 1磅</p><p>这对镶嵌宝石、闪闪发光的护腕起初看起来像是+5防御护腕，并且确实起到这样的作用，直到穿戴者被挑战等级等于或高于其等级的敌人怀着敌意攻击。从那一刻起，这对护腕会给予-5的AC减值。一旦诅咒启动，护腕只能用@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术摘下。</p><h3>制作</h3><p><strong>需求</strong> +5防御护腕</p>"
+        },
+        "Broom of Animated Attack": {
+            "name": "害人扫帚 (Broom of Animated Attack)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 10；<strong>部位</strong> 无；<strong>重量</strong> 3磅</p><p>这件物品与普通扫帚无法区分，在尝试使用之前的一切检测中，它都与飞行扫帚完全相同。</p><p>如果有生物试图骑着这把扫帚飞行，扫帚会带着满心期待的骑手翻一个筋斗，把他头朝下从离地1d4+5尺的高度摔下（因为跌落距离不足10尺，所以不造成跌落伤害）。随后扫帚会攻击这个受害者，用稻草端（或枝条端）抽他的脸，用木柄端捶打他。扫帚每轮两端各有两次攻击（稻草端抽打两次，木柄端捶打两次，每轮共四次攻击）。每次攻击掷骰有+5加值。稻草端命中会使受害者目盲1轮，木柄命中造成1d6点伤害。扫帚的AC为13，CMD为17，有18点生命值，硬度4。</p><h3>制作</h3><p><strong>需求</strong> 飞行扫帚</p>"
+        },
+        "Buffoon's Sword": {
+            "name": "笨拙剑 (Buffoon's Sword)",
+            "description": "<p><strong>灵光</strong> 中等预言系；<strong>施法者等级</strong> 10；<strong>部位</strong> 无；<strong>重量</strong> 2磅</p><p>这把剑在实际用于战斗之前，外观和表现在各方面都与机敏剑无异。一旦在战斗中使用，它会使持用者的所有隐匿检定受到-10减值，同时也使持有者几乎不可能说谎或进行任何其他形式的欺瞒。每当他这样做时，必须通过一次DC 15的意志豁免，否则就会脱口说出真相，或做出其他不由自主的举动，毁掉他试图施展的把戏。一旦诅咒启动，只有能终结诅咒的魔法才能让持用者摆脱这把剑。</p><h3>制作</h3><p><strong>需求</strong> 机敏剑</p>"
+        },
+        "Cannibal Ring": {
+            "name": "暴食戒指 (Cannibal Ring)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 16；<strong>部位</strong> 戒指</p><p>这枚朴素无华的铜戒指略显暗淡，似乎能抵御饥饿或其他种种匮乏；一切检测都显示它是一枚@UUID[Compendium.pf-content.pf-wondrous.Item.oMCJzt2EARPaP5I2]{维生戒指}。然而，戴上7天之后，戒指的主人反而会几乎时刻忍受饥饿和干渴，如果得不到满足，最终会疯狂到变成食人者。穿戴者必须每小时吃下、喝下相当于一整天的食物和饮水，才能避免进行饥饿或口渴检定。一旦穿戴者因检定失败而开始受到致命伤害（而不是非致命伤害），他就会开始对智慧生物（任何智力为3或更高的活物）的血肉产生越来越强烈的渴望。</p><p>一旦穿戴者以这种方式饱餐一顿，他就会恢复因饥饿和口渴所受的全部非致命伤害，不过饥饿和口渴检定失败时，他仍会继续受到致命伤害。下一次他遇到可以吃掉智慧生物一部分身体的情形时，必须通过一次DC 15的意志豁免，否则就会吃下这种禁忌的血肉。如果穿戴者再次屈从于这种冲动，他就会恢复因饥饿和口渴检定失败所受的全部致命伤害，并意识到食人是避免饥渴加剧的关键——只要某天他至少吃了一顿智慧生物的血肉，那天他就不必进行每小时一次的饥饿和口渴检定，并恢复因这些检定失败而累积的所有伤害。一旦诅咒启动，在诅咒被破除之前，戒指无法摘下。</p><h3>制作</h3><p><strong>需求</strong> 维生戒指</p>"
+        },
+        "Cape of Anchoring": {
+            "name": "锚定斗篷 (Cape of Anchoring)",
+            "description": "<p><strong>灵光</strong> 中等防护系；<strong>施法者等级</strong> 9；<strong>部位</strong> 肩部；<strong>重量</strong> 1磅</p><p>这件鲜艳的红金色斗篷看起来像是骗子披肩。然而，一旦穿上，它对穿戴者的作用就如同穿戴者受到了@UUID[Compendium.pf1.spells.Item.0vmz2klcfvkc3h0v]{次元锚}法术影响。只有在穿戴者受到@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术或类似效果之后，才能把斗篷摘下。</p><h3>制作</h3><p><strong>需求</strong> 骗子披肩</p>"
+        },
+        "Carnivorous Jar": {
+            "name": "食肉罐 (Carnivorous Jar)",
+            "description": "<p><strong>灵光</strong> 中等死灵系；<strong>施法者等级</strong> 11；<strong>部位</strong> 无；<strong>重量</strong> 10磅</p><p>这个石灰岩罐子用一只刻着动物或人头的木塞封口。任何打开罐子的生物都会受到3d6点体质伤害：它体内的数个内脏凭空消失，出现在罐子里。如果该生物活了下来，由此造成的创伤会使其每轮受到2d6点流血伤害。这种流血伤害会一直持续，直到受害者受到至少5点魔法治疗，或者通过一次DC 20的医疗检定获得救治。食肉罐只起一次作用，可能单独出现，也可能四个一套。</p><h3>制作</h3><p><strong>需求</strong> 保质瓶、滋补软膏，或任何装在罐子或类似容器里的物品</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Chomper": {
+            "name": "大板牙 (Chomper)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系；<strong>施法者等级</strong> 17；<strong>部位</strong> 无；<strong>重量</strong> 15磅</p><p>大多数吞噬袋看起来都像普通的口袋，但大板牙与大多数吞噬袋不同。它长着成排凶恶的牙齿，态度恶劣，渴望吞噬一切。这件有智能的诅咒物品认为自己是某个它神秘地称为“万物吞噬者”的生物最受宠爱的巨口、最重要的肢体。大板牙憎恨一切生物，只有恶魔除外——它把恶魔视为毁灭之道上的同类。</p><p>大板牙拥有普通@UUID[Compendium.pf-content.pf-cursed-items.Item.tfc170QsgaZXHFGj]{吞噬袋}的全部魔法能力，另外还有以下附加能力。</p><p>大板牙的持有者可以用一个标准动作抓着背带挥舞这只袋子，试图击打5尺内的任何一个生物或无人看管的物品。随后大板牙（而不是持用者）可以对该目标进行一次啮咬攻击。这次啮咬的攻击加值为+14，造成1d10+5点伤害，外加2点流血伤害。这个动作不引发借机攻击。以这种方式进行的攻击绝不受持用者的能力修正。</p><p>当非恶魔拥有大板牙时，这只袋子的诅咒灵氲会使其持用者的所有攻击掷骰、豁免检定、技能检定和属性检定受到-1减值。如果大板牙通过人格冲突成功掌控了一名非恶魔持用者，它就会命令持有者去寻找受害者来喂它。</p><h3>制作</h3><p><strong>需求</strong> 三型次元袋</p>"
+        },
+        "Cloak of Immolation": {
+            "name": "献祭披风 (Cloak of Immolation)",
+            "description": "<p><strong>灵光</strong> 强烈塑能系；<strong>施法者等级</strong> 12；<strong>部位</strong> 肩部；<strong>重量</strong> 1磅</p><p>这件披风看起来是一件做工精良、散发着防护魔力的衣物。可以无害地拿取、检查这件披风，但一旦穿上，它就会立刻燃起熊熊火焰；火焰持续燃烧，却不会伤及披风，只会伤及穿戴者。披风每轮造成1d6点火焰伤害，除非诅咒被破除，否则无法脱下。足量的水或其他窒息火焰的材料可以暂时扑灭火焰，但披风一旦再次接触空气就会重新燃起。@UUID[Compendium.pf1.spells.Item.tkjnm3lw7ni82tag]{抵抗能量伤害}、@UUID[Compendium.pf1.spells.Item.1vh2ewwvzvxunoxk]{防护能量伤害}一类法术及类似效果，在其持续期间可以保护穿戴者免受披风火焰的伤害。</p><h3>制作</h3><p><strong>需求</strong> 任意披风</p>"
+        },
+        "Constrictor Armor": {
+            "name": "缠绞护甲 (Constrictor Armor)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 12；<strong>部位</strong> 躯体；<strong>重量</strong> 30磅</p><p>这套护甲被设计成蛇腹宽鳞的模样，功能相当于一件+1火焰抗能@UUID[Compendium.pf1.armors-and-shields.Item.5TzaS38RPAx1oj9p]{胸甲}。穿戴者第一次在近战中被击中时，护甲就会活动起来，开始挤压它的穿戴者。护甲活动的那一轮，它会自动擒抱穿戴者。在随后各轮中，于穿戴者的回合开始时，护甲会进行一次擒抱战技检定（CMB +20）来缠绞穿戴者。检定成功时，护甲每轮造成2d6点伤害。一旦活动起来，护甲只有在被摧毁或穿戴者死亡时才会松开。护甲启动之后，穿戴者无法自行脱下，但别人可以帮忙摧毁或摘下它。当构装生物、不死生物等无生命的生物穿戴这套护甲时，它能正常运作（不会活动）。</p><h3>制作</h3><p><strong>需求</strong> +1火焰抗能胸甲</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Crown of Blindness": {
+            "name": "盲目王冠 (Crown of Blindness)",
+            "description": "<p><strong>灵光</strong> 中等幻术系；<strong>施法者等级</strong> 10；<strong>部位</strong> 头饰；<strong>重量</strong> 1磅</p><p>这顶精致的银质头环常常镶嵌着一颗乳白色的月长石。当有人把它戴到头上时，那块宝石会像残月一样迅速变暗，穿戴者必须通过一次DC 14的强韧豁免，否则立即陷入目盲。只要戴着这顶头环，每轮都必须进行这一豁免，直到穿戴者最终抵不过而失明。要摘下头环，必须破除诅咒。除了@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术或类似效果外，移除目盲/耳聋也可以暂时终止头环的诅咒，使穿戴者得以把它摘下。</p><h3>制作</h3><p><strong>需求</strong> 诱人魅力头带、启发感知头带、心灵力量头带、超凡心灵头带、无匹智力头带、月之头环</p>"
+        },
+        "Crystal Hypnosis Ball": {
+            "name": "催眠水晶球 (Crystal Hypnosis Ball)",
+            "description": "<p><strong>灵光</strong> 强烈预言系；<strong>施法者等级</strong> 17；<strong>部位</strong> 无；<strong>重量</strong> 7磅</p><p>这个被诅咒的探知装置乍看之下与普通@UUID[Compendium.pf1.items.Item.NQJkZQqUJlT7Edwe]{水晶球}毫无二致。然而，任何试图使用它的人都会陷入迷魂状态1d6分钟，同时一个通过@UUID[Compendium.pf1.spells.Item.lovx4kiq18gbvg4e]{心灵感应}传达的@UUID[Compendium.pf1.spells.Item.zqj5qzyl46af27v0]{暗示术}会被植入她的脑海（DC 19意志豁免可无效）。</p><p>使用者会以为自己通过水晶球看到了想看的生物或场景，实际上她已落入某个强大的法师、巫妖、甚至是来自其他位面的某种力量或存在的影响之下。此后每次使用，催眠水晶球的注视者都会更深地受控制者影响，沦为其仆从或工具。注意，在这整个期间，使用者始终意识不到自己已被奴役。</p><h3>制作</h3><p><strong>需求</strong> 水晶球</p>"
+        },
+        "Cursed Backbiter Spear": {
+            "name": "反噬矛 (Cursed Backbiter Spear)",
+            "description": "<p><strong>灵光</strong> 中等塑能系；<strong>施法者等级</strong> 10；<strong>部位</strong> 无；<strong>重量</strong> 3磅</p><p>这是一把+2@UUID[Compendium.pf1.weapons-and-ammo.Item.N37FFAdWjVV6EolR]{短矛}，但每当它在近战中用于对付敌人、且攻击骰掷出自然1时，它会伤害持用者，而不是她原本要攻击的目标。诅咒生效时，这支矛会弯转过来刺中持用者的后背，自动对持用者造成伤害。投掷这支矛时诅咒同样起效，此时投掷者受到的伤害翻倍。</p><h3>制作</h3><p><strong>需求</strong> +2短矛，或任意魔法武器</p>"
+        },
+        "Deadflesh Waraxe": {
+            "name": "死肉重斧 (Deadflesh Waraxe)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系、变化系；<strong>施法者等级</strong> 12；<strong>部位</strong> 无；<strong>重量</strong> 8磅</p><p>这些+1秘银幽冥不死破敌矮人重斧是为应对日益猖獗的不死生物威胁而仓促打造的，但赶工和偷工减料给它们留下了一个危险的缺陷——每当有不死生物被死肉重斧杀死，这把斧头就会让被消灭的不死生物的一部分死灵能量顺着斧身涌入持用者体内；持用者若未能通过DC 15的意志豁免，就会战栗1分钟。这些效果会叠加——受害者第二次屈服时会陷入惊惧，第三次则会陷入恐慌，并在逃跑时丢下死肉重斧。这是一种影响心智的恐惧效应。这个缺陷相当隐蔽——鉴定物品时，检查者的法术辨识检定必须超过DC 27达10点或更多才能发现。落在准备好应对这一瑕疵的士兵手中，死肉重斧能成为对付不死生物的利器，但许多矿坑的矮人守卫直到为时已晚才得知这个缺陷。</p><h3>制作</h3><p><strong>需求</strong> +1秘银幽冥不死破敌矮人重斧</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>",
+            "auraSchool": "咒法系和变化系"
+        },
+        "Deadly Returns Throwing Axe": {
+            "name": "致命回返飞斧 (Deadly Returns Throwing Axe)",
+            "description": "<p><strong>灵光</strong> 中等塑能系；<strong>施法者等级</strong> 8；<strong>部位</strong> 无；<strong>重量</strong> 2磅</p><p>这件武器看起来是一把+2回力@UUID[Compendium.pf1.weapons-and-ammo.Item.gAs85NM90mIR4O4Z]{飞斧}。但它没有普通的回力能力，而是只在持用者没能命中目标时才会飞回——并攻击持用者。这次攻击使用持用者完整的基础攻击加值。若命中，斧头会嵌在持用者身上，持用者可以用一个迅捷动作把它拔出来。若没有命中持用者，它会落在持用者相邻的一个随机的无人占据的方格中，必须尽快把它捡起来。在受到@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术或类似效果影响之前，致命回返飞斧的持用者总是把它当作自己的主要武器使用。</p><h3>制作</h3><p><strong>需求</strong> +2回力飞斧</p>"
+        },
+        "Drums of Lethargy": {
+            "name": "昏然战鼓 (Drums of Lethargy)",
+            "description": "<p><strong>灵光</strong> 微弱变化系；<strong>施法者等级</strong> 5；<strong>部位</strong> 无；<strong>重量</strong> 5磅</p><p>这套定音鼓看起来像是@UUID[Compendium.pf-content.pf-wondrous.Item.N887MJHHfdSbAzzD]{加速鼓}。当某个生物演奏这套鼓时，它会对所有生物（包括演奏者本人）产生如同受到@UUID[Compendium.pf1.spells.Item.jcr72piqo6g549e1]{缓慢术}影响的效果。DC 14意志豁免可使该效果无效。制造缓慢效果不需要进行表演检定。</p><h3>制作</h3><p><strong>需求</strong> 加速鼓</p>"
+        },
+        "Dust of Sneezing and Choking": {
+            "name": "喷嚏粉 (Dust of Sneezing and Choking)",
+            "description": "<p><strong>灵光</strong> 中等咒法系；<strong>施法者等级</strong> 7；<strong>部位</strong> 无</p><p>这种细腻的粉尘看起来像是@UUID[Compendium.pf-content.pf-wondrous.Item.9fHuVXqh7Z3bdwg2]{显像粉}。如果将它抛入空中，会使20尺扩散范围内的生物陷入一阵阵喷嚏和咳嗽。未能通过DC 15强韧豁免的生物立刻受到3d6点体质伤害。通过这次豁免的生物也会因窒息而失能（视作震慑），持续5d4轮。</p><h3>制作</h3><p><strong>需求</strong> 显像粉、无踪粉</p>"
+        },
+        "Eyes of Blindness": {
+            "name": "瞎人眼 (Eyes of Blindness)",
+            "description": "<p><strong>灵光</strong> 微弱死灵系；<strong>施法者等级</strong> 5；<strong>部位</strong> 眼部</p><p>这副看起来普通的眼镜毫不起眼，似乎无害。一旦有人戴上它，佩戴者就会变得目盲，如同受到@UUID[Compendium.pf1.spells.Item.k7cf5gshkp8xxqux]{目盲/耳聋术}的影响（无豁免）。</p><h3>制作</h3><p><strong>需求</strong> 任意眼镜或透镜</p>"
+        },
+        "Flask of Curses": {
+            "name": "诅咒水瓶 (Flask of Curses)",
+            "description": "<p><strong>灵光</strong> 中等咒法系；<strong>施法者等级</strong> 7；<strong>部位</strong> 无；<strong>重量</strong> 2磅</p><p>这件物品看起来像是一个普通的烧杯、瓶子、容器、长颈瓶、烧瓶或水罐。它里面可能装着液体，也可能冒着烟。当瓶塞第一次被拔开时，30尺内的所有生物都必须通过DC 17的意志豁免，否则就会受到诅咒，攻击检定、豁免检定和技能检定承受-2减值，直到有人对他们施放@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}为止。</p><h3>制作</h3><p><strong>需求</strong> 无尽水源、火巨灵囚瓶、无尽烟壶、收妖瓶</p>"
+        },
+        "Gauntlets of Fumbling": {
+            "name": "笨拙护手 (Gauntlets of Fumbling)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 7；<strong>部位</strong> 手部；<strong>重量</strong> 2磅</p><p>这副护手在穿戴者受到攻击或身处生死关头之前，都会如其外观所示那样发挥作用。到了那时，诅咒便会启动。穿戴者会变得笨手笨脚，每轮都有50%的几率让双手中持握的任何东西掉落。护手还会使穿戴者的敏捷值降低2点。诅咒一旦启动，这副手套只能通过@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}、@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}或@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}才能摘下。</p><h3>制作</h3><p><strong>需求</strong> 锈蚀手套、辟矢夺箭手套、储物手套、游泳攀爬手套</p>"
+        },
+        "Girdle of Opposite Gender": {
+            "name": "性别转换腰带 (Girdle of Opposite Gender)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 10；<strong>部位</strong> 腰部；<strong>重量</strong> 1磅</p><p>穿上这条魔法腰带时，穿戴者必须立刻通过一次DC 20的强韧豁免，否则会变成异性。角色的能力、心智和灵魂不受影响，只有性别改变。如果豁免掷出自然1，这件物品会彻底抹去穿戴者的一切性别，使他呈现出雌雄莫辨的无性外观。除非用解除诅咒的魔法撤销，否则这一变化是永久的。魔法一旦生效，腰带就可以毫不费力地脱下。一个生物只会被某一条腰带影响一次，不过别的同类腰带可以造成进一步的变化。</p><h3>制作</h3><p><strong>需求</strong> 任意腰带</p>"
+        },
+        "Gravesoul Armor": {
+            "name": "墓魂护甲 (Gravesoul Armor)",
+            "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 10；<strong>部位</strong> 护甲；<strong>重量</strong> 20磅</p><p>这套护甲在各方面都表现得如同+1操灵镶嵌皮甲，直到其主人真正尝试使用它的特殊能力。那时，穿戴者以及20尺半径内的所有活物都必须通过一次DC 15的意志豁免，否则会在接下来的24小时里相信自己其实是某种不死生物。GM可以随机决定（1d6：1–3为@UUID[Compendium.pf1.monster-templates.Item.nLoeB640GSsAUWYm]{丧尸}，4–5为食尸鬼，6为@UUID[Compendium.pf1.monster-templates.Item.FFZV078TgqxA5GvX]{吸血鬼}），也可以自行选择受影响的生物认为自己是哪种具体的不死生物。受影响的生物会按他们自以为的那种不死生物的方式行事——“丧尸”会不假思索地攻击身边不相干的生物，“吸血鬼”会试图咬受害者的脖子，诸如此类——但不会获得该生物的任何特殊能力。受影响的生物会对伤害“他们那种”不死生物的效果做出负面反应，因此“吸血鬼”会躲避@UUID[Compendium.pf1.items.Item.vqwyugaticvrbzhn]{大蒜}，“缚灵”会在阳光下退缩，等等。这些生物会一直相信自己真的是不死生物，并无视一切相反的证据。如果受到攻击，他们会自卫，即使这需要使用他们拥有、而“他们那种”不死生物通常不具备的能力；例如，自以为是食尸鬼的野蛮人仍然可以狂暴。引导能量以及其他影响不死生物的效果，对受墓魂护甲影响的生物没有效果。</p><p>这是一种影响心灵的强迫类惑控效果。护甲的穿戴者每天最多可以使用此能力三次，但对同一个生物，每24小时内只能生效一次。抛开诅咒不谈，这套护甲仍然是+1镶嵌皮甲，有些角色即使发现它对不死生物的“力量”其实并不存在，也可能觉得它有用。与大多数诅咒物品不同，它可以轻易丢弃，不需要任何魔法协助。</p><h3>制作</h3><p><strong>需求</strong> +1操灵镶嵌皮甲</p>"
+        },
+        "Hat of Hatreds": {
+            "name": "憎恨帽 (Hat of Hatreds)",
+            "description": "<p><strong>灵光</strong> 中等幻术系；<strong>施法者等级</strong> 10；<strong>部位</strong> 头部</p><p>这顶帽子在各方面都表现得如同@UUID[Compendium.pf-content.pf-wondrous.Item.wz6XeNko7BToRrjK]{易容帽}，直到它的主人试图在敌对生物面前用它来伪装自己。一旦如此，帽子会让他呈现出这个敌对生物最想伤害的生物或人物的样貌。帽子绝不会让穿戴者呈现出这样一个人的外貌：即使观看者有机会，也不会去伤害他（例如当地神庙令人极度畏惧的领袖）。</p><p>帽子一旦显露出真正的能力，就不再响应穿戴者改变外貌的企图。相反，它会自动让穿戴者变成观看者认识且憎恶之人的模样，并附带额外的幻象，使穿戴者显得迷茫、受伤或虚弱。例如，在地精的巢穴里，穿戴者可能看起来像部落的酋长，但昏昏欲睡、不堪一击。在人类的城镇里，穿戴者可能看起来像令人憎恨的本地恶霸，醉醺醺地踉跄而行。在邪恶的城镇里，穿戴者看起来像个茫然无措的访客，显然是实施某种罪行的理想受害人。</p><p>必须使用破除诅咒的魔法才能摘下这顶帽子。</p><h3>制作</h3><p><strong>需求</strong> 易容帽</p>"
+        },
+        "Haunted Doll": {
+            "name": "作祟人偶 (Haunted Doll)",
+            "description": "<p><strong>灵光</strong> 中等预言系、死灵系；<strong>施法者等级</strong> 11；<strong>部位</strong> 无；<strong>重量</strong> 1磅</p><p>当用眼角余光瞥见这个孩童布娃娃时，它那原本安详的表情会扭曲成一副恶毒的狞笑。这个人偶以激烈的情绪和愤怒为食。每当距离人偶20尺内出现怒火爆发或战斗激烈进行的情形，就有5%的几率唤醒人偶体内的恶毒灵体，使其显现为一个进化骚灵（《怪物图鉴2》第292、211页）。此时，人偶会变成虚体，飘到空中，骚灵恶毒的灵体则隐形地环绕在它周围。骚灵的地缚灵能力与它出现的那个位置绑定，它会立即攻击周围的人。当骚灵被杀死后，人偶会重新变回实体并掉落在地，其中的灵体暂时被平息。可以用@UUID[Compendium.pf1.spells.Item.k0ihiqhfppkchs1j]{呼唤魂魄}法术向人偶体内的灵体问话。</p><p>拥有作祟人偶会使拥有者噩梦不断，梦中满是看似预言的厄运警告。每个晚上，拥有者都有10%的几率需要进行一次DC 20的意志豁免。豁免失败，拥有者当晚得不到任何休息，无法恢复法术、能力池或其他每日能力。</p><h3>制作</h3><p><strong>需求</strong> 解剖玩偶（UE）、巫术人偶（UE）、压胜人偶</p>",
+            "auraSchool": "预言系和死灵系"
+        },
+        "Headband of Stupidity": {
+            "name": "愚蠢头带 (Headband of Stupidity)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 8；<strong>部位</strong> 头饰；<strong>重量</strong> 1磅</p><p>这条头带看起来像是+4无匹智力头带，但它不但不给予+4智力加值和相关技能的加值，反而让穿戴者的智力承受-4减值，并在所有知识检定上再承受-2减值。穿戴者察觉不到头带的这些削弱效果；在他戴着头带的时候，即使是最愚蠢的言论或误入歧途的见解，在他看来也显得很聪明。</p><h3>制作</h3><p><strong>需求</strong> +4无匹智力头带</p>"
+        },
+        "Heavy Hammer": {
+            "name": "超重战锤 (Heavy Hammer)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 8；<strong>部位</strong> 无；<strong>重量</strong> 20磅</p><p>这把巨大的战锤比它的体型本应有的重量还要沉重。持用这把战锤的生物攻击检定承受-2减值，伤害检定获得+4加值，并且速度承受-10尺的减值。战锤一旦被拿起，就必须一直作为该生物的主要武器使用，直到成功对其施展@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}为止。</p><h3>制作</h3><p><strong>需求</strong> +2战锤</p>"
+        },
+        "Helm of Ikimizi": {
+            "name": "伊基米兹头盔 (Helm of Ikimizi)",
+            "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 7；<strong>部位</strong> 头部；<strong>重量</strong> 3磅</p><p>伊基米兹头盔使其穿戴者在确认重击的攻击检定上获得+4环境加值。然而，每当穿戴者构成重击威胁时（无论他是否真的确认成功），他会立刻陷入狂暴（获得野蛮人狂暴能力的全部益处与弊端）。在1d4+1轮内，他会被迫攻击离自己最近的生物，直到其倒下，无论目标是朋友还是敌人。</p><p>此外，每当伊基米兹头盔的穿戴者杀死一个生物，他必须至少花费1个整轮动作大啖倒下生物的血肉，对周围的任何事物和任何人都不管不顾。</p><p>一旦戴上，伊基米兹头盔就只能用@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术摘下。</p><h3>制作</h3><p><strong>需求</strong> 通晓语言及阅读魔法头盔、心灵感应头盔、潜水头盔</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Helm of Opposite Alignment": {
+            "name": "阵营逆转头盔 (Helm of Opposite Alignment)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 12；<strong>部位</strong> 头部；<strong>重量</strong> 3磅</p><p>一旦戴到头上，这顶头盔的诅咒立刻生效（意志DC 15豁免可以无效）。豁免失败时，穿戴者的阵营会被彻底改变，变成与原阵营尽可能不同的阵营——善良变为邪恶，混乱变为守序，中立则变为某种极端的立场（LE、LG、CE或CG）。阵营的改变是心智上的，也是道德上的，被魔法改变的人对自己的新观念十分满意。成功通过豁免的角色可以继续戴着头盔而不受诅咒影响，但如果他摘下头盔，以后再戴上时，还需要再进行一次豁免。</p><p>只有@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}或@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}才能恢复角色原来的阵营，而受影响的人不会试图回到原来的阵营。事实上，他对这种前景感到恐惧，会想尽一切办法避免。如果受影响的角色所属职业有阵营要求，要彻底消除诅咒，还需要@UUID[Compendium.pf1.spells.Item.qr6qcx8zqum6jhc4]{赎罪术}。阵营逆转头盔生效一次之后，就会失去它的魔法特性。</p><h3>制作</h3><p><strong>需求</strong> 易容帽、通晓语言及阅读魔法头盔、心灵感应头盔</p>"
+        },
+        "Incense of Obsession": {
+            "name": "强欲熏香 (Incense of Obsession)",
+            "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 6；<strong>部位</strong> 无</p><p>这些香块看起来像是@UUID[Compendium.pf-content.pf-wondrous.Item.xQPuZaM87vJy0aBr]{冥想熏香}。如果在强欲熏香燃烧时进行冥想，使用者会变得完全相信，由于这魔法熏香，自己的施法能力无比优越。她会抓住一切机会施展法术，即使并无必要或毫无用处。使用者会一直沉迷于自己的能力和法术，直到全部用尽或施展完毕，或者过了24小时为止。</p><h3>制作</h3><p><strong>需求</strong> 冥想熏香</p>"
+        },
+        "Mace of Blood": {
+            "name": "染血硬头锤 (Mace of Blood)",
+            "description": "<p><strong>灵光</strong> 中等防护系；<strong>施法者等级</strong> 8；<strong>部位</strong> 无；<strong>重量</strong> 8磅</p><p>这把+3@UUID[Compendium.pf1.weapons-and-ammo.Item.AbmnL8ilLH6r95Oa]{重型硬头锤}必须每天涂上鲜血，否则其加值会消退，直到再次涂上鲜血为止。每天只要这把硬头锤在她的持有之中，使用它的角色就必须通过一次DC 13的意志豁免，否则会变成混乱邪恶。</p><h3>制作</h3><p><strong>需求</strong> +3重型硬头锤</p>"
+        },
+        "Maniac Hand": {
+            "name": "癫狂之手 (Maniac Hand)",
+            "description": "<p><strong>灵光</strong> 强烈死灵系；<strong>施法者等级</strong> 13；<strong>部位</strong> 无（取代一只手）；<strong>重量</strong> 2磅</p><p>这只干瘪枯萎的手，末端是参差不齐的断面。当它触碰到失去一只手的类人生物的断臂末端时，癫狂之手会立即与之结合，并恢复成栩栩如生的样貌。它会缩小或长大以匹配新主人的体型，并变形以匹配所失去的那只手，变成右手或左手。结合之后，一道不平整的疤痕和不健康的肤色会表明它对新主人而言是外来之物。</p><p>用癫狂之手发动的攻击，攻击检定和伤害检定获得+2表现加值。此外，进行全力攻击时，持有者可以接受AC-2减值，以用这只手使用持有者完整的基础攻击加值额外进行一次攻击。该效果不与类似效果（例如@UUID[Compendium.pf1.spells.Item.s9amdo5398alb5p0]{加速术}法术）叠加。在这些加值的计算上，任何持握在癫狂之手中的武器或双手持握的武器都适用，并且这只手本身也能造成伤害，如同一次与持有者体型相称的@UUID[Compendium.pf-content.pf-special-qualities.Item.C1QoYqp2W4lIoWJs]{猛击}攻击（中型生物为1d4点）。</p><p>癫狂之手怀有一股阴险的意志，会慢慢从主人手中篡夺控制权。它的智力为8，感知为12，魅力为10。癫狂之手无法交流，也没有理性思维，只知道一种无法满足的毁灭冲动。刚接上时，癫狂之手的自我值为5。每天至少一次，当出现机会可以不被目击地谋杀朋友或无辜者时，癫狂之手会试图夺取控制权，使用智能物品对抗角色的规则（《核心规则书》第535页）。若成功，这只手会控制其主人，直到它完成谋杀或过了5分钟，以先到者为准。主人除了一阵令人目眩的暴怒之外，不会记得关于这桩罪行的任何事，而这只手的自我值恢复为5。如果这只手未能夺取控制权，主人会感到一瞬间的怒意涌起，但说不出来源。每过一天，只要这只手的杀意没有杀死智力为3或更高的生物，它的自我值就增加1。若它的自我值增加到20以上，这只手就不再顾忌谨慎，无论被抓到的几率如何都会试图谋杀。</p><p>被剥夺了朋友或无辜者之死超过30天的癫狂之手，会反过来对付它的主人。如果处于能够坑害主人的位置（例如松开手中的绳索），它会试图夺取控制权。它可以在主人睡眠时夺取控制权，勒住宿主的脖子，或抓起武器施以致命一击。这只手每天最多尝试一次这样的行为。愿意屠杀无辜者的主人，可以找一个无辜的受害者并自愿把控制权交给这只手，以此满足它。</p><p>如果主人试图通过摧毁或截肢来摆脱癫狂之手，这只手会竭尽所能地抵抗。它以主人自己的力量值和敏捷值进行攻击和单手擒抱尝试，并加上这只手自身的加值。这只手的AC等于主人的接触AC，但额外获得+4体型加值，该加值与主人的体型修正叠加。主人在面对这只手的攻击时会失去其敏捷加值，而这只手则保留它对主人的敏捷加值。这只手的生命值等于主人的1/4。</p><p>对癫狂之手成功施展@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}，会使它在1小时内无法抵抗截肢。</p><h3>制作</h3><p><strong>需求</strong> 荣耀之手、贤者之手、岩石之手</p>"
+        },
+        "Mask of Ugliness": {
+            "name": "丑陋面具 (Mask of Ugliness)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 8；<strong>部位</strong> 头部；<strong>重量</strong> 1磅</p><p>这副奇怪而毫无特征的面具似乎具有+4诱人魅力头带的力量，但它不是提供魅力加值，而是融入佩戴者的面部，使他显得更丑陋，说出的话也粗鲁而带侮辱性。佩戴者在唬骗和交涉检定上承受-4减值，但在威吓检定上获得+2加值。</p><h3>制作</h3><p><strong>需求</strong> 任意魔法面具或诱人魅力头带</p>"
+        },
+        "Medallion of Thought Projection": {
+            "name": "思想放射徽章 (Medallion of Thought Projection)",
+            "description": "<p><strong>灵光</strong> 中等预言系；<strong>施法者等级</strong> 7；<strong>部位</strong> 颈部</p><p>这件装置看似一枚@UUID[Compendium.pf-content.pf-wondrous.Item.QVvWWuxmjTtn43F9]{读心勋章}，连起效的范围都一样，只是偷听到的思想含糊而失真，需要通过一次DC 15的意志豁免才能理清。然而，使用者以为自己在探听他人的思想，实际上听到的全是勋章自己制造的幻象。这些虚幻的思想总是显得可信，因此会严重误导任何依赖它们的人。更糟的是，使用者并不知道，这枚被诅咒的勋章其实会把她的思想广播给探测路径上的生物，从而使它们察觉她的存在。</p><h3>制作</h3><p><strong>需求</strong> 读心勋章</p>"
+        },
+        "Mindborer Ioun Stone": {
+            "name": "钻脑艾恩石 (Mindborer Ioun Stone)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 12；<strong>部位</strong> 无；<strong>价格</strong> 不定</p><p>这件被诅咒的物品看起来与任何普通的艾恩石一样，并按其颜色和形状拥有相应的威能。然而，每当你处于战斗中时，这颗环绕的石头都会撞击你的脸和头部，每轮造成1点生命值伤害。如果你在石头环绕时入睡或失去意识，它会钻进你的头颅，每轮对你的智力、感知和魅力各造成1点属性伤害，直到其中一项属性所受的损伤超过你的实际属性值，此时它会自行脱离你的头部，并藏在你身上靠近其他宝石的地方。这颗石头可以从@UUID[Compendium.pf-content.pf-wondrous.Item.Ff39cyNs7PYK0TXF]{寻路仪}中脱出，以这种方式攻击你。这种攻击会自动唤醒入睡的角色。结束这种攻击的唯一办法是干扰这颗石头的魔法（使用@UUID[Compendium.pf1.spells.Item.gmgwyjfpeuuc4t4o]{解除魔法}、进入@UUID[Compendium.pf1.spells.Item.niqxt53lhxrjfaty]{反魔场}等），或抓住它并放进容器里。</p><h3>制作</h3><p><strong>需求</strong> 制造魔法武器和防具、制造者必须为12级；<strong>成本</strong> 不定</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Mirror of Soul Snaring": {
+            "name": "陷魂镜 (Mirror of Soul Snaring)",
+            "description": "<p><strong>灵光</strong> 强烈死灵系；<strong>施法者等级</strong> 15；<strong>部位</strong> 无；<strong>重量</strong> 45磅</p><p>这面看似普通的镜子约有4尺长、3尺宽。它类似于@UUID[Compendium.pf-content.pf-wondrous.Item.7cJgO4HRAtTa1pU8]{死敌分身镜}或@UUID[Compendium.pf-content.pf-wondrous.Item.qcbKzZdjQeMxdLb5]{摄心镜}，但没有命令字。陷魂镜内有15个异次元隔间。任何进入镜子30尺范围内并看着自己倒影的生物，必须成功通过一次DC 23的意志豁免，否则其灵魂会被吸入其中一个隔间。不知道这件装置被诅咒的生物总是会看到自己的倒影。如果生物知道镜子被诅咒并设法避免看它，看到自己倒影、因而需要进行豁免的几率会降到50%（视为凝视攻击）。</p><p>生物的灵魂被困住时，其身体仍留在镜外。这具身体会被一个恶毒的精魂附身，其行为与被困生物的作风完全相反。把这个精魂视为该生物，但阵营相反（并可能有其他方面也相反，例如是反圣武士而不是圣武士）。对于中立角色，精魂可以是混乱邪恶或守序善良，由GM决定。生物原本身体的死亡并不会使其灵魂脱离镜子，不过如果它日后被放出，由于已无身体可供栖身，它会立即前往来世。</p><p>如果超出了镜子的容量，会有一名受害者的灵魂（随机决定）被释放，并立即与其复制身体（如果有的话）重新连接。如果镜子被摧毁（硬度1，5点生命值），目前被困在其中的所有受害者都会被释放。除非摧毁镜子，否则即便是@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}或@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}也无法让被困生物的灵魂回到其身体。</p><h3>制作</h3><p><strong>需求</strong> 摄心镜、死敌分身镜</p>"
+        },
+        "Nearfiring Bow": {
+            "name": "近射弓 (Nearfiring Bow)",
+            "description": "<p><strong>灵光</strong> 中等预言系；<strong>施法者等级</strong> 6；<strong>部位</strong> 无；<strong>重量</strong> 2磅</p><p>这把弓看起来是一把+2@UUID[Compendium.pf-content.pf-special-qualities.Item.w7DE5kpg0K1OZKL5]{及远}@UUID[Compendium.pf1.weapons-and-ammo.Item.Ata6ajiY9wuAnBLB]{短弓}，但它的诅咒在于：每超出第一个射程增量一个，它的攻击检定就承受累计-4减值。此外，在第一个射程增量之外射击时，重击确认检定还承受额外-4减值。这把弓必须作为持用者的主要远程武器使用，并且只有在其拥有者受到@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术或类似效果的作用之后才能丢弃。</p><h3>制作</h3><p><strong>需求</strong> +2及远短弓</p>"
+        },
+        "Necklace of Strangulation": {
+            "name": "扼喉项链 (Necklace of Strangulation)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系；<strong>施法者等级</strong> 18；<strong>部位</strong> 颈部</p><p>扼喉项链看起来是一件精美的魔法珠宝。戴到脖子上后，项链会立即收紧，每轮造成6点伤害。除了@UUID[Compendium.pf1.spells.Item.s2p7a4biy7bl4ks2]{有限祈愿术}、@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}或@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}之外，没有任何办法能把它取下，而且在受害者死后，它仍会扣在其咽喉上。直到他腐朽成干枯的骸骨（大约1个月后），项链才会松开，准备迎接下一个受害者。</p><h3>制作</h3><p><strong>需求</strong> 适应项链、火球项链、健康护符、辟毒护符、止伤护符</p>"
+        },
+        "Needful Doll": {
+            "name": "需索人偶 (Needful Doll)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系、幻术系；<strong>施法者等级</strong> 13；<strong>部位</strong> 无；<strong>重量</strong> 1磅</p><p>当一个类人生物拾起这个丑陋的旧人偶时，就会触发一个可怕的诅咒。此后，这个被诅咒的人偶会认定那个生物是它的主人。如果主人离开人偶，它会在他下次睡觉时出现在他身旁。</p><p>人偶睚眦必报。如果主人屡次试图摆脱它，或把它丢在家里，它就会用可怕的噩梦折磨他，梦中他所信任的每个人都抛弃了他。如果主人毁掉人偶，他会做令人不安的噩梦，梦见自己信任的人以骇人的方式谋杀他。如果主人白天大部分时间都把人偶放在背包或其他封闭的容器里，他会梦见自己在黑暗狭窄的地方慢慢窒息。</p><p>噩梦会在主人下次睡觉时发生。其效果如同@UUID[Compendium.pf1.spells.Item.siv3ub7hbmcklf8c]{梦魇}（DC 22）；人偶视为对主人有一手信息（如果主人拥有人偶超过一周，则视为熟悉），并视为持有主人身体的一部分。无论主人是遗弃还是毁掉人偶，它都会在次日夜里回来，状态与主人最初发现它时一模一样。对人偶使用@UUID[Compendium.pf1.spells.Item.myg2b9ww43nnlbr2]{破除结界}或@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}，会使它在1d4+1天内无法回来，不过期满后它仍会照常回来。</p><p>不过人偶很容易原谅。如果主人对它好上一天，把它公开带在身边并保持身体接触，噩梦就会消退，直到人偶觉得自己又受到了虐待。要摆脱或毁掉人偶，唯一可靠的办法（除了@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}或@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}）是找到愿意把它当作礼物接受的人。如果主人死亡，诅咒解除，人偶会耐心地等待新的主人发现它，不过如果前任主人在此之前死而复生，人偶会回到他身边。</p><h3>制作</h3><p><strong>需求</strong> 解剖玩偶、压胜人偶、巫术人偶</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>",
+            "auraSchool": "咒法系和幻术系"
+        },
+        "Net of Snaring": {
+            "name": "自缚网 (Net of Snaring)",
+            "description": "<p><strong>灵光</strong> 中等塑能系；<strong>施法者等级</strong> 8；<strong>部位</strong> 无；<strong>重量</strong> 1磅</p><p>这张网在攻击检定上提供+3加值，但只能在水下使用。在水下，可以命令它射出最多30尺，困住一个生物。如果在陆地上投掷，它会改变路线，以投掷它的生物为目标。</p><h3>制作</h3><p><strong>需求</strong> +3捕网</p>"
+        },
+        "Ornery Pistol": {
+            "name": "背德手枪 (Ornery Pistol)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 12；<strong>部位</strong> 无；<strong>重量</strong> 4磅</p><p>这把手枪的功能等同于一把普通的+2手枪，但它对和平的言论有一种奇怪的反感。每当持用者，或持用者视线范围内且持用者听得到的盟友，尝试用交涉技能改善某个生物的初始态度时，手枪会不花费动作就跳进持用者手中，并对持用者或盟友正在对其使用交涉的生物开一枪。如果持用者或盟友试图影响多个生物，枪会射击该群体中随机的一个成员。即使手枪没有装填也会如此，因为发动诅咒时，手枪的诅咒会魔法般地给自己装填一发普通子弹和黑火药。</p><h3>制作</h3><p><strong>需求</strong> 任意手枪</p>"
+        },
+        "Pauldrons of the Jackass": {
+            "name": "犟驴护肩 (Pauldrons of the Jackass)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 7；<strong>部位</strong> 肩部；<strong>重量</strong> 3磅</p><p>这副钢制护肩在穿戴之前，看起来装饰着奔腾的骏马，而一旦穿上，马的形状就会变成一头头目瞪口呆的驴。穿戴者的敏捷受到-4减值，所有速度降低10尺。必须成功施展@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}之后，才能取下这件物品。</p><h3>制作</h3><p><strong>需求</strong> 任意护肩</p>"
+        },
+        "Periapt of Foul Rotting": {
+            "name": "腐败护身符 (Periapt of Foul Rotting)",
+            "description": "<p><strong>灵光</strong> 中等防护系；<strong>施法者等级</strong> 10；<strong>部位</strong> 颈部</p><p>这块雕刻过的宝石看起来没什么价值。任何角色若把这枚护符带在身边超过24小时，就会染上一种可怕的腐烂病症，每周永久吸取1点敏捷、体质和魅力。只有先施展@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}，再施展@UUID[Compendium.pf1.spells.Item.ocbjt6z7amc3yn8w]{移除疾病}，最后施展@UUID[Compendium.pf1.spells.Item.4re1j2w8wkvsvnsi]{医疗术}、神迹术、有限祈愿术或@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}，才能除去这枚护符（以及这种病症）。也可以把一枚@UUID[Compendium.pf-content.pf-wondrous.Item.tKvABohUgaclrZKe]{健康护符}碾碎，将粉末撒在患病的角色身上（整轮动作）来抵消腐烂，此时腐败护身符也同样会化为齑粉。</p><h3>制作</h3><p><strong>需求</strong> 健康护符、辟毒护符、止伤护符</p>"
+        },
+        "Petrifying Cloak": {
+            "name": "石化斗篷 (Petrifying Cloak)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 11；<strong>部位</strong> 肩部；<strong>重量</strong> 1磅</p><p>这件灰色的魔法斗篷看起来像是一件防护斗篷，但披上它时，穿戴者必须成功通过DC 20的强韧豁免，否则立刻被石化。若最初的豁免成功，穿着斗篷的生物还必须在自己每个回合开始时进行进一步的检定。任何一次豁免失败，该生物就会被石化。@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}或@UUID[Compendium.pf1.spells.Item.a1jn7g374wcrb9mz]{解除石化}可以把穿戴者变回来，至少能维持到有人把斗篷从穿戴者身上脱下为止。</p><h3>制作</h3><p><strong>需求</strong> 任意披风</p>"
+        },
+        "Planar Invasion Shield": {
+            "name": "破界盾 (Planar Invasion Shield)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系；<strong>施法者等级</strong> 17；<strong>部位</strong> 盾牌；<strong>重量</strong> 15磅</p><p>在其主人试图在战斗中使用它的解离能力之前，这面盾牌的一切表现都与消物盾无异。一旦他这样做，盾牌就会反过来让一只或多只怪物从盾牌中涌出，它们每轮攻击离自己最近的生物（包括持盾者），持续1d6轮，然后沿最安全的路线撤退。如果它们没有可供逃脱的路线，这些怪物就会战斗至死。</p><p>要确定怪物的种类和数量，投2d4决定@UUID[Compendium.pf1.spells.Item.kyo0kwhw2jhuztju]{召唤怪物}法术的环阶，再投1d3决定出现的生物数量。这面盾牌召唤出的怪物会一直存在到被杀死为止，行为举止与同类的正常生物一致，并被视为持续时间为永久的受召生物。</p><p>诅咒生效后，盾牌每天召唤怪物3次，大约每8小时一次。如果怪物无法直接从盾牌中出来并存活（例如盾牌被埋住或在水下），它们会改为出现在50尺内最近的安全位置。对盾牌成功施展的破除诅咒魔法，可以让它恢复为先前消物盾的伪装，并允许其持有者丢弃它。</p><h3>制作</h3><p><strong>需求</strong> 消物盾</p>"
+        },
+        "Poisonous Cloak": {
+            "name": "剧毒披风 (Poisonous Cloak)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 15；<strong>部位</strong> 肩部；<strong>重量</strong> 1磅</p><p>这件披风通常由羊毛制成，也可以用皮革制作。@UUID[Compendium.pf1.spells.Item.kgynwswfuj9oo0es]{侦测毒性}法术可以揭示披风织物中存在毒素。触摸这件衣物不会受到伤害，但一旦真正披上身，穿戴者就会受到4d6点体质伤害，除非通过DC 28强韧豁免。披上之后，剧毒披风只能用@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}取下；这样做会破坏披风的魔法特性。如果随后再使用中和毒性法术，就有可能用@UUID[Compendium.pf1.spells.Item.c5anior2ysy6s2xy]{死者复活}或@UUID[Compendium.pf1.spells.Item.thh46ghi51lrl3cl]{复生术}让死去的受害者复活。</p><h3>制作</h3><p><strong>需求</strong> 节肢披风、蝙蝠披风、灵化披风、抗力披风+5、高等移位披风</p>"
+        },
+        "Potion of Poison": {
+            "name": "毒性药水 (Potion of Poison)",
+            "description": "<p><strong>灵光</strong> 强烈咒法系；<strong>施法者等级</strong> 12；<strong>部位</strong> 无</p><p>这瓶药水已经丧失了有益的效力，变成了一种烈性毒药。这种毒素在6轮内每轮造成1d3点体质伤害。中毒的生物每轮可以进行一次DC 14强韧豁免，以抵消该轮的伤害并结束这一病症。</p><h3>制作</h3><p><strong>需求</strong> 任意药水</p>"
+        },
+        "Ring of Clumsiness": {
+            "name": "笨重戒指 (Ring of Clumsiness)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 15；<strong>部位</strong> 戒指</p><p>这枚戒指的功能与羽落术戒指完全相同，但它同时会让穿戴者变得笨手笨脚：她的敏捷受到-4减值，并且在试图施展任何带有姿势成分的奥术法术时有20%的法术失败率。（这一失败率与其他奥术法术失败率叠加。）</p><h3>制作</h3><p><strong>需求</strong> 羽落术戒指</p>"
+        },
+        "Ring of Life Bleed": {
+            "name": "伤损戒指 (Ring of Life Bleed)",
+            "description": "<p><strong>灵光</strong> 中等死灵系；<strong>施法者等级</strong> 10；<strong>部位</strong> 戒指</p><p>这枚戒指在被戴上之前看起来像一枚再生戒指，但一旦在战斗中戴上，它的真面目就会显露出来：穿戴者每次被近战或远程武器攻击命中，都会额外受到1d4点伤害。除非穿戴者死亡，或使用@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}、@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}或神迹术，否则无法取下这枚戒指。</p><h3>制作</h3><p><strong>需求</strong> 再生戒指</p>"
+        },
+        "Ring of Spell Devouring": {
+            "name": "噬法戒指 (Ring of Spell Devouring)",
+            "description": "<p><strong>灵光</strong> 强烈防护系；<strong>施法者等级</strong> 13；<strong>部位</strong> 戒指</p><p>这枚精致的戒指看起来像一枚储法戒指或法术反转戒指，但它非但不会辅助施法或反制，反而会妨碍这些行为。穿戴者每次施展奥术法术时，都有25%的法术失败率。此外，穿戴者在试图反制法术时，用于识别法术的法术辨识检定承受-4减值。只有@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术或类似效果才能取下这枚戒指。</p><h3>制作</h3><p><strong>需求</strong> 储法戒指（任意）或法术反转戒指</p>"
+        },
+        "Ring of Truth": {
+            "name": "实话戒指 (Ring of Truth)",
+            "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 9；<strong>部位</strong> 戒指</p><p>实话戒指的外观具有欺骗性的讨喜：戒身上刻着孩童模样的天使，以及咧嘴微笑、手握粗重锁链环节的神圣生物。戴上这枚被诅咒的戒指后，穿戴者无法有意说谎，无论是口头还是书面。穿戴者可以干脆略去真相，或者选择不交流，但即便如此，面对直接提出的问题时，他也必须通过DC 20的意志豁免，才能避免如实作答。除非诅咒的魔法被消除，否则穿戴者无法取下这枚戒指。</p><h3>制作</h3><p><strong>需求</strong> 心灵护盾戒指、X射线视觉戒指</p>"
+        },
+        "Riot Pipes": {
+            "name": "暴乱之笛 (Riot Pipes)",
+            "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 10；<strong>部位</strong> 无；<strong>重量</strong> 3磅</p><p>这件朴素的乐器在各方面都和其他魔法乐笙一样，直到它的主人在城市环境中吹奏它。一旦吹奏，所有处于听力范围内的人都必须通过DC 15的意志豁免，否则就会陷入杀戮狂怒。豁免失败者在接下来的1d6小时内获得@UUID[Compendium.pf1.spells.Item.8u1xa5javcxc6szk]{狂暴术}的效果，并在这段时间里对遇到的任何陌生人或不喜欢的人产生强烈的强迫冲动（DC 15意志豁免可抵消），要去攻击对方。如果主人连续3天以上待在城市环境中，此后每一天他都必须通过DC 15的意志豁免，否则会在当天的某个时刻吹奏暴乱之笛。在诅咒被破除之前，这件乐器会一直跟着它的主人。</p><h3>制作</h3><p><strong>需求</strong> 颤栗乐笙、唤鼠乐笙、幻音乐笙</p>"
+        },
+        "Robe of Powerlessness": {
+            "name": "衰弱长袍 (Robe of Powerlessness)",
+            "description": "<p><strong>灵光</strong> 强烈变化系；<strong>施法者等级</strong> 13；<strong>部位</strong> 躯体；<strong>重量</strong> 1磅</p><p>衰弱长袍看起来像是另一种魔法法袍。角色一穿上这件衣服，力量就会受到-10减值，同时智力、感知或魅力之一也受到-10减值，并相应地遗忘法术和魔法知识。如果该角色是施法者，长袍会针对其主要施法属性；否则针对智力。长袍可以轻易脱下，但要恢复身心，该角色必须先接受一次@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}，再接受一次@UUID[Compendium.pf1.spells.Item.4re1j2w8wkvsvnsi]{医疗术}。</p><h3>制作</h3><p><strong>需求</strong> 融合法袍、骸骨法袍、百眼法袍、虹光法袍、星光法袍、大法师之袍、杂货法袍</p>"
+        },
+        "Robe of Vermin": {
+            "name": "毒虫法袍 (Robe of Vermin)",
+            "description": "<p><strong>灵光</strong> 强烈防护系；<strong>施法者等级</strong> 13；<strong>部位</strong> 躯体；<strong>重量</strong> 1磅</p><p>穿上这件法袍时，穿戴者不会察觉到任何异常，它也能正常发挥作用。然而，一旦他身处需要集中精神并对敌对对手采取行动的情形，这件衣服的真面目就会显露：魔法寄生在衣服里的虫子会立刻对穿戴者展开无数次叮咬。他必须停下其他所有活动，去抓挠、拨弄法袍，并总体表现出这些害虫的叮咬和爬动带来的极度不适。</p><p>穿戴者在先攻检定上承受-5减值，在所有攻击掷骰、豁免检定和技能检定上承受-2减值。如果他试图施展法术，必须通过一次DC 20＋法术等级的专注检定，否则失去该法术。</p><h3>制作</h3><p><strong>需求</strong> 融合法袍、骸骨法袍、百眼法袍、虹光法袍、星光法袍、大法师之袍、杂货法袍</p>"
+        },
+        "Rod of Arson": {
+            "name": "引火烧身权杖 (Rod of Arson)",
+            "description": "<p><strong>灵光</strong> 强烈塑能系；<strong>施法者等级</strong> 12；<strong>部位</strong> 无；<strong>重量</strong> 5磅</p><p>所有检测都表明，这根中空的金属管是一根灭火权杖，直到它的主人在战斗或其他危险情形中用它扑灭或压制火焰。一旦她这么做，就会发现这支权杖非但没有熄灭火焰，反而让火焰进入了她的体内。这团火焰会在她体内持续接下来的24小时，造成轻微的不适并使她陷入恶心状态，但不会造成可见的伤害。然而，当持用者紧邻或身处可燃的物体或建筑时，她会产生想用一切手段将其点燃的冲动。持用者每抗拒这股冲动一轮，体内翻涌奔腾的火焰就会让她受到1d6点火焰伤害。如此持续1分钟后，她必须通过DC 15的意志豁免，否则屈服于诱惑；若豁免成功，冲动消退，体内的火焰不再伤害她，此后她可以正常地与那个可燃目标互动。</p><p>诅咒显露之后，主人遇到任何并非她本人点燃的火焰时，都必须通过DC 15的意志豁免，才能避免用这件物品去尝试扑灭或压制它。她不能用权杖对付自己亲手点燃的火焰。成功的破咒魔法能让持用者摆脱权杖，并无害地消散她体内因权杖作用而持续的所有火焰。</p><h3>制作</h3><p><strong>需求</strong> 灭火权杖</p>"
+        },
+        "Rod of Foiled Magic": {
+            "name": "阻魔权杖 (Rod of Foiled Magic)",
+            "description": "<p><strong>灵光</strong> 强烈（无学派）；<strong>施法者等级</strong> 17；<strong>部位</strong> 无；<strong>重量</strong> 5磅</p><p>这根权杖的外观与超魔权杖相似。生物一旦拿起这样一根权杖，除非使用@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术或类似魔法，否则无法将它丢弃。持用者每次施展法术时，都会把阻魔权杖握在手中，并将该法术的施法者等级视为降低2级。如果这会使施法者等级降至0级或更低，则施法者只有50%的概率施展成功（任何奥术法术失败率都累加到这一百分比概率上）；但若他能够施展出该法术，该法术的施法者等级为1级。</p><h3>制作</h3><p><strong>需求</strong> 任意超魔权杖</p>",
+            "auraSchool": "无"
+        },
+        "Sasquatch Skull": {
+            "name": "大脚野人头骨 (Sasquatch Skull)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 7；<strong>部位</strong> 无；<strong>重量</strong> 5磅</p><p>预言系魔法会显示，这块巨大的类人头骨属于一只大猩猩或一名巨人，但它实际上是一块受诅咒的大脚野人头骨。这件物品似乎能让持有者在林地中的隐匿检定上获得+5加值。</p><p>如果有人占有这块大脚野人头骨超过24小时，它会很快开始散发恶臭。头骨的持有者本人察觉不到这股气味，但同伴和30尺内的生物会觉得这股刺鼻的气味极其明显。这股气味使头骨的主人进行的魅力检定和基于魅力的技能检定承受-2减值。此外，具有攻击性的野生动物在战斗中总是最先攻击头骨的主人。只要所有权没有通过出售、赠与或盗窃转移，头骨不必带在主人身上，诅咒也会显现。</p><h3>制作</h3><p><strong>需求</strong> 黑颅骨</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Scarab of Death": {
+            "name": "死亡圣甲虫 (Scarab of Death)",
+            "description": "<p><strong>灵光</strong> 强烈防护系；<strong>施法者等级</strong> 19；<strong>部位</strong> 颈部</p><p>如果握持这枚小小的圣甲虫@UUID[Compendium.pf1.items.Item.vzwbifqupjkgjerc]{胸针}超过1轮，或把它放在活物的随身物品中携带1分钟，它就会变成一只可怖的、会钻地的甲虫状生物。那东西会撕开任何皮革或布料，钻进血肉，并在1轮内抵达受害者的心脏，致其死亡。穿戴者通过DC 25的反射豁免，可以在圣甲虫钻得不见踪影之前把它扯下，但仍会受到3d6点伤害。随后甲虫变回圣甲虫的形态。把圣甲虫放进木、陶瓷、骨、象牙或金属的容器中，可以防止它活过来，并能长期保存这件物品。</p><h3>制作</h3><p><strong>需求</strong> 重拳护符、天生防护护符、异界传送护符、回避侦测护符、护盾胸针、破魔像圣甲虫、防护圣甲虫</p>"
+        },
+        "Scattershot Bracers": {
+            "name": "散射护腕 (Scattershot Bracers)",
+            "description": "<p><strong>灵光</strong> 微弱变化系；<strong>施法者等级</strong> 5；<strong>部位</strong> 腕部；<strong>重量</strong> 1磅</p><p>这对腕带在被戴上之前看起来像是神射护腕。穿戴者在所有远程攻击掷骰上承受-2减值。必须成功施展@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术，才能取下这对护腕。</p><h3>制作</h3><p><strong>需求</strong> 次等神射护腕或高等神射护腕</p>"
+        },
+        "Scroll of Blood Ink": {
+            "name": "血书卷轴 (Scroll of Blood Ink)",
+            "description": "<p><strong>灵光</strong> 不定；<strong>施法者等级</strong> 不定；<strong>部位</strong> 无</p><p>这种卷轴看起来可以承载任意法术。当持用者试图施展该法术时，墨水会变成血并从页面上流走，使法术自动失败。此外，卷轴的边缘会变得锋利，割伤持用者的手和手腕，造成4点体质出血；成功通过DC 15的反射豁免则出血减半。出血可以通过任何魔法治疗或一次成功的DC 20医疗检定来止住。</p><h3>制作</h3><p><strong>需求</strong> 任意卷轴</p>"
+        },
+        "Staff of Magical Decline": {
+            "name": "法力流失法杖 (Staff of Magical Decline)",
+            "description": "<p><strong>灵光</strong> 不定；<strong>施法者等级</strong> 不定；<strong>部位</strong> 无；<strong>重量</strong> 5磅</p><p>这根法杖看起来是一根普通的法杖，在战斗中使用之前，它都能如常发挥普通法杖的作用。使用后，持用者的有效施法者等级降至与法杖的施法者等级相同，或持用者的施法者等级-4，以较低者为准。持用者的施法属性值降至10 + 法杖的最高法术环级，除非本来就更低。</p><p>持用者必须使用这根法杖，而不能使用任何其他近战武器或法术触发物品。即使法杖充能已满，施法者也无法恢复当天的法术位，除非她放弃一个法术位，为法杖恢复1次充能。然而，在摆脱诅咒之前，她永远无法再恢复这个用来给法杖充能的法术位。持用者摆脱这根法杖的唯一办法是@UUID[Compendium.pf1.spells.Item.suel7sgnztenv551]{神迹术}或@UUID[Compendium.pf1.spells.Item.nnj51dwfkwd15ngj]{祈愿术}。</p><h3>制作</h3><p><strong>需求</strong> 任意法杖</p>"
+        },
+        "Staff of Occasional Wonder": {
+            "name": "偶然奇迹法杖 (Staff of Occasional Wonder)",
+            "description": "<p><strong>灵光</strong> 不定；<strong>施法者等级</strong> 不定；<strong>部位</strong> 无；<strong>重量</strong> 4磅</p><p>偶然奇迹法杖可以呈现为任何一种魔法法杖，而且这类物品通常是在试图制作它所伪装的那种法杖时出了意外的产物。它通常能按预期起效，但每次有人使用这根法杖时，都必须掷d%。掷出1–10时，法杖不会产生期望的效果，而是如同@UUID[Compendium.pf1.items.Item.6DhqaqxvKCOCRY4h]{惊奇权杖}一样起效（见第185页）。</p><h3>制作</h3><p><strong>需求</strong> 任意法杖</p>"
+        },
+        "Stone of Weight (Loadstone)": {
+            "name": "重力石 (Stone of Weight (Loadstone))",
+            "description": "<p><strong>灵光</strong> 微弱变化系；<strong>施法者等级</strong> 5；<strong>部位</strong> 无；<strong>重量</strong> 1磅</p><p>这块黑色的磨光石头会使持有者的基础陆地速度减半。一旦被拾起，就无法用任何非魔法的手段处置掉——无论把它扔掉还是砸碎，它都会重新出现在持有者身上的某处。如果对这块重力石施放@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}，这件物品就可以正常丢弃，不再纠缠此人。</p><h3>制作</h3><p><strong>需求</strong> 艾恩石、警报石、操控地元素之石、幸运石</p>"
+        },
+        "Tome of Heretical Revelation": {
+            "name": "异端启示卷册 (Tome of Heretical Revelation)",
+            "description": "<p><strong>灵光</strong> 强烈防护系；<strong>施法者等级</strong> 17；<strong>部位</strong> 无；<strong>重量</strong> 5磅</p><p>这本厚厚的书看起来是一部充满哲学洞见的教育专著。任何阅读这本诅咒之书且有庇护主的人，必须通过一次DC 20的意志豁免，否则就会被一种压倒性的怀疑与绝望感吞没，对自己神祇的教诲彻底失去信仰。豁免失败的人会失去所有神术施法能力，以及授予神术的职业所提供的职业能力，并且无法在这些职业中获得更多等级。如果她进行赎罪（见@UUID[Compendium.pf1.spells.Item.qr6qcx8zqum6jhc4]{赎罪术}法术描述），就能恢复自己的能力和晋升潜力。意志豁免成功的读者仍会战栗10分钟。</p><h3>制作</h3><p><strong>需求</strong> 强身手册、健骨手册、通晓卷册、统驭卷册</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Unguent of Aging": {
+            "name": "衰老药膏 (Unguent of Aging)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 6；<strong>部位</strong> 无</p><p>这种药膏乍看之下像是@UUID[Compendium.pf-content.pf-wondrous.Item.qwxJPGEEvcqPLCYv]{永恒油膏}。然而，一旦它接触到活物的皮肤，或曾经有生命的物质，就会加速该生物或物品的衰老。接触药膏的活物会衰老30岁。曾经有生命的物质——例如木头、纸张或尸体——会崩解成灰并被毁灭。一瓶药膏足够作用于八个中型或更小的生物或物体。一个大型生物或物体算作两个中型生物或物体，一个超大型生物或物体算作四个中型生物或物体。</p><h3>制作</h3><p><strong>需求</strong> 永恒油膏</p>"
+        },
+        "Unlucky Figurine": {
+            "name": "恶运塑像 (Unlucky Figurine)",
+            "description": "<p><strong>灵光</strong> 中等惑控系；<strong>施法者等级</strong> 11；<strong>部位</strong> 无；<strong>重量</strong> 1磅</p><p>这座雕像看起来像是一件@UUID[Compendium.pf-content.pf-wondrous.Item.ekwnbHTnwOXaAEqS]{奇妙雕像}，但它非但不能活化并为主人效力，反而会用厄运诅咒它的主人。持有这座雕像期间，主人的AC和CMD受到-2减值，攻击掷骰、技能检定、属性检定和豁免检定也受到-2减值。</p><h3>制作</h3><p><strong>需求</strong> 任意奇妙雕像</p>"
+        },
+        "Unspeakable One's Vestments": {
+            "name": "不可言说者之法袍 (Unspeakable One's Vestments)",
+            "description": "<p><strong>灵光</strong> 强烈（学派不定）；<strong>施法者等级</strong> 15；<strong>部位</strong> 躯体；<strong>重量</strong> 1磅</p><p>这件法袍的功用与@UUID[Compendium.pf-content.pf-wondrous.Item.dGM1mlVE41PdojLS]{星光法袍}大致相同：赋予穿戴者对豁免检定的幸运加值、星界旅行，以及制造用魔法硬化的黄金所铸手里剑的能力。此外，穿戴者还获得+4的AC护甲加值。</p><p>法袍的诅咒在经常穿戴1个月后生效；或者当某个以哈斯塔或夏曼·朵为守护神的生物用法术或特殊能力影响穿戴者时，立即生效。穿戴者对这类效应的豁免检定失去幸运加值，反而承受-4减值。诅咒持续期间，穿戴者每次用法袍进入星界时，都会受到1d4点感知吸取，所造出的手里剑则是+5混乱手里剑。再连续使用1个月后，穿戴者会永久变为混乱邪恶阵营，并追求越来越妄想的目标——支配、敛财或无政府状态。法袍一旦穿上，只能用@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术脱下。</p><h3>制作</h3><p><strong>需求</strong> 星光法袍</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Unstable Musket": {
+            "name": "不稳定滑膛枪 (Unstable Musket)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 6；<strong>部位</strong> 无；<strong>重量</strong> 9磅</p><p>这件物品看起来是一把普通的+1@UUID[Compendium.pf1.weapons-and-ammo.Item.RFfwbr0xWBDWvExu]{滑膛枪}，但哑火范围为1–5。任何效应或能力都无法降低这一哑火范围。这把滑膛枪必须用作其主人的主要远程武器，只有在主人受到@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}法术或类似效应影响之后才能丢弃。</p><h3>制作</h3><p><strong>需求</strong> +1滑膛枪</p>"
+        },
+        "Unwieldy Glaive": {
+            "name": "笨拙大砍刀 (Unwieldy Glaive)",
+            "description": "<p><strong>灵光</strong> 微弱变化系；<strong>施法者等级</strong> 5；<strong>部位</strong> 无；<strong>重量</strong> 10磅</p><p>这把武器外观和功用都像一把+2@UUID[Compendium.pf1.weapons-and-ammo.Item.wKIv4yCj8L3ADceU]{大砍刀}，但无法用来进行借机攻击，而且每当持用者试图进行这样的攻击时还会拖累他。持用者试图进行借机攻击时，大砍刀会疯狂乱舞，使持用者失去平衡。持用者在AC和攻击检定上承受-2减值，直到其下一回合结束。</p><h3>制作</h3><p><strong>需求</strong> +2大砍刀</p>"
+        },
+        "Vacuous Grimoire": {
+            "name": "空虚魔典 (Vacuous Grimoire)",
+            "description": "<p><strong>灵光</strong> 强烈惑控系；<strong>施法者等级</strong> 20；<strong>部位</strong> 无；<strong>重量</strong> 2磅</p><p>这类书籍看起来就像一册论述某个略有趣味的主题的普通书籍。任何角色只要打开这本书、读了其中哪怕一个字，就必须进行两次DC 15的意志豁免。第一次用来判定读者是否受到1点永久智力吸取和1点永久魅力吸取，第二次用来判定读者是否受到2点永久感知吸取。要毁掉这本书，必须在施放@UUID[Compendium.pf1.spells.Item.o87h8gjxevcbztgd]{移除诅咒}的同时将其焚烧。如果魔典与其他书籍放在一起，它的外观会立即变化，与那些书籍的样子相符。</p><h3>制作</h3><p><strong>需求</strong> 祝福书、强身手册、健骨手册、灵巧手册、静思卷册</p>"
+        }
+    }
+}

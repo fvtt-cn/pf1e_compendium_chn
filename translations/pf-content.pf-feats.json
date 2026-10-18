@@ -2257,6 +2257,14 @@
             "name": "Covering Fire",
             "description": "<em>Your shot can put an enemy off guard, giving your teammates the opportunity to act.</em><br/><br/><b>Prerequisites</b><br/>Exotic Weapon Proficiency (firearms), Weapon Focus (at least one firearm).<br/><br/><b>Benefits</b><br/>When you hit a foe with a firearm for which you have Weapon Focus, that creature takes a -2 penalty on attack rolls for 1 round against any other ally that also has this feat; this changes to a -4 penalty on attacks of opportunity. The penalty applied by this feat does not stack with itself. However, if both you and an ally with this feat attack the same foe, you can cover each other (since a penalty you impose with this feat doesn't apply to attacks against you)."
         },
+        "Covering Fire (RTT)": {
+            "name": "掩护射击 (Covering Fire (RTT))",
+            "description": "<p><em>你的射击能让敌人失去戒备，从而给你的队友创造行动机会。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.BJBC4lbo7xGWPsKJ]{擅长异种武器}（火器）UC，@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}（至少一种火器）。</p><p><strong>效果</strong>：当你以一把你具有@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}的火器命中一个敌人时，该生物在对任何其他同样具有此专长的盟友进行的攻击检定上于1轮内承受–2减值；对于借机攻击，该减值改为–4。由此专长施加的减值不会与其自身叠加。然而，如果你与一名具有此专长的盟友同时攻击同一名敌人，你们可以互相@UUID[Compendium.pf-content.pf-feats.Item.KoLq2qthsPX08zxt]{掩护}（因为你借由此专长施加的减值不适用于针对你的攻击）。</p>"
+        },
+        "Covering Fire (VC)": {
+            "name": "掩护射击 (Covering Fire (VC))",
+            "description": "<p><em>你的射击能让敌人失去戒备，从而给你的队友创造行动机会。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.BJBC4lbo7xGWPsKJ]{擅长异种武器}（火器）UC，@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}（至少一种火器）。</p><p><strong>效果</strong>：当你以一把你具有@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}的火器命中一个敌人时，该生物在对任何其他同样具有此专长的盟友进行的攻击检定上于1轮内承受–2减值；对于借机攻击，该减值改为–4。由此专长施加的减值不会与其自身叠加。然而，如果你与一名具有此专长的盟友同时攻击同一名敌人，你们可以互相@UUID[Compendium.pf-content.pf-feats.Item.KoLq2qthsPX08zxt]{掩护}（因为你借由此专长施加的减值不适用于针对你的攻击）。</p>"
+        },
         "Covering Shield": {
             "name": "掩护之盾 (Covering Shield)",
             "description": "<p><em>你可以用你的盾牌在区域性效果中保护你最为脆弱的那部分。</em></p><p><strong>先决条件</strong>：敏捷13，盾牌专攻，擅长盾牌</p><p><strong>效果</strong>：当你使用符合盾牌专攻专长所需求的类型的盾牌时候，你在对抗区域性攻击效果时在反射豁免上获得等同于你的盾牌所拥有的基础AC加值外加任何从专长或职业能力上所获得的盾牌AC加值。此专长不能让你把盾牌上的任何增强加值附加到反射豁免上。</p>"
@@ -11437,6 +11445,14 @@
             "name": "Strangler",
             "description": "<em>Throttling the life out of enemies is second nature to you.</em><br/><br/><b>Prerequisites</b><br/>Dex 13, sneak attack +1d6, Improved Grapple, Improved Unarmed Strike.<br/><br/><b>Benefits</b><br/>Whenever you successfully maintain a grapple and choose to deal damage, you can spend a swift action to deal your sneak attack damage to the creature you are grappling."
         },
+        "Strangler (MC)": {
+            "name": "断喉索 (Strangler (MC))",
+            "description": "<p><em>你可以用套索勒住敌人。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.BJBC4lbo7xGWPsKJ]{擅长异种武器}（套索），@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}（套索）。</p><p><strong>效果</strong>：当你成功用套索（《开拓者规则书：进阶玩家手册》178页）纠缠一个生物，且你的战技检定结果超过目标的CMD至少5点时，目标无法高于耳语的音量说话，并且在施放带有语言成分的法术、使用命令词激发魔法物品或使用任何需要说话的魔法时，必须通过一次专注检定（DC=20+你的CMB+法术环位）才能成功。此外，从你所用的套索中挣脱的脱逃技能检定DC等于15或你的CMD，取较高者。</p>"
+        },
+        "Strangler (UC)": {
+            "name": "扼杀 (Strangler (UC))",
+            "description": "<p><em>扼杀敌人的生命是你的第二天性。</em></p><p><strong>先决条件</strong>：敏捷13，偷袭+1d6，@UUID[Compendium.pf1.feats.Item.ZmQkRk93nbHxsQSt]{精通擒抱}，@UUID[Compendium.pf1.feats.Item.2aTFNMs3pW6nUBlr]{精通徒手打击}。</p><p><strong>效果</strong>：每当你成功维持擒抱、并给对手造成伤害时，你能以迅捷动作将偷袭伤害加到伤害检定中。</p>"
+        },
         "Street Carnage": {
             "name": "街霸残虐击 (Street Carnage)",
             "description": "<p><em>对你来说，城镇的街道也是可以削骨去肉的战斗利器。</em></p><p><strong>先决条件</strong>：力量 15，@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}，@UUID[Compendium.pf1.feats.Item.2aTFNMs3pW6nUBlr]{精通徒手打击}，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，@UUID[Compendium.pf-content.pf-feats.Item.3YUjz00cIW0jgeOF]{街霸流}，@UUID[Compendium.pf-content.pf-feats.Item.AoQdmyazxZR6vFXP]{街角霸王拳}，BAB +8或武僧等级7级</p><p><strong>效果</strong>：当你使用@UUID[Compendium.pf-content.pf-feats.Item.3YUjz00cIW0jgeOF]{街霸流}期间，@UUID[Compendium.pf-content.pf-third-party.Item.ZmAwyO86RFKC9xjw]{徒手打击}的重击倍率变为x3，以取代原本的x2。</p>"
@@ -12616,6 +12632,14 @@
         "Underfoot": {
             "name": "钻胯而过 Underfoot",
             "description": "<b>专长类型：</b>Combat<br/><br/><em>你可以在敌人的身体下方和周围腾挪翻转。</em><br/><br/><b>先决条件: </b>闪避，灵活移动，体型小型或更小。<br/><br/><b>专长效果: </b>只要敌人的体型比你大，那么当你进行尝试穿过这些敌人而不受借机攻击的特技检定时，检定获得+4闪避加值。此外，当你在比你体型更大的敌人的威胁范围内移动，你的AC在对抗由此动作引起的借机攻击时获得+2闪避加值（这个加值与灵活移动提供的+4加值叠加，总计为+6）。<br/><br/><b>资源出处: </b>Advanced Players Guide pg. 173<br/><br/><b>原文索引: </b>https://www.aonprd.com/FeatDisplay.aspx?ItemName=Underfoot<br/><br/><b>战策增益：</b>你可以消耗2点耐力来在对抗一个与你体型相同的对手时使用这个专长，持续到你的回合结束。<br/><br/><b>战策资源出处: </b>Pathfinder Unchained pg. 135"
+        },
+        "Underfoot (APG)": {
+            "name": "足下缠斗 (Underfoot (APG))",
+            "description": "<p><em>你在你的敌人的空间爬进爬出来给他们制造麻烦</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{闪避}，群居种族特性</p><p><strong>效果</strong>：你能够和一个至少比你大一个等级的敌对生物共同占据一片空间。你在占据敌人的空间时AC获得+2盾牌加值，并且在对抗它时所有攻击获得+2加值。和你共占一个方格的生物在所有专注检定中承受-2罚值。进入对手占据的空间会引发借机攻击。这个能力不会和其他类似的使一个生物进入另外一个生物空间的能力叠加，例如@UUID[Compendium.pf1e-archetypes.pf-archetypes.Item.RO4okkABQ8swlSI9]{捕鼠者}游荡剑客的足下突袭炫技。</p><p><strong>特殊</strong>：本专长视为@UUID[Compendium.pf1.feats.Item.QaMwiDFQdDwycTUO]{扰法者(专长)}专长，用于满足以扰法者为先决条件的其他专长的资格。</p>"
+        },
+        "Underfoot (BotB)": {
+            "name": "足下缠斗 (Underfoot (BotB))",
+            "description": "<p><em>你在你的敌人的空间爬进爬出来给他们制造麻烦</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{闪避}，群居种族特性</p><p><strong>效果</strong>：你能够和一个至少比你大一个等级的敌对生物共同占据一片空间。你在占据敌人的空间时AC获得+2盾牌加值，并且在对抗它时所有攻击获得+2加值。和你共占一个方格的生物在所有专注检定中承受-2罚值。进入对手占据的空间会引发借机攻击。这个能力不会和其他类似的使一个生物进入另外一个生物空间的能力叠加，例如@UUID[Compendium.pf1e-archetypes.pf-archetypes.Item.RO4okkABQ8swlSI9]{捕鼠者}游荡剑客的足下突袭炫技。</p><p><strong>特殊</strong>：本专长视为@UUID[Compendium.pf1.feats.Item.QaMwiDFQdDwycTUO]{扰法者(专长)}专长，用于满足以扰法者为先决条件的其他专长的资格。</p>"
         },
         "Underhanded Teamwork": {
             "name": "卑鄙协作 (Underhanded Teamwork)",

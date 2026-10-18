@@ -1,0 +1,1258 @@
+{
+    "label": "遭遇表",
+    "entries": {
+        "City Streets": {
+            "name": "城市街道",
+            "results": {
+                "lHBcKsDEBtpaFSvT": {
+                    "description": "[[1d3]] 骑士 (fighter 4) [平均CR 6]"
+                }
+            }
+        },
+        "Coastal (AVG CR 6)": {
+            "name": "海岸（平均CR 6）",
+            "results": {
+                "735oh5kDoh19ywO9": {
+                    "description": "1 朽战尸船长 [CR 3]"
+                },
+                "9iFPtOUi2U8JI06X": {
+                    "description": "[[1d6]] 水手亡魂 [平均CR 10]"
+                },
+                "B9cp6EnSXs2y1TAc": {
+                    "description": "[[1d4]] 潮池龙 (Pathfinder #55, pg 82) [平均CR 5]"
+                },
+                "KvugjWCd8pLPm94k": {
+                    "description": "1 浮尸泥怪 [平均CR 5]"
+                },
+                "OYmuzzoFyNuybMA2": {
+                    "description": "1 班依普 [CR 3]"
+                },
+                "PwK65EWnpRPHhKLL": {
+                    "description": "1 巨蟹 [CR 2]"
+                },
+                "SxoSWJh1OiJ3oZdi": {
+                    "description": "[[1d4]] 海龙兽 [平均CR 8]"
+                },
+                "VSLItvtQqUlxptmi": {
+                    "description": "1 马形水怪 [CR 4]"
+                },
+                "WAWazK9sjvHpIiPo": {
+                    "description": "1 珊瑚魔像 [平均CR 9]"
+                },
+                "cxCoVl2q4PhBnRTK": {
+                    "description": "1 食鲨蟹 [平均CR 7]"
+                },
+                "hCqJv8oBPSkwlVxm": {
+                    "description": "[[1d6]] 朽战尸 [平均CR 5]"
+                },
+                "mVbaeIBubIWISOQ2": {
+                    "description": "[[1d6]] 礁爪怪 [平均CR 4]"
+                },
+                "t0TaKawhaaajMCBq": {
+                    "description": "[[1d4]] 巨鹰嘴龟 [平均CR 11]"
+                }
+            }
+        },
+        "Cold Mountains (High level)": {
+            "name": "寒冷山脉（高等级）",
+            "results": {
+                "3CQfU12ZaKQymO89": {
+                    "description": "[[2d3]] 霜巨人 [平均CR 12]"
+                },
+                "6Gms6YPwNgGdSX5n": {
+                    "description": "1 古白龙 [CR 15]"
+                },
+                "8Qu8SrU6VuZ4Kbqc": {
+                    "description": "2 云巨人 [CR 13]"
+                },
+                "BLXqmtSH10maRKFM": {
+                    "description": "1 符文巨人 [CR 17]"
+                },
+                "Jir6rOcNCKfNwCkL": {
+                    "description": "[[1d4]] 寒林巨人 [平均CR 15]"
+                },
+                "MSacZ8UWOw352DfS": {
+                    "description": "[[2d3]] 峭壁蜘蛛 [平均CR 12]"
+                },
+                "UAhH0odE2NI2NrDe": {
+                    "description": "1 风暴巨人 [CR 13]"
+                },
+                "jcLUkP3GNsL8OjtK": {
+                    "description": "[[2d4]] 石巨人 [平均CR 13]"
+                },
+                "jgK1PDvKrKH7fjSA": {
+                    "description": "1 温迪戈雪魔 [CR 17]"
+                },
+                "ju0IeYcI5ceMNbl3": {
+                    "description": "1 冰雪蛇龙 [CR 17]"
+                },
+                "unEnDzP04eTWKnF1": {
+                    "description": "[[2d6]] 山丘巨人 [平均CR 13]"
+                }
+            }
+        },
+        "Cold Mountains (Low Level)": {
+            "name": "寒冷山脉（低等级）",
+            "results": {
+                "4OG4rE9aJGvGus5r": {
+                    "description": "1 夜嘶猎犬 [CR 3]"
+                },
+                "6Fi7Kjzt3aJkjeZN": {
+                    "description": "1 穴钓蟹 [CR 2]"
+                },
+                "GwGy4lo6Sz0K8bG1": {
+                    "description": "[[2d4]] 袭掠者 (human rogue 2) [平均CR 3]"
+                },
+                "IdpusNmUcV7JgpQ9": {
+                    "description": "1 潜伏客 [CR 1]"
+                },
+                "KO4OCEwfgwPqmQef": {
+                    "description": "1 北极熊 [CR 5]"
+                },
+                "Knqfe1llyC1x06vn": {
+                    "description": "[[1d4]] 巨蜘蛛 [平均CR 4]"
+                },
+                "QUGpRFcUeHnXR5bH": {
+                    "description": "1 十腕章鱼 [CR 4]"
+                },
+                "WQkuDUubXiCelHPK": {
+                    "description": "1 食尸鬼 [CR 1]"
+                },
+                "YI88xkdWuVgQ1cnt": {
+                    "description": "1 食人魔 [CR 4]"
+                },
+                "jwYpii9rsXsHhwtH": {
+                    "description": "[[2d3]] 凶暴鼠 [平均CR 3]"
+                },
+                "lg1Po9o5SqG3tjkc": {
+                    "description": "1 雪人 [CR 4]"
+                },
+                "oxX98XTsQRHQhd2B": {
+                    "description": "[[2d3]] 蚊蝠 [平均CR 3]"
+                }
+            }
+        },
+        "Cold Mountains (Medium Level)": {
+            "name": "寒冷山脉（中等级）",
+            "results": {
+                "3PGkVSBomHDXT4hI": {
+                    "description": "1 山丘巨人 [CR 7]"
+                },
+                "3QpNdtMCWn8lylHT": {
+                    "description": "[[3d4]] 食人魔 [平均CR 10]"
+                },
+                "BiyLM8BohqxqHaaw": {
+                    "description": "2 石巨人 [CR 10]"
+                },
+                "Q30pjW1bCLzihtH4": {
+                    "description": "1 百足魔虫 [CR 7]"
+                },
+                "RgUH5wlHk5Ny1ciS": {
+                    "description": "[[2d3]] 鹰身女妖 [平均CR 8]"
+                },
+                "SJVCoVRbVqb6kS7M": {
+                    "description": "1 冷原之民 [CR 8]"
+                },
+                "VnQe7Cu4dfThV8tT": {
+                    "description": "1 大鹏 [CR 9]"
+                },
+                "d6S0HRvuiIs9ItqJ": {
+                    "description": "2 蔓生怪 [CR 8]"
+                },
+                "hYpnLnQfOYxVMd1M": {
+                    "description": "1 凶暴北极熊 [CR 7]"
+                },
+                "jKkTH4BDBecHMtGS": {
+                    "description": "3 索尔石怪 [CR 9]"
+                },
+                "nV2ffB4bIPv9mNtU": {
+                    "description": "[[2d4]] 袭掠者 (CN Human Rogue 4) [平均CR 8]"
+                },
+                "tBSDGGEOZBz97V8w": {
+                    "description": "1 峭壁蜘蛛 [CR 8]"
+                },
+                "ub7cKZePP1GCqLrT": {
+                    "description": "3 霜龙兽 [平均CR 11]"
+                },
+                "w6gGw4vQ63h3x4zf": {
+                    "description": "[[2d4]] 拉米亚 [平均CR 9]"
+                }
+            }
+        },
+        "Crypt Random Encounters": {
+            "name": "墓穴随机遭遇",
+            "results": {
+                "32jr9jzTk5m6eXrG": {
+                    "description": "1 幽灵 [CR 7]"
+                },
+                "Mng2sQhRU1Gv5hwj": {
+                    "description": "[[1d6]] 德洛人 [平均CR 6]"
+                },
+                "OQfNwKagIFBLU1LM": {
+                    "description": "1 守墓怪 [CR 5]"
+                },
+                "aQ3oNH7d2XxiRSAE": {
+                    "description": "[[1d10]] 巨蛆 [平均CR 4]"
+                },
+                "eMhtTXtYoEYzaNUt": {
+                    "description": "1 怨灵 [CR 6]"
+                },
+                "gI0nYq3j9RjFZQl2": {
+                    "description": "[[1d6]] 尸妖 [平均CR 6]"
+                },
+                "kqtY4Ij4EGCZiHym": {
+                    "description": "[[1d6]] 蜘蛛群 [平均CR 3]"
+                },
+                "uPF8ysZfugq3JOh9": {
+                    "description": "[[1d6]] 吸血鬼衍体 [平均CR 8]"
+                },
+                "uq22sQrQZoMQHWk9": {
+                    "description": "[[1d4]] 缚灵 [平均CR 7]"
+                },
+                "wQCyn9UvvaXVh6zH": {
+                    "description": "1 柱人像 [CR 3]"
+                },
+                "xksVgOtZdXzuyWgD": {
+                    "description": "1 魔魂尸 [CR 8]"
+                }
+            }
+        },
+        "Dark Bog Random Encounters": {
+            "name": "黑暗泥沼随机遭遇",
+            "results": {
+                "0EXWv1JxkAvtq5LX": {
+                    "description": "1 魔鬼鱼 [CR 4]"
+                },
+                "27c3WqcAxftjSQLi": {
+                    "description": "[[2d6]] 地精犬 [平均CR 5]"
+                },
+                "6PMNDXvGyt8ZcbXm": {
+                    "description": "1 蔓生怪 [CR 6]"
+                },
+                "8bCuwlWEWpBPoqUg": {
+                    "description": "[[1d4]] 蚊群 [平均CR 5]"
+                },
+                "Da6ulGoxUhbt8QNK": {
+                    "description": "[[1d4]] 鬼火 [平均CR 8]"
+                },
+                "HOMOn4WmKU4aoC67": {
+                    "description": "1 蝙蝠群 [CR 2]"
+                },
+                "KNHYymTJA90NPbJr": {
+                    "description": "1 班依普 [CR 4]"
+                },
+                "Mhcphq2Z6yxQLJPX": {
+                    "description": "[[1d4]] 双头蛇 [平均CR 6]"
+                },
+                "SSmRzvoBFxGtplpm": {
+                    "description": "[[1d4]] 食腐怪 [平均CR 6]"
+                },
+                "SmTQ52PeyzLaEkTa": {
+                    "description": "3 绿鬼婆 [CR 8]"
+                },
+                "W8qhIVCUjbRu7jiX": {
+                    "description": "[[1d12]] 巨苍蝇 [平均CR 4]"
+                },
+                "WJ8nmn9XDDXhYHZN": {
+                    "description": "1 沼原魔蟾 [CR 10]"
+                },
+                "XSLEwDS1yRcXyBfs": {
+                    "description": "[[1d12]] 闪电蜥蜴 [平均CR 7]"
+                },
+                "aZp3EB4o2f7BL3e5": {
+                    "description": "1 巨蛞蝓 [CR 8]"
+                },
+                "apdiBAbDm44j5dCR": {
+                    "description": "[[1d4]] 死亡缠体 [平均CR 6]"
+                },
+                "b1kndwUhheLzgEc1": {
+                    "description": "1 沼喉怪 [CR 13]"
+                },
+                "bAVxHad3JqxmC7Lx": {
+                    "description": "1 马形水怪 [CR 4]"
+                },
+                "bhbxsBg7jnUM5cSV": {
+                    "description": "1 黑布丁怪 [CR 7]"
+                },
+                "i3n0QbOHnv9OyN0C": {
+                    "description": "[[1d4]] 杀人藤 [平均CR 4]"
+                },
+                "lk6yAh0ajTF5MRTD": {
+                    "description": "[[1d6]] 巨魔 [平均CR 8]"
+                },
+                "pTPYsQW70r0sxafW": {
+                    "description": "[[2d12]] 蚊蝠 [平均CR 5]"
+                },
+                "qdqlwT7GxaSkCRbY": {
+                    "description": "[[1d12]] 鹰身女妖 [平均CR 9]"
+                },
+                "tPvSKrYMAaHflFVH": {
+                    "description": "[[1d4]] 黑暗娜迦 [平均CR 10]"
+                },
+                "vv3SlyhN6PGVIJUi": {
+                    "description": "[[1d6]] 沼泽巨人 [平均CR 11]"
+                },
+                "wHAlpk61oJV7vj0b": {
+                    "description": "[[2d6]] 地精 [平均CR 2]"
+                },
+                "y9L3HGpU9YUapmi0": {
+                    "description": "[[1d6]] 无面潜行者 [平均CR 7]"
+                },
+                "yeRHp0O03iRkjo1S": {
+                    "description": "1 披着羊皮的狼 [CR 8]"
+                },
+                "yiZlvYK9f6SaFwfB": {
+                    "description": "[[1d6]] 巨水蛭 [平均CR 5]"
+                }
+            }
+        },
+        "Dark and Twisted Swamp": {
+            "name": "黑暗扭曲沼泽"
+        },
+        "Deep Sea (AVG CR 9)": {
+            "name": "深海（平均CR 9）",
+            "results": {
+                "9HBKIAwLy2oLxrda": {
+                    "description": "1 深海蛇 [CR 19]"
+                },
+                "F2mer6Viy0bJUlg6": {
+                    "description": "[[1d4]] 鮟鱇人 [平均CR 5]"
+                },
+                "I9vROglVGrEFttRI": {
+                    "description": "[[1d6]] 巨水母 [平均CR 10]"
+                },
+                "OzgivcAFNNYTQv5Y": {
+                    "description": "1 克拉肯 [CR 18]"
+                },
+                "U4g4JCIe1DBBYp1p": {
+                    "description": "[[1d4]] 鲨鱼 [平均CR 4]"
+                },
+                "VCYV1nMq3wTMOSvG": {
+                    "description": "1 斩舰蟹 [CR 13]"
+                },
+                "ZCU4BGcU1ds0Ogga": {
+                    "description": "1 巨海葵 [CR 2]"
+                },
+                "aeUIa88TuheM4jt2": {
+                    "description": "[[1d8]] 梭螺鱼人 [平均CR 5]"
+                },
+                "deVTjfkBrtty30hv": {
+                    "description": "1 卡律布狄斯 [CR 13]"
+                },
+                "kClQ7JfFyzEqJdHq": {
+                    "description": "1 大白鲸 [CR 14]"
+                },
+                "mwEONAaixnjgvKNc": {
+                    "description": "[[1d4]] 死神之颅水母 [平均CR 3]"
+                },
+                "nQmsyweAL0aSmnTx": {
+                    "description": "1 海洋祸害 [CR 6]"
+                },
+                "odHkMSboh5ap4LoG": {
+                    "description": "[[1d4]] 魔鬼鱼 [平均CR 6]"
+                },
+                "uFCJJioMQhQpZSCS": {
+                    "description": "[[1d6]] 水母群 [平均CR 9]"
+                }
+            }
+        },
+        "Desert (AVG CR 6)": {
+            "name": "沙漠（平均CR 6）",
+            "results": {
+                "1101zSWNKP62XULa": {
+                    "description": "1 巨蝎 [CR 3]"
+                },
+                "2npm5r0ztan25UX1": {
+                    "description": "1 蝙蝠群 [CR 2]"
+                },
+                "GeolAW3tqKHikU18": {
+                    "description": "1 成年黄铜龙 [CR 11]"
+                },
+                "OkKiIhHQLeyyFWO0": {
+                    "description": "1 木乃伊 [CR 5]"
+                },
+                "QjgiYMjeewwcR52O": {
+                    "description": "1 巨蜘蛛 [CR 1]"
+                },
+                "Tq1PHFE3B67sadsL": {
+                    "description": "1 骷髅勇士 [CR 2]"
+                },
+                "ZneyFY365V1G46Ak": {
+                    "description": "1 青足龙蛇 [CR 8]"
+                },
+                "gHvGY8ho2mY0W4Ud": {
+                    "description": "1 成年蓝龙 [CR 13]"
+                },
+                "kCKM2mAvD6UOGC9g": {
+                    "description": "[[1d3]] 凶暴蝙蝠 [平均CR 4]"
+                },
+                "kNMnMkLwQRERShxG": {
+                    "description": "1 石化蜥蜴 [CR 5]"
+                },
+                "rJSKuUiMDygXZo6K": {
+                    "description": "1 拉米亚 [CR 6]"
+                },
+                "uG2or0MHjqmNoZpS": {
+                    "description": "[[1d6]] 毒蛇 [平均CR 5]"
+                },
+                "vx2rFOhQ33zyQ9LB": {
+                    "description": "[[2d6]] 巨蚁 [平均CR 8]"
+                },
+                "w6dYA1IgdtvPKXe0": {
+                    "description": "[[1d8]] 人类骷髅 [平均CR 2]"
+                },
+                "wZHiO9qAZyw0pZgI": {
+                    "description": "1 百足魔虫 (cold desert only) [CR 7]"
+                }
+            }
+        },
+        "Dungeon (Avg. CR 10)": {
+            "name": "地城（平均CR 10）"
+        },
+        "Dungeon (Avg. CR 2)": {
+            "name": "地城（平均CR 2）"
+        },
+        "Dungeon (Avg. CR 5)": {
+            "name": "地城（平均CR 5）"
+        },
+        "Forest, Temperate (AVG CR 5)": {
+            "name": "温带森林（平均CR 5）",
+            "results": {
+                "3G3Px8Wj4SG07AA1": {
+                    "description": "1 巨螳螂 [CR 3]"
+                },
+                "AowQQmSMUhLh1ONh": {
+                    "description": "1 凶暴野猪 [CR 4]"
+                },
+                "BK7Gj2rtzAtAWpHz": {
+                    "description": "1 杀人藤 [CR 3]"
+                },
+                "GkKVIE3aL1nwhwNN": {
+                    "description": "[[1d4]] 凶暴蝙蝠 [平均CR 4]"
+                },
+                "HF6JtjiCyRECPEFh": {
+                    "description": "1 树人 [CR 8]"
+                },
+                "MlnZgfzFEWJjiaSE": {
+                    "description": "[[1d4]] 野猪 [平均CR 4]"
+                },
+                "OmF2t9J1EGYEzlrT": {
+                    "description": "1 蝙蝠群 [CR 2]"
+                },
+                "XpXUm34ea9ExHq0a": {
+                    "description": "[[1d4]] 蔓生怪 [平均CR 9]"
+                },
+                "ieBwdA95CAjUrUjI": {
+                    "description": "1 凶暴虎 [CR 8]"
+                },
+                "ktn5gWjKB1FnoWX6": {
+                    "description": "[[1d6]] 人马 [平均CR 7]"
+                },
+                "l4EGlI5EH9gkdVJx": {
+                    "description": "[[1d4]] 巨蜘蛛 [平均CR 4]"
+                },
+                "ndpMvSfnziskTJ1l": {
+                    "description": "1 宁芙 [CR 7]"
+                },
+                "sqrmiMfa0ZDZc6I9": {
+                    "description": "1 枭熊 [CR 4]"
+                },
+                "st70sTMmuBOIv6vr": {
+                    "description": "1 独角兽 [CR 3]"
+                },
+                "ukcQAjpzu1XRHF7v": {
+                    "description": "1 巨锹甲虫 [CR 4]"
+                },
+                "v064Zw2Ev3RwKewk": {
+                    "description": "1 虎 [CR 4]"
+                }
+            }
+        },
+        "High Mountain": {
+            "name": "高山",
+            "results": {
+                "3zKzTDEWoJbTprvr": {
+                    "description": "1 符文巨人 [CR 14]"
+                },
+                "CALui20MSURJTF5g": {
+                    "description": "1 冷原之民 [CR 7]"
+                },
+                "LJzxiIfXq6fBvXAq": {
+                    "description": "[[1d4]] 大鹏 [平均CR 11]"
+                },
+                "OOGCkJpL1czDzghY": {
+                    "description": "[[1d4 + 1]] 霜巨人 [平均CR 12]"
+                },
+                "Q61wauJmnLH4nxUe": {
+                    "description": "1 成年蓝龙 [CR 14]"
+                },
+                "QbwQgyQzcQ8F0GJ0": {
+                    "description": "1 温迪戈雪魔 [CR 17]"
+                },
+                "YlSPkrKFdoan4sDY": {
+                    "description": "1 冰魔 [CR 13]"
+                },
+                "eX6SHuXXNZdKwg59": {
+                    "description": "[[1d6]] 峭壁蜘蛛 [平均CR 11]"
+                },
+                "ft3zbbDVpYo9hYv4": {
+                    "description": "[[1d4]] 云巨人 [平均CR 13]"
+                }
+            }
+        },
+        "Islands (Avg. CR 8)": {
+            "name": "群岛（平均CR 8）",
+            "results": {
+                "434pxYEGiXDasSCZ": {
+                    "description": "[[1d4]] 奇卡尼 [平均CR 5]"
+                },
+                "KlO8fZZpOb4H4xYv": {
+                    "description": "1 拉拉贝 [CR 11]"
+                },
+                "MFvlduCR1HPVF1Ah": {
+                    "description": "1 贾布贾布鸟 [CR 15]"
+                },
+                "TncxXmwavpKf4guC": {
+                    "description": "1 老年尼伦托 [CR 6]"
+                },
+                "UkucAAEmaOOQI2Lc": {
+                    "description": "[[1d4]] 丛林巨人 [平均CR 12]"
+                },
+                "bolCd9Bmltts28Bb": {
+                    "description": "[[1d4]] 庭院泥怪 [平均CR 4]"
+                },
+                "hkj6n5JRi58x6x2k": {
+                    "description": "[[1d4]] 康加马托 [平均CR 17]"
+                },
+                "kPLld9CigXdtqAVv": {
+                    "description": "1 风暴巨人 [CR 13]"
+                },
+                "vreMbCYhRTGgC37F": {
+                    "description": "[[1d4]] 独目鬼 [平均CR 12]"
+                },
+                "y0VHIbLQv2PRAltG": {
+                    "description": "[[1d4]] 苏库扬 [平均CR 10]"
+                }
+            }
+        },
+        "Jungle City Random Encounters": {
+            "name": "丛林城市随机遭遇",
+            "results": {
+                "06lsdUxRk8CNFbjE": {
+                    "description": "[[1d6]] 幽影 [平均CR 6]"
+                },
+                "9a8rAU7kVegNIdg3": {
+                    "description": "[[1d4]] 凶暴猿 [平均CR 5]"
+                },
+                "FglmrX1GCxryq9ET": {
+                    "description": "1 木乃伊 [CR 5]"
+                },
+                "GwFcvNojKLmcvMIE": {
+                    "description": "[[1d6]] 食人猿 [平均CR 6]"
+                },
+                "LCy940nygN5EHlAX": {
+                    "description": "[[2d6]] 战蜥人 [平均CR 6]"
+                },
+                "MKe6eIjnkfz4cjbu": {
+                    "description": "[[1d4]] 卡穆拉兹 [平均CR 9]"
+                },
+                "Tpd0iTFzeeG5Qd0j": {
+                    "description": "[[1d4]] 凶暴蝙蝠 [平均CR 4]"
+                },
+                "UviSoqBHawIqvWFR": {
+                    "description": "1 惧噬体 [CR 5]"
+                },
+                "YpPnEvGFBLI4jJUK": {
+                    "description": "[[1d6]] 尸妖 [平均CR 6]"
+                },
+                "c8u7bQoet73puBYw": {
+                    "description": "[[2d4]] 沼蜍人 [平均CR 6]"
+                },
+                "ffD5xNrxndWPWlZr": {
+                    "description": "[[1d6]] 野猪 [平均CR 5]"
+                },
+                "geJRYpyUqAM33vuA": {
+                    "description": "[[1d6]] 毒蛇群 [平均CR 7]"
+                },
+                "nu3rwROhOPK5EHW2": {
+                    "description": "1 奇美拉 [CR 7]"
+                },
+                "soS9D0AOu4mBCTsO": {
+                    "description": "[[1d8]] 巨型食人鱼集群 [平均CR 10]"
+                },
+                "xiveHEJ95loC0NbQ": {
+                    "description": "1 虎 [CR 4]"
+                },
+                "yfmbrfEFDZl53anU": {
+                    "description": "[[1d6]] 鳄鱼 [平均CR 5]"
+                },
+                "z6XJyfdw8fuzCsPE": {
+                    "description": "[[1d4]] 四臂猩猩 [平均CR 8]"
+                },
+                "zDk2BfIod1xh6S4q": {
+                    "description": "1 石化蜥蜴 [CR 5]"
+                }
+            }
+        },
+        "Jungle Random Encounters": {
+            "name": "丛林随机遭遇",
+            "results": {
+                "66p0M68eth9qPYei": {
+                    "description": "1 河马 [CR 5]"
+                },
+                "FLVmLolm7vDEnynU": {
+                    "description": "1 凶暴虎 [CR 8]"
+                },
+                "FQzb8o6MDrH5gRyT": {
+                    "description": "[[1d6]] 毒蛇 [平均CR 4]"
+                },
+                "G9I2vyNZQTUMAX52": {
+                    "description": "1 行军蚁集群 [CR 5]"
+                },
+                "RmAKmkg1WPvnIvQQ": {
+                    "description": "[[2d6]] 比洛科 [平均CR 4]"
+                },
+                "VHCQu4W2xYFRD9Il": {
+                    "description": "1 四臂猩猩 [CR 6]"
+                },
+                "Zf1m4nar6I1QFK5f": {
+                    "description": "[[1d4]] 巨蜘蛛 [平均CR 3]"
+                },
+                "fPE1s8gna09Gn6xu": {
+                    "description": "[[2d6]] 猴子 [平均CR 2]"
+                },
+                "h0GwCAYbMBAGcVQG": {
+                    "description": "1 巨伞蜥 [CR 5]"
+                },
+                "kO7PBr4rAi6fJpkf": {
+                    "description": "1 血雾蚊群 [CR 6]"
+                },
+                "p9drRZu6tglQFGQu": {
+                    "description": "1 切莫西特 [CR 4]"
+                },
+                "xH6a92zj417jfyIG": {
+                    "description": "1 马蝇群 [CR 4]"
+                },
+                "yZAWZd8gdCJJO7ok": {
+                    "description": "[[1d6]] 查咯猿人 [平均CR 5]"
+                }
+            }
+        },
+        "Jungle [Warm] (AVG CR 5)": {
+            "name": "丛林［温暖］（平均CR 5）",
+            "results": {
+                "3Zbd6RMnGoI8zERt": {
+                    "description": "1 黄麝香匍匐者 [CR 2]"
+                },
+                "6Hpzb1NXsGSBXbc5": {
+                    "description": "1 蝙蝠群 [CR 2]"
+                },
+                "96PJ2MD4oPLX68Oi": {
+                    "description": "1 虎 [CR 4]"
+                },
+                "BbnRZftn0jTh24dP": {
+                    "description": "[[1d6]] 王蜥 [平均CR 6]"
+                },
+                "GcFL18BbFRGgV7bg": {
+                    "description": "1 凶暴虎 [CR 8]"
+                },
+                "GpuZPUmbQVKvhnQs": {
+                    "description": "1 凶暴野猪 [CR 4]"
+                },
+                "Jta9tplz6EvwZIWV": {
+                    "description": "[[1d6]] 凶暴猿 [平均CR 7]"
+                },
+                "VWt79ZKFokNpBedI": {
+                    "description": "1 树人 [CR 8]"
+                },
+                "b6FC2ibsaFFE2Fd7": {
+                    "description": "1 大蟒 [CR 2]"
+                },
+                "ifyyTP24iluDjhmO": {
+                    "description": "[[1d4]] 野猪 [平均CR 4]"
+                },
+                "jqyilNndzWU1vPmP": {
+                    "description": "1 行军蚁集群 [CR 5]"
+                },
+                "q0melHzryPSTIFW4": {
+                    "description": "[[1d4]] 四臂猩猩 [平均CR 9]"
+                },
+                "qkthrpwSu1Gxhojn": {
+                    "description": "[[1d4]] 巨蜘蛛 [平均CR 4]"
+                },
+                "sPbcR8kdNlhRx6Iv": {
+                    "description": "[[1d4]] 蔓生怪 [平均CR 9]"
+                },
+                "tolfypvdbPXlMWTQ": {
+                    "description": "1 宁芙 [CR 7]"
+                },
+                "yZMk8lBO8ke8OSvu": {
+                    "description": "[[1d6]] 巨蜈蚣 [平均CR 3]"
+                },
+                "zIDR4UAj8VXFqAQo": {
+                    "description": "1 巨伞蜥 [CR 5]"
+                }
+            }
+        },
+        "Lawless Port City": {
+            "name": "无法港城",
+            "results": {
+                "FUSaMEqxISCP6BOv": {
+                    "description": "1 礁爪怪 [CR 1]"
+                },
+                "Pvln6h9iDf8Eet3l": {
+                    "description": "1 猴子 [CR 1/6]"
+                },
+                "T2wx029VcxhrbQLr": {
+                    "description": "1 鼠群 [CR 2]"
+                },
+                "Y7SR2c4H6pmx0Crn": {
+                    "description": "1 扒手 [CR 1/2]"
+                },
+                "pKUT02npMYzKyUVJ": {
+                    "description": "1 行骗艺术家 [CR 1/2]"
+                },
+                "ujVt4t2RqKdMqXe6": {
+                    "description": "1 妓女 [CR 1/2]"
+                },
+                "z5Il6QLOXuPEBkXh": {
+                    "description": "1 地精蛇 [CR 1]"
+                }
+            }
+        },
+        "Low-level Ocean Encounters": {
+            "name": "低等级海洋遭遇",
+            "results": {
+                "0YKJ8GIK5z3Qaf7n": {
+                    "description": "1 赛卡利亚 [CR 5]"
+                },
+                "6BUk8GPWFNZ7GlW9": {
+                    "description": "1 海鬼婆 [CR 4]"
+                },
+                "Gr6IEXFA4CnRczQE": {
+                    "description": "1 水母群 [CR 6]"
+                },
+                "Q0ogT46k1PLXxEuo": {
+                    "description": "1 班依普 [CR 3]"
+                },
+                "ijDSP62q2jKC3zsP": {
+                    "description": "1 浮尸泥怪 [CR 5]"
+                },
+                "lfMMXU3L9QM31DVz": {
+                    "description": "1 乌贼 [CR 1]"
+                },
+                "mMiIbv0r9EXJziWg": {
+                    "description": "1 鲛人 [CR 3]"
+                },
+                "tSK3QlkGajeVa6Cr": {
+                    "description": "1 巨海鳗 [CR 5]"
+                }
+            }
+        },
+        "Ocean (AVG CR8)": {
+            "name": "海洋（平均CR 8）",
+            "results": {
+                "0qurJDcd6M18E2Jo": {
+                    "description": "1 克拉肯 [CR 18]"
+                },
+                "17wmBkyWZomBpQOo": {
+                    "description": "1 巨乌贼 [CR 9]"
+                },
+                "1pK0zYwoE3rRsv2D": {
+                    "description": "1 海蛇 [CR 12]"
+                },
+                "GPiYKGFZAgha32JC": {
+                    "description": "1 修格斯 [CR 19]"
+                },
+                "KovGX0iIZnkwEvWf": {
+                    "description": "1 海鬼婆 [CR 4]"
+                },
+                "MuOiBgjDM2RC7OXy": {
+                    "description": "1 底栖魔鱼 [CR 7]"
+                },
+                "MzYvlLveYacwCggc": {
+                    "description": "1 龙龟 [CR 9]"
+                },
+                "VQcr7lcrbouzFDQO": {
+                    "description": "1 凶暴鲨 [CR 9]"
+                },
+                "d9tznaR9tffBmJnP": {
+                    "description": "1 章鱼 [CR 1]"
+                },
+                "iZAeTEImfoSCf5eL": {
+                    "description": "1 水元素长老 [CR 11]"
+                },
+                "kk2EBVyiJbh9En4f": {
+                    "description": "1 巨章鱼 [CR 8]"
+                }
+            }
+        },
+        "Overgrown Fallen City (High Level)": {
+            "name": "荒芜废城（高等级）",
+            "results": {
+                "XDWKO7S0BZGUbOxR": {
+                    "description": "1 古黑龙 [CR 16]"
+                }
+            }
+        },
+        "Overgrown Fallen City (Low Level)": {
+            "name": "荒芜废城（低等级）",
+            "results": {
+                "83IyzqIhRc0R02vH": {
+                    "description": "1 水蛭群 [CR 4]"
+                },
+                "AFFb0Jzst5ipcQbv": {
+                    "description": "1 巨海鳗 [CR 5]"
+                },
+                "ItERtgG5f23ObpZL": {
+                    "description": "1 绿鬼婆 [CR 5]"
+                },
+                "uzTbS9UyepoxBYos": {
+                    "description": "1 蜈蚣群 [CR 4]"
+                }
+            }
+        },
+        "Overgrown Fallen City (Medium Level)": {
+            "name": "荒芜废城（中等级）",
+            "results": {
+                "CDUIlFVreTJlPSYv": {
+                    "description": "1 蔓生怪 [CR 6]"
+                },
+                "EdWObOTZBjVwpTBd": {
+                    "description": "1 甲伏怪 [CR 7]"
+                },
+                "U4pOYqlp7DGqTHkR": {
+                    "description": "1 木魔像 [CR 6]"
+                },
+                "aidTIWWvmyk0FGQx": {
+                    "description": "1 巨蛞蝓 [CR 8]"
+                }
+            }
+        },
+        "Plains Random Encounters": {
+            "name": "平原随机遭遇",
+            "results": {
+                "GfWVbgD6wyx7flwy": {
+                    "description": "1 凶暴狮 [CR 5]"
+                },
+                "HU2KMdsxfBb1EM57": {
+                    "description": "1 凶暴虎 [CR 8]"
+                },
+                "P1dLJL24EA38Cif3": {
+                    "description": "1 马蝇群 [CR 4]"
+                },
+                "YHic3WRxKTaIeu5Y": {
+                    "description": "1 鸡蛇兽 [CR 3]"
+                },
+                "nTCxiltvNCoEKTd0": {
+                    "description": "1 象 [CR 7]"
+                },
+                "ofUPf7r0yoO4Arj6": {
+                    "description": "1 巨蝎 [CR 3]"
+                },
+                "zOH0t8xVzzv3lxcY": {
+                    "description": "1 犀牛 [CR 4]"
+                }
+            }
+        },
+        "Plains Savannah Warm (AVG CR7)": {
+            "name": "温暖稀树草原（平均CR 7）",
+            "results": {
+                "4IM0MChFcKSMJYat": {
+                    "description": "1 凶暴狮 [CR 5]"
+                },
+                "CXebRBWUu6941Xl6": {
+                    "description": "1 凶暴虎 [CR 8]"
+                },
+                "H80yhoXgGWJZhKmS": {
+                    "description": "1 巨伞蜥 [CR 5]"
+                },
+                "MspdoZB9Xgi9V2lz": {
+                    "description": "1 巨蝎 [CR 3]"
+                },
+                "p6Hylg4Is1sCxBTB": {
+                    "description": "1 鸡蛇兽 [CR 3]"
+                }
+            }
+        },
+        "Ruined City (Avg. CR 6)": {
+            "name": "废城（平均CR 6）"
+        },
+        "Ruined City (High Level)": {
+            "name": "废城（高等级）"
+        },
+        "Ruined City (Low Level)": {
+            "name": "废城（低等级）",
+            "results": {
+                "DJcus6c8VDZnB9H4": {
+                    "description": "1 飞猿 [CR 5]"
+                },
+                "Gir7oVUtIMmyomDl": {
+                    "description": "1 蝙蝠群 [CR 2]"
+                },
+                "H6cU71Kc0UX5EFKA": {
+                    "description": "1 行军蚁集群 [CR 5]"
+                },
+                "IOWQ3xOKRKNhjWjZ": {
+                    "description": "1 幽影 [CR 3]"
+                },
+                "OnJKwlzOwNtdrvdQ": {
+                    "description": "1 四臂猩猩 [CR 6]"
+                },
+                "TmQci7IYdgEfr5DX": {
+                    "description": "1 毒蛇 [CR 1]"
+                },
+                "kP0rksoT0bVR3aYJ": {
+                    "description": "1 双足飞龙 [CR 6]"
+                },
+                "xfV0CAz83mqnB26o": {
+                    "description": "1 大蟒 [CR 2]"
+                }
+            }
+        },
+        "Ruined City (Medium Level)": {
+            "name": "废城（中等级）",
+            "results": {
+                "GDUYzUwJNS7lwP4j": {
+                    "description": "1 陷阱蝎 [CR 8]"
+                }
+            }
+        },
+        "Ruined City Risen from the Sea (High Level)": {
+            "name": "海中升起的废城（高等级）"
+        },
+        "Ruined City Risen from the Sea (Low Level)": {
+            "name": "海中升起的废城（低等级）",
+            "results": {
+                "53iuBCNoHRcqiTNU": {
+                    "description": "1 相位蜘蛛 [CR 5]"
+                },
+                "5zbopAn69dK6w7UT": {
+                    "description": "1 努鲁乌加尔之泪 [CR 6]"
+                },
+                "NJx0Orgtc4H60sh7": {
+                    "description": "1 礁爪怪 [CR 1]"
+                }
+            }
+        },
+        "Ruined City Risen from the Sea (Medium Level)": {
+            "name": "海中升起的废城（中等级）",
+            "results": {
+                "cw3DO9QIXoE6opyE": {
+                    "description": "1 闪耀之子 [CR 12]"
+                },
+                "gSZ8E0jr3QcFDe1s": {
+                    "description": "1 幽魂 [CR 7]"
+                }
+            }
+        },
+        "Ruined City in the Desert (High Level)": {
+            "name": "沙漠废城（高等级）",
+            "results": {
+                "3n03cXBsEGzUlmnL": {
+                    "description": "1 古蓝龙 [CR 18]"
+                },
+                "BPoKmOOp6QH4oWaj": {
+                    "description": "2 黑蝎 [CR 17]"
+                },
+                "R6gLGWsJ7Ojok0BC": {
+                    "description": "1 三身魔蛇 [CR 15]"
+                },
+                "jkoNYcowAeQ1xaAd": {
+                    "description": "1 凤凰 [CR 15]"
+                }
+            }
+        },
+        "Ruined City in the Desert (Low Level)": {
+            "name": "沙漠废城（低等级）",
+            "results": {
+                "39QtbFKoP1YygCQm": {
+                    "description": "1 幽影 [CR 3]"
+                },
+                "J6LBcFnJDgslRFRY": {
+                    "description": "1 石化蜥蜴 [CR 5]"
+                },
+                "bUD2w5R3r5SHoPXi": {
+                    "description": "1 飞头蛮 [CR 2]"
+                },
+                "fmfe2vNW44sBBNmS": {
+                    "description": "1 双足飞龙 [CR 6]"
+                },
+                "gSzyzxV02AwEfMMY": {
+                    "description": "1 木乃伊 [CR 5]"
+                },
+                "igQbuDqahy7upVZe": {
+                    "description": "1 巨螳螂 [CR 3]"
+                },
+                "otXTY9DXZlCTILH1": {
+                    "description": "1 鬼火 [CR 6]"
+                },
+                "w2M4703jaDOl8rxn": {
+                    "description": "1 骷髅勇士 [CR 2]"
+                },
+                "zlbTc3VbQvQDJs47": {
+                    "description": "1 毒蛇 [CR 1]"
+                }
+            }
+        },
+        "Ruined City in the Desert (Medium Level)": {
+            "name": "沙漠废城（中等级）",
+            "results": {
+                "5ixSVoRwQ16x1u2K": {
+                    "description": "1 气元素长老 [CR 11]"
+                },
+                "704jfmR6atsmNETZ": {
+                    "description": "1 羽蛇 [CR 10]"
+                },
+                "96iD0YVbsof9qc2w": {
+                    "description": "1 青足龙蛇 [CR 8]"
+                },
+                "JHPpnDyXiNbRwunX": {
+                    "description": "1 奇美拉 [CR 7]"
+                },
+                "M3jmQRmYsiwx9NfP": {
+                    "description": "1 土元素长老 [CR 11]"
+                },
+                "S3Hsel1Ntl3GH7Zw": {
+                    "description": "2 黑暗娜迦 [CR 10]"
+                }
+            }
+        },
+        "Ruined Desert Village": {
+            "name": "沙漠废村",
+            "results": {
+                "C9nPlkrePiT1aeM8": {
+                    "description": "1 巨鹰 [CR 3]"
+                },
+                "CwzUKEC9kfGayAe8": {
+                    "description": "1 化豺 [CR 2]"
+                },
+                "DQv1GO9h91e52cQf": {
+                    "description": "1 凶暴狮 [CR 5]"
+                },
+                "GnsntP3rPOfZwdqF": {
+                    "description": "1 巨蝎 [CR 3]"
+                },
+                "MVSmJUcBT4TE5VhG": {
+                    "description": "1 拉米亚 [CR 6]"
+                },
+                "Oj0ARy7QD6Jb7pHv": {
+                    "description": "1 舍度 [CR 7]"
+                },
+                "RrmmjM97IHB38QDw": {
+                    "description": "1 掘地虫 [CR 3]"
+                },
+                "VkyOp1Yb6Q4hxuyc": {
+                    "description": "1 龙狮 [CR 7]"
+                },
+                "aP9Zm30JhvioI9zW": {
+                    "description": "1 锁喉怪 [CR 1]"
+                },
+                "cdNWs7in8D55iYj1": {
+                    "description": "1 蜈蚣群 [CR 4]"
+                },
+                "oHcY0RxT3CZmIhCU": {
+                    "description": "1 卓柏卡布拉 [CR 3]"
+                },
+                "z2nmA3aanGrhDt3Q": {
+                    "description": "1 凶暴蝙蝠 [CR 2]"
+                }
+            }
+        },
+        "Ruined Underground City": {
+            "name": "地下废城",
+            "results": {
+                "Rdc3EJa7w7r5ro95": {
+                    "description": "1 地穴魔虫 [CR 14]"
+                },
+                "WfAL5huuyyfjSW8W": {
+                    "description": "1 蛰伏伪怪 [CR 9]"
+                },
+                "b8E0ngoWZ0l6Z2UM": {
+                    "description": "1 夺心巨虫 [CR 15]"
+                },
+                "mToxWR6n5y4HsMP1": {
+                    "description": "1 狩魔蛛 [CR 10]"
+                },
+                "uwfZd8IDpkZdwu0b": {
+                    "description": "1 铁魔像 [CR 13]"
+                },
+                "wCRZ06b8RkbAs5IO": {
+                    "description": "1 树绳怪 [CR 12]"
+                }
+            }
+        },
+        "Scorched Land": {
+            "name": "焦土",
+            "results": {
+                "TKcR9DQJ0YMvfX6G": {
+                    "description": "1 成年红龙 [CR 15]"
+                },
+                "bujlzUKxSKc3GSF4": {
+                    "description": "1 骸骨风暴 [CR 11]"
+                },
+                "mzgvD8RqSgZrKSXy": {
+                    "description": "1 石化蜥蜴 [CR 5]"
+                },
+                "qfryjrVH9cIUnzDA": {
+                    "description": "1 鲨蜥兽 [CR 7]"
+                },
+                "z1zP6YVjSo2tS170": {
+                    "description": "1 紫虫 [CR 12]"
+                }
+            }
+        },
+        "Sewers": {
+            "name": "下水道"
+        },
+        "Sewers Random Encounters": {
+            "name": "下水道随机遭遇",
+            "results": {
+                "2Nw4FcaUlDz6xfEt": {
+                    "description": "1 赭冻怪 [CR 5]"
+                },
+                "5Rv5wbYJqZtxatiX": {
+                    "description": "1 礁爪怪 [CR 1]"
+                },
+                "7RE1x49SXOo32Bn9": {
+                    "description": "1 蝙蝠群 [CR 2]"
+                },
+                "UalVxaKBv32pnk1k": {
+                    "description": "1 鬼火 [CR 6]"
+                },
+                "YFCd9g2FRRkjC5Na": {
+                    "description": "1 食腐怪 [CR 4]"
+                },
+                "ZhKSZtK0ihgH3EMz": {
+                    "description": "1 紫蕈 [CR 3]"
+                }
+            }
+        },
+        "Shallows (AVG CR5)": {
+            "name": "浅滩（平均CR 5）",
+            "results": {
+                "BBWamYdfCYngZSVy": {
+                    "description": "1 海妖精 [CR 10]"
+                },
+                "CxEWZZxoZfb0oLN0": {
+                    "description": "1 凶暴鲨 [CR 9]"
+                },
+                "ilaWNxbGbLyRu0Va": {
+                    "description": "1 摄人螺 [CR 2]"
+                },
+                "miO5BhAHyHByoywb": {
+                    "description": "1 格罗代尔 [CR 5]"
+                }
+            }
+        },
+        "Slums": {
+            "name": "贫民窟",
+            "results": {
+                "591LGB5uGxNRnwXF": {
+                    "description": "1 鼠群 [CR 2]"
+                }
+            }
+        },
+        "Swamp (AVG CR7)": {
+            "name": "沼泽（平均CR 7）",
+            "results": {
+                "3Grba746mdBYrp8b": {
+                    "description": "1 巨捕蝇草 [CR 10]"
+                },
+                "7181plasDVLyjof3": {
+                    "description": "1 甲伏怪 [CR 7]"
+                },
+                "FkxFeF2e8mDyXzUp": {
+                    "description": "1 幽魂娜迦 [CR 9]"
+                },
+                "LUgsBaf4mZP7dabl": {
+                    "description": "1 赭冻怪 [CR 5]"
+                },
+                "NyWGP6hkSZdkBZpU": {
+                    "description": "1 灰泥怪 [CR 4]"
+                },
+                "WORJczXrQKpgLVb5": {
+                    "description": "1 沼喉怪 [CR 13]"
+                },
+                "i9N4RmQ8x23ZC0QG": {
+                    "description": "1 水蛭群 [CR 4]"
+                },
+                "iIK9CttP0fmrrA0P": {
+                    "description": "1 绿鬼婆 [CR 5]"
+                },
+                "ilZjtObfaJCP1lhQ": {
+                    "description": "1 大蟒 [CR 2]"
+                },
+                "kY5lgGgMRymGFTf1": {
+                    "description": "1 多头蛇 [CR 4]"
+                },
+                "nZg030fFBHMNJSaB": {
+                    "description": "1 凶暴鳄鱼 [CR 9]"
+                },
+                "yWd4lf1UBOeoZdsf": {
+                    "description": "1 巨蛞蝓 [CR 8]"
+                }
+            }
+        },
+        "Underground (Avg. CR 9)": {
+            "name": "地底（平均CR 9）"
+        },
+        "Underground City (High Level)": {
+            "name": "地下城市（高等级）",
+            "results": {
+                "0sxuqSsoBArh3cig": {
+                    "description": "1 蠕虫行者 [CR 14]"
+                },
+                "3HhYK3ebjqafBfkS": {
+                    "description": "1 修格斯 [CR 19]"
+                },
+                "6Ijfah02ijx5XziI": {
+                    "description": "1 紫虫 [CR 12]"
+                },
+                "GFDs85j0KifJr1PV": {
+                    "description": "1 成年影龙 [CR 14]"
+                }
+            }
+        },
+        "Underground City (Low Level)": {
+            "name": "地下城市（低等级）",
+            "results": {
+                "8KvSzmyNnXtnoaDb": {
+                    "description": "1 潜顶者 [CR 7]"
+                },
+                "Bdp4xN3tnQT2M9R7": {
+                    "description": "1 胶质怪 [CR 3]"
+                },
+                "WZfvytRYgzlhLAwq": {
+                    "description": "1 蟑螂集群 [CR 2]"
+                },
+                "rXLQG9KPoxBJGxsx": {
+                    "description": "1 赭冻怪 [CR 5]"
+                }
+            }
+        },
+        "Underground City (Medium Level)": {
+            "name": "地下城市（中等级）",
+            "results": {
+                "2hb4587cZHqqdOaZ": {
+                    "description": "1 巨蛞蝓 [CR 8]"
+                },
+                "IHLKCSw3okwQfMgW": {
+                    "description": "1 黑布丁怪 [CR 7]"
+                },
+                "OEgAvo6FEzPM4Y4x": {
+                    "description": "1 泰坦蜈蚣 [CR 9]"
+                },
+                "R8cUVHVdyffrFESg": {
+                    "description": "1 心智吞噬者 (In A Host Body) [CR 8]"
+                },
+                "SQXY6yKvZmZBB7nI": {
+                    "description": "1 紫虫 [CR 12]"
+                }
+            }
+        },
+        "Urban/Dangerous City (Avg. CR 6)": {
+            "name": "城市／危险都市（平均CR 6）"
+        }
+    }
+}

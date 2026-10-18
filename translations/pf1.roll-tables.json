@@ -1,0 +1,63 @@
+{
+    "label": "随机表",
+    "entries": {
+        "Arcane Malignancies": {
+            "name": "奥术恶疾"
+        },
+        "Armor Glitches": {
+            "name": "护甲故障"
+        },
+        "Concealment": {
+            "name": "隐蔽"
+        },
+        "Confusion": {
+            "name": "困惑"
+        },
+        "General Glitches": {
+            "name": "通用故障"
+        },
+        "Insanity": {
+            "name": "疯狂",
+            "results": {
+                "HNK4ydpLtuNeZsSq": {
+                    "description": "失忆术"
+                },
+                "ej1UAKWHwjrzT3o8": {
+                    "description": "狂乱偏执"
+                }
+            }
+        },
+        "Numerian Fluids Exceptional Side Effect": {
+            "name": "纽梅利亚流体特殊副作用"
+        },
+        "Numerian Fluids Side Effects": {
+            "name": "纽梅利亚流体副作用",
+            "results": {
+                "a8vKD5pSrwSA4vj5": {
+                    "name": "纽梅利亚流体特殊副作用"
+                }
+            }
+        },
+        "Pharmaceutical Glitches": {
+            "name": "药剂故障"
+        },
+        "Primal Magic Events": {
+            "name": "原能魔法事件"
+        },
+        "Reincarnation": {
+            "name": "转生"
+        },
+        "Total Concealment": {
+            "name": "全隐蔽"
+        },
+        "Variant Aasimar Abilities": {
+            "name": "神裔变体能力"
+        },
+        "Variant Tiefling Abilities": {
+            "name": "魔裔变体能力"
+        },
+        "Weapon Glitches": {
+            "name": "武器故障"
+        }
+    }
+}

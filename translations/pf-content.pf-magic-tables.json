@@ -1,0 +1,667 @@
+{
+    "label": "魔法物品表",
+    "entries": {
+        "*Generate Major Magic Item": {
+            "name": "*生成主要魔法物品",
+            "results": {
+                "PLaDrv6dG6dFzbnC": {
+                    "name": "高等主要魔法物品"
+                },
+                "fVJUxhdmQpBWjowu": {
+                    "name": "次级主要魔法物品"
+                }
+            }
+        },
+        "*Generate Medium Magic Item": {
+            "name": "*生成中等魔法物品",
+            "results": {
+                "XL4MEpyb2lI56LO3": {
+                    "name": "高等中等魔法物品"
+                },
+                "r0usEBLvP36SAaGN": {
+                    "name": "次级中等魔法物品"
+                }
+            }
+        },
+        "*Generate Minor Magic Item": {
+            "name": "*生成次要魔法物品",
+            "results": {
+                "cUn2Faoh6kus0Vpo": {
+                    "name": "高等次要魔法物品"
+                },
+                "dSjr0RPZ0Us4f2yH": {
+                    "name": "次级次要魔法物品"
+                }
+            }
+        },
+        "*Greater Major Magic Items": {
+            "name": "*高等主要魔法物品",
+            "results": {
+                "0v3DXuke0Hisa1ei": {
+                    "name": "高等主要腕部"
+                },
+                "37eBbYbPmJmjLaM3": {
+                    "name": "高等主要身体"
+                },
+                "69D3YZ9lIeRQZLFC": {
+                    "name": "非常见3级药水与油"
+                },
+                "CN8xN260LbBf2SgK": {
+                    "name": "高等主要法杖"
+                },
+                "E2wpNArB1KmgFiUH": {
+                    "name": "高等主要神术卷轴"
+                },
+                "FFhJEQshRkhkQfpt": {
+                    "name": "常见4级魔杖"
+                },
+                "G6jMDKX0pr5OLXhE": {
+                    "name": "高等主要无槽位"
+                },
+                "G7cr9fnI7FvccaUF": {
+                    "name": "高等主要护甲与盾牌"
+                },
+                "J0z3FI3ErQffSF6Y": {
+                    "name": "高等主要奥术卷轴"
+                },
+                "NoIwrQeEYhOjduqF": {
+                    "name": "高等主要腰带"
+                },
+                "NsVpOBM4PZQVzNAm": {
+                    "name": "高等主要肩部"
+                },
+                "UUzBILwaECO0WYoz": {
+                    "name": "高等主要武器"
+                },
+                "VbuER5eJYQnIYjzw": {
+                    "name": "高等主要戒指"
+                },
+                "cZNQntf1Xovgxi7n": {
+                    "name": "高等主要头部"
+                },
+                "cb0uza8gqhQwLgPT": {
+                    "name": "常见3级药水与油"
+                },
+                "crkcNdqVMi8LLTXX": {
+                    "name": "高等主要颈部"
+                },
+                "fpN58CPUf9vwJJpr": {
+                    "name": "高等主要胸部"
+                },
+                "gaSUmqqn9ctTnibB": {
+                    "name": "高等主要头带"
+                },
+                "hRg4sZvGQHn7ZnDG": {
+                    "name": "非常见4级魔杖"
+                },
+                "mf58cffKyazbLwOR": {
+                    "name": "高等主要足部"
+                },
+                "n41cUmqky7dgYupe": {
+                    "name": "高等主要权杖"
+                },
+                "oalQ9rPqxo55lrBL": {
+                    "name": "高等主要手部"
+                },
+                "wXHL86HudaDHGd2d": {
+                    "name": "高等主要眼部"
+                }
+            }
+        },
+        "*Greater Medium Magic Items": {
+            "name": "*高等中等魔法物品",
+            "results": {
+                "1xblpZwJ40xiycwg": {
+                    "name": "高等中等眼部"
+                },
+                "57DJhpgyWKd0Os3t": {
+                    "name": "高等中等足部"
+                },
+                "9wT6T3138MArqDpB": {
+                    "name": "高等中等头带"
+                },
+                "CN8xN260LbBf2SgK": {
+                    "name": "高等中等法杖"
+                },
+                "Dk3iXclr7ZpgtYAJ": {
+                    "name": "高等中等腕部"
+                },
+                "G7cr9fnI7FvccaUF": {
+                    "name": "高等中等护甲与盾牌"
+                },
+                "HuCPUZG0vXR43qPA": {
+                    "name": "高等中等肩部"
+                },
+                "Iw1EkkYwPe2S29ym": {
+                    "name": "常见3级魔杖"
+                },
+                "J0z3FI3ErQffSF6Y": {
+                    "name": "高等中等奥术卷轴"
+                },
+                "NoIwrQeEYhOjduqF": {
+                    "name": "高等中等腰带"
+                },
+                "PdbVyEHFoU2Hg4A5": {
+                    "name": "高等中等无槽位"
+                },
+                "RPUQbdm9pLpzJ585": {
+                    "name": "高等中等身体"
+                },
+                "UUzBILwaECO0WYoz": {
+                    "name": "高等中等武器"
+                },
+                "VbuER5eJYQnIYjzw": {
+                    "name": "高等中等戒指"
+                },
+                "YHirITua4tSdV3RH": {
+                    "name": "非常见3级药水与油"
+                },
+                "YxBNOoYVVYwreBdT": {
+                    "name": "高等中等胸部"
+                },
+                "Z6DOYWFu48bd7wyN": {
+                    "name": "高等中等头部"
+                },
+                "bpVGp4AXwLre07tg": {
+                    "name": "非常见2级魔杖"
+                },
+                "cb0uza8gqhQwLgPT": {
+                    "name": "非常见2级药水与油"
+                },
+                "deKK89YWEMjyPIm0": {
+                    "name": "高等中等神术卷轴"
+                },
+                "n41cUmqky7dgYupe": {
+                    "name": "高等中等权杖"
+                },
+                "pHCdY5FxJVKaS7Xd": {
+                    "name": "高等中等手部"
+                },
+                "s4HSTiRHzAorn0EB": {
+                    "name": "常见2级魔杖"
+                },
+                "tEgOuVnF9TIvUZxP": {
+                    "name": "高等中等颈部"
+                },
+                "zDknTMDw5NtIQxzs": {
+                    "name": "非常见3级魔杖"
+                }
+            }
+        },
+        "*Greater Minor Magic Item": {
+            "name": "*高等次要魔法物品",
+            "results": {
+                "0zuYjLT72xx0mnm6": {
+                    "name": "非常见2级药水与油"
+                },
+                "2MlJDaIAB2ra8SLa": {
+                    "name": "非常见1级药水与油"
+                },
+                "5RkCepz0KeSlggrN": {
+                    "name": "高等次要肩部"
+                },
+                "9LtIaEAOb7MByiBm": {
+                    "name": "高等次要头部"
+                },
+                "FWm8Ioyi2h4pQD3h": {
+                    "name": "高等次要戒指"
+                },
+                "Kx24VZMvO9Ut0oak": {
+                    "name": "常见1级魔杖"
+                },
+                "MPUGQfgGzP7guatu": {
+                    "name": "高等次要手部"
+                },
+                "OjAjgwNhkAmtNOLu": {
+                    "name": "非常见2级魔杖"
+                },
+                "QcLieMNB4lF4FiSj": {
+                    "name": "高等次要胸部"
+                },
+                "STXKafukDpvIr59v": {
+                    "name": "高等次要奥术卷轴"
+                },
+                "T99IeS2E0u0H6Q2j": {
+                    "name": "高等次要腕部"
+                },
+                "WKXxxPrEwjcC2f9e": {
+                    "name": "高等次要无槽位"
+                },
+                "ZeTyeL1dfoqbG55i": {
+                    "name": "高等次要神术卷轴"
+                },
+                "eCBvczwecfSs1E6l": {
+                    "name": "常见2级魔杖"
+                },
+                "hGRBMVD8cOgHiaIJ": {
+                    "name": "高等次要身体"
+                },
+                "kw3TBH2PHH32Oloe": {
+                    "name": "高等次要足部"
+                },
+                "ldLIYYmqZmUo5EyO": {
+                    "name": "高等次要头带"
+                },
+                "oe2xzw2oNHkucFCs": {
+                    "name": "高等次要眼部"
+                },
+                "ox9xVPEoBI6FGPWY": {
+                    "name": "高等次要颈部"
+                },
+                "pQNaC3ft9tI17p9E": {
+                    "name": "高等次要护甲与盾牌"
+                },
+                "r0BilyJJFlv3ZObs": {
+                    "name": "非常见1级魔杖"
+                },
+                "uZHHBJcoX0Txe24Z": {
+                    "name": "高等次要武器"
+                },
+                "wRma0PI57MIfvz8c": {
+                    "name": "高等次要腰带"
+                }
+            }
+        },
+        "*Lesser Major Magic Items": {
+            "name": "*次级主要魔法物品",
+            "results": {
+                "0v3DXuke0Hisa1ei": {
+                    "name": "次级主要腕部"
+                },
+                "37eBbYbPmJmjLaM3": {
+                    "name": "次级主要身体"
+                },
+                "69D3YZ9lIeRQZLFC": {
+                    "name": "非常见3级药水与油"
+                },
+                "CN8xN260LbBf2SgK": {
+                    "name": "次级主要法杖"
+                },
+                "E2wpNArB1KmgFiUH": {
+                    "name": "次级主要神术卷轴"
+                },
+                "FFhJEQshRkhkQfpt": {
+                    "name": "常见4级魔杖"
+                },
+                "G6jMDKX0pr5OLXhE": {
+                    "name": "次级主要无槽位"
+                },
+                "G7cr9fnI7FvccaUF": {
+                    "name": "次级主要护甲与盾牌"
+                },
+                "J0z3FI3ErQffSF6Y": {
+                    "name": "次级主要奥术卷轴"
+                },
+                "NoIwrQeEYhOjduqF": {
+                    "name": "次级主要腰带"
+                },
+                "NsVpOBM4PZQVzNAm": {
+                    "name": "次级主要肩部"
+                },
+                "UUzBILwaECO0WYoz": {
+                    "name": "次级主要武器"
+                },
+                "VbuER5eJYQnIYjzw": {
+                    "name": "次级主要戒指"
+                },
+                "cZNQntf1Xovgxi7n": {
+                    "name": "次级主要头部"
+                },
+                "cb0uza8gqhQwLgPT": {
+                    "name": "常见3级药水与油"
+                },
+                "crkcNdqVMi8LLTXX": {
+                    "name": "次级主要颈部"
+                },
+                "fpN58CPUf9vwJJpr": {
+                    "name": "次级主要胸部"
+                },
+                "gL4zop5BWkpgb3bJ": {
+                    "name": "非常见3级魔杖"
+                },
+                "gaSUmqqn9ctTnibB": {
+                    "name": "次级主要头带"
+                },
+                "hRg4sZvGQHn7ZnDG": {
+                    "name": "非常见4级魔杖"
+                },
+                "mf58cffKyazbLwOR": {
+                    "name": "次级主要足部"
+                },
+                "n41cUmqky7dgYupe": {
+                    "name": "次级主要权杖"
+                },
+                "oalQ9rPqxo55lrBL": {
+                    "name": "次级主要手部"
+                },
+                "s4HSTiRHzAorn0EB": {
+                    "name": "常见3级魔杖"
+                },
+                "wXHL86HudaDHGd2d": {
+                    "name": "次级主要眼部"
+                }
+            }
+        },
+        "*Lesser Medium Magic Items": {
+            "name": "*次级中等魔法物品",
+            "results": {
+                "1xblpZwJ40xiycwg": {
+                    "name": "次级中等眼部"
+                },
+                "57DJhpgyWKd0Os3t": {
+                    "name": "次级中等足部"
+                },
+                "9wT6T3138MArqDpB": {
+                    "name": "次级中等头带"
+                },
+                "CN8xN260LbBf2SgK": {
+                    "name": "次级中等法杖"
+                },
+                "Dk3iXclr7ZpgtYAJ": {
+                    "name": "次级中等腕部"
+                },
+                "G7cr9fnI7FvccaUF": {
+                    "name": "次级中等护甲与盾牌"
+                },
+                "HuCPUZG0vXR43qPA": {
+                    "name": "次级中等肩部"
+                },
+                "Iw1EkkYwPe2S29ym": {
+                    "name": "常见3级魔杖"
+                },
+                "J0z3FI3ErQffSF6Y": {
+                    "name": "次级中等奥术卷轴"
+                },
+                "NoIwrQeEYhOjduqF": {
+                    "name": "次级中等腰带"
+                },
+                "PdbVyEHFoU2Hg4A5": {
+                    "name": "次级中等无槽位"
+                },
+                "RPUQbdm9pLpzJ585": {
+                    "name": "次级中等身体"
+                },
+                "UUzBILwaECO0WYoz": {
+                    "name": "次级中等武器"
+                },
+                "VbuER5eJYQnIYjzw": {
+                    "name": "次级中等戒指"
+                },
+                "YHirITua4tSdV3RH": {
+                    "name": "常见3级药水与油"
+                },
+                "YxBNOoYVVYwreBdT": {
+                    "name": "次级中等胸部"
+                },
+                "Z6DOYWFu48bd7wyN": {
+                    "name": "次级中等头部"
+                },
+                "bpVGp4AXwLre07tg": {
+                    "name": "非常见2级魔杖"
+                },
+                "cb0uza8gqhQwLgPT": {
+                    "name": "常见2级药水与油"
+                },
+                "deKK89YWEMjyPIm0": {
+                    "name": "次级中等神术卷轴"
+                },
+                "n41cUmqky7dgYupe": {
+                    "name": "次级中等权杖"
+                },
+                "pHCdY5FxJVKaS7Xd": {
+                    "name": "次级中等手部"
+                },
+                "s4HSTiRHzAorn0EB": {
+                    "name": "常见2级魔杖"
+                },
+                "tEgOuVnF9TIvUZxP": {
+                    "name": "次级中等颈部"
+                },
+                "zDknTMDw5NtIQxzs": {
+                    "name": "非常见3级魔杖"
+                }
+            }
+        },
+        "*Lesser Minor Magic Item": {
+            "name": "*次级次要魔法物品",
+            "results": {
+                "0zuYjLT72xx0mnm6": {
+                    "name": "常见2级药水与油"
+                },
+                "2MlJDaIAB2ra8SLa": {
+                    "name": "常见1级药水与油"
+                },
+                "5RkCepz0KeSlggrN": {
+                    "name": "次级次要肩部"
+                },
+                "5ih5tsbs7pvDryGN": {
+                    "name": "非常见1级魔杖"
+                },
+                "9LtIaEAOb7MByiBm": {
+                    "name": "次级次要头部"
+                },
+                "FWm8Ioyi2h4pQD3h": {
+                    "name": "次级次要戒指"
+                },
+                "Kx24VZMvO9Ut0oak": {
+                    "name": "常见0级魔杖"
+                },
+                "MPUGQfgGzP7guatu": {
+                    "name": "次级次要手部"
+                },
+                "QcLieMNB4lF4FiSj": {
+                    "name": "次级次要胸部"
+                },
+                "STXKafukDpvIr59v": {
+                    "name": "次级次要奥术卷轴"
+                },
+                "T99IeS2E0u0H6Q2j": {
+                    "name": "次级次要腕部"
+                },
+                "WKXxxPrEwjcC2f9e": {
+                    "name": "次级次要无槽位"
+                },
+                "X5pgVRJLiPskAyc5": {
+                    "name": "非常见0级魔杖"
+                },
+                "ZeTyeL1dfoqbG55i": {
+                    "name": "次级次要神术卷轴"
+                },
+                "eCBvczwecfSs1E6l": {
+                    "name": "常见1级魔杖"
+                },
+                "hGRBMVD8cOgHiaIJ": {
+                    "name": "次级次要身体"
+                },
+                "kw3TBH2PHH32Oloe": {
+                    "name": "次级次要足部"
+                },
+                "ldLIYYmqZmUo5EyO": {
+                    "name": "次级次要头带"
+                },
+                "oe2xzw2oNHkucFCs": {
+                    "name": "次级次要眼部"
+                },
+                "ox9xVPEoBI6FGPWY": {
+                    "name": "次级次要颈部"
+                },
+                "pQNaC3ft9tI17p9E": {
+                    "name": "次级次要护甲与盾牌"
+                },
+                "uZHHBJcoX0Txe24Z": {
+                    "name": "次级次要武器"
+                },
+                "wRma0PI57MIfvz8c": {
+                    "name": "次级次要腰带"
+                }
+            }
+        },
+        "Cursed Item - Common Item Curses": {
+            "name": "诅咒物品：常见物品诅咒",
+            "results": {
+                "CMYtGs9TS4yPeH1u": {
+                    "name": "诅咒物品：间歇生效"
+                },
+                "MFR9O8xKD8UMld5d": {
+                    "name": "诅咒物品：缺陷"
+                },
+                "zJugyWWwOpD9QIFS": {
+                    "name": "诅咒物品：特定诅咒物品"
+                }
+            }
+        },
+        "Cursed Item - Dependent": {
+            "name": "诅咒物品：依存",
+            "results": {
+                "jbemoAoiHie9FtLC": {
+                    "description": "水下"
+                }
+            }
+        },
+        "Cursed Item - Drawback": {
+            "name": "诅咒物品：缺陷"
+        },
+        "Cursed Item - Intermittent Functioning": {
+            "name": "诅咒物品：间歇生效",
+            "results": {
+                "chiV00fKQabWqdsy": {
+                    "name": "诅咒物品：依存"
+                }
+            }
+        },
+        "Cursed Item - Specific Cursed Items": {
+            "name": "诅咒物品：特定诅咒物品",
+            "results": {
+                "QK8t7KpdylNoCmr9": {
+                    "description": "虚弱腰带"
+                }
+            }
+        },
+        "Intelligent Item - Alignment": {
+            "name": "智能物品：阵营"
+        },
+        "Intelligent Item - Personality Quirks": {
+            "name": "智能物品：性格怪癖"
+        },
+        "Intelligent Item - Powers": {
+            "name": "智能物品：能力"
+        },
+        "Intelligent Item - Purpose": {
+            "name": "智能物品：目的"
+        },
+        "Intelligent Item - Special Purpose Dedicated Powers": {
+            "name": "智能物品：特殊目的专属能力"
+        },
+        "Magic Shop: City, Large": {
+            "name": "魔法商店：大城市",
+            "results": {
+                "6GBPK1ACa672LjTN": {
+                    "name": "生成次要魔法物品"
+                },
+                "VFi8hdrdJtqkoyrw": {
+                    "name": "生成主要魔法物品"
+                },
+                "rpc2rBfaW5gZxpjF": {
+                    "name": "生成中等魔法物品"
+                }
+            }
+        },
+        "Magic Shop: City, Small": {
+            "name": "魔法商店：小城市",
+            "results": {
+                "6GBPK1ACa672LjTN": {
+                    "name": "生成次要魔法物品"
+                },
+                "VFi8hdrdJtqkoyrw": {
+                    "name": "生成主要魔法物品"
+                },
+                "rpc2rBfaW5gZxpjF": {
+                    "name": "生成中等魔法物品"
+                }
+            }
+        },
+        "Magic Shop: Hamlet": {
+            "name": "魔法商店：小村",
+            "results": {
+                "4XaNedfvlBgAyPGK": {
+                    "name": "生成次要魔法物品"
+                }
+            }
+        },
+        "Magic Shop: Metropolis (1)": {
+            "name": "魔法商店：大都市（一）",
+            "results": {
+                "L7BF2BigVQ6zWzcE": {
+                    "name": "生成中等魔法物品"
+                }
+            }
+        },
+        "Magic Shop: Metropolis (2)": {
+            "name": "魔法商店：大都市（二）",
+            "results": {
+                "pvN0CbNcmD3GuDvb": {
+                    "name": "生成主要魔法物品"
+                }
+            }
+        },
+        "Magic Shop: Thorp": {
+            "name": "魔法商店：村落",
+            "results": {
+                "rvOHxWpOLBB53aki": {
+                    "name": "次级次要魔法物品"
+                }
+            }
+        },
+        "Magic Shop: Town, Large": {
+            "name": "魔法商店：大镇",
+            "results": {
+                "6GBPK1ACa672LjTN": {
+                    "name": "生成次要魔法物品"
+                },
+                "VFi8hdrdJtqkoyrw": {
+                    "name": "生成主要魔法物品"
+                },
+                "rpc2rBfaW5gZxpjF": {
+                    "name": "生成中等魔法物品"
+                }
+            }
+        },
+        "Magic Shop: Town, Small": {
+            "name": "魔法商店：小镇",
+            "results": {
+                "6GBPK1ACa672LjTN": {
+                    "name": "生成次要魔法物品"
+                },
+                "rpc2rBfaW5gZxpjF": {
+                    "name": "生成中等魔法物品"
+                }
+            }
+        },
+        "Magic Shop: Village": {
+            "name": "魔法商店：村庄",
+            "results": {
+                "XYRNSAgMjb1NNcke": {
+                    "name": "生成次要魔法物品"
+                },
+                "gN9QDG6vmpGIMaBA": {
+                    "name": "生成中等魔法物品"
+                }
+            }
+        },
+        "Rings - Special Qualities": {
+            "name": "戒指：特殊性质"
+        },
+        "Rods - Special Qualities": {
+            "name": "权杖：特殊性质"
+        },
+        "Staves - Special Qualities": {
+            "name": "法杖：特殊性质"
+        },
+        "Weapons - Special Qualities": {
+            "name": "武器：特殊性质"
+        },
+        "Wondrous Items - Special Qualities": {
+            "name": "奇物：特殊性质"
+        }
+    }
+}
