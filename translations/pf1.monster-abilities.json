@@ -1,0 +1,272 @@
+{
+    "label": "怪物能力",
+    "folders": {
+        "Universal Monster Rules": "通用怪物规则",
+        "Natural Attacks": "天生攻击"
+    },
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        }
+    },
+    "entries": {
+        "Amphibious": {
+            "name": "两栖 (Amphibious)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>拥有此特质的生物有水栖亚种，但是他们也可以无限期地在陆地上生存。</p><p><strong>格式</strong>：两栖</p>"
+        },
+        "Bite": {
+            "name": "啮咬 (Bite)",
+            "description": "<p>用牙齿和颚部咬碎、刺穿、撕裂的主要天生武器。</p><p>造成钝击、挥砍或穿刺伤害，取最有利的一种。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Blindsense": {
+            "name": "盲感 (Blindsense)",
+            "description": "<p><strong>类型</strong>：Ex；位置：感官</p><p>利用非可视化感知，就像敏锐的嗅觉和听觉，带有盲感的生物不用看就可以注意到事物。这类生物通常不需要在盲感范围内通过察觉检定就能确定某个生物的位置，前提是要和那个生物有效果线。盲感生物看不见的任何对手，对其而言依然视为拥有全隐蔽，并且盲感生物攻击拥有隐蔽的敌人时依然会有正常的失手率。能见度依然会影响拥有盲感的生物的移动。拥有盲感的生物依然会在对抗它看不见的生物的攻击时，AC 失去敏捷加值。</p><p><strong>格式</strong>：盲感 60 尺</p>"
+        },
+        "Blindsight": {
+            "name": "盲视 (Blindsight)",
+            "description": "<p><strong>类型</strong>：Ex；位置：感官</p><p>这个能力和盲感类似，但是它更加敏锐。利用非可视化感知，像是敏锐的震动感知，敏锐的嗅觉和听觉或者声波定位，拥有盲视的生物战斗或者行动起来就像是拥有视觉的生物。隐身、黑暗和大多数种类的隐蔽对其无效，前提是两者之间必须要有效果线。这个能力的范围会在不同生物的说明中列出。这类生物通常不需要通过察觉检定就能注意到盲视范围内的生物。除非特殊说明，盲视是常驻的，生物不需要做任何事来使用它。不过有些盲视必须以自由动作启动，这会在该生物的描述中注明。如果生物必须启动盲视，那么它只有在自己的回合才能获得盲视的益处。</p><p><strong>格式</strong>：盲视 60 尺</p>"
+        },
+        "Blood Drain": {
+            "name": "吸血 (Blood Drain)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>该生物如果擒抱了一个敌人，那么在他的回合结束时会吸取敌人的血液，造成体质伤害。</p><p><strong>格式</strong>：吸血 (1d2 体质)</p>"
+        },
+        "Breath Weapon": {
+            "name": "喷吐武器 (Breath Weapon)",
+            "description": "<p><strong>类型</strong>：Su；位置：特殊攻击。如果喷吐除造成伤害外还有别的效果，它还会在特殊能力中另有单独的条目</p><p>有的生物可以吐出一团云雾、一道锥形或直线的魔法效果。喷吐武器通常会造成伤害，且往往基于某种能量类型。喷吐武器可以通过成功的反射检定而只受到一半伤害 (DC 为 {10+1/2 喷吐生物种族 HD + 喷吐生物的体质修正}；具体的 DC 会在生物描述中给出)。生物会免疫自己的喷吐武器攻击，除非特别说明。有的喷吐武器攻击会用强韧或意志检定来代替反射检定。每个喷吐武器还会注明其使用频率。</p><p><strong>格式</strong>：喷吐武器 (60 尺锥形，8d6 火焰伤害，反射 DC 20 减半，每 1d4 轮可用一次)</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Channel Resistance": {
+            "name": "导能抗力 (Channel Resistance)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>拥有此特质的生物 (通常是不死生物) 不太容易受引导能量影响。拥有导能抗力的生物可以将列出的加值加在对抗引导能量效果的豁免检定上，依赖使用引导能量造成的效果也包含在其中 (例如@UUID[Compendium.pf1.feats.Item.CjLNTqNGz4zU4zpp]{命令死灵}专长)。</p><p><strong>格式</strong>：导能抗力 +4</p>"
+        },
+        "Claw": {
+            "name": "爪抓 (Claw)",
+            "description": "<p>用前肢或手臂上的爪子攻击的主要天生武器。</p><p>造成钝击和挥砍伤害，取最有利的一种。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Construct Traits": {
+            "name": "构装体特性 (Construct Traits)",
+            "description": "<p><strong>类型</strong>：Ex；位置：免疫</p><p>构装体免疫死亡效果、疾病、影响心灵效果 (魅惑、胁迫、士气效果、心灵幻觉以及魅影幻觉)、死灵系效果、麻痹、毒素、睡眠、震慑和任何需要强韧检定的效果 (除非该效果同样作用于物体或者无害)。构装体不受属性伤害、属性吸取、能量吸取、力竭、疲乏或非致命伤害影响。构装体不会因为巨创而死亡。</p><p><strong>格式</strong>：构装体特性</p>"
+        },
+        "Darkvision": {
+            "name": "黑暗视觉 (Darkvision)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：感官</p><p>拥有黑暗视觉的生物能在完全的黑暗中视物，范围通常是 60 尺。在此范围内，该生物能像有视觉的生物身处明亮光照区域时那样清晰地看见事物。黑暗视觉只有黑白两色，但在其他方面与正常视觉相同。</p><p><strong>格式</strong>：黑暗视觉 60 尺</p><p><em>（本页为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Distraction": {
+            "name": "扰乱心神 (Distraction)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>拥有该能力的生物对敌人造成伤害时可以使敌人反胃。任意活物受到拥有“扰乱心神”能力生物的伤害会反胃 1 轮；通过强韧豁免可以避免此效果（DC = 10 + 1/2 扰乱心神生物 HD + 体质修正）。</p><p><strong>格式</strong>：扰乱心神（DC 14）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Engulf": {
+            "name": "包卷 (Engulf)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特殊攻击</p><p>该生物可以包卷敌人，这个动作视为标准动作的一部分。它不能在包卷的同一回合再做其他攻击。该生物只需从对手身上移动过去，尽可能多地包住对方。被指定的生物可以对它做一次借机攻击，但如果这样做就失去了对包卷攻击进行豁免检定的机会。没有采取借机攻击的对手可以进行一次反射豁免来避免被包卷；如果成功通过豁免，他在该生物向前移动的时候会被推向后面或侧面（方向由被包卷者决定）。遭到包卷的生物进入被压制状态，有窒息的危险，并且被困在包卷生物的体内，直到不再被压制为止，还有可能受到该生物其他的特殊攻击。此项豁免 DC 基于力量。</p><p><strong>格式</strong>：包卷（DC 12，1d6 酸蚀和麻痹）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Freeze": {
+            "name": "静止 (Freeze)",
+            "description": "<p><strong>类型</strong>：Ex；位置：特性</p><p>该生物可以保持完全静止，使自己看起来像是相应形状的无生命物体（一座雕像、一片菌类之类的）。该生物可以在伪装成这类无生命物体、于众目睽睽之下隐藏的隐匿检定中取 20。</p><p><strong>格式</strong>：静止</p>"
+        },
+        "Frightful Presence": {
+            "name": "气势凶猛 (Frightful Presence)",
+            "description": "<p><strong>类型</strong>：Ex；位置：灵氲</p><p>这项特性使得生物具有某种令对手感到极为不安的外在表现。此效果以自由动作激活，通常附加在生物的攻击或冲锋上，在范围内目击该举动的对手将会惊惧或战栗。它的范围通常是 30 尺，持续时间通常为 5d6 轮。此能力仅能影响 HD 或者等级比该生物少的对手。被影响的对手可通过成功的意志豁免（DC = 10 + 1/2 气势凶猛生物种族 HD + 该生物魅力修正；具体的 DC 会在生物描述中给出）抵抗这个效果。豁免失败的生物会战栗，若该生物的 HD 为 4 或更低，则会恐慌。成功豁免的对手在接下来的 24 小时内对同一生物的气势凶猛效果免疫。气势凶猛属于影响心灵的恐惧效果。</p><p><strong>格式</strong>：气势凶猛（60 尺，DC 21）</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Gore": {
+            "name": "抵撞 (Gore)",
+            "description": "<p>用角、鹿角或类似部位攻击的主要天生武器。</p><p>造成穿刺伤害。</p><p>这是典型的抵撞攻击，具体生物可能有所不同。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Grab": {
+            "name": "攫抓 (Grab)",
+            "description": "<p><strong>类型</strong>：Ex；位置：个体攻击</p><p>具有此能力的生物一旦用指定攻击命中目标，它在造成正常伤害之外，还会自动展开擒抱，这是自由动作且不会引发借机攻击。除非特别说明，否则攫抓只能针对与该生物同体型或更小的对手。该生物可以用通常的方式展开擒抱，或仅限于用展开攫抓的身体部位将对手定身。如果选择后者，它在进行和维持这次擒抱的 CMB 检定受到 –20 减值，但这样它自身便不处于被擒抱状态。成功的定身不会造成任何额外伤害，除非生物同时还有@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.uiMteAicpAgqnmVr]{紧勒}的特殊攻击。在后续轮中，如果该生物不会紧勒，每个成功的擒抱战技检定将自动造成伤害，伤害相当于最初定身对手的攻击所造成的伤害；否则，它会造成紧勒伤害和擒抱伤害（具体数目在生物的描述中给出）。</p><p>有攫抓特殊攻击的生物在开始和维持擒抱的战技检定上获得 +4 加值。</p><p><strong>格式</strong>：攫抓</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                },
+                {}
+            ]
+        },
+        "Hoof": {
+            "name": "蹄击 (Hoof)",
+            "description": "<p>用蹄子踢踏的次要天生攻击。</p><p>造成钝击伤害。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Incorporeal": {
+            "name": "虚体 (Incorporeal)",
+            "description": "<p><strong>类型</strong>：Ex；位置：防御能力</p><p>虚体生物不具备肉体。只有其他虚体生物、魔法武器或使用魔法武器攻击的生物、法术、类法术能力或超自然能力能对它造成伤害。它免疫所有非魔法攻击形式。即便被法术或魔法武器击中，它受到来自实体来源的伤害也只有一半。虽然不属于魔法攻击，但@UUID[Compendium.pf1.items.Item.CmjSKOVJuQnV8o3S]{圣水}可以影响虚体不死生物。不造成伤害的实体法术和效果只有 50% 机率影响到虚体生物（引导能量除外）。力场法术和效果，例如@UUID[Compendium.pf1.spells.Item.49yc9dpr4kvgki2s]{魔法飞弹}，可以如常影响到虚体生物。译注：在 D&D 3R 中，魔法武器和效果对虚体生物有 50% 机率无效，但成功时造成全额伤害；在 PF 中则改为固定的一半伤害。当然，幽冥武器依然能正常伤害虚体。</p><p>虚体生物的 AC 没有天生护甲加值，但具有等同于它魅力加值的偏斜加值（至少为 +1，即使生物的魅力属性通常不提供加值）。</p><p>虚体生物可以随意进入或者穿过固体物质，但必须与物体的外表面相邻，因此无法完全穿过一个比它自身空间更大的物体。它可以感知与自己当前位置相邻的方格中生物或物体的存在，但敌人对于位于物体中的虚体生物具有完全隐蔽（50% 失手机率）。为了看到所在物体之外的东西并正常攻击，虚体生物必须从物体中浮现出来。在物体中的虚体生物具有全掩蔽，但当它攻击物体外的生物时仅具有掩蔽，因此物体外的生物可以用准备动作在它攻击时对它发动攻击。虚体生物无法穿过力场效果。</p><p>虚体生物的攻击可以穿透（即忽略）天生护甲、盔甲和盾牌，但偏斜加值和力场效果（例如@UUID[Compendium.pf1.spells.Item.ucc0a31d1y86oleh]{法师护甲}）对它有效。虚体生物可以像在空气中那样，在水中穿过和行动。虚体生物不会坠落或受到坠落伤害。它们无法进行摔绊或擒抱战技，也无法被摔绊或被擒抱。实际上，它们无法做出任何会挪动或操纵对手及其装备的物理动作，也不会受到这类动作的影响。虚体生物没有体重，也不会触发由重量触发的陷阱。</p><p>虚体生物移动时悄无声息，只要它不想被听到，察觉检定就无法听到它。它没有力量属性值，因此它的近战攻击、远程攻击和 CMB 都使用敏捷调整值。视觉以外的感官，例如@UUID[Compendium.pf1.monster-abilities.Item.aEP8PdxGohVVBkei]{盲视}和@UUID[Compendium.pf1.monster-abilities.Item.ePCw9eVAidI9uc5I]{灵敏嗅觉}，对虚体生物或者无效，或者仅部分有效。虚体生物对方向有着天生的感知，即使看不见也可以全速移动。</p><p><strong>格式</strong>：虚体</p>"
+        },
+        "Lifesense": {
+            "name": "生命感知 (Lifesense)",
+            "description": "<p><strong>类型</strong>：Su；位置：感官</p><p>该生物可以注意到并定位 60 尺内的活物，如同它拥有@UUID[Compendium.pf1.monster-abilities.Item.aEP8PdxGohVVBkei]{盲视}一样。</p><p><strong>格式</strong>：生命感知</p>"
+        },
+        "Light Sensitivity": {
+            "name": "强光敏感 (Light Sensitivity)",
+            "description": "<p><strong>类型</strong>：Ex；位置：弱点</p><p>该生物在强烈阳光的区域内，或在@UUID[Compendium.pf1.spells.Item.7x2z0i8rcx7s81fk]{昼明术}的范围内会目眩。</p><p><strong>格式</strong>：强光敏感</p>"
+        },
+        "Low-Light Vision": {
+            "name": "昏暗视觉 (Low-Light Vision)",
+            "description": "<p><strong>类型</strong>：Ex；位置：感官</p><p>拥有昏暗视觉的生物在星光、月光、火炬光和类似的昏暗光照条件下，可以看到人类两倍远的地方。在这些条件下，它仍能分辨色彩和细节。</p><p><strong>格式</strong>：昏暗视觉</p>"
+        },
+        "Mistsight": {
+            "name": "迷雾视域 (Mistsight)",
+            "description": "<p><strong>类型</strong>：Ex；位置：感官</p><p>怪物能够看透雾、薄雾、浑浊的水和烟，如同这些事物完全清澈透明一般，无视这些障碍造成的失手率，最远可达它的正常视距。</p><p><strong>格式</strong>：迷雾视域</p>"
+        },
+        "Ooze Traits": {
+            "name": "泥怪特性 (Ooze Traits)",
+            "description": "<p><strong>类型</strong>：Ex；位置：免疫</p><p>@UUID[Compendium.pf1.racial-hd.Item.D1vugd9jeyAQrLVX]{泥形生物}免疫重击、夹击、精准伤害、影响心灵的效果（魅惑、胁迫、士气效果、心灵幻觉和魅影幻觉）、麻痹、毒素、变形、睡眠、震慑和视觉效果。</p><p><strong>格式</strong>：泥怪特性</p>"
+        },
+        "Pincer": {
+            "name": "钳击 (Pincer)",
+            "description": "<p>用钳子夹碎的次要天生攻击。</p><p>造成钝击伤害。</p><p>这是<em>典型</em>的钳击，具体生物可能有所不同。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Plant Traits": {
+            "name": "植物特性 (Plant Traits)",
+            "description": "<p><strong>类型</strong>：Ex；位置：免疫</p><p>@UUID[Compendium.pf1.racial-hd.Item.AbOSfjvKMqpNihdM]{植物}免疫所有影响心灵的效果（魅惑、胁迫、士气效果、心灵幻觉和魅影幻觉）、麻痹、毒素、变形、睡眠和震慑。</p><p><strong>格式</strong>：植物特性</p>"
+        },
+        "Poison": {
+            "name": "毒素 (Poison)",
+            "description": "<p><strong>类型</strong>：Ex 或 Su；位置：特殊攻击和个体攻击</p><p>拥有此能力的生物可以使被其攻击的对象中毒。毒素的效果，包括豁免、频率和治愈方式，都包含在生物描述中。抵抗毒素的豁免通常是强韧豁免（DC = 10 + 施毒生物种族 HD 的 1/2 + 该生物的体质调整值；具体的 DC 会在生物描述中给出）。毒素可以被@UUID[Compendium.pf1.spells.Item.6l904edkt8jv9jor]{中和毒性}或类似效果移除。</p><p><strong>格式</strong>：<strong>毒素名称（Ex）</strong> 钉刺——伤口；豁免 强韧 DC 22，频率 1 次/轮，共 6 轮，效果 1d4 体质伤害，痊愈 2 次连续豁免</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Scent": {
+            "name": "灵敏嗅觉 (Scent)",
+            "description": "<p><strong>类型</strong>：Ex；位置：感官</p><p>这种特殊感官可以让生物察觉接近的敌人、嗅出隐藏的对手、或者凭借嗅觉展开追踪。具有灵敏嗅觉能力的生物能够辨识熟悉的气味，就像人类能认出熟悉的画面。</p><p>凭借嗅觉，生物可以发现 30 尺以内的敌人。如果对手在上风处，则距离增为 60 尺；若在下风处，则减为 15 尺。如果是强烈的气味，比如浓烟或者腐烂的垃圾味道，可在上述距离两倍之内闻到。某些极其浓烈的气味，比如臭鼬的麝香或战蜥人的恶臭，则可在通常距离的三倍之内闻到。</p><p>生物发现气味时，并不会得知气味来源的确切位置，只知道它存在于范围内的某处。生物可以用一个移动动作来觉察到气味来源的方向。只要生物进入气味源的 5 尺之内，它就能精确确定源头的位置。</p><p>具有灵敏嗅觉的生物可以通过气味来追踪，这时它用感知或生存检定来找到或追踪气味。新鲜痕迹的通常 DC 是 10（无论气味停留在什么表面）。该 DC 会因气味来源的强弱、生物的数量和痕迹新旧的差别在此基础上增加或减少。痕迹每经过 1 小时 DC 会增加 2。通过气味追踪的生物会忽略地面状况和低能见度的影响。除此之外，此能力的判定上都按照生存技能的规则。</p><p><strong>格式</strong>：灵敏嗅觉</p>"
+        },
+        "Slam": {
+            "name": "撞击 (Slam)",
+            "description": "<p>用身体某个部位猛撞的主要天生武器。</p><p>造成钝击伤害。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Sting": {
+            "name": "蜇刺 (Sting)",
+            "description": "<p>用身体某处尖锐的螫针攻击的主要天生武器。</p><p>造成穿刺伤害。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Swarm Attack": {
+            "name": "集群攻击 (Swarm Attack)",
+            "description": "<p><strong>集群攻击：</strong>具有集群亚种的生物不进行标准近战攻击。相反，它们对自己移动结束时所占据空间内的任何生物自动造成伤害，无需攻击检定。集群攻击不受隐蔽或掩蔽造成的失手率影响。集群的数据栏中，近战一项写作“集群”，不给出攻击加值。集群造成的伤害取决于其 HD，如下表所示。</p><table><tr><th>集群 HD</th><th>集群基础伤害</th></tr><tr><td>1–5</td><td>1d6</td></tr><tr><td>6–10</td><td>2d6</td></tr><tr><td>11–15</td><td>3d6</td></tr><tr><td>16–20</td><td>4d6</td></tr><tr><td>21 或以上</td><td>5d6</td></tr></table><p>除非集群的描述中另有说明，集群的攻击不具魔法性质。足以将集群攻击的伤害降至 0 的伤害减免、虚体或其他特殊能力，通常能让生物免疫（或至少抵抗）集群的伤害。一些集群在正常伤害之外，还带有强酸、@UUID[Compendium.pf1.monster-abilities.Item.2L7pvHVWFGzx03n7]{吸血}、毒素或其他特殊攻击。</p><p>集群不威胁生物，也不能用集群攻击做出借机攻击。但是，它们会扰乱其所占据方格内的敌人，如下所述。</p><p>集群拥有@UUID[Compendium.pf1.monster-abilities.Item.WMwjQfyTC5BCoZlf]{扰乱心神}通用怪物规则。在集群的区域内施法或专注于法术，需要通过一次施法者等级检定（DC 20 + 法术环数）。使用需要耐心和专注的技能，需要通过一次 DC 20 的意志豁免。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Swarm traits": {
+            "name": "集群特性 (Swarm traits)",
+            "description": "<p><strong>集群特性：</strong>集群没有明显的前后，也没有可分辨的生理结构，所以不受重击或夹击。由超小型生物组成的集群受到挥砍和穿刺武器的伤害减半。由超微型或微型生物组成的集群免疫所有武器伤害。将集群的生命值降至 0 或更低会使其打散，但在此之前受到的伤害不会削弱它攻击或抵御攻击的能力。集群从不会因伤害而陷入恍惚或濒死状态。此外，它们不能被摔绊、擒抱或冲撞，也不能擒抱对手。</p><p>集群免疫任何针对特定数量生物的法术或效果（包括单目标法术，如@UUID[Compendium.pf1.spells.Item.sxyiwj0z95piv96i]{解离术}），但如果集群拥有智力属性和蜂巢心智，则影响心灵的效果（魅惑、胁迫、魅影幻觉、心灵幻觉以及士气效果）例外。集群受到影响区域的法术或效果（如溅射武器和许多塑能系法术）时，额外承受一半（+50%）的伤害。</p><p>由微型或超微型生物组成的集群易受强风的影响，例如@UUID[Compendium.pf1.spells.Item.cnuin981hdq7ryit]{造风术}造成的强风。判定风对集群的影响时，将集群视为与其组成生物体型相同的生物。因非致命伤害而昏迷的集群会陷入混乱并分散开，直到其生命值超过所受的非致命伤害时才会重新聚拢。</p>"
+        },
+        "Tail Slap": {
+            "name": "尾拍 (Tail Slap)",
+            "description": "<p>用尾巴抽打的次要天生攻击。</p><p>造成钝击伤害。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Talon": {
+            "name": "利爪 (Talon)",
+            "description": "<p>用脚上的利爪攻击的主要天生攻击。</p><p>造成挥砍伤害。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Tentacle": {
+            "name": "触手 (Tentacle)",
+            "description": "<p>用触手、伪足或类似部位攻击的次要天生攻击。</p><p>造成钝击伤害。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Trip": {
+            "name": "摔绊 (Trip)",
+            "description": "<p><strong>类型</strong>：Ex；位置：个体攻击</p><p>具有摔绊特殊攻击的生物，在以指定攻击命中对手后，可以用自由动作尝试摔绊对手，且不会引发借机攻击。如果尝试失败，该生物也不会被反摔绊。</p><p><strong>格式</strong>：摔绊（啮咬）</p>",
+            "actions": [
+                {
+                    "name": "绊摔"
+                }
+            ]
+        },
+        "Unarmed Strike": {
+            "name": "徒手打击 (Unarmed Strike)",
+            "description": "<p>对于提高武器伤害检定的效果，徒手打击的伤害视为武器伤害。</p><p>徒手打击总是视为轻型武器，因此可以用武器娴熟专长，在徒手打击的攻击检定上以敏捷修正值代替力量修正值。</p><p>徒手打击不算天生武器（见核心规则书「战斗」章）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Undead Traits": {
+            "name": "不死特性 (Undead Traits)",
+            "description": "<p><strong>类型</strong>：Ex；位置：免疫</p><p>不死生物免疫死亡效果、疾病、心智效果（魅惑、胁迫、士气效果、心灵幻觉和魅影幻觉）、麻痹、毒素、睡眠、震慑，以及任何需要强韧豁免的效果（除非该效果对物体也有效或无害）。不死生物不受属性吸取、能量吸取或非致命伤害影响。不死生物免疫对其身体属性（力量、敏捷和体质）造成的伤害或减值，也免疫疲乏和力竭效果。不死生物不会因巨创而死亡。</p><p><strong>格式</strong>：不死特性</p>"
+        },
+        "Wing": {
+            "name": "翼拍 (Wing)",
+            "description": "<p>用翅膀拍打、扑击的次要天生攻击。</p><p>造成钝击伤害。</p><hr /><p>天生攻击的通用规则见 @UUID[Compendium.pf1.pf1e-rules.nBnUY0koBzXqoEft.JournalEntryPage.8zivKFrhTVkbtjm3]{天生攻击}（通用怪物规则）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        }
+    }
+}

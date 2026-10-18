@@ -1,0 +1,124 @@
+{
+    "label": "开拓者协会",
+    "folders": {
+        "Head": "头颅",
+        "Magic Weapons": "魔法武器",
+        "Spells": "法术"
+    },
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        }
+    },
+    "entries": {
+        "Blade of the Open Road": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Blade of the Open Road, Greater": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Blade of the Open Road, Lesser": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Faith Orb": {
+            "name": "信仰法球 (Faith Orb)",
+            "description": "<p><strong>灵光</strong> 中等塑能系；<strong>施法者等级</strong> 9；<strong>部位</strong> 无；<strong>价格</strong> 2,250 gp</p><p>这只黄铜球比人类的拳头略大，表面刻满了代表善良与守序的符号，还有粗大的凸钮。如果当作临时武器使用，它造成1d6点钝击伤害，并且在克服伤害减免时视为善良武器。</p><p>按下一枚特殊的凸钮（通常用另一种金属标出）即可启动信仰法球。启动法球是一个标准动作，但可以用与启动相同的这个动作，把法球当作远程接触攻击投掷出去（射程增量10尺）。在该动作结束时，或当它命中目标时（若未命中，查阅《玩家手册》第158页的图表，看它落在何处），它会触发一次以法球为中心的@UUID[Compendium.pf1.spells.Item.gmugktarbieojt59]{焰击术}。被卷入爆炸范围的生物受到如该法术所述的9d6点伤害，通过DC 17反射豁免则减半。信仰法球在此过程中被消耗掉。</p><h3>制作</h3><p><strong>需求</strong> 制造奇物、焰击术；<strong>成本</strong> 1,125 gp，45 XP</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Gamin the Misforged": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Glowing Gourd, Lesser": {
+            "name": "次等微光葫芦 (Glowing Gourd, Lesser)",
+            "description": "<p><strong>灵光</strong> 中等塑能系［善］；<strong>施法者等级</strong> 9；<strong>部位</strong> 无；<strong>价格</strong> 4,250 gp；<strong>重量</strong> 8磅</p><p>这个葫芦被掏空后，刻上了一位善良阵营神祇的圣徽。它会如同蜡烛一样发光。如果把葫芦砸在地上，砸碎处周围半径40尺的区域会受到一个固定了@UUID[Compendium.pf1.spells.Item.eu4u4mr1naoiqohz]{移除恐惧}的@UUID[Compendium.pf1.spells.Item.vxmp5prgw5fj4h6f]{圣居}法术的影响。这种魔法物品常用南瓜制成，不过其他种类的葫芦，甚至大个的芜菁也可以用。</p><h3>制作</h3><p><strong>需求</strong> 制造奇物、圣居、移除恐惧；<strong>成本</strong> 3,125 gp</p>"
+        },
+        "Hematite Sphere Ioun Stone, Flawed": {
+            "actions": [
+                {
+                    "name": "指北术"
+                }
+            ]
+        },
+        "Hikori": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Intelligent Ring of the Weary Sky": {
+            "name": "倦空戒指 (Intelligent Ring of the Weary Sky)",
+            "description": "<p><strong>倦空戒指</strong>（cost：7,400 gp）：这枚古老的银戒指能让佩戴者在一定程度上控制元素生物。一位古代吉斯塔克元素师的灵魂仍在戒指中回响，散发出一种自鸣得意的傲慢感。倦空戒指的特殊目的是控制或击败元素生物；佩戴者每天一次可以尝试魅惑一个具有元素亚种的生物（如同@UUID[Compendium.pf1.spells.Item.smbkd2yobhshbpqf]{魅惑怪物}，意志豁免DC 15可抵消）。</p><p>戒指每天一次可以对佩戴者施加@UUID[Compendium.pf1.spells.Item.tkjnm3lw7ni82tag]{抵抗能量伤害}的效果。只有当佩戴者面对敌对的元素亚种生物时，戒指才会使用这一能力，并根据经验判断，选择最适合用来保护佩戴者的能量类型。当佩戴者试图魅惑元素生物却失败时，戒指会迅速提供这种保护，同时清楚地流露出一种居高临下的失望。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Krune's Rune-Carved Rod": {
+            "name": "权杖（Krune's Rune-Carved） (Krune's Rune-Carved Rod)",
+            "description": "<p>权杖是杖状的装置，包含特殊的魔法能力并且通常没有充能。任何人都能使用权杖。</p><div><div>物理特性</div><div>权杖大约重5磅。它们通常有2到3尺长，且由铁或者其他金属制成。许多权杖，如同其详述中特别说明的一样，因其结构坚固，可以用作@UUID[Compendium.pf1.weapons-and-ammo.Item.Yeli1JRCgnmVyhWT]{轻型硬头锤}或木棒。这些结实的物体AC 9，HP 10，硬度10，破坏DC 27。</div></div><div><div>启动</div><div>使用权杖的细节每种权杖都有所不同。除非另外提及，你必须持握权杖才能使用它的能力。具体见特殊权杖的单独介绍。</div></div><div><div>特殊品质</div><div>投d％，01意味着这根权杖是智能的，02 – 31意味着权杖的设计、铭文或其他某些地方提供了关于权杖能力的线索，32 – 100意味着权杖没有类似特性。智能物品有额外的能力，有时还有超凡的力量和特殊意志 (见智能物品章节)。</div></div><p>有充能的权杖永远无法是智能的。</p>"
+        },
+        "Lissala's Caress": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Pugwampi Braid, Lesser": {
+            "name": "次等小魔怪皮辫 (Pugwampi Braid, Lesser)",
+            "description": "<p><strong>灵光</strong> 中等死灵系；<strong>施法者等级</strong> 8；<strong>部位</strong> 无；<strong>价格</strong> 9,000 gp；<strong>重量</strong> 1磅</p><p>这条绳索用厄运小魔怪的皮条编成，直径1吋，长12吋。它可以像马鞭一样握在手里，也可以当作饰物佩戴。</p><p>每天一次，持有者可以用一个命令字，在皮辫周围制造一个5尺半径的灵氲，持续1分钟。持有者以外、处于灵氲内的生物，每当情况要求进行d20掷骰时，必须掷两次并取较低的结果。这是一个影响心灵的效果，对带有豺狼人子类型的类人生物、动物和小魔怪无效。处于幸运加值效果下的生物免疫该灵氲。</p><h3>制作</h3><p><strong>需求</strong> 制造奇物、降咒；<strong>成本</strong> 4,500 gp</p>"
+        },
+        "Steal Book": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Sword of Station": {
+            "actions": [
+                {
+                    "name": "命令"
+                }
+            ]
+        },
+        "Sword of Station, Greater": {
+            "actions": [
+                {
+                    "name": "命令"
+                }
+            ]
+        },
+        "Sword of Station, Lesser": {
+            "actions": [
+                {
+                    "name": "命令"
+                }
+            ]
+        },
+        "Vothuemont's Blade": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        }
+    }
+}

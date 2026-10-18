@@ -1,0 +1,615 @@
+{
+    "label": "幻灵进化",
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        }
+    },
+    "entries": {
+        "Ability Increase (2 EP)": {
+            "name": "属性强化 (Ability Increase (2 EP))",
+            "description": "<p><strong>属性强化</strong>（Ability Increase, Ex）是召唤师的进化。</p><p>幻灵的身体发生变化，肌肉更加强壮、反应速度更快、获得更高智力，或是在另一项属性上得到提升。幻灵任一项属性+2。该进化可以多次选取，但每一项属性仅能使用1次，每6个召唤师等级再增加1次。</p>"
+        },
+        "Ability Score Increase": {
+            "name": "属性提升 (Ability Score Increase)",
+            "description": "<p>幻灵的一项属性增加1点。</p>"
+        },
+        "Alignment Smite (2 EP)": {
+            "name": "阵营制裁 (Alignment Smite (2 EP))",
+            "description": "<p><strong>阵营制裁</strong>（Alignment Smite, Su）是召唤师的进化。</p><p>选择一个与召唤师自身某一阵营成分对立的阵营成分，每天一次以一个迅捷动作，幻灵可以选择一个可见的目标。如果目标阵营与该能力所选择的阵营相符合，幻灵的一个自然武器对其造成1d6额外伤害。该天生武器在击破伤害减免时视为善良武器。阵营制裁持续直到目标死亡或幻灵被遣返。在10级时召唤师能消耗多一个进化点来使幻灵获得第二次使用。召唤师需要5级来选择该能力，邪恶与绝对中立召唤师不能选择该能力。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Base Attack Bonus": {
+            "name": "基本攻击加值 (Base Attack Bonus)",
+            "description": "<p><strong>基本攻击加值</strong>：幻灵的基本攻击加值与它的生命骰数相同。幻灵在使用自己的天生武器时，不会由于较高的基本攻击加值而获得额外攻击。</p>"
+        },
+        "Basic Magic (1 EP)": {
+            "name": "基础魔法 (Basic Magic (1 EP))",
+            "description": "<p><strong>基础魔法</strong>（Basic Magic, Sp）是召唤师的进化。</p><p>幻灵可以用类法术能力的方式施展一项基础魔法。从以下法术中选取一个：@UUID[Compendium.pf1.spells.Item.eu2xv8klucttzqmd]{酸液飞溅}、@UUID[Compendium.pf1.spells.Item.zymaptg3vmnvfvxl]{舞光术}、@UUID[Compendium.pf1.spells.Item.uqh87jz757r2cb7r]{侦测魔法}、@UUID[Compendium.pf1.spells.Item.hk3xhc08blqzniv0]{晕眩术}、@UUID[Compendium.pf1.spells.Item.eg67vvykmv9c6j7h]{闪光术}、@UUID[Compendium.pf1.spells.Item.mtxqp85izkb20djq]{幻音术}、@UUID[Compendium.pf1.spells.Item.ip9onjfp6nf1vlv9]{光亮术}、@UUID[Compendium.pf1.spells.Item.p8lm7khq3ynyif21]{法师之手}、@UUID[Compendium.pf1.spells.Item.n879x6fw79jiofew]{冰冻射线}、@UUID[Compendium.pf1.spells.Item.fipqx43u5blpjsvo]{稳定伤势}、@UUID[Compendium.pf1.spells.Item.t1w2zq5fx7mislq8]{疲乏之触}，幻灵每天可以用类法术能力施展此法术1次。4级时通过额外消费2点进化点，可以让使用次数上升到每天3次。这些法术的施法者等级等于幻灵的生命骰数，豁免DC为“10+幻灵魅力修正”。幻灵的魅力必须达到10点以上才能选择该进化。该进化可以被多次选取，每次必须选择不同的法术。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Bite (1 EP)": {
+            "name": "啮咬 (Bite (1 EP))",
+            "description": "<p><strong>啮咬</strong>（Bite, Ex）是召唤师的进化。</p><p>幻灵的口中长出利齿，给予它使用啮咬攻击的能力。这项攻击是主要攻击。啮咬造成1d6点伤害（大型1d8，超大型2d6）。如果幻灵已经有啮咬攻击，该进化能让它的啮咬伤害追加1.5倍力量修正。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Bite (Attack)": {
+            "name": "啮咬 (Bite (Attack))",
+            "description": "<p><strong>啮咬</strong>（Bite, Ex）是召唤师的进化。</p><p>幻灵的口中长出利齿，给予它使用啮咬攻击的能力。这项攻击是主要攻击。啮咬造成1d6点伤害（大型1d8，超大型2d6）。如果幻灵已经有啮咬攻击，该进化能让它的啮咬伤害追加1.5倍力量修正。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Bleed (1 EP)": {
+            "name": "出血 (Bleed (1 EP))",
+            "description": "<p><strong>出血</strong>（Bleed, Ex）是召唤师的进化。</p><p>幻灵获得造成伤口流血的能力。选择一种攻击。该种攻击造成1d6点流血伤害。该进化可以被多次选取，每次选取该进化应用至不同的攻击。流血效果不会叠加。</p>"
+        },
+        "Blindsense (3 EP)": {
+            "name": "盲感 (Blindsense (3 EP))",
+            "description": "<p><strong>盲感</strong>（Blindsense, Ex）是召唤师的进化。</p><p>幻灵的感官变得极为敏锐，给予它30尺盲感的能力。此能力允许幻灵无需察觉检定即可精确定位不可见的生物位置，但是该生物依然对幻灵视为全隐蔽。能见度依旧影响幻灵的移动，并且幻灵面对自己看不见的生物的攻击时，依然丧失AC的敏捷加值。召唤师必须达到9级才能够选取该进化。</p>"
+        },
+        "Blindsight (4 EP)": {
+            "name": "盲视 (Blindsight (4 EP))",
+            "description": "<p><strong>盲视</strong>（Blindsight, Ex）是召唤师的进化。</p><p>幻灵的感官更加敏锐，获得30尺盲视能力。只要和目标之间有效果线相连，幻灵能够无视黑暗、隐形和大多数隐蔽效果，如常地移动和攻击。幻灵必须拥有“盲感”才能选择该进化。召唤师必须达到11级才能够选取该进化。</p>"
+        },
+        "Breath Weapon (4 EP)": {
+            "name": "喷吐武器 (Breath Weapon (4 EP))",
+            "description": "<p><strong>喷吐武器</strong>（Breath Weapon, Su）是召唤师的进化。</p><p>幻灵学会如何放出线形或锥形魔法能量，获得喷吐武器。选择一种能量：酸蚀、寒冷、电击或火焰。幻灵能够放出30尺锥形（或60尺线形）所选类型的能量吐息，伤害点数为每幻灵生命骰数1d6点。喷吐范围内的生物可以尝试反射豁免以减半伤害，豁免DC为“10+1/2幻灵生命骰数+幻灵体质修正”。幻灵每天能使用此能力1次。通过额外消费1点进化点，可以让每天使用次数上升1次，最多为每天3次。召唤师必须达到9级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Burrow (3 EP)": {
+            "name": "掘地 (Burrow (3 EP))",
+            "description": "<p><strong>掘地</strong>（Burrow, Ex）是召唤师的进化。</p><p>幻灵获得粗厚的爪子，使它能够挖穿大地。幻灵获得等同于基本速度1/2的掘地速度。它能够以此速度挖开泥土、粘土、沙子和地表。它既不会在移动后留下洞穴，也不会在地表造成突起。召唤师必须达到9级才能够选取该进化。</p>"
+        },
+        "Celestial Appearance (3 EP)": {
+            "name": "天界之颜 (Celestial Appearance (3 EP))",
+            "description": "<p><strong>天界之颜</strong>（Celestial Appearance, Ex）是召唤师的进化。</p><p>通过消耗3点进化点，幻灵看上去像是天界生物并获得天界生物一些特性。以善良子类生物为目标、或对这类生物有特殊效果的法术和效果，对幻灵也如同对天界生物般生效。幻灵在对抗疾病，石化，毒素和闪电时豁免+2，在对抗有邪恶描述符的法术时获得5+HD的法术抗力。</p><p>在7级时再消耗2点进化点，豁免加值提升为+4，法术抗力对邪恶生物的所有法术和效果都生效。</p><p>在12级时再消耗2点进化点，对以上四种效果的防护提升为免疫，法术抗力提升到11+HD（召唤师必须先升级7级的版本才能升级12级的）。</p><p>召唤师必须是善良阵营才能选择该进化。</p>"
+        },
+        "Channel Resistance (2 EP)": {
+            "name": "引导抗力 (Channel Resistance (2 EP))",
+            "description": "<p><strong>引导抗力</strong>（Channel Resistance, Ex）是召唤师的进化。</p><p>幻灵变得更不易被牧师和圣武士之流的引导能量所影响。幻灵在抵抗引导能量、以及基于引导能量的衍生效果（譬如命令死灵专长）时全豁免获得+2加值。7级时通过额外消费2点进化点，幻灵可以将此项加值提升为+4。幻灵必须拥有“亡灵外表”才能选择该进化。</p>"
+        },
+        "Claws (1 EP)": {
+            "name": "爪抓 (Claws (1 EP))",
+            "description": "<p><strong>爪抓</strong>（Claws, Ex）是召唤师的进化。</p><p>幻灵在肢体末端长出凶暴的爪，给予它2次爪抓攻击。这项攻击是主要攻击。爪抓造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“肢体”才能选择该进化，且仅能为肢体（腿）添加一次。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>"
+        },
+        "Claws (Attack)": {
+            "name": "爪抓 (Claws (Attack))",
+            "description": "<p><strong>爪抓</strong>（Claws, Ex）是召唤师的进化。</p><p>幻灵在肢体末端长出凶暴的爪，给予它2次爪抓攻击。这项攻击是主要攻击。爪抓造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“肢体”才能选择该进化，且仅能为肢体（腿）添加一次。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Climb (1 EP)": {
+            "name": "攀爬 (Climb (1 EP))",
+            "description": "<p><strong>攀爬</strong>（Climb, Ex）是召唤师的进化。</p><p>幻灵变得精于攀爬，得到相当于基本速度的攀爬速度。该进化可以多次选取，每次选取提升幻灵20尺攀爬速度。</p>"
+        },
+        "Constrict (2 EP)": {
+            "name": "紧勒 (Constrict (2 EP))",
+            "description": "<p><strong>紧勒</strong>（Constrict, Ex）是召唤师的进化。</p><p>幻灵获得强健的肌肉使其能够对擒抱住的生物进行挤压。每当幻灵使用“攫抓”进化擒抱住一个敌人时，它可以对敌人造成等同于该次攻击所使用天生武器伤害点数的额外伤害。该进化仅适用于基本型态为蛇身型的幻灵。</p>"
+        },
+        "Damage Reduction (3 EP)": {
+            "name": "伤害减免 (Damage Reduction (3 EP))",
+            "description": "<p><strong>伤害减免</strong>（Damage Reduction, Su）是召唤师的进化。</p><p>幻灵的身体变得能够抵抗伤害，获得伤害减免能力。选择一个阵营：混乱，邪恶，善良，秩序。幻灵获得5点只有该阵营武器的攻击才能穿透的伤害减免。该阵营必须与幻灵自身的一项阵营相反。12级时通过额外消费2点进化点，幻灵可以将此伤害减免提升至10点。召唤师必须达到9级才能够选取该进化。</p>"
+        },
+        "Darkvision": {
+            "name": "黑暗视觉 (Darkvision)",
+            "description": "<p>幻灵获得60尺黑暗视觉。</p>"
+        },
+        "Devotion": {
+            "name": "忠诚 (Devotion)",
+            "description": "<p>在对抗惑控系法术和效果时，幻灵的意志豁免获得+4士气加值。</p>"
+        },
+        "Dimension Door (4 EP)": {
+            "name": "任意门 (Dimension Door (4 EP))",
+            "description": "<p><strong>任意门</strong>（Dimension Door, Sp）是召唤师的进化。</p><p>幻灵学会每天以类法术能力施展“任意门”1次。该进化中的施法者等级为幻灵的生命骰数，豁免DC为“10+1/2幻灵生命骰数+幻灵魅力修正”。幻灵的魅力必须达到14点以上，且召唤师必须达到13级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Eidolon": {
+            "name": "幻灵 (Eidolon)",
+            "description": "<p>原初之民的幻灵不是异界生物，而是具有跨位面亚种的精类生物。将标准幻灵的数据进行以下更动：</p><p><strong>生命骰</strong>：d6生命骰（而非d10）。</p><p><strong>基本攻击加值</strong>：等同于幻灵生命骰数的1/2。</p><p><strong>强/弱豁免</strong>：幻灵的强豁免永远是反射与意志。</p><p><strong>技能</strong>：幻灵的本职技能为特技、唬骗、攀爬、工艺、交涉、易容、逃脱、飞行、知识（地理）、知识（自然）、察觉、表演、察言观色、巧手、隐匿、游泳与使用魔法装置。</p><p><strong>感官</strong>：幻灵获得昏暗视觉（而非黑暗视觉）。召唤师可以花费1点进化点，让幻灵获得60尺黑暗视觉。</p><p><strong>伤害减免</strong>：若原初之民选择此进化，他可以改为选择DR/寒铁，而不是一种基于阵营的伤害减免。</p><p>这个能力在其他方面如同并取代普通召唤师的幻灵能力。</p><p>本页译自 CHM 汉化（原文）。</p>"
+        },
+        "Eidolon Feats": {
+            "name": "专长 (Eidolon Feats)",
+            "description": "<p><strong>专长</strong>：此列为幻灵所具有的专长总数。幻灵可以选择任何它有资格选取的专长，但是某些专长必须在幻灵具备合适的肢体后才能使用。幻灵的专长在选择后便固定下来，即便是在召唤师获得新等级，可以变更幻灵的进化时，也无法修改。如果由于进化的变更，使得幻灵不再满足某个专长的先决条件，那么该专长便会失效，直至幻灵重新满足专长的先决条件为止。</p>"
+        },
+        "Eidolon Saves": {
+            "name": "高豁免／低豁免 (Eidolon Saves)",
+            "description": "<p><strong>高豁免／低豁免</strong>：幻灵的基本豁免加值。幻灵具有两项高豁免和一项低豁免，具体为何取决于其基本形态。</p>"
+        },
+        "Energy Attacks (2 EP)": {
+            "name": "能量攻击 (Energy Attacks (2 EP))",
+            "description": "<p><strong>能量攻击</strong>（Energy Attacks, Su）是召唤师的进化。</p><p>幻灵的攻击将附带能量。选择一种能量：酸蚀、寒冷、电击或火焰。幻灵的所有天生攻击在成功命中时，都造成1d6点所选能量类型的额外伤害。召唤师必须达到5级才能够选取该进化。</p>"
+        },
+        "Evasion": {
+            "name": "反射闪避 (Evasion)",
+            "description": "<p>有些攻击效果若通过反射检定仍会造成一半伤害，此时幻灵若通过反射检定则完全不受伤害。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Evolution Pool (Chained)": {
+            "name": "进化池 (Evolution Pool (Chained))",
+            "description": "<p>该数据为幻灵进化池中的总点数。进化池里的点数可以用来对幻灵进行增加新能力、获得新天生武器等各式各样的强化。每当召唤师取得新的等级，进化池中点数将增加，同时召唤师可以重新为幻灵分配进化点数和进化型态。召唤师只能在升级时为幻灵重置进化（或者通过@UUID[Compendium.pf1.spells.Item.a284vfyjpxla98v0]{向导重塑术}）。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Evolution Pool (Unchained)": {
+            "name": "进化池 (Evolution Pool (Unchained))",
+            "description": "<p>此列的数值为幻灵的进化池中的进化点总数。进化池中的点数可以用来对幻灵进行各式各样调整与升级，使其获得新能力、攻击方式和力量。每当召唤师获得新的等级时，进化池中的点数便会得以增加，召唤师也可以用这些进化点来改变幻灵的能力。进化的选择并非固定的，召唤师可以在他获得新的等级时进行修改，此外也可以通过@UUID[Compendium.pf1.spells.Item.a284vfyjpxla98v0]{向导重塑术}调整进化点。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Extra Feat (2 EP)": {
+            "name": "额外专长 (Extra Feat (2 EP))",
+            "description": "<p><strong>额外专长</strong>（Extra Feat, Ex）是召唤师的进化。</p><p>幻灵获得一个额外专长。它必须满足这个专长的先决条件。</p><p><strong>先决条件</strong>：双子幻灵。</p>"
+        },
+        "Fast Healing (4 EP)": {
+            "name": "快速治疗 (Fast Healing (4 EP))",
+            "description": "<p><strong>快速治疗</strong>（Fast Healing, Su）是召唤师的进化。</p><p>幻灵的身体获得快速治疗伤害的能力，获得1点快速治疗。幻灵如同自然治愈般每轮回复1点生命值。快速治疗并不能回复饥饿、干渴、窒息所造成的伤害，也不允许幻灵再生失去的肢体（或者重新接上断肢）。快速治疗当幻灵生存时持续生效，而当幻灵与召唤师不在同一个位面时失效。通过额外消费2点进化点，可以让快速治疗增加1点，最大为5点。召唤师必须达到11级才能够选取该进化。</p>"
+        },
+        "Fiendish Appearance (3 EP)": {
+            "name": "魔族外表 (Fiendish Appearance (3 EP))",
+            "description": "<p><strong>魔族外表</strong>（Fiendish Appearance, Ex）是召唤师的进化。</p><p>幻灵的外观接近魔族，同时显现出某些魔族能力。以具邪恶亚种生物为目标的法术和效果，以及对此类生物具有特殊效果的法术或效果都会影响幻灵，如同幻灵具有邪恶亚种一般。幻灵在对抗强酸、疾病、火焰和毒素法术或效果的豁免检定获得+2加值。它还在对抗具有善良描述符的法术时获得“5＋HD”的法术抗力。召唤师必须属于邪恶阵营才能选择该进化。</p><p>7级时，召唤师可以额外消耗2点进化点，将豁免检定加值提升至+4，且法术抗力也在对抗由善良生物施放的法术和类法术能力时生效。</p><p>12级时，召唤师可以额外消耗2点进化点，使幻灵免疫酸蚀、疾病、火焰和毒素。它的法术抗力增至“11＋HD”。（召唤师必须首先为7级的强化消耗额外点数，才能选择12级时的强化。）</p>"
+        },
+        "Flight (2 EP)": {
+            "name": "飞行 (Flight (2 EP))",
+            "description": "<p><strong>飞行</strong>（Flight, Ex/Su）是召唤师的进化。</p><p>幻灵生长出如同蝙蝠，鸟，昆虫或龙一样的巨大翅膀，同时获得飞行能力。飞行速度同等于幻灵基本速度，飞行机动性由幻灵体型决定：中型及以下的幻灵飞行机动性为良好，大型幻灵为正常，超大型幻灵则为不良。额外消费2点进化点，幻灵将失去羽翼，同时飞行方式变为魔法飞行，飞行机动性升级为完美。凭借魔法飞行是超自然能力。幻灵可以额外消费进化点来提高其飞行速度，每花费1点进化点可以提升其飞行速度20尺。召唤师必须达到5级才能够选取该进化。</p>"
+        },
+        "Frightful Presence (3 EP)": {
+            "name": "气势凶猛 (Frightful Presence (3 EP))",
+            "description": "<p><strong>气势凶猛</strong>（Frightful Presence, Ex）是召唤师的进化。</p><p>幻灵使得它的敌人心绪不宁，获得气势凶猛能力。幻灵能够启动此能力作为攻击动作的一部分，例如冲锋或攻击。在幻灵30尺内的敌人必须进行意志豁免，失败则陷入战栗状态3d6轮。豁免DC为“10+1/2幻灵生命骰数+幻灵魅力修正”。如果幻灵的生命骰数超过对方4以上，对方将会陷入惊惧状态。生命骰数高于幻灵的敌人免疫此效果。召唤师必须达到11级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Gills (1 EP)": {
+            "name": "鳃 (Gills (1 EP))",
+            "description": "<p><strong>鳃</strong>（Gills, Ex）是召唤师的进化。</p><p>幻灵长出鳃，能够无限期地在水中呼吸。</p>"
+        },
+        "Gore (2 EP)": {
+            "name": "抵撞 (Gore (2 EP))",
+            "description": "<p><strong>抵撞</strong>（Gore, Ex）是召唤师的进化。</p><p>幻灵的头上生长出角，赋予它抵撞攻击的能力。这项攻击是主要攻击。抵撞造成1d6点伤害（大型1d8，超大型2d6）。</p>"
+        },
+        "Gore (Attack)": {
+            "name": "抵撞 (Gore (Attack))",
+            "description": "<p><strong>抵撞</strong>（Gore, Ex）是召唤师的进化。</p><p>幻灵的头上生长出角，赋予它抵撞攻击的能力。这项攻击是主要攻击。抵撞造成1d6点伤害（大型1d8，超大型2d6）。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Grab (2 EP)": {
+            "name": "攫抓 (Grab (2 EP))",
+            "description": "<p><strong>攫抓</strong>（Grab, Ex）是召唤师的进化。</p><p>幻灵能够熟练地擒抱敌人，获得攫抓能力。在啮咬、爪抓、螯夹、挥击、尾扫或触手攻击中选择一种。当幻灵使用选择类型的攻击命中敌人时，能够立刻以自由动作进行一次战技检定。检定成功则幻灵可以擒抱住该目标。这项能力只作用于体型至少比幻灵小一级的生物。选择该进化的幻灵擒抱战技检定+4。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Head (2 EP)": {
+            "name": "头颅 (Head (2 EP))",
+            "description": "<p><strong>头颅</strong>（Head, Ex）是召唤师的进化。</p><p>幻灵长出一颗额外的脑袋。幻灵不会因为头颅本身获得更多的攻击，但是可以从其他进化中获得额外的头部天生武器（例如啮咬、抵撞或喷吐武器）。该进化可以被多次选取。</p>"
+        },
+        "Hooves (1 EP)": {
+            "name": "蹄踢 (Hooves (1 EP))",
+            "description": "<p><strong>蹄踢</strong>（Hooves, Ex）是召唤师的进化。</p><p>幻灵的肢体末端长出坚硬的蹄，得到2次蹄踢攻击。这项攻击是次要攻击。蹄踢造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“肢体”才能选择该进化，且仅能为肢体（腿）添加一次。幻灵可以用“蹄踢”来替代基本型态附带的“爪抓”（仍然消费1点进化点）。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>"
+        },
+        "Hooves (Attack)": {
+            "name": "蹄踢 (Hooves (Attack))",
+            "description": "<p><strong>蹄踢</strong>（Hooves, Ex）是召唤师的进化。</p><p>幻灵的肢体末端长出坚硬的蹄，得到2次蹄踢攻击。这项攻击是次要攻击。蹄踢造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“肢体”才能选择该进化，且仅能为肢体（腿）添加一次。幻灵可以用“蹄踢”来替代基本型态附带的“爪抓”（仍然消费1点进化点）。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Immunity (2 EP)": {
+            "name": "能量免疫 (Immunity (2 EP))",
+            "description": "<p><strong>能量免疫</strong>（Immunity, Su）是召唤师的进化。</p><p>幻灵的身体变得能够对一种能量类型极端适应，以至彻底免疫。选择一种能量：酸蚀、寒冷、电击、火焰或声波。幻灵对该种能量类型获得免疫效果。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的能量类型。召唤师必须达到7级才能够选取该进化。</p>"
+        },
+        "Improved Damage (1 EP)": {
+            "name": "伤害强化 (Improved Damage (1 EP))",
+            "description": "<p><strong>伤害强化</strong>（Improved Damage, Ex）是召唤师的进化。</p><p>幻灵的一项天生武器变得特别致命。选择一种天生武器，伤害提升一级。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的天生武器。</p>"
+        },
+        "Improved Evasion": {
+            "name": "精通反射闪避 (Improved Evasion)",
+            "description": "<p>有些攻击效果若通过反射检定仍会造成一半伤害，此时幻灵若通过反射检定则完全不受伤害。即使未通过反射检定，也只会受到一半伤害。</p>"
+        },
+        "Improved Natural Armor (1 EP)": {
+            "name": "天防强化 (Improved Natural Armor (1 EP))",
+            "description": "<p><strong>天防强化</strong>（Improved Natural Armor, Ex）是召唤师的进化。</p><p>幻灵长出厚厚的皮毛、坚硬的鳞片或是骨质的盾片，给予它+2天生护甲加值。每5个召唤师等级可以额外选择该进化一次。</p>"
+        },
+        "Incorporeal Form (4 EP)": {
+            "name": "虚体形态 (Incorporeal Form (4 EP))",
+            "description": "<p><strong>虚体形态</strong>（Incorporeal Form, Sp）是召唤师的进化。</p><p>幻灵每天可以变成虚体1次，持续轮数为召唤师等级。幻灵在此状态下获得虚体亚种和虚体特性，即便被魔法实体攻击也仅受一半伤害（非魔法武器和物体根本无法伤害它）。同时幻灵的法术或类法术能力也只能对实体生物造成一半伤害。不造成伤害的法术和其他效果如常运作。召唤师必须达到15级才能够选取该进化。</p>"
+        },
+        "Keen Scent (2 EP)": {
+            "name": "精准嗅觉 (Keen Scent (2 EP))",
+            "description": "<p><strong>精准嗅觉</strong>（Keen Scent, Ex）是召唤师的进化。</p><p>幻灵的嗅觉变得更加敏锐。幻灵在水下通过“灵敏嗅觉”探知生物的距离扩大至180尺，且能嗅出1里内水中的血腥味。幻灵必须拥有“鳃”和“灵敏嗅觉”才能选择该进化。</p>"
+        },
+        "Large (4 EP)": {
+            "name": "体型增大 (Large (4 EP))",
+            "description": "<p><strong>体型增大</strong>（Large, Ex）是召唤师的进化。</p><p>幻灵体型增长，变为大型体型。幻灵力量+8、体质+4、天生护甲+2，同时敏捷-2。体型改变同时使幻灵的AC和攻击-1，CMB和CMD+1，飞行技能检定-2，隐匿技能检定-4。如果幻灵的基本形态为二足型，则其同时获得10尺触及。幻灵选择的任何“触及”进化与此叠加计算。幻灵必须为中型体型才能选择该进化。召唤师必须达到8级才能够选取该进化。</p><p>通过额外消费6点进化点，幻灵可以成长为超大型体型。幻灵力量+16、体质+8、天生护甲+5，同时敏捷-4。体型改变同时使幻灵的AC和攻击-2，CMB和CMD+2，触及提升为10尺，飞行技能检定-4，隐匿技能检定-8。如果幻灵的基本形态为二足型，则其触及提升至15尺。幻灵选择的任何“触及”进化与此叠加计算。上述加值和减值将取代变为大型体型时的数据修正，而非叠加。召唤师必须达到13级才能够选取此提升。</p><p>当通过“属性强化”进化来提升大型或超大型幻灵的力量或体质属性时，消费的进化点数加倍至4点。</p>"
+        },
+        "Lifesense (4 EP)": {
+            "name": "生命感知 (Lifesense (4 EP))",
+            "description": "<p><strong>生命感知</strong>（Lifesense, Su）是召唤师的进化。</p><p>幻灵可以轻松定位活物。幻灵可以如同拥有“盲视”进化一般察觉并定位60尺内的活物。幻灵必须拥有“亡灵外表”才能选择该进化。召唤师必须达到11级才能够选取该进化。</p>"
+        },
+        "Limbs (2 EP)": {
+            "name": "肢体 (Limbs (2 EP))",
+            "description": "<p><strong>肢体</strong>（Limbs, Ex）是召唤师的进化。</p><p>幻灵长出一对额外的肢体。这些肢体必须选择两种形式之一。肢体可以是腿，包括脚；每一对额外的腿会使幻灵的基本速度提高10尺。另一种肢体形式是臂，包括手。幻灵不会因为手臂本身获得更多的攻击，但是可以从其他进化中获得额外的前肢天生武器（例如爪抓或挥击）。手臂能够持用幻灵所擅长类型的武器。该进化可以被多次选取。</p>"
+        },
+        "Link": {
+            "name": "连结 (Link)",
+            "description": "<p>幻灵与召唤师共享精神连结，并允许他们在任何距离互相沟通（只要他们在同一个位面）。沟通是一个自由动作，允许召唤师随时对幻灵下达指令。此外，召唤师的魔法物品也会干涉幻灵——这使得召唤师与其幻灵共享魔法物品的装备位。譬如，当召唤师佩戴一只戒指，那么其幻灵也最多只能佩戴一只戒指。若两者发生冲突，召唤师的魔法物品依然生效，而幻灵的则会失效。幻灵必须有合适的肢体来装备魔法物品。</p>"
+        },
+        "Low-Light Vision (1 EP)": {
+            "name": "昏暗视觉 (Low-Light Vision (1 EP))",
+            "description": "<p><strong>昏暗视觉</strong>（Low-Light Vision, Ex）是召唤师的进化。</p><p>幻灵获得昏暗视觉，在低光环境下可以看到正常人类两倍的距离。</p>"
+        },
+        "Magic Attacks (1 EP)": {
+            "name": "魔法攻击 (Magic Attacks (1 EP))",
+            "description": "<p><strong>魔法攻击</strong>（Magic Attacks, Su）是召唤师的进化。</p><p>幻灵被注入魔法能量，其所有天生武器视同魔法武器以突破伤害减免。如果召唤师的等级达到10，幻灵的天生武器还被视为同于幻灵阵营的阵营武器。</p>"
+        },
+        "Major Magic (3 EP)": {
+            "name": "高级魔法 (Major Magic (3 EP))",
+            "description": "<p><strong>高级魔法</strong>（Major Magic, Sp）是召唤师的进化。</p><p>幻灵可以用类法术能力的方式施展一项高级魔法。从以下法术中选取一个：@UUID[Compendium.pf1.spells.Item.wh9zc2reqneafxro]{强酸箭}、@UUID[Compendium.pf1.spells.Item.e67esdjp4nojtbr7]{治疗中伤}、@UUID[Compendium.pf1.spells.Item.tsndfcfijmgxs37p]{黑暗术}、@UUID[Compendium.pf1.spells.Item.y69de8y5ddrhuue5]{怪物晕眩术}、@UUID[Compendium.pf1.spells.Item.d8yy4njnr25hacek]{滑翔术}、@UUID[Compendium.pf1.spells.Item.oylikodnyku2zewu]{隐形术}（限自身）、@UUID[Compendium.pf1.spells.Item.fxz69pwpqt9b6uss]{次等复原术}、@UUID[Compendium.pf1.spells.Item.plou8h168bfn5hq6]{浮空术}、@UUID[Compendium.pf1.spells.Item.27o3msobhyghmfid]{弱效幻影}、@UUID[Compendium.pf1.spells.Item.q4ixxjb4v281g2xv]{灼热射线}、@UUID[Compendium.pf1.spells.Item.nokru6mxk9p3r513]{识破隐形}、@UUID[Compendium.pf1.spells.Item.3mfmhx8avu7h3iom]{蛛行术}。幻灵每天可以用类法术能力施展此法术1次。10级时通过额外消费2点进化点，可以让使用次数上升到每天3次。这些法术的施法者等级等于“幻灵生命骰数-2”，豁免DC为“10+1/2幻灵生命骰数+幻灵魅力修正”。幻灵的魅力必须达到12点以上，且拥有“次级魔法”才能选择该进化。召唤师必须达到7级才能够选取该进化。该进化可以被多次选取，每次必须选择不同的法术。</p>"
+        },
+        "Maximum Attacks": {
+            "name": "攻击上限 (Maximum Attacks)",
+            "description": "<p>幻灵当前等级的最大天生武器攻击次数。达到此上限后，幻灵不能继续选择增加天生武器的进化型态。这里并不包括幻灵通过装备武器做出的攻击。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Minor Magic (2 EP)": {
+            "name": "次级魔法 (Minor Magic (2 EP))",
+            "description": "<p><strong>次级魔法</strong>（Minor Magic, Sp）是召唤师的进化。</p><p>幻灵可以用类法术能力的方式施展一项次级魔法。从以下法术中选取一个：@UUID[Compendium.pf1.spells.Item.lndeaqm2j2nvgm6p]{燃烧之手}、@UUID[Compendium.pf1.spells.Item.jcs7ba5depdyitey]{通晓语言}、@UUID[Compendium.pf1.spells.Item.xoc3vhg3btmfjauq]{治疗轻伤}、@UUID[Compendium.pf1.spells.Item.17eskras8cjynj10]{侦测混乱}/邪恶/善良/秩序、@UUID[Compendium.pf1.spells.Item.49yc9dpr4kvgki2s]{魔法飞弹}、@UUID[Compendium.pf1.spells.Item.tuh5vc2bojaws3ig]{隐雾术}、@UUID[Compendium.pf1.spells.Item.kq916lznxo0ig68v]{无声幻影}、@UUID[Compendium.pf1.spells.Item.c11olzqztodz5o5x]{渐隐术}（仅限自身）、@UUID[Compendium.pf1.spells.Item.0onqjy8gfgop1xsi]{腹语术}。幻灵每天可以用类法术能力施展此法术1次。7级时通过额外消费2点进化点，可以让使用次数上升到每天3次。这些法术的施法者等级等于“幻灵生命骰数-2”，豁免DC为“10+1/2幻灵生命骰数+幻灵魅力修正”。幻灵的魅力必须达到11点以上，且拥有“基础魔法”才能选择该进化。召唤师必须达到4级才能够选取该进化。该进化可以被多次选取，每次必须选择不同的法术。</p>"
+        },
+        "Mount (1 EP)": {
+            "name": "骑乘 (Mount (1 EP))",
+            "description": "<p><strong>骑乘</strong>（Mount, Ex）是召唤师的进化。</p><p>幻灵在经过恰当训练后，可被当作受过战斗训练的坐骑投入使用。幻灵的体型必须比骑乘者大至少一级。该进化仅适用于基本型态为水生型、四足型或蛇身型的幻灵。</p>"
+        },
+        "Multiattack": {
+            "name": "多重攻击 (Multiattack)",
+            "description": "<p><em>这个生物精于利用自己的天生武器进行攻击。</em></p><p><strong>先决条件</strong>：三次或更多天生武器攻击。</p><p><strong>效果</strong>：生物的次要天生武器攻击仅在攻击上承受-2减值。</p><p><strong>通常</strong>：若无此专长支持，生物的次要天生武器攻击在攻击投骰上将承受-5减值。</p>"
+        },
+        "Natural Armor Bonus": {
+            "name": "护甲加值 (Natural Armor Bonus)",
+            "description": "<p>幻灵的护甲总值。召唤师可以在护甲加值和天生护甲加值之间分配该数值。该数据可以因幻灵的基本形态和某些进化型态而得到修正。幻灵无法穿戴任何种类的护甲，因为护甲会干扰召唤师与幻灵之间的联系。</p>"
+        },
+        "No Breath (4 EP)": {
+            "name": "无需呼吸 (No Breath (4 EP))",
+            "description": "<p><strong>无需呼吸</strong>（No Breath, Ex）是召唤师的进化。</p><p>幻灵不再需要呼吸。幻灵因此免疫基于呼吸的效果（譬如吸入型毒素），但并不能免疫无需通过呼吸生效的云雾攻击。召唤师必须达到11级才能够选取该进化。</p>"
+        },
+        "Pincers (1 EP)": {
+            "name": "螯夹 (Pincers (1 EP))",
+            "description": "<p><strong>螯夹</strong>（Pincers, Ex）是召唤师的进化。</p><p>幻灵的肢体末端长出一对大螯，给它两次螯夹攻击。这项攻击是次要攻击。螯夹造成1d6点伤害（大型1d8，超大型2d6）。具有“攫抓”进化的幻灵在使用螯夹时擒抱的战技检定获得+2加值。幻灵必须拥有“肢体（臂）”才能选择该进化。幻灵可以用“螯夹”来替代基本型态附带的“爪抓”（仍然消费1点进化点）。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>"
+        },
+        "Pincers (Attack)": {
+            "name": "螯夹 (Pincers (Attack))",
+            "description": "<p><strong>螯夹</strong>（Pincers, Ex）是召唤师的进化。</p><p>幻灵的肢体末端长出一对大螯，给它两次螯夹攻击。这项攻击是次要攻击。螯夹造成1d6点伤害（大型1d8，超大型2d6）。具有“攫抓”进化的幻灵在使用螯夹时擒抱的战技检定获得+2加值。幻灵必须拥有“肢体（臂）”才能选择该进化。幻灵可以用“螯夹”来替代基本型态附带的“爪抓”（仍然消费1点进化点）。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Poison (2 EP)": {
+            "name": "毒素 (Poison (2 EP))",
+            "description": "<p><strong>毒素</strong>（Poison, Ex）是召唤师的进化。</p><p>幻灵的身体可以分泌毒液，获得一种带毒攻击。选择一项啮咬或尾刺攻击。当幻灵使用所选择的天生武器攻击命中敌人时，会令该目标中毒。“幻灵毒：类型—毒素（伤口）；豁免—强韧通过无效；频率—每轮1次，共4轮；效果—1d4力量伤害；痊愈—1次豁免。”豁免DC为“10+1/2幻灵生命骰数+幻灵体质修正”。额外消费2点进化点，毒素将改为造成体质伤害。毒素能力每轮仅能使用1次。召唤师必须达到7级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Pounce (1 EP)": {
+            "name": "猛扑 (Pounce (1 EP))",
+            "description": "<p><strong>猛扑</strong>（Pounce, Ex）是召唤师的进化。</p><p>幻灵得到迅速的反应力，允许它在冲锋后进行全力攻击。该进化仅适用于基本型态为四足型的幻灵。</p>"
+        },
+        "Pull (1 EP)": {
+            "name": "拖拽 (Pull (1 EP))",
+            "description": "<p><strong>拖拽</strong>（Pull, Ex）是召唤师的进化。</p><p>幻灵能够藉由攻击将敌人拖近。选择一项天生武器，每当幻灵成功使用这项武器命中敌人，能够立刻以自由动作进行一次战技检定。如果成功，被击中的目标将被幻灵拖近5尺。这项能力只作用于体型小于或等于幻灵体型的生物。这种方式的移动不会导致借机攻击。幻灵必须有至少10尺触及才能选择该进化。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的天生武器。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Push (1 EP)": {
+            "name": "叩击 (Push (1 EP))",
+            "description": "<p><strong>叩击</strong>（Push, Ex）是召唤师的进化。</p><p>幻灵能够藉由攻击将敌人击退。选择一项天生武器，每当幻灵成功使用这项武器命中敌人，能够立刻以自由动作进行一次战技检定。如果成功，被击中的目标将被幻灵击退5尺。这项能力只作用于体型小于或等于幻灵体型的生物。这种方式的移动不会导致借机攻击。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的天生武器。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Rake (2 EP)": {
+            "name": "耙抓 (Rake (2 EP))",
+            "description": "<p><strong>耙抓</strong>（Rake, Ex）是召唤师的进化。</p><p>幻灵的脚上生出锋利的爪子，使它能对擒抱的敌人进行2次耙抓攻击。这项攻击是主要攻击。幻灵每次的成功擒抱，都可以进行额外的耙抓攻击。耙抓造成1d4点伤害（大型1d6，超大型1d8）。该进化仅适用于基本型态为四足型的幻灵。计算幻灵的攻击上限时，该进化视为一项天生武器。召唤师必须达到4级才能够选取该进化。</p>"
+        },
+        "Rake (Attack)": {
+            "name": "耙抓 (Rake (Attack))",
+            "description": "<p><strong>耙抓</strong>（Rake, Ex）是召唤师的进化。</p><p>幻灵的脚上生出锋利的爪子，使它能对擒抱的敌人进行2次耙抓攻击。这项攻击是主要攻击。幻灵每次的成功擒抱，都可以进行额外的耙抓攻击。耙抓造成1d4点伤害（大型1d6，超大型1d8）。该进化仅适用于基本型态为四足型的幻灵。计算幻灵的攻击上限时，该进化视为一项天生武器。召唤师必须达到4级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Reach (1 EP)": {
+            "name": "触及 (Reach (1 EP))",
+            "description": "<p><strong>触及</strong>（Reach, Ex）是召唤师的进化。</p><p>幻灵的某项天生武器可从更远处袭击敌人。选择一项天生武器，其触及增加5尺。</p>"
+        },
+        "Rend (2 EP)": {
+            "name": "撕扯 (Rend (2 EP))",
+            "description": "<p><strong>撕扯</strong>（Rend, Ex）是召唤师的进化。</p><p>幻灵学会使用自己的爪子撕裂敌人的肉体，获得撕扯能力。每当幻灵在一轮内对同一个目标成功进行2次爪抓时，它可通过利爪撕扯敌人造成额外伤害。伤害点数等于1次爪抓攻击伤害，外加1.5倍力量修正。幻灵必须拥有“爪抓”才能选择该进化。召唤师必须达到6级才能够选取该进化。</p>"
+        },
+        "Rend (Attack)": {
+            "name": "撕扯 (Rend (Attack))",
+            "description": "<p><strong>撕扯</strong>（Rend, Ex）是召唤师的进化。</p><p>幻灵学会使用自己的爪子撕裂敌人的肉体，获得撕扯能力。每当幻灵在一轮内对同一个目标成功进行2次爪抓时，它可通过利爪撕扯敌人造成额外伤害。伤害点数等于1次爪抓攻击伤害，外加1.5倍力量修正。幻灵必须拥有“爪抓”才能选择该进化。召唤师必须达到6级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Resistance (1 EP)": {
+            "name": "能量抵抗 (Resistance (1 EP))",
+            "description": "<p><strong>能量抵抗</strong>（Resistance, Ex）是召唤师的进化。</p><p>幻灵得到对特定能量的抗力，通常表现在身体特征上（灰状的外皮对应火焰，冷冽的吐息对应寒冷，诸如此类）。选择一种能量：酸蚀、寒冷、电击、火焰或声波。幻灵对特定能量得到5点抗力。召唤师等级每提升5级，抗力随之提升5点，10级时达到最大值15点。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的能量类型。</p>"
+        },
+        "Rider Bond (2 EP)": {
+            "name": "骑手纽带 (Rider Bond (2 EP))",
+            "description": "<p><strong>骑手纽带</strong>（Rider Bond, Ex）是召唤师的进化。</p><p>你骑乘你的幻灵时，你们共享一种感情连接。当你骑乘你的幻灵时，你在骑术检定上获得等同于一半召唤师等级的加值，并获得@UUID[Compendium.pf1.feats.Item.0spsP9ylE3goD3jc]{骑乘战斗}作为奖励专长。幻灵必须拥有骑乘进化才能选择此进化。</p>"
+        },
+        "STR/DEX Bonus": {
+            "name": "力敏加值 (STR/DEX Bonus)",
+            "description": "<p>此加值可以添加在幻灵基本形态的力量和敏捷属性基础上。某些进化型态可以进一步修正这些属性。</p>"
+        },
+        "Sacrifice (3 EP)": {
+            "name": "牺牲 (Sacrifice (3 EP))",
+            "description": "<p><strong>牺牲</strong>（Sacrifice, Su）是召唤师的进化。</p><p>幻灵可以牺牲自己的HP来治疗他人。以一个标准动作，幻灵能最多牺牲每HD 2点HP，通过接触目标使其治愈所牺牲HP的一半。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Scent (1 EP)": {
+            "name": "灵敏嗅觉 (Scent (1 EP))",
+            "description": "<p><strong>灵敏嗅觉</strong>（Scent, Ex）是召唤师的进化。</p><p>幻灵的嗅觉变得格外敏锐。幻灵得到灵敏嗅觉特性，允许它通过嗅觉来定位30尺内的对象。此距离在对象处于上风时提升至60尺，在对象处于下风时降至15尺。强烈的气味可以在双倍距离下被嗅到。灵敏嗅觉并不允许幻灵精确定位目标生物，仅能探知其存在。它可以用一个移动动作侦测到对方的方向，并在相距5尺以内时直接确定对象的正确位置。幻灵可以用灵敏嗅觉来追踪生物。</p>"
+        },
+        "See in Darkness (3 EP)": {
+            "name": "黑暗之眼 (See in Darkness (3 EP))",
+            "description": "<p><strong>黑暗之眼</strong>（See in Darkness, Su）是召唤师的进化。</p><p>幻灵可以在任何种类的黑暗中完美视物，即便是@UUID[Compendium.pf1.spells.Item.jdsvncnna6oy189a]{深幽黑暗术}所创造的黑暗。召唤师必须达到9级才能够选取该进化。</p>"
+        },
+        "Shadow Blend (2 EP)": {
+            "name": "融影 (Shadow Blend (2 EP))",
+            "description": "<p><strong>融影</strong>（Shadow Blend, Su）是召唤师的进化。</p><p>在任何并非明亮光源的照明度下，幻灵会消失在阴影中，这将给予它隐蔽（20%失手率）。如果幻灵同时拥有“幽影型态”进化，则改为获得全隐蔽（50%失手率）。幻灵可以用一个自由动作终止或者重新开启此能力。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Shadow Form (2 EP)": {
+            "name": "幽影型态 (Shadow Form (2 EP))",
+            "description": "<p><strong>幽影型态</strong>（Shadow Form, Su）是召唤师的进化。</p><p>幻灵的躯壳会变得阴暗且更加的朦胧。此进化会给予幻灵常时的隐蔽（20%失手率），并且使它的近战攻击能如同拥有幽冥属性般影响到虚体生物。然而，幻灵的攻击对实体生物只造成一半的伤害。</p>"
+        },
+        "Share Spells": {
+            "name": "分享法术 (Share Spells)",
+            "description": "<p><em>你可以与你的伙伴分享个人法术。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf-content.pf-feats.Item.j2bq4CvpXtqkwWqL]{心灵羁绊}，与一名动物伙伴、幻灵、魔宠或魅影有法术共享能力，施法者等级1级。</p><p><strong>效果</strong>：只要盟友拥有@UUID[Compendium.pf-content.pf-feats.Item.j2bq4CvpXtqkwWqL]{心灵羁绊}专长的话，你就可以将目标为〔自身〕的法术如同接触法术一般的施展到一名盟友身上，如同法术共享魔宠能力一般。</p>"
+        },
+        "Shared Evolution (1 EP)": {
+            "name": "分享进化 (Shared Evolution (1 EP))",
+            "description": "<p><strong>分享进化</strong>（Shared Evolution, Su）是召唤师的进化。</p><p>选择一个幻灵所拥有的1点或2点进化。以一个标准动作，幻灵可以接触召唤师，并将所选的进化赋予给他。这如同召唤师的异界型态能力般生效，并受到相同的限制。召唤师可以以一个标准动作接触幻灵，将进化返还给幻灵。在幻灵被召唤师遣返或者被送回它的原属位面时，进化将会自动返回到幻灵那里。</p><p><strong>先决条件</strong>：双子幻灵。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Shared Slot (2 EP)": {
+            "name": "分享装备位 (Shared Slot (2 EP))",
+            "description": "<p><strong>分享装备位</strong>（Shared Slot, Su）是召唤师的进化。</p><p>选择一个魔法物品装备位。幻灵在这个装备位上佩戴的魔法物品保持生效，即使召唤师在同一个装备位上也佩戴了魔法物品。这个进化可以被选取多次，每次幻灵选取这个进化时，它都会应用到一个新的装备位上。</p><p><strong>先决条件</strong>：双子幻灵。</p>"
+        },
+        "Sickening (2 EP)": {
+            "name": "作呕 (Sickening (2 EP))",
+            "description": "<p><strong>作呕</strong>（Sickening, Ex）是召唤师的进化。</p><p>幻灵的外貌或气味令人作呕，以至于令附近的生物恶心不已。除召唤师外，接近幻灵20尺范围内或在该范围内开始回合的所有活物必须通过强韧豁免（DC＝10＋1/2幻灵HD＋幻灵体质调整值），否则恶心1轮。成功通过豁免的生物在24小时内不会受到同一幻灵作呕效果的影响。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Skilled (1 EP)": {
+            "name": "技能精通 (Skilled (1 EP))",
+            "description": "<p><strong>技能精通</strong>（Skilled, Ex）是召唤师的进化。</p><p>幻灵变得特别精通一项技能，该技能得到+8种族加值。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的技能。</p>"
+        },
+        "Slam (1 EP)": {
+            "name": "挥击 (Slam (1 EP))",
+            "description": "<p><strong>挥击</strong>（Slam, Ex）是召唤师的进化。</p><p>幻灵可以使用破坏性的挥击。这项攻击是主要攻击。挥击造成1d8点伤害（大型2d6，超大型2d8）。幻灵必须拥有“肢体（臂）”才能选择该进化。幻灵可以用“挥击”来替代基本型态附带的“爪抓”（仍然消费1点进化点）。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>"
+        },
+        "Slam (Attack)": {
+            "name": "挥击 (Slam (Attack))",
+            "description": "<p><strong>挥击</strong>（Slam, Ex）是召唤师的进化。</p><p>幻灵可以使用破坏性的挥击。这项攻击是主要攻击。挥击造成1d8点伤害（大型2d6，超大型2d8）。幻灵必须拥有“肢体（臂）”才能选择该进化。幻灵可以用“挥击”来替代基本型态附带的“爪抓”（仍然消费1点进化点）。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Slippery (1 EP)": {
+            "name": "滑溜 (Slippery (1 EP))",
+            "description": "<p><strong>滑溜</strong>（Slippery, Ex）是召唤师的进化。</p><p>因为湿滑的肌肤或光滑的外骨骼，幻灵特别滑溜。幻灵为挣脱擒抱而计算的CMD和脱逃检定获得+4加值。</p>"
+        },
+        "Spell Resistance (4 EP)": {
+            "name": "法术抗力 (Spell Resistance (4 EP))",
+            "description": "<p><strong>法术抗力</strong>（Spell Resistance, Ex）是召唤师的进化。</p><p>幻灵受到抵抗魔法的保护，获得法术抗力。幻灵的法术抗力等于“11+召唤师等级”。该法术抗力对召唤师所施展的法术并不会生效。召唤师必须达到9级才能够选取该进化。</p>"
+        },
+        "Sticky (1 EP)": {
+            "name": "粘黏 (Sticky (1 EP))",
+            "description": "<p><strong>粘黏</strong>（Sticky, Ex）是召唤师的进化。</p><p>幻灵特别粘黏，或是因为黏液、或是因为凝血、或是生有倒刺。幻灵发起或维持擒抱的战技检定获得+4加值。</p>"
+        },
+        "Sting (1 EP)": {
+            "name": "尾刺 (Sting (1 EP))",
+            "description": "<p><strong>尾刺</strong>（Sting, Ex）是召唤师的进化。</p><p>幻灵的尾巴上长出长而尖锐的刺，获得尾刺攻击。这项攻击是主要攻击。尾刺造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“尾巴”才能选择该进化。该进化可以多次选取，但是幻灵必须要有对应数量的尾巴。</p>"
+        },
+        "Sting (Attack)": {
+            "name": "尾刺 (Sting (Attack))",
+            "description": "<p><strong>尾刺</strong>（Sting, Ex）是召唤师的进化。</p><p>幻灵的尾巴上长出长而尖锐的刺，获得尾刺攻击。这项攻击是主要攻击。尾刺造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“尾巴”才能选择该进化。该进化可以多次选取，但是幻灵必须要有对应数量的尾巴。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Swallow Whole (3 EP)": {
+            "name": "活吞 (Swallow Whole (3 EP))",
+            "description": "<p><strong>活吞</strong>（Swallow Whole, Ex）是召唤师的进化。</p><p>幻灵获得活吞能力，可以消化掉敌人。如果幻灵在用啮咬攻击擒抱住一个敌人的状态下开始行动轮，可以进行一次战技检定以尝试吞噬该生物。对象体型必须小于幻灵一级以上。被活吞生物每轮受到等同于幻灵啮咬攻击的伤害，外加1d6点钝击伤害。被活吞生物视为保持擒抱状态，但可尝试用轻型挥砍或穿刺武器为自己切出一条活路。为获得自由所需造成的伤害等同于幻灵最大生命值的1/10。幻灵对抗此攻击的AC为“10+1/2幻灵天生护甲加值”。如果被活吞生物成功逃出生天，幻灵在治愈这部分伤害之前失去活吞能力。被活吞生物也可以尝试如同正常脱离擒抱般重获自由。检定成功将使其回到幻灵的口腔，届时可以再次尝试逃脱——或者再度被活吞。幻灵必须拥有添加于啮咬攻击的“攫抓”才能选择该进化。召唤师必须达到9级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Swim (1 EP)": {
+            "name": "游泳 (Swim (1 EP))",
+            "description": "<p><strong>游泳</strong>（Swim, Ex）是召唤师的进化。</p><p>幻灵长出蹼或是有力的鳍，给予它相当于基本速度的游泳速度。该进化并不能让幻灵在水中呼吸。该进化可以多次选取，每次选取提升幻灵20尺游泳速度。</p>"
+        },
+        "Tail (1 EP)": {
+            "name": "尾巴 (Tail (1 EP))",
+            "description": "<p><strong>尾巴</strong>（Tail, Ex）是召唤师的进化。</p><p>幻灵长出长而有力的尾巴，使幻灵用于维持平衡的特技检定获得+2种族加值。该进化可以多次选取。</p>"
+        },
+        "Tail (Attack)": {
+            "name": "尾巴 (Tail (Attack))",
+            "description": "<p><strong>尾巴</strong>（Tail, Ex）是召唤师的进化。</p><p>幻灵长出长而有力的尾巴，使幻灵用于维持平衡的特技检定获得+2种族加值。该进化可以多次选取。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Tail Slap (1 EP)": {
+            "name": "尾扫 (Tail Slap (1 EP))",
+            "description": "<p><strong>尾扫</strong>（Tail Slap, Ex）是召唤师的进化。</p><p>幻灵可以用尾巴来痛击邻近的敌人，得到使用尾扫攻击的能力。这项攻击是次要攻击。尾扫造成1d6点伤害（大型1d8，超大型2d6）。幻灵必须拥有“尾巴”才能选择该进化。该进化可以多次选取，但是幻灵必须要有对应数量的尾巴。</p>"
+        },
+        "Tentacle (1 EP)": {
+            "name": "触手 (Tentacle (1 EP))",
+            "description": "<p><strong>触手</strong>（Tentacle, Ex）是召唤师的进化。</p><p>幻灵获得长而弯曲的触手，给予它1次触手攻击。这项攻击是次要攻击。触手造成1d4点伤害（大型1d6，超大型1d8）。该进化可以多次选取。</p>"
+        },
+        "Tentacle (Attack)": {
+            "name": "触手 (Tentacle (Attack))",
+            "description": "<p><strong>触手</strong>（Tentacle, Ex）是召唤师的进化。</p><p>幻灵获得长而弯曲的触手，给予它1次触手攻击。这项攻击是次要攻击。触手造成1d4点伤害（大型1d6，超大型1d8）。该进化可以多次选取。</p>",
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        },
+        "Trample (2 EP)": {
+            "name": "践踏 (Trample (2 EP))",
+            "description": "<p><strong>践踏</strong>（Trample, Ex）是召唤师的进化。</p><p>幻灵能够将敌人踩碎在脚下，获得践踏能力。以一个整轮动作，幻灵能够闯越任何比它体型小至少一个等级的生物。本能力类似于闯越战技，但幻灵无需进行检定，只需在移动路径上越过对手的所在位置。践踏造成1d6点伤害（大型1d8，超大型2d6），外加1.5倍幻灵力量修正。目标在幻灵进行践踏时，能够以-4减值进行借机攻击。假如目标放弃借机攻击，则可以进行反射豁免检定以减半伤害。豁免DC为“10+1/2幻灵生命骰数+幻灵力量修正”。具有践踏能力的幻灵每轮仅能对一个生物造成1次践踏伤害。该进化仅适用于基本型态为二足型或四足型的幻灵。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Tremorsense (2 EP)": {
+            "name": "颤动感知 (Tremorsense (2 EP))",
+            "description": "<p><strong>颤动感知</strong>（Tremorsense, Ex）是召唤师的进化。</p><p>幻灵习惯于感知土地的震动，获得30尺颤动感知。其作用方式类似“盲感”进化，但是仅在幻灵和目标生物通过地表联结时才能生效。召唤师必须达到7级才能够选取该进化。</p>"
+        },
+        "Trip (2 EP)": {
+            "name": "摔绊 (Trip (2 EP))",
+            "description": "<p><strong>摔绊</strong>（Trip, Ex）是召唤师的进化。</p><p>幻灵精于以啮咬甩翻敌人。每当幻灵成功使用啮咬攻击命中敌人，能够立刻以自由动作进行一次战技检定。如果成功，被击中的目标将被击倒在地。检定失败时，幻灵不会被反摔。这项能力只作用于体型小于或等于幻灵体型的生物。幻灵必须拥有“啮咬”才能选择该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Ultimate Magic (4 EP)": {
+            "name": "究极魔法 (Ultimate Magic (4 EP))",
+            "description": "<p><strong>究极魔法</strong>（Ultimate Magic, Sp）是召唤师的进化。</p><p>幻灵可以用类法术能力的方式施展一项强大魔法。从以下法术中选取一个：@UUID[Compendium.pf1.spells.Item.2dc7e9wby8qpi6m0]{秘法视力}、@UUID[Compendium.pf1.spells.Item.qn947hen3wrelxhz]{造粮术}、@UUID[Compendium.pf1.spells.Item.norn02g8zdsspf2j]{治疗重伤}、@UUID[Compendium.pf1.spells.Item.7x2z0i8rcx7s81fk]{昼明术}、@UUID[Compendium.pf1.spells.Item.6oq1wcryviik9ice]{火球术}、@UUID[Compendium.pf1.spells.Item.7d6sv5ecvi7kho3m]{飞行术}、@UUID[Compendium.pf1.spells.Item.mqdoexj35atgqafn]{气化形体}、@UUID[Compendium.pf1.spells.Item.m84969gni5iu4bdt]{闪电束}、@UUID[Compendium.pf1.spells.Item.7rx66m98dwo18fy8]{强效幻影}、@UUID[Compendium.pf1.spells.Item.kjke96zd1j1jz48z]{臭云术}、@UUID[Compendium.pf1.spells.Item.m1rmcpcaixcpz9ib]{巧言术}、@UUID[Compendium.pf1.spells.Item.7m5us8d4a9lwh1ap]{水中呼吸}。幻灵每天可以用类法术能力施展此法术1次。这些法术的施法者等级等于“幻灵生命骰数-2”，豁免DC为“10+1/2幻灵生命骰数+幻灵魅力修正”。幻灵的魅力必须达到13点以上，且拥有“高级魔法”才能选择该进化。召唤师必须达到11级才能够选取该进化。该进化可以被多次选取，每次必须选择不同的法术。</p>"
+        },
+        "Undead Appearance (2 EP)": {
+            "name": "亡灵外表 (Undead Appearance (2 EP))",
+            "description": "<p><strong>亡灵外表</strong>（Undead Appearance, Ex）是召唤师的进化。</p><p>幻灵的外观接近亡灵，同时模仿不死生物的部分能力和弱点。负能量将治疗幻灵，而正能量（包括牧师的引导能量）将伤害幻灵。任何以不死生物为目标、或是对不死生物有效的法术和效果（譬如命令死灵专长，亡灵定身、@UUID[Compendium.pf1.spells.Item.dnet1tyxbsnwailm]{灼热光辉}法术等）都将影响幻灵，如同它是不死生物般。幻灵抵抗疾病、力竭、疲乏、麻痹、毒素、睡眠和震慑效果的豁免获得+2加值。7级时通过额外消费2点进化点，幻灵可以将此项加值提升为+4。12级时通过额外消费2点进化点，幻灵可以免疫上述效果（召唤师必须首先为7级时的强化消费额外点数，才能选择12级时的强化）。尽管此时幻灵类似不死生物，其类型依然是异界生物。</p>"
+        },
+        "Unnatural Aura (1 EP)": {
+            "name": "超常灵氲 (Unnatural Aura (1 EP))",
+            "description": "<p><strong>超常灵氲</strong>（Unnatural Aura, Su）是召唤师的进化。</p><p>幻灵成为明显的超自然存在。普通的动物不会想靠近幻灵，除非其主人通过了DC为25的驯养动物、骑术或野性认同检定。</p>"
+        },
+        "Weapon Training (2 EP)": {
+            "name": "武器训练 (Weapon Training (2 EP))",
+            "description": "<p><strong>武器训练</strong>（Weapon Training, Ex）是召唤师的进化。</p><p>幻灵学会如何使用武器，得到@UUID[Compendium.pf1.feats.Item.y3GhqdsCdE9IyYQc]{擅长简易武器}作为奖励专长。额外消费2点进化点，幻灵将同时擅长所有军用武器。</p>"
+        },
+        "Web (3 EP)": {
+            "name": "织网 (Web (3 EP))",
+            "description": "<p><strong>织网</strong>（Web, Ex）是召唤师的进化。</p><p>幻灵获得一对吐丝器，给予其织网能力。幻灵可以用这些网支撑自身、以及至多1个相同体型生物的重量。每日8次，幻灵能够以远程接触攻击抛网，使体型不超过自己大一级的生物陷入纠缠状态。织网的基本射程为50尺，射程增量为10尺。被网纠缠住的生物可以通过脱逃检定或力量检定（受-4减值）来挣脱，检定DC为“10+1/2幻灵生命骰数+幻灵体质修正”。织网硬度为0，生命值等于幻灵的生命骰数。幻灵可以在自己的织网上以攀爬速度移动，并能精确定位接触织网的生物。幻灵必须拥有“攀爬”才能选择该进化。召唤师必须达到7级才能够选取该进化。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Wing Buffet (1 EP)": {
+            "name": "翼击 (Wing Buffet (1 EP))",
+            "description": "<p><strong>翼击</strong>（Wing Buffet, Ex）是召唤师的进化。</p><p>幻灵学会使用翅膀来打击敌人，获得2次翼击。这项攻击是次要攻击。翼击造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“飞行”进化、并拥有翅膀才能选择该进化。</p>"
+        },
+        "Wings (Attack)": {
+            "actions": [
+                {
+                    "name": "攻击"
+                }
+            ]
+        }
+    }
+}

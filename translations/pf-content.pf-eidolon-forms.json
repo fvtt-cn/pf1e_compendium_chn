@@ -1,0 +1,520 @@
+{
+    "label": "幻灵形态",
+    "entries": {
+        "Aberrant Baseform": {
+            "items": {
+                "Swim (Base)": {
+                    "name": "游泳 (Swim (Base))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Tentacle": {
+                    "name": "触手 (Tentacle)"
+                },
+                "Improved Natural Armor (Base)": {
+                    "name": "精通天生护甲 (Improved Natural Armor (Base))"
+                },
+                "Gills (Base)": {
+                    "name": "鳃 (Gills (Base))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                }
+            }
+        },
+        "Aberrant Baseform (Small)": {
+            "items": {
+                "Swim (Base)": {
+                    "name": "游泳 (Swim (Base))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Tentacle": {
+                    "name": "触手 (Tentacle)"
+                },
+                "Improved Natural Armor (Base)": {
+                    "name": "精通天生护甲 (Improved Natural Armor (Base))"
+                },
+                "Gills (Base)": {
+                    "name": "鳃 (Gills (Base))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                }
+            }
+        },
+        "Aquatic Baseform": {
+            "items": {
+                "Swim (Base)": {
+                    "name": "游泳 (Swim (Base))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Improved Natural Armor (Base)": {
+                    "name": "精通天生护甲 (Improved Natural Armor (Base))"
+                },
+                "Gills (Base)": {
+                    "name": "鳃 (Gills (Base))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                }
+            }
+        },
+        "Aquatic Baseform (Small)": {
+            "items": {
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Swim (Base)": {
+                    "name": "游泳 (Swim (Base))"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Improved Natural Armor (Base)": {
+                    "name": "精通天生护甲 (Improved Natural Armor (Base))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Gills (Base)": {
+                    "name": "鳃 (Gills (Base))"
+                }
+            }
+        },
+        "Avian Baseform": {
+            "items": {
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Claws (Attack)": {
+                    "name": "爪抓 (Claws (Attack))"
+                },
+                "Limbs (Legs)": {
+                    "name": "肢体 (Limbs (Legs))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Claws (Base)": {
+                    "name": "爪抓 (Claws (Base))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Flight (Base)": {
+                    "name": "飞行 (Flight (Base))"
+                }
+            }
+        },
+        "Avian Baseform (Small)": {
+            "items": {
+                "Claws (Base)": {
+                    "name": "爪抓 (Claws (Base))"
+                },
+                "Limbs (Legs)": {
+                    "name": "肢体 (Limbs (Legs))"
+                },
+                "Claws (Attack)": {
+                    "name": "爪抓 (Claws (Attack))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Flight (Base)": {
+                    "name": "飞行 (Flight (Base))"
+                }
+            }
+        },
+        "Biped Baseform": {
+            "items": {
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Limbs (Arms)": {
+                    "name": "肢体 (Limbs (Arms))"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                }
+            }
+        },
+        "Biped Baseform (Small)": {
+            "items": {
+                "Limbs (Arms)": {
+                    "name": "肢体 (Limbs (Arms))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            }
+        },
+        "Quadruped Baseform": {
+            "items": {
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Bite (Attack)": {
+                    "name": "啮咬攻击 (Bite (Attack))"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                }
+            }
+        },
+        "Quadruped Baseform (Small)": {
+            "items": {
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Bite (Attack)": {
+                    "name": "啮咬攻击 (Bite (Attack))"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                }
+            }
+        },
+        "Serpentine Baseform": {
+            "items": {
+                "Tail Slap (Base)": {
+                    "name": "尾扫 (Tail Slap (Base))"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Climb (Base)": {
+                    "name": "攀爬 (Climb (Base))"
+                },
+                "Reach (Bite)": {
+                    "name": "触及 (Reach (Bite))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Tail Slap": {
+                    "name": "尾扫 (Tail Slap)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Tail (Base)": {
+                    "name": "尾巴 (Tail (Base))"
+                }
+            }
+        },
+        "Serpentine Baseform (Small)": {
+            "items": {
+                "Bite": {
+                    "name": "啮咬 (Bite)"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Tail (Base)": {
+                    "name": "尾巴 (Tail (Base))"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Tail Slap": {
+                    "name": "尾扫 (Tail Slap)"
+                },
+                "Climb (Base)": {
+                    "name": "攀爬 (Climb (Base))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Tail Slap (Base)": {
+                    "name": "尾扫 (Tail Slap (Base))"
+                },
+                "Bite (Base)": {
+                    "name": "啮咬 (Bite (Base))"
+                },
+                "Reach (Bite)": {
+                    "name": "触及 (Reach (Bite))"
+                }
+            }
+        },
+        "Tauric Baseform": {
+            "items": {
+                "Limbs (Arms)": {
+                    "name": "肢体 (Limbs (Arms))"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                },
+                "Evasion": {
+                    "name": "反射闪避 (Evasion)"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Limbs (Legs x 2)": {
+                    "name": "肢体 (Limbs (Legs x 2))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                }
+            }
+        },
+        "Tauric Baseform (Small)": {
+            "items": {
+                "Limbs (Legs x 2)": {
+                    "name": "肢体 (Limbs (Legs x 2))"
+                },
+                "Ability Score Increase": {
+                    "name": "属性改装 (Ability Score Increase)"
+                },
+                "Evolution Pool (Chained)": {
+                    "name": "进化池 (Evolution Pool (Chained))"
+                },
+                "Evolution Pool (Unchained)": {
+                    "name": "进化池 (Evolution Pool (Unchained))"
+                },
+                "STR/DEX Bonus": {
+                    "name": "力敏加值 (STR/DEX Bonus)"
+                },
+                "Limbs (Arms)": {
+                    "name": "肢体 (Limbs (Arms))"
+                },
+                "Share Spells": {
+                    "name": "分享法术 (Share Spells)"
+                },
+                "Darkvision": {
+                    "name": "黑暗视觉 (Darkvision)"
+                },
+                "Eidolon": {
+                    "name": "幻灵 (Eidolon)"
+                }
+            }
+        }
+    }
+}

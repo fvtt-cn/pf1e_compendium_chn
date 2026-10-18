@@ -1,0 +1,352 @@
+{
+    "label": "陷阱与作祟",
+    "entries": {
+        "Acid Arrow Trap": {
+            "name": "强酸箭陷阱 (Acid Arrow Trap)",
+            "tokenName": "强酸箭陷阱"
+        },
+        "Arcane Storm (CR 6)": {
+            "name": "奥术风暴 (Arcane Storm (CR 6))"
+        },
+        "Arrow Trap": {
+            "name": "飞箭陷阱 (Arrow Trap)",
+            "tokenName": "飞箭陷阱"
+        },
+        "Bear Trap": {
+            "name": "狗熊夹 (Bear Trap)",
+            "items": {
+                "Bear Trap": {
+                    "name": "狗熊夹 (Bear Trap)"
+                }
+            },
+            "tokenName": "狗熊夹"
+        },
+        "Bear Trap (offset)": {
+            "name": "狗熊夹 (Bear Trap (offset))",
+            "tokenName": "狗熊夹"
+        },
+        "Bear Trap (sawtooth)": {
+            "name": "狗熊夹 (Bear Trap (sawtooth))",
+            "tokenName": "狗熊夹"
+        },
+        "Belated Arrival (CR 5)": {
+            "name": "迟来的正义 (Belated Arrival (CR 5))"
+        },
+        "Betrayal (CR 7)": {
+            "name": "背叛 (Betrayal (CR 7))"
+        },
+        "Bleeding Walls (CR 5)": {
+            "name": "流血的墙壁 (Bleeding Walls (CR 5))"
+        },
+        "Bloody Handprints (CR 1/4)": {
+            "name": "血手印 (Bloody Handprints (CR 1/4))"
+        },
+        "Bountiful Feat (CR 8)": {
+            "name": "丰饶杀机 (Bountiful Feat (CR 8))"
+        },
+        "Breach to the Quickening (CR 12)": {
+            "name": "疾变之地的裂痕 (Breach to the Quickening (CR 12))"
+        },
+        "Breakaway Log": {
+            "name": "易损原木 (Breakaway Log)",
+            "items": {
+                "Breakaway Log": {
+                    "name": "易损原木 (Breakaway Log)"
+                }
+            },
+            "tokenName": "易损原木"
+        },
+        "Breakaway Vine": {
+            "name": "易损藤蔓 (Breakaway Vine)",
+            "items": {
+                "Breakaway Vine": {
+                    "name": "易损藤蔓 (Breakaway Vine)"
+                }
+            },
+            "tokenName": "易损藤蔓"
+        },
+        "Buried Alive (CR 4)": {
+            "name": "活埋 (Buried Alive (CR 4))"
+        },
+        "Clam Clamp": {
+            "name": "蛤蚌夹 (Clam Clamp)",
+            "items": {
+                "Clam Clamp": {
+                    "name": "蛤蚌夹 (Clam Clamp)"
+                }
+            },
+            "tokenName": "蛤蚌夹"
+        },
+        "Cold Spot (CR 1)": {
+            "name": "冰点 (Cold Spot (CR 1))"
+        },
+        "Crushing Cage Trap": {
+            "name": "压碎囚笼陷阱 (Crushing Cage Trap)"
+        },
+        "Crushing Stone Trap": {
+            "name": "巨石陷阱 (Crushing Stone Trap)",
+            "tokenName": "巨石陷阱"
+        },
+        "Crushing Terror (CR 14)": {
+            "name": "碾压恐惧 (Crushing Terror (CR 14))"
+        },
+        "Deadfall": {
+            "name": "倒木陷阱 (Deadfall)",
+            "items": {
+                "Deadfall": {
+                    "name": "倒木陷阱 (Deadfall)"
+                }
+            },
+            "tokenName": "倒木陷阱"
+        },
+        "Deadly Spear Trap": {
+            "name": "致命矛坑陷阱 (Deadly Spear Trap)",
+            "tokenName": "致命矛坑陷阱"
+        },
+        "Death of Curchanus (CR 6)": {
+            "name": "库尔查努斯之死 (Death of Curchanus (CR 6))"
+        },
+        "Demanding Dead (CR 3)": {
+            "name": "欲壑难填的亡者 (Demanding Dead (CR 3))"
+        },
+        "Devouring Maws (CR 9)": {
+            "name": "噬人之颚 (Devouring Maws (CR 9))"
+        },
+        "Dimensional Tear (CR 8)": {
+            "name": "次元裂隙 (Dimensional Tear (CR 8))"
+        },
+        "Dissolving Vat (CR 12)": {
+            "name": "溶解缸 (Dissolving Vat (CR 12))"
+        },
+        "Drought's End (CR 7)": {
+            "name": "干旱终结 (Drought's End (CR 7))"
+        },
+        "Enchanting Demise (CR 10)": {
+            "name": "魅惑终焉 (Enchanting Demise (CR 10))"
+        },
+        "Eternal Pyre (CR 11)": {
+            "name": "永恒火葬堆 (Eternal Pyre (CR 11))"
+        },
+        "Ettercap Spear Trap": {
+            "items": {
+                "Spear": {
+                    "name": "矛 (Spear)"
+                }
+            }
+        },
+        "Fallen from the Sky (CR 16)": {
+            "name": "坠天刑场 (Fallen from the Sky (CR 16))"
+        },
+        "Falling Blocks Trap": {
+            "name": "落石陷阱 (Falling Blocks Trap)"
+        },
+        "Final Soldier (CR 15)": {
+            "name": "最后的士兵 (Final Soldier (CR 15))"
+        },
+        "Fireball Trap, Maximized": {
+            "name": "极效火球陷阱 (Fireball Trap, Maximized)",
+            "items": {
+                "Fireball (Maximized)": {
+                    "name": "火球术 (Fireball (Maximized))"
+                }
+            },
+            "tokenName": "极效火球陷阱"
+        },
+        "Flayed Suicide (CR 18)": {
+            "name": "剥皮自戕 (Flayed Suicide (CR 18))"
+        },
+        "Flytrap (CR 4)": {
+            "name": "捕蝇草 (Flytrap (CR 4))"
+        },
+        "Following Footsteps (CR 4)": {
+            "name": "追随足印 (Following Footsteps (CR 4))"
+        },
+        "Foreboding Mist (CR 3)": {
+            "name": "预兆之雾 (Foreboding Mist (CR 3))"
+        },
+        "Gallery of Lightning": {
+            "items": {
+                "Chain Lightning (Empowered)": {
+                    "name": "连环闪电 (Chain Lightning (Empowered))"
+                }
+            }
+        },
+        "Hail of Arrows Trap": {
+            "name": "箭雨陷阱 (Hail of Arrows Trap)",
+            "items": {
+                "Hail of Arrows": {
+                    "name": "箭雨 (Hail of Arrows)"
+                }
+            },
+            "tokenName": "箭雨陷阱"
+        },
+        "Haunted Dungeon (CR 17)": {
+            "name": "闹鬼地牢 (Haunted Dungeon (CR 17))"
+        },
+        "Heart Explosion (CR 13)": {
+            "name": "心脏爆裂 (Heart Explosion (CR 13))"
+        },
+        "Insidious Presence (CR 9)": {
+            "name": "诡诈附身 (Insidious Presence (CR 9))"
+        },
+        "Isolation Haunt (CR 0)": {
+            "name": "孤立作祟 (Isolation Haunt (CR 0))"
+        },
+        "Javelin Trap": {
+            "name": "标枪陷阱 (Javelin Trap)",
+            "items": {
+                "Javelin": {
+                    "name": "标枪 (Javelin)"
+                }
+            },
+            "tokenName": "标枪陷阱"
+        },
+        "Lightning Bolt Gallery Trap": {
+            "name": "闪电束丛陷阱 (Lightning Bolt Gallery Trap)",
+            "items": {
+                "Lightning Bolt (Heightened)": {
+                    "name": "闪电束 (Lightning Bolt (Heightened))"
+                }
+            },
+            "tokenName": "闪电束丛陷阱"
+        },
+        "Living Decay (CR 10)": {
+            "name": "活体腐坏 (Living Decay (CR 10))"
+        },
+        "Maddening Influence (CR 10)": {
+            "name": "界外低语 (Maddening Influence (CR 10))"
+        },
+        "Malignant Weapon (CR 7)": {
+            "name": "恶毒武器 (Malignant Weapon (CR 7))"
+        },
+        "Meteor Swarm Trap": {
+            "name": "流星爆陷阱 (Meteor Swarm Trap)",
+            "items": {
+                "Meteor Swarm": {
+                    "name": "流星爆 (Meteor Swarm)"
+                }
+            },
+            "tokenName": "流星爆陷阱"
+        },
+        "Musk Shower": {
+            "name": "麝香喷雾 (Musk Shower)",
+            "items": {
+                "Musk Shower": {
+                    "name": "麝香喷雾 (Musk Shower)"
+                }
+            },
+            "tokenName": "麝香喷雾"
+        },
+        "Network of Lasers (CR 9)": {
+            "name": "激光网 (Network of Lasers (CR 9))"
+        },
+        "Pit Trap, Chute with Green Slime": {
+            "name": "陷坑陷阱（Chute with Green Slime） (Pit Trap, Chute with Green Slime)"
+        },
+        "Poison Dart Trap": {
+            "name": "毒镖陷阱 (Poison Dart Trap)"
+        },
+        "Psychic Echo (Anger) (CR 10)": {
+            "name": "心灵回响 (Psychic Echo (Anger) (CR 10))"
+        },
+        "Rapping Spirit (CR 1)": {
+            "name": "吵闹鬼 (Rapping Spirit (CR 1))"
+        },
+        "Razor Grass": {
+            "name": "剃刀草 (Razor Grass)",
+            "items": {
+                "Razor Grass": {
+                    "name": "剃刀草 (Razor Grass)"
+                }
+            },
+            "tokenName": "剃刀草"
+        },
+        "Robotic Reactivation (CR 8)": {
+            "name": "机体重启 (Robotic Reactivation (CR 8))"
+        },
+        "Scratching Behind the Wall (CR 1)": {
+            "name": "墙后抓挠声 (Scratching Behind the Wall (CR 1))"
+        },
+        "Servants of the Book (CR 10)": {
+            "name": "魔典仆从 (Servants of the Book (CR 10))"
+        },
+        "Shifting Seasons (CR 9)": {
+            "name": "变换的季节 (Shifting Seasons (CR 9))"
+        },
+        "Soul Vortex (CR 19)": {
+            "name": "魂能漩涡 (Soul Vortex (CR 19))"
+        },
+        "Spawn of the Abyss (CR 11)": {
+            "name": "深渊之子 (Spawn of the Abyss (CR 11))"
+        },
+        "Spectral Screams (CR 2)": {
+            "name": "幽魂尖啸 (Spectral Screams (CR 2))"
+        },
+        "Spectral Vermin (CR 5)": {
+            "name": "幽魂虫鼠 (Spectral Vermin (CR 5))"
+        },
+        "Spring Snare": {
+            "name": "弹簧圈套 (Spring Snare)",
+            "items": {
+                "Spring Snare": {
+                    "name": "弹簧圈套 (Spring Snare)"
+                }
+            },
+            "tokenName": "弹簧圈套"
+        },
+        "Spring-Arm Spike": {
+            "name": "弹臂尖刺 (Spring-Arm Spike)",
+            "items": {
+                "Spring-Arm Spike": {
+                    "name": "弹臂尖刺 (Spring-Arm Spike)"
+                }
+            },
+            "tokenName": "弹臂尖刺"
+        },
+        "Swinging Axe Trap": {
+            "name": "吊斧陷阱 (Swinging Axe Trap)",
+            "items": {
+                "Swinging Axe Trap": {
+                    "name": "吊斧陷阱 (Swinging Axe Trap)"
+                }
+            },
+            "tokenName": "吊斧陷阱"
+        },
+        "Swinging Log Trap": {
+            "items": {
+                "Swinging Log": {
+                    "name": "摆荡原木 (Swinging Log)"
+                }
+            },
+            "name": "摆荡原木 (Swinging Log Trap)"
+        },
+        "Tar Snare": {
+            "name": "焦油圈套 (Tar Snare)",
+            "items": {
+                "Tar Snare": {
+                    "name": "焦油圈套 (Tar Snare)"
+                }
+            },
+            "tokenName": "焦油圈套"
+        },
+        "Trapped Disguise Kit": {
+            "name": "设陷易容工具包 (Trapped Disguise Kit)"
+        },
+        "Trapped Scroll Case": {
+            "name": "设陷卷轴匣 (Trapped Scroll Case)"
+        },
+        "Twisted Wish (CR 20)": {
+            "name": "扭曲祈愿 (Twisted Wish (CR 20))"
+        },
+        "Unsolved Murder (CR 6)": {
+            "name": "未解凶案 (Unsolved Murder (CR 6))"
+        },
+        "Watery Grave (CR 8)": {
+            "name": "水葬之域 (Watery Grave (CR 8))"
+        },
+        "Wyvern Arrow Trap": {
+            "name": "翼龙毒箭陷阱 (Wyvern Arrow Trap)",
+            "tokenName": "翼龙毒箭陷阱"
+        }
+    }
+}

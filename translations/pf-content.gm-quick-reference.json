@@ -1,0 +1,23 @@
+{
+    "label": "GM 速查",
+    "entries": {
+        "Combat Maneuvers": {
+            "name": "战技 (Combat Maneuvers)",
+            "pages": {
+                "Combat Maneuvers": {
+                    "name": "战技",
+                    "text": "<p><strong>战技</strong>（Combat Maneuver）是用 CMB 对抗对手 CMD 发动的特殊攻击——推开、摔倒、缴械、擒住对方，而不是直接造成伤害。总则、CMB 与 CMD 的算法见 特殊攻击。</p><table><tr><th>战技</th><th>英文</th><th>一句话</th></tr><tr><td>冲撞</td><td>Bull Rush</td><td>把目标向后直线击退，每超出 CMD 5 点多推 5 尺。</td></tr><tr><td>缴械</td><td>Disarm</td><td>打掉对方手里的武器或物品。</td></tr><tr><td>擒抱</td><td>Grapple</td><td>抓住对方，双方都进入被擒抱状态。</td></tr><tr><td>闯越</td><td>Overrun</td><td>从对方占据的方格穿过去。</td></tr><tr><td>击破</td><td>Sunder</td><td>破坏对方持用的武器或护甲。</td></tr><tr><td>摔绊</td><td>Trip</td><td>把对方绊倒在地。</td></tr><tr><td>阴招</td><td>Dirty Trick</td><td>让对方目盲、耳聋、纠缠等，持续 1 轮起。</td></tr><tr><td>拖拽</td><td>Drag</td><td>把对方拖着一起移动。</td></tr><tr><td>移位</td><td>Reposition</td><td>把对方挪到你指定的另一个方格。</td></tr><tr><td>盗取</td><td>Steal</td><td>从对方身上摸走一件不在手上的物品。</td></tr></table><p>武器加值什么时候能加进战技检定，见 关于战技。</p><p>相关专长：@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}、@UUID[Compendium.pf1.feats.Item.ZmQkRk93nbHxsQSt]{精通擒抱}、@UUID[Compendium.pf1.feats.Item.gTrGPxzN054GfpkM]{精通摔绊}、@UUID[Compendium.pf1.feats.Item.711B9WNFgpdDKKf2]{精通缴械}、@UUID[Compendium.pf1.feats.Item.LUOETW7Fm0oPKKWj]{精通阴招}、@UUID[Compendium.pf1.feats.Item.TbOPtIL8Fv8obXtP]{精通重击} 等，见 :分类:专长。</p>"
+                }
+            }
+        },
+        "Special Abilities": {
+            "name": "特殊能力 (Special Abilities)",
+            "pages": {
+                "Special Abilities": {
+                    "name": "特殊能力",
+                    "text": "<p>迅猛俯冲（Sudden Swoop，Ex）：如果当喙嘴翼龙在飞行时进行一次冲锋攻击的话，那么当它进入一名敌手所在的空间进行近战攻击时，不会引发其借机攻击。并且当它进行一次迅猛俯冲时，它还会在其啮咬攻击的伤害投上获得+2加值。</p>"
+                }
+            }
+        }
+    }
+}

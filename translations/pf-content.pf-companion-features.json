@@ -1,0 +1,68 @@
+{
+    "label": "动物伙伴能力",
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        }
+    },
+    "entries": {
+        "Ability Score Increase": {
+            "name": "属性提升 (Ability Score Increase)",
+            "description": "<p>动物伙伴的一项属性增加1点。</p>"
+        },
+        "Animal Companion": {
+            "name": "动物伙伴 (Animal Companion)",
+            "description": "<p>以一个自由动作，人猿泰山必须选择一只猿作为他的动物伙伴。此能力改变了动物伙伴。</p>"
+        },
+        "Animal Companion Feats": {
+            "name": "动物专长 (Animal Companion Feats)",
+            "description": "<p>动物伙伴可选择下列专长：@UUID[Compendium.pf1.feats.Item.jCxcObXJfdDrx4WS]{特技专家}，@UUID[Compendium.pf1.feats.Item.lxDJhpqwtR3J4UXx]{灵巧武艺}，@UUID[Compendium.pf1.feats.Item.FszchlqR39lnNduC]{擅长轻型盔甲}，@UUID[Compendium.pf1.feats.Item.qQCgBVieojhmMuHL]{擅长中型盔甲}，@UUID[Compendium.pf1.feats.Item.3MqcLuZfUJB8xMby]{擅长重型盔甲}，@UUID[Compendium.pf1.feats.Item.rMR6ahXEfYqASE7D]{运动健将}，@UUID[Compendium.pf1.feats.Item.pmAO1Sni8xx71pLF]{盲斗}，@UUID[Compendium.pf1.feats.Item.h9nHYLxXvIXBTmup]{战斗反射}，@UUID[Compendium.pf-content.pf-feats.Item.g4dygpwC8Fk6l8fe]{忠贞不异}，@UUID[Compendium.pf1.feats.Item.O0e0UCim27GPKFuW]{顽强}，@UUID[Compendium.pf-content.pf-feats.Item.XhsoIZjhnrDrsg8w]{扰法伙伴}，@UUID[Compendium.pf1.feats.Item.JreaiTHdyWFNj3Tb]{闪避}，@UUID[Compendium.pf1.feats.Item.ehqx8txNRGMaNOPt]{坚忍}，@UUID[Compendium.pf-content.pf-feats.Item.l4JNljLZfIr5QnVs]{野性优雅}，@UUID[Compendium.pf-content.pf-feats.Item.qD2lU6ciACn98LPI]{凶猛野兽}，@UUID[Compendium.pf-content.pf-feats.Item.RQWKXq6vKsqGDJMK]{凶猛虚招}，@UUID[Compendium.pf-content.pf-feats.Item.jqJMif3EA3f5CwK5]{友善面孔}，@UUID[Compendium.pf1.feats.Item.fVRnBIHR4Jq6btvm]{强韧加强}，@UUID[Compendium.pf-content.pf-feats.Item.1F0dlShIZp8SrIhJ]{高等追猎不止}，@UUID[Compendium.pf-content.pf-feats.Item.O6bLhILylLxX0EPX]{健壮猛兽}，@UUID[Compendium.pf1.feats.Item.dn2KgHFQRbuoNRx0]{精通冲撞}，@UUID[Compendium.pf1.feats.Item.Uuiu3p982omhMEPj]{精通先攻}，@UUID[Compendium.pf-content.pf-feats.Item.QrZnS8x7kNPoocJ0]{精通拦截攻击}，@UUID[Compendium.pf1.feats.Item.n1wLrcwaqOSDqrOo]{精通天生护甲}，@UUID[Compendium.pf1.feats.Item.8viuSwNbDvZZaiak]{精通天生武器攻击}，@UUID[Compendium.pf1.feats.Item.go4xOiSUP8R1QJ5N]{精通闯越}，@UUID[Compendium.pf-content.pf-feats.Item.T30vZ3jWRPmkwoRm]{拦截攻击}，@UUID[Compendium.pf1.feats.Item.O0jbkTJcIji9BNiF]{威逼}，@UUID[Compendium.pf1.feats.Item.iAbIGhm7T2OK9Brt]{钢铁意志}，@UUID[Compendium.pf1.feats.Item.0bZf3SDkvVOe2ujH]{闪电反射}，@UUID[Compendium.pf-content.pf-feats.Item.PGN7CWrxZaUMaemo]{蛇龙猎人协作}，@UUID[Compendium.pf-content.pf-feats.Item.wnRO71UYXPCsWlB7]{蛇龙猎人撤退}，@UUID[Compendium.pf-content.pf-feats.Item.Z3UeOfVAM9syxe4D]{蛇龙猎人流}，@UUID[Compendium.pf1.feats.Item.R7L4SlGRlnThqFrP]{灵活移动}，@UUID[Compendium.pf1.feats.Item.FUW5mIXHNBBIQ1Sq]{猛力攻击}，@UUID[Compendium.pf-content.pf-feats.Item.hNqrulLkwvifCykO]{闪电拦截}，@UUID[Compendium.pf1.feats.Item.bXeW4kLCErPBFpNB]{飞跑}，@UUID[Compendium.pf-content.pf-feats.Item.mDwTQyjuSM0mhTu7]{共享特性}，@UUID[Compendium.pf1.feats.Item.7zJTztNW7hdaqjKc]{技能专攻}，@UUID[Compendium.pf1.feats.Item.ugQyUpqPBDsqLyra]{跳跃攻击}，@UUID[Compendium.pf1.feats.Item.f5FPqAYWlKj3zCIY]{隐秘}，@UUID[Compendium.pf-content.pf-feats.Item.RyVxVGbRmdwBgXCU]{追猎不止}，@UUID[Compendium.pf1.feats.Item.8snLqsJN4LLL00Nq]{健壮}，@UUID[Compendium.pf1.feats.Item.vWiTqHC4Y3Xn1Pme]{武器娴熟}和@UUID[Compendium.pf1.feats.Item.n250dFlbykAIAg5Z]{武器专攻}。智力值在3或以上的动物伙伴可以选择任何它们的身体能够使用的专长。GM可以扩展此列表，使之包括来自其他来源的专长。</p>"
+        },
+        "Bonus Tricks": {
+            "name": "额外把戏 (Bonus Tricks)",
+            "description": "<p>本列的数字代表除了原本德鲁伊教该动物听从的把戏外（见驯养动物技能说明），还可以多学会几个额外把戏。这些把戏不需要任何训练或驯养动物检定，也不计入动物可知把戏数限制。德鲁伊可以选择这些额外把戏，但是一旦选定就不能更改。</p>"
+        },
+        "Devotion": {
+            "name": "忠诚 (Devotion)",
+            "description": "<p>在对抗惑控系法术和效果时，动物伙伴的意志豁免有+4士气加值。</p>"
+        },
+        "Evasion": {
+            "name": "反射闪避 (Evasion)",
+            "description": "<p>有些攻击效果若通过反射检定仍会造成一半伤害，此时动物伙伴若通过反射检定则完全不受伤害。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Improved Evasion": {
+            "name": "精通反射闪避 (Improved Evasion)",
+            "description": "<p>有些攻击效果若通过反射检定仍会造成一半伤害，此时动物伙伴若通过反射检定则完全不受伤害。即使未通过反射检定，也只会受到一半伤害。</p>"
+        },
+        "Link": {
+            "name": "链接 (Link)",
+            "description": "<p>即使在驯养动物技能上没有任何等级，德鲁伊也可以用自由动作来指挥，或用移动动作来驱策她的动物伙伴。德鲁伊在对动物伙伴进行野性认同和驯养动物检定时均有+4环境加值。</p>"
+        },
+        "Multiattack": {
+            "name": "多重攻击 (Multiattack)",
+            "description": "<p><em>这个生物精于利用自己的天生武器进行攻击。</em></p><p><strong>先决条件</strong>：三次或更多天生武器攻击。</p><p><strong>效果</strong>：生物的次要天生武器攻击仅在攻击上承受-2减值。</p><p><strong>通常</strong>：若无此专长支持，生物的次要天生武器攻击在攻击投骰上将承受-5减值。</p>"
+        },
+        "Natural Armor Bonus": {
+            "name": "天防加值 (Natural Armor Bonus)",
+            "description": "<p>此处列出的数值为对动物伙伴原有天生护甲加值的提升数值。</p>"
+        },
+        "STR/DEX Bonus": {
+            "name": "力敏加值 (STR/DEX Bonus)",
+            "description": "<p>此加值可以添加在幻灵基本形态的力量和敏捷属性基础上。某些进化型态可以进一步修正这些属性。</p>"
+        },
+        "Share Spells": {
+            "name": "分享法术 (Share Spells)",
+            "description": "<p><em>你可以与你的伙伴分享个人法术。</em></p><p><strong>先决条件</strong>：@UUID[Compendium.pf-content.pf-feats.Item.j2bq4CvpXtqkwWqL]{心灵羁绊}，与一名动物伙伴、幻灵、魔宠或魅影有法术共享能力，施法者等级1级。</p><p><strong>效果</strong>：只要盟友拥有@UUID[Compendium.pf-content.pf-feats.Item.j2bq4CvpXtqkwWqL]{心灵羁绊}专长的话，你就可以将目标为〔自身〕的法术如同接触法术一般的施展到一名盟友身上，如同法术共享魔宠能力一般。</p>"
+        }
+    }
+}

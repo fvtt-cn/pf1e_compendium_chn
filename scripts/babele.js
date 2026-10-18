@@ -1,6 +1,12 @@
 import converters, { tContainerItems } from "./converters.js";
 
-Hooks.on("init", () => {
+// 标签词表（build.py 生成）：英文标签 → 中文
+const TAGS = await fetch("modules/pf1e_compendium_chn/tags.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({}));
+
+// Babele 2.9 起必须在 babele.init 里注册，晚了会被忽略
+Hooks.once("babele.init", (babele) => {
+  // 先注册翻译目录：后面转换器注册出错也不影响译文加载
+  babele.register({ module: "pf1e_compendium_chn", lang: "cn", dir: "translations" });
   game.settings.register("pf1e_compendium_chn", "autoRegisterBabel", {
     name: "自动以Babele启动翻译",
     hint: "自动设置Babele中的翻译，而无需引用带有翻译的目录。",
@@ -9,10 +15,6 @@ Hooks.on("init", () => {
     default: true,
     type: Boolean,
     onChange: (value) => {
-      if (value) {
-        autoRegisterBabel();
-      }
-
       window.location.reload();
     },
   });
@@ -26,13 +28,14 @@ Hooks.on("init", () => {
     type: Boolean,
   });
 
-  Babele.get().registerConverters({
+  try {
+  babele.registerConverters({
+    tags: (value) => (Array.isArray(value) ? value.map((t) => TAGS[t] ?? t) : value),
     actions: (value, translations) => converters.actions(value, translations),
     contextNotes: (originalContextNotes, translatedContextNotes) =>
       converters.contextNotes(originalContextNotes, translatedContextNotes),
     subSchool: converters.translateSubSchool,
-    types: converters.translateTypes,
-    subSchool: converters.translateSubSchool,
+    descriptors: (value) => value, // 原模组没实现，先原样返回，免得整批注册失败
     containerItems: tContainerItems, // Translate Items in Containers
     learnedAt: (learnedAt) => {
       const domainsMap = new Map([
@@ -336,14 +339,14 @@ Hooks.on("init", () => {
     },
   });
 
-  if (game.settings.get("pf1e_compendium_chn", "autoRegisterBabel")) {
-    autoRegisterBabel();
+  } catch (err) {
+    console.error("pf1e_compendium_chn | 注册转换器失败", err);
   }
 });
 
 function autoRegisterBabel() {
-  if (typeof Babele !== "undefined") {
-    Babele.get().register({
+  if (game.babele) {
+    game.babele.register({
       module: "pf1e_compendium_chn",
       lang: "cn",
       dir: "translations",
@@ -363,6 +366,7 @@ Hooks.once("ready", async () => {
     pf1.applications.compendiumBrowser.CreatureBrowser,
     pf1.applications.compendiumBrowser.BuffBrowser,
   ];
+  const { OriginalNameFilter } = await import("./filters.mjs");
   browsers.forEach((browser) => {
     browser.filterClasses.splice(0, 0, OriginalNameFilter);
   });

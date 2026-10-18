@@ -1,0 +1,351 @@
+{
+    "label": "疾病与毒药",
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        }
+    },
+    "entries": {
+        "Amnesia": {
+            "name": "健忘症 (Amnesia)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 强效疯狂；<strong>豁免</strong> 意志 DC 22；<strong>发作期</strong> 立即；<strong>效果</strong> 意志豁免和技能检定-4，并丧失记忆（见下）</p><p>罹患健忘症的角色无法回忆事物；他的名字、技能和过去对他而言同样是谜。他能够形成新的记忆，但难以提取罹患健忘症之前获得的记忆。罹患健忘症的角色仍能说、读他所知的所有语言，也不会失去照料自己和融入社会所需的最基本技能，但他无法回忆起任何关于自己过去的实质内容。</p><p>罹患该苦难的角色会失去罹患健忘症之前获得的所有职业能力、专长和技能等级。他保留基础攻击加值、豁免加值（不过意志豁免-4）、CMB、CMD、总XP、生命骰和生命值。若角色在健忘症期间提升了角色等级，他可以正常使用该职业等级所给予的任何能力。若所获得的职业等级属于他已拥有等级的职业，他起初获得的是该职业1级角色的能力，尽管他在该职业上的等级在技术上更高，然后再由此往上成长。健忘症治愈后，角色恢复该职业的全部能力；其等级依其总XP重新计算。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Baleful Polymorph Spell": {
+            "name": "恶意变形术 (Baleful Polymorph Spell)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒，法术；<strong>豁免</strong> 强韧 DC 17；<strong>效果</strong> 目标变形为蜥蜴；见恶意变形术法术描述</p>"
+        },
+        "Basidirond Spores": {
+            "name": "孢子花孢子 (Basidirond Spores)",
+            "description": "<p>本页译自《怪物图鉴》的怪物图鉴 CHM（原译文出自纯美苹果园论坛【B1】孢子花 (Basidirond)，原译者：原子能青蛙；沉沦校对润饰后收入【B1】《怪物图鉴》汇总帖）。</p>"
+        },
+        "Bestow Curse Trap": {
+            "name": "降咒陷阱 (Bestow Curse Trap)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒，法术，陷阱；<strong>豁免</strong> 意志 DC 14；<strong>效果</strong> 力量属性-6减值</p>"
+        },
+        "Blasted Vitality": {
+            "name": "活力暴走 (Blasted Vitality)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 强韧 DC 19；<strong>效果</strong> 受害者的身心变得不稳定，所有属性值受到-4减值。每当受害者进入战斗，必须通过一次对抗该诅咒DC的强韧豁免，否则陷入疲乏。</p>"
+        },
+        "Blightburn Sickness": {
+            "name": "炽辐病 (Blightburn Sickness)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触（见下）；<strong>豁免</strong> 强韧 DC 22；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点体质伤害和1d6点魅力伤害；<strong>治愈</strong> 连续2次豁免成功</p><p>炽辐病是炽辐晶的辐射所引起的疾病。</p><p>生物进入炽辐晶60尺半径内时会自动接触此病，只有铅板、1尺厚的石头或力场效果才能阻挡。</p><p>@UUID[Compendium.pf1.items.Item.oyhumduktbryhebi]{炽辐膏}被打开后，60尺内的任何人都会患上此病；直接接触膏体的生物无豁免即患病。@UUID[Compendium.pf1.spells.Item.99njf60ep58z9rjy]{炽辐武器}法术会带来半径10尺的辐射灵氲，其效果如同此病，但豁免DC等同该法术的豁免DC。</p>"
+        },
+        "Blinding Sickness": {
+            "name": "失明症 (Blinding Sickness)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 摄入；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1d3天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点力量伤害，若造成的力量伤害超过2点，目标须再进行一次强韧豁免，否则永久目盲；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Blood Veil": {
+            "name": "血纱病 (Blood Veil)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触、伤口；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点体质伤害和1d4点魅力伤害</p><p>首次接触血纱病时，种族出身为瓦瑞西亚人的类人生物（包括有瓦瑞西亚血统的人类、半精灵和半兽人），每个人都有5%的固定几率对这种疾病免疫。</p><p>血纱病得名于它最明显的症状：覆盖整张脸的皮疹和水疱面具。疾病初期的特征是头痛、疲乏、咳嗽以及上述的皮疹。随着病情发展，咳嗽愈发剧烈；皮疹蔓延到颈部、面部和四肢，并发展为痘状水疱；淋巴腺肿成疼痛的腹股沟淋巴结炎。到最严重的阶段，水疱长到葡萄大小甚至更大，内出血使皮肤上出现黑斑，患者咳血不止，最终在咳血与喘息中死去。如果不加治疗，血纱病会在7天内杀死一个普通人类。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Bonechill": {
+            "name": "骨寒症 (Bonechill)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点敏捷伤害，并且因处于寒冷环境而受到的所有非致命伤害都变为致命伤害（但仍然可能引起失温）；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Bonecrusher (Dengue) Fever": {
+            "name": "碎骨热 (Bonecrusher (Dengue) Fever)",
+            "description": "<p><strong>碎骨热（登革热）</strong>（type：伤口）：</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Boot Soup": {
+            "name": "靴汤症 (Boot Soup)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 速度降低5尺并受到1d3点敏捷伤害；速度降至0尺的生物会永久麻痹；<strong>治愈</strong> 连续2次豁免成功，或将患处完全剥皮或烧掉（造成1d8点伤害）</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Brainworms": {
+            "name": "脑虫症 (Brainworms)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触、伤口；<strong>豁免</strong> 强韧 DC 14；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d3点感知伤害和1d3点智力伤害；若目标在战斗中受到该伤害，须再进行一次强韧豁免，否则在本次遭遇持续期间获得困惑状态；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Bubonic Plague": {
+            "name": "黑死病 (Bubonic Plague)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口、吸入；<strong>豁免</strong> 强韧 DC 17；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点体质伤害和1点魅力伤害，且目标疲乏；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Cackle Fever": {
+            "name": "失心热症 (Cackle Fever)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 吸入；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点感知伤害；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Catatonia": {
+            "name": "紧张症 (Catatonia)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 强效疯狂；<strong>豁免</strong> 意志 DC 24；<strong>发作期</strong> 立即；<strong>效果</strong> 患者的行为如同畏缩，但这不是恐惧效果，不同于其他形式的畏缩。</p><p>罹患紧张症的角色精神完全或近乎完全关闭，身体能力也因此大幅受限。紧张症患者仍会呼吸，但只有在紧张症处于潜伏时，才能在无人协助下进食或饮水。若紧张症患者面临危险情况，她必须进行一次豁免。若成功，她会像恐慌一样行动（但这不是恐惧效果），直到脱离该危险的视线，或被逼入绝境。若被逼入绝境，她再次畏缩。</p>"
+        },
+        "Chillbane Fever": {
+            "name": "寒灾热症 (Chillbane Fever)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 吸入、伤口；<strong>豁免</strong> 强韧 DC 17；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点体质伤害，且目标恶心并疲乏；<strong>治愈</strong> 连续2次豁免成功</p><p>不要与女王维利卡斯在位期间横扫凄寒边野的那种致命得多的早期毒株混为一谈，这种传染病的特征是患者不停地发抖，仿佛怎么也暖和不过来。卡拉三头龙是已知的携带者之一，不过也有许多其他的接触途径。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Cognitive Block": {
+            "name": "认知障碍 (Cognitive Block)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 强效疯狂；<strong>豁免</strong> 意志 DC 20；<strong>发作期</strong> 立即；<strong>效果</strong> 患者不能再说话或书写，并且难以集中精神。他不能再使用口令型、法术触发型或法术完成型物品。他的专注检定-10。他不能施放含有语言或思想成分的法术，也不能从法术书中准备法术。</p><p>该疯狂剥夺了患者的专注力以及他说话、阅读和书写的能力，不过他仍能听懂听到的话语，并能如常对请求和命令作出反应。</p>"
+        },
+        "Crypt Fever": {
+            "name": "墓穴热症 (Crypt Fever)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触、吸入；<strong>豁免</strong> 强韧 DC 22；<strong>发作期</strong> 1分钟；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点力量伤害和1d6点魅力伤害，且受害者力竭；<strong>治愈</strong> 墓穴热症只能通过在1分钟内先后成功施放移除诅咒和移除疾病来治愈。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Curse of the Ages": {
+            "name": "岁月诅咒 (Curse of the Ages)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 17；<strong>频率</strong> 1次/天；<strong>效果</strong> 年龄增长1岁</p>"
+        },
+        "Cursed Earth": {
+            "name": "诅咒之地 (Cursed Earth)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 23；<strong>效果</strong> 该区域受到饥荒、死而复生或瘟疫的诅咒，如同诅咒之地法术所述。</p>"
+        },
+        "Daemonic Wasting": {
+            "name": "邪魔消瘦症 (Daemonic Wasting)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 23；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点体质伤害和1d4点魅力伤害；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Delirium": {
+            "name": "谵妄症 (Delirium)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂；<strong>豁免</strong> 意志 DC 16；<strong>发作期</strong> 1d4天；<strong>效果</strong> 感知相关和智力相关检定-2；不能对任何检定取10或取20</p><p>罹患谵妄症的角色认知能力与注意力下降。她往往对这种衰退毫无真切的感觉，或在意识到自己的专注力受损时感到极度沮丧。生理疾病、毒药和病痛也可能引发谵妄。</p>"
+        },
+        "Delusion": {
+            "name": "妄想症 (Delusion)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂；<strong>豁免</strong> 意志 DC 16；<strong>发作期</strong> 2d6天；<strong>效果</strong> 患者相信某件不真实的事，并且无论多少证据都无法使他放弃这一信念。</p><p>妄想是一种信念的持续存在，无论有多少相反的证据，都无法使患者放弃它。这种信念往往是认为另有某个特定的人爱着或想要伤害患者，或者患者对自己的能力或重要性有着夸大的看法。有时，妄想者会认为自己遭受着实际并不存在的苦难或迫害。</p><p>妄想的具体内容由GM决定。妄想通常通过角色扮演来体现，不过GM也可以对与该妄想有关的技能检定和属性检定施加减值，或判定这些检定因角色的妄想而直接失败。在某些情况下，妄想可能造成严重的妨碍，而在另一些情况下，它只是古怪，或让角色周围的人感到烦扰。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Demon Fever": {
+            "name": "热魔症 (Demon Fever)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 18；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点体质伤害，目标须再通过一次强韧豁免，否则其中1点伤害转为吸取；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Demonplague": {
+            "name": "恶魔瘟疫 (Demonplague)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口、摄入；<strong>豁免</strong> 强韧 DC 18；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d3点体质伤害和1d6点感知伤害，且受害者只要受到此病造成的任何属性伤害就疲乏；某些被恶魔瘟疫杀死的生物会化为疫苦马复起（见第56页）；<strong>治愈</strong> 连续3次豁免成功</p><p>在世界之伤与德斯卡瑞的大军加诸萨克利斯的种种灾祸中，恶魔瘟疫或许是最阴险的一种。这种恶毒的疾病借水传播，动植物无一幸免。对于高等生物，恶魔瘟疫先令其发狂，继而致其死亡；而对于动物和其他无智慧的野兽，这种瘟疫在其死后仍不罢休，使它们复起为名叫疫苦马的不死恐怖（见第56页）。瘟疫同样会扭曲、腐化植物——下文详述的大多数危险植物，都是普通植物被恶魔瘟疫腐化的产物。</p><p>探索者在世界之伤中有多种途径接触恶魔瘟疫。疫苦马携带这种疾病，接触活着的患者也可能被传染。此外，每当有人在世界之伤中尝试生存检定以就地觅食时，都有一定几率接触瘟疫（见第28页，几率因地区而异）。患病的生物会逐渐变得偏执，并越来越容易出现逼真的幻觉。其身体会慢慢腐朽，先是指甲、牙齿和毛发脱落，在死前数小时则发展到肢体完全脱落或出现深可见骨的伤口。</p><p>在世界之伤的边界之外，这种瘟疫的传染性要弱得多。生物在世界之伤之外对恶魔瘟疫的豁免获得+4加值，患者也不具传染性（不过疫苦马之类的生物仍能以此感染受害者）。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Devil Chills": {
+            "name": "寒魔症 (Devil Chills)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 14；<strong>发作期</strong> 1d4天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点力量伤害；<strong>治愈</strong> 连续3次豁免成功</p>"
+        },
+        "Dissociated Identity": {
+            "name": "人格分裂 (Dissociated Identity)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 强效疯狂；<strong>豁免</strong> 意志 DC 20；<strong>发作期</strong> 2d6天；<strong>效果</strong> 意志豁免和感知相关检定-6，并出现分离的人格（见下）</p><p>该疯狂表现为同一意识中存在两个或更多个截然不同的人格。人格的数量由GM决定，各人格的性质同样如此。若该苦难以某种方式恶化（例如再次罹患人格分裂），额外人格的数量也可能随之增加。</p><p>每天早晨醒来时，以及每次从昏迷中苏醒时，患者必须通过一次意志豁免，否则角色的另一个人格会占据主导。若患者因该疯狂而拥有不止一个人格，显现出的人格由随机决定或由GM选择。若患者连续3天对抗显现其他人格的豁免全部成功，此后每晚都有累计10%的几率，使另一个人格在患者睡眠期间接管，随后回到床上，使患者的睡眠比预期的更少；若患者豁免失败，该累计几率重置。人格转换不会影响患者的记忆、技能和其他能力，但各个人格通常互不知晓对方，并会（往往是暴力地）否认其他人格的存在。</p>"
+        },
+        "Dvezda Plague": {
+            "name": "德维兹达瘟疫 (Dvezda Plague)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 摄入、吸入；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1d4天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点体质伤害和1点敏捷伤害；<strong>治愈</strong> 连续2次豁免成功</p><p>感染病毒数日后，患者会高烧不退，大量出汗。随后，患者开始剧烈颤抖，继而血液变稀，泪腺、鼻、耳及其他孔窍出血。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Dysentery": {
+            "name": "痢疾 (Dysentery)",
+            "description": "<p><strong>痢疾</strong>（type：接触、伤口）：</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Endless Night": {
+            "name": "永夜诅咒 (Endless Night)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 22；<strong>效果</strong> 在受诅咒的区域内，非魔法光源和产生普通光照的魔法光源只能产生昏暗光照，就连直射的阳光也只能带来环境昏暗光照（类似满月）。黄昏和夜晚始终是黑暗的。受日光伤害或削弱的生物可以在该区域白天活动，昏暗的阳光对它们造成的唯一妨碍是使它们在该区域内目眩。该区域的植物生长受到抑制，如同植物凋零的阻碍生长用法。任何试图在该区域施展昼明术或其他能产生真正日光或强光的法术的施法者，除非通过一次对抗该诅咒的意志豁免，否则施法失败；豁免成功则法术只产生普通光照，而非强光。；<strong>治愈</strong> 永夜诅咒只能在晴天的正午，先后成功施展移除诅咒和阳炎爆来解除。</p>"
+        },
+        "Ergia": {
+            "name": "埃尔吉亚症 (Ergia)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 20；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点力量伤害和1d4点体质伤害，目标须再通过一次强韧豁免，否则其中1点伤害转为吸取；遭受过属性吸取的生物会发出蓝光，如同被妖火勾勒出轮廓；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Filth Fever": {
+            "name": "腐热症 (Filth Fever)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 12；<strong>发作期</strong> 1d3天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d3点敏捷伤害和1d3点体质伤害；<strong>治愈</strong> 连续2次豁免成功</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Final Rest": {
+            "name": "终归尘土 (Final Rest)"
+        },
+        "Firegut": {
+            "name": "火肠症 (Firegut)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口、吸入；<strong>豁免</strong> 强韧 DC 17；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 目标恍惚；<strong>治愈</strong> 连续3次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Fugue": {
+            "name": "失忆症 (Fugue)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂；<strong>豁免</strong> 意志 DC 18；<strong>发作期</strong> 1d4天；<strong>效果</strong> 意志豁免和技能检定-2，并伴有部分记忆缺失（见下）</p><p>患者无法回忆事物；她的名字和过去对她而言同样是谜。她能够形成新的记忆，但难以提取罹患该疯狂之前获得的记忆。处于失忆状态的角色仍能说、读她所知的所有语言，也不会失去任何技能、专长或技能等级，但她不记得自己是如何学会这些的，在使用复杂能力时常常感到惊讶。</p>"
+        },
+        "Fungal Flu": {
+            "name": "真菌流感 (Fungal Flu)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 吸入；<strong>豁免</strong> 强韧 DC 12；<strong>发作期</strong> 3d6天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点体质伤害。抵抗该疾病伤害的强韧豁免中，只要有一次掷出自然1，目标就会目盲。这一目盲会一直持续，即使对其使用移除目盲/耳聋之类的法术也无济于事，直到疾病被治愈为止。；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Ghoul Fever": {
+            "name": "食尸鬼热疫 (Ghoul Fever)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 13；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d3点体质伤害和1d3点敏捷伤害；<strong>治愈</strong> 连续2次豁免成功</p><p>死于食尸鬼热疫的类人生物将在下一个午夜化为食尸鬼复起。以此方式变成食尸鬼的类人生物会失去生前拥有的所有能力。它不受其他食尸鬼的控制，但对活物血肉充满渴求，在各方面都表现得与普通食尸鬼无异。4HD 或更多的类人生物则会化为妖鬼复起。豁免 DC 基于魅力。</p>"
+        },
+        "Glacier Plague": {
+            "name": "冰川瘟疫 (Glacier Plague)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触、伤口；<strong>豁免</strong> 强韧 DC 15；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点敏捷伤害，且目标力竭、速度减半、无法说话；<strong>治愈</strong> 连续2次豁免成功</p><p>这种疾病往往在被超自然严寒长期掩埋的地方扎根，感染伊利森各地的废墟与深林。它从内部缓慢地冻结生物，却不造成寒冷伤害，因此患者只会感到在严寒环境中劳累的倦怠与疲惫。这种疾病会限制受感染生物的活动范围，在许多方面就像极其缓慢的石化。患者无法说话，行动严重迟缓，并承受敏捷伤害；如果受害者的敏捷值降到5以下，就完全无法移动。患上这种瘟疫的生物不会因此而死，但它往往会让他们困在严寒之中，最终死于低温暴露。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Green Haze": {
+            "name": "绿雾症 (Green Haze)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 13；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 察觉检定-4；若豁免失败3次，目标永久目盲；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Greenscale": {
+            "name": "绿鳞病 (Greenscale)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 15；<strong>发作期</strong> 1d6天；<strong>频率</strong> 1次/周；<strong>效果</strong> 1d2点魅力伤害和1d2点敏捷伤害，目标须再次通过强韧豁免，否则其中1点魅力伤害转为吸取；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Hallucination": {
+            "name": "幻觉症 (Hallucination)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂；<strong>豁免</strong> 意志 DC 14；<strong>发作期</strong> 2d6天；<strong>效果</strong> 对抗幻觉或不相信幻觉的任何意志豁免-4，并且会看到不存在之物的幻觉（见下）</p><p>幻觉可以影响所有感官，但其中最具潜在削弱性的，是幻听（患者听见有声音在脑中说话）和幻视（患者看见并不存在的东西）。大多数幻觉是间歇性的，会使现实变得混沌不清。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Haunting, Major": {
+            "name": "强效闹鬼 (Haunting, Major)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 17；<strong>效果</strong> 受害者被幽魂缠上，其余同弱效闹鬼。；<strong>治愈</strong> 与弱效闹鬼不同，强效闹鬼只能通过让幽魂安息来结束；不过在幽魂被摧毁后立即施放移除诅咒，可使它在2d4天内无法复活。</p>"
+        },
+        "Haunting, Minor": {
+            "name": "弱效闹鬼 (Haunting, Minor)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 13；<strong>效果</strong> 受害者被骚灵缠上。每天一次，受害者必须进行一次对抗该诅咒的意志豁免。若豁免成功，她此后对抗该诅咒的豁免累积受到-1减值。若豁免失败，骚灵会在300尺内现身，并在2d12小时内跟踪她，伺机在她看上去最脆弱时下手击杀。战斗开始时，受害者自动陷入战栗1分钟。受害者下次对抗该诅咒的豁免失败时，诅咒会让被摧毁的骚灵复活，再度缠上她。；<strong>治愈</strong> 除了移除诅咒的一般手段外，还可以通过查明骚灵存在的原因，并纠正一切妨碍它安息的事物来结束此诅咒。</p>"
+        },
+        "Hunt of the Ankou": {
+            "name": "死魂精之狩 (Hunt of the Ankou)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 22；<strong>效果</strong> 受害者被死魂精追猎，如同怪蜀黍的惦记所述。；<strong>治愈</strong> 只有神迹术或祈愿术能让受害者解脱。</p>"
+        },
+        "Hunt of the Bogeyman": {
+            "name": "怪蜀黍的惦记 (Hunt of the Bogeyman)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 19；<strong>效果</strong> 受害者被怪蜀黍追猎。每天一次，受害者必须进行一次对抗该诅咒的意志豁免。若豁免成功，他此后对抗该诅咒的豁免累积受到-1减值。若豁免失败，1英里内会召来一只怪蜀黍，并在2d12小时内跟踪他，伺机在他看上去最脆弱时下手击杀。与怪蜀黍的战斗开始时，受害者自动陷入战栗1分钟。受害者下次对抗该诅咒的豁免失败时，诅咒会让被杀死的怪蜀黍复活，再度追猎他。；<strong>治愈</strong> 只有有限祈愿术、神迹术或祈愿术能让被追猎者解脱。</p>"
+        },
+        "Jealous Structure": {
+            "name": "嫉妒之屋 (Jealous Structure)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 19；<strong>效果</strong> 如果一座建筑里束缚了足够多的记忆、恐惧或其他强烈情感，它就可能拥有自己的生命。这样的建筑会设法强迫居住者留下，陪伴它、侍奉它、保护它，或是喂饱它那超自然的饥渴。嫉妒之屋类似一件建筑大小的、任意邪恶阵营的智能魔法物品，智力、感知、魅力均为16，具有快速医疗5，并能以施法者等级11级使用下列类法术能力，每日次数至少如下：每日3次——活化物体（仅限家具）、升阶恐惧术（DC 19）、升阶心灵遥控（仅限无人看管的物体；DC 19）；每日1次——铜墙铁壁。；<strong>治愈</strong> 嫉妒之屋只能先施展移除诅咒，再对整座建筑施展圣居来平息。</p>"
+        },
+        "Leprosy": {
+            "name": "麻风病 (Leprosy)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触、吸入、伤口；<strong>豁免</strong> 强韧 DC 12 免除，强韧 DC 20 避免效果；<strong>发作期</strong> 2d4周；<strong>频率</strong> 1次/周；<strong>效果</strong> 1d2点魅力伤害；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Malaria (Jungle Fever)": {
+            "name": "疟疾 (Malaria (Jungle Fever))",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 18；<strong>发作期</strong> 1d3天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d3点力量伤害和1d3点体质伤害，且目标疲乏；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Mania": {
+            "name": "狂热症 (Mania)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂（胁迫）；<strong>豁免</strong> 意志 DC 14；<strong>发作期</strong> 1天；<strong>效果</strong> 每轮，只要患者位于狂热对象30尺内并能看见它，就必须通过一次意志豁免，否则会冲上去与该对象互动。若豁免成功且超出5点或以上，她可以远离狂热对象或抵抗狂热行为1分钟，之后才须再次进行豁免。豁免失败并完整执行了狂热的强迫行为后，患者在1分钟内无需再次进行豁免，因为她的执念暂时得到了满足。</p><p>狂热是对某个物体或活动不理智、不健康的痴迷。几乎任何物体或活动都可能成为狂热的对象，但这对象往往要么很危险（比如火焰或致命的魔法），要么带有几分禁忌色彩（比如无法克制的小偷小摸，或冒险的性行为）。狂热的具体内容由GM决定，但应与该疯狂的诱因有所关联，并且尊重玩家和团队的叙事偏好与成熟程度。</p>"
+        },
+        "Melancholia": {
+            "name": "忧郁症 (Melancholia)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂；<strong>豁免</strong> 意志 DC 14；<strong>发作期</strong> 1d4天；<strong>效果</strong> 先攻检定-2，士气加值减半（最小为+0）</p><p>忧郁症患者深受严重悲观情绪的折磨，对身边发生的威胁和事件往往反应迟缓。他看上去安静、孤僻，热情被磨钝。在极端情况下，忧郁症患者会变得彻底内向、完全封闭自己，甚至近乎紧张性木僵。</p>"
+        },
+        "Mindfire": {
+            "name": "脑热症 (Mindfire)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 吸入；<strong>豁免</strong> 强韧 DC 12；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点智力伤害；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Moral Insanity": {
+            "name": "疯人道德 (Moral Insanity)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 强效疯狂；<strong>豁免</strong> 意志 DC 22；<strong>发作期</strong> 3d6天；<strong>效果</strong> 患者的阵营转为邪恶，并在为隐藏该疯狂而进行的唬骗检定上获得+10表现加值。每天一次，患者可以尝试一次意志豁免，将该效果压制24小时。</p><p>这种复杂的疯狂使患者心中充满对世界的憎恨，并对他人产生疏离感，仿佛他人不过是患者自己用来达成目的的棋子。罹患疯人道德的角色可能同时谋划朋友和敌人的覆灭，但总是以逃避责备或后果为目标，以便继续满足自己黑暗的欲望。疯人道德的影响必须通过角色扮演来体现，不过并非所有玩家都觉得扮演这样的角色有趣或有意思。在这种情况下，当该疯狂占主导时，GM应当接管该角色。邪恶角色无法获得该疯狂。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Moxix's Delectation": {
+            "name": "莫克西克斯的盛宴 (Moxix's Delectation)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 15；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d3点体质伤害和1d3点感知伤害；<strong>治愈</strong> 连续2次豁免成功</p><p>感染莫克西克斯的盛宴的类人生物，每天必须进行一次新的意志豁免。如果豁免失败，它就会攻击并试图吞食附近最弱的类人生物；如果豁免成功，它就抵抗住了这种冲动。在患病期间死亡或被杀死的类人生物，会在下一个午夜化为妖鬼复起。豁免 DC 基于魅力。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Mummy Rot": {
+            "name": "腐尸症 (Mummy Rot)",
+            "description": "<p><strong>腐尸症（Su）</strong>：诅咒及疾病—挥击；豁免 强韧 DC 16；潜伏 1 分钟；频率 1 次每天；效果 1d6 体质和 1d6 魅力；痊愈 –。腐尸症既是诅咒也是疾病，必须先移除诅咒，之后才能以魔法移除疾病。即使腐尸症的诅咒部分已被解除，患者仍然无法随时间自然康复。任何对患者施展咒法（治疗）系法术的人都必须通过 DC 20 的施法者等级检定，否则法术被浪费，治疗也无效。死于腐尸症的生物会化为尘土，除非使用复活术或更强的魔法，否则无法复活。豁免 DC 基于魅力。</p>"
+        },
+        "Night Terrors": {
+            "name": "夜惊症 (Night Terrors)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂；<strong>豁免</strong> 意志 DC 16；<strong>发作期</strong> 1天；<strong>效果</strong> 每晚患者入睡时，必须通过一次豁免，否则醒来时疲乏（见下）。</p><p>罹患夜惊症的角色被持续不断的恐怖梦魇、忧虑或惊惧所困扰，无法安稳入睡。患者每晚必须通过一次豁免，否则醒来时疲乏；不过多个夜晚的夜惊症不会使该状态升级为力竭，而处于力竭的夜惊症患者在睡满8小时后，会根据本苦难的豁免成败，醒来时恢复精力或仍为疲乏。夜惊症患者常常在睡梦中猛然坐起、睁着眼睛尖叫，不过也可能出现不那么戏剧化的症状。因夜惊症而醒来时疲乏的角色，不算作获得了良好的休息，不能用来准备新法术，并且除非通过抵抗夜惊症的意志豁免、获得一次良好的休息，否则无法消除这种疲乏。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Paranoid": {
+            "name": "偏执 (Paranoid)",
+            "description": "<p>你总是觉得别人在利用你，所以你很难真正相信他人。</p>"
+        },
+        "Perilous Demesne, Grand": {
+            "name": "究极危险领域 (Perilous Demesne, Grand)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 22；<strong>效果</strong> 同强效危险领域，但最多有七种险境危及区域内的生物，每种险境的CR不超过14。险境的布置须保证：若其中几种同时遭遇，该遭遇来自险境的有效CR不超过15（例如，两种CR 13的险境可以同时遭遇）。；<strong>治愈</strong> 只有在施展移除诅咒之后，接着在效果中心施展圣居，并在下一次天黑或午夜之前对每一种险境施展解离术，才能移除究极危险领域。</p>"
+        },
+        "Perilous Demesne, Greater": {
+            "name": "高等危险领域 (Perilous Demesne, Greater)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 19；<strong>效果</strong> 同强效危险领域，但最多有六种险境危及区域内的生物，每种险境的CR不超过10。险境的布置须保证：若其中几种同时遭遇，该遭遇来自险境的有效CR不超过11（例如，两种CR 9的险境可以同时遭遇）。；<strong>治愈</strong> 只有在施展移除诅咒之后，接着在效果中心施展圣居，才能移除高等危险领域。</p>"
+        },
+        "Perilous Demesne, Major": {
+            "name": "强效危险领域 (Perilous Demesne, Major)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 16；<strong>效果</strong> 同弱效危险领域，但最多有四种险境危及区域内的生物，每种险境的CR不超过6。若其中几种险境同时遭遇，该遭遇来自险境的有效CR不超过7（例如，两种CR 5的险境可以同时遭遇）。</p>"
+        },
+        "Perilous Demesne, Minor": {
+            "name": "弱效危险领域 (Perilous Demesne, Minor)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 13；<strong>效果</strong> 最多三种CR 3或以下的险境（见环境一节）危及区域内的生物，但同一时间只会有一种险境起作用。如果由某个生物施下此诅咒，它可以选择这些险境。险境必须适合当地的地形类型（由GM裁定）。任何被化解危险的险境，都会在每个午夜自行复位，重新变得危险。</p>"
+        },
+        "Phobia": {
+            "name": "恐惧症 (Phobia)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 弱效疯狂（恐惧）；<strong>豁免</strong> 意志 DC 14；<strong>发作期</strong> 1天；<strong>效果</strong> 每轮，只要患者位于恐惧对象30尺内并能看见它，就必须通过一次意志豁免，否则会变得战栗。下一轮，患者可以选择再进行一次豁免来结束该效果，但若失败，她会改为变得惊吓（见恐惧和理智）。惊吓的患者可以选择再进行一次豁免以回到战栗，但若失败，她会改为惊惧1d6轮。</p><p>恐惧症是对某个物体或活动不理智的恐惧。几乎任何物体或活动都可能成为恐惧症的焦点，但这对象往往要么非常具体（比如所有蜘蛛，不论大小，或者小丑），要么在某些情况下可能有危险（比如高处或水），但可以借助魔法或寻常的预防措施变得相对安全。恐惧症的具体内容由GM决定，但应与该疯狂的诱因有所关联，并且尊重玩家和团队的叙事偏好与成熟程度。</p>"
+        },
+        "Psychosomatic Loss": {
+            "name": "身心损失 (Psychosomatic Loss)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 强效疯狂；<strong>豁免</strong> 意志 DC 20；<strong>发作期</strong> 立即；<strong>效果</strong> 患者变得目盲或耳聋，或失去另一种特殊感官（如敏锐嗅觉或盲感），或失去肢体的使用，或失去一种特殊移动速度（如飞行或游泳速度）。身心损失以何种方式体现，由GM选择。</p><p>患者身体上并无任何问题，但某种精神创伤迫使其大脑关闭了感觉或运动系统。此外，通常用来消除这些状态的魔法效果（如@UUID[Compendium.pf1.spells.Item.kundr7ekztiqml5t]{移除目盲/耳聋}）对该疯狂无效；必须治愈该疯狂，才能恢复感官或运动能力。</p>"
+        },
+        "Pulsing Puffs": {
+            "name": "脉动泡疮 (Pulsing Puffs)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点敏捷伤害；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Red Ache": {
+            "name": "红肿症 (Red Ache)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 15；<strong>发作期</strong> 1d3天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点力量伤害；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Red Drip": {
+            "name": "红滴症 (Red Drip)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触（真菌）；<strong>豁免</strong> 强韧 DC 18；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点敏捷伤害和1d2点魅力伤害；<strong>治愈</strong> 连续2次豁免成功，或截去受感染的肢体</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Scarlet Leprosy": {
+            "name": "猩红麻风病 (Scarlet Leprosy)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 20；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点体质伤害和1d6点魅力伤害；每当角色受到体质伤害时，其中1点为永久吸取；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Schizophrenia": {
+            "name": "精神分裂 (Schizophrenia)",
+            "description": "<p><strong>类型</strong> 疯狂；<strong>形式</strong> 强效疯狂；<strong>豁免</strong> 意志 DC 22；<strong>发作期</strong> 1d6天；<strong>效果</strong> 感知相关和魅力相关检定-4；不能对任何检定取10或取20；有可能变得困惑（见下）</p><p>罹患精神分裂的角色无法再如从前那样正常生活，面临社交技能和认知上突然出现的缺陷，并涌现出各种新的怪异行为。随着病症和症状持续，角色变得反复无常、混乱而不可预测，症状往往在顶峰时包括幻觉和妄想。每当罹患该疯狂的角色发现自己身处压力情境（如战斗）时，必须通过一次意志豁免，否则困惑1d6轮。</p>"
+        },
+        "Sealed Fate": {
+            "name": "既定的命运 (Sealed Fate)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 23；<strong>效果</strong> 目标注定要以指定的方式死去（此诅咒也可能是试图以其他方式阻止目标死亡所带来的意外后果）。只要受害者没有受到与所指定死因相关的伤势，她在濒死时进行稳定伤势的体质检定，便获得+4幸运加值。每当目标受到所指定死因的伤害、对该死因的豁免失败，或以不涉及伤害或豁免的方式未能抵挡所指定的死因（例如，对抗窒息的体质检定失败）时，她必须进行一次对抗该诅咒的强韧豁免。若豁免失败，她立即死亡；若豁免成功，她恍惚1轮。；<strong>治愈</strong> 既定的命运只能通过神迹术或祈愿术移除。</p>"
+        },
+        "Shakes": {
+            "name": "颤栗症 (Shakes)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 13；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d8点敏捷伤害；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Shattered Self": {
+            "name": "精神内耗 (Shattered Self)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 20；<strong>频率</strong> 不超过1次/天（见描述）；<strong>效果</strong> 受害者的心智分裂成两个并存的人格：一个正常，另一个则充满恶意且具有自毁倾向。当自毁人格掌控身体时，它会破坏受害者的努力，并谋划害死受害者的朋友和亲人。它会小心地向旁人隐瞒自己的行为和意图。正常人格对流失的时间毫无察觉。另一人格究竟何时接管由GM决定，但每天不超过一次。每次另一人格浮现时，受害者必须通过一次豁免，否则另一人格将接管1d6分钟。这类接管通常发生在受害者独自一人或只与一人相处时，但极度紧张的时刻也会迫使受害者针对此效果进行一次豁免。另一人格可以完全取用正常人格的记忆和能力，并且在隐瞒自身存在的唬骗检定上获得+10加值。尽管这种苦难怀有恶意，受害者在诅咒作用期间阵营仍不改变，因此，例如自毁人格依然可以使用圣武士受害者的能力。；<strong>治愈</strong> 精神内耗只能通过在彼此间隔1分钟内，先后对受害者成功施展移除诅咒，以及医疗术、高等复原术或心智手术之一来治愈。</p>"
+        },
+        "Sleeping Sickness": {
+            "name": "昏睡病 (Sleeping Sickness)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 14；<strong>发作期</strong> 1d2天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点感知伤害，且目标疲乏；<strong>治愈</strong> 连续2次豁免成功，或砒霜（见描述）</p><p>治疗这种疾病的最佳办法是给患者服用砒霜毒药（见《核心规则书》第558页）——如果患者活了下来，每服用一次就有累计30%的几率立即治愈。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Slimy Doom": {
+            "name": "胶质症 (Slimy Doom)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 14；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点体质伤害，目标须再次通过强韧豁免，否则其中1点伤害转为吸取；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "Spellscar Fever": {
+            "name": "法痕热 (Spellscar Fever)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 摄入、吸入；<strong>豁免</strong> 强韧 DC 15（此前每进行一次豁免，DC +1）；<strong>发作期</strong> 2d6+1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d2点体质伤害，1d2点魅力吸取；<strong>治愈</strong> 连续2次豁免成功</p><p><strong>后续豁免</strong> 强韧，DC 等于所失败的那次豁免的豁免 DC。</p><p>任何人若带着法痕热连续生活一整周而没有死去，就会对这种疾病和法力热免疫，但同时也会变成一名法力荒原变种人（《探索者编年史：内海怪物图鉴》第28页）或一名@UUID[Compendium.pf1.monster-templates.Item.4pbHKe1aYEcjBEs4]{变种人}（《怪物图鉴5》第180页），由 GM 选择。以此方式产生的法力荒原变种人，可以用下表的法痕热畸变取代《内海怪物图鉴》中的一项畸变；而因法痕热变成的变种人，可以从同一张表中取一项效果，取代一项畸变和一项变异。</p><p><strong>法痕热畸变（d4）</strong></p><ul><li>1　回声定位（Ex）：变种人不断发出尖细的吠叫声，使其隐匿检定承受-4减值。它永远无法施放带有语言成分的法术，但获得15尺的盲视。</li><li>2　巨大化（Ex）：变种人在所有基于智力的技能检定上承受-2减值，但获得永久的@UUID[Compendium.pf1.spells.Item.jnlr9cuepka1l26e]{变巨术}效果。</li><li>3　流变体质（Ex）：变种人在所有基于力量的技能检定上承受-2减值，但其伪装检定获得+2加值，并获得@UUID[Compendium.pf-content.pf-universal-monster-rules.Item.sz8l1HerDXKPeJHE]{压缩}通用怪物能力。</li><li>4　现实偏移（Ex）：变种人的先攻检定承受-5减值，永远无法在突袭轮中行动，但获得永久的@UUID[Compendium.pf1.spells.Item.18kryvj2dfuymk9d]{朦胧术}效果。</li></ul><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Tetanus": {
+            "name": "破伤风 (Tetanus)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 伤口；<strong>豁免</strong> 强韧 DC 14；<strong>发作期</strong> 1d6天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点敏捷伤害。每当有人因破伤风受到敏捷伤害，就有50%的几率使其下颌肌肉僵硬，在接下来的24小时内无法说话，也无法施放带有语言成分的法术。；<strong>治愈</strong> 连续2次豁免成功</p>"
+        },
+        "The Scales": {
+            "name": "鳞片症 (The Scales)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触、伤口；<strong>豁免</strong> 强韧 DC 16；<strong>发作期</strong> 1d4天；<strong>频率</strong> 1次/2天；<strong>效果</strong> 1d2点敏捷伤害和1d2点魅力伤害；<strong>治愈</strong> 连续2次豁免成功。爬行动物和具有爬虫亚种的生物在对抗此病的豁免上承受-2减值，且需要连续3次豁免成功才能痊愈。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "The Tainted Plague": {
+            "name": "污染瘟疫 (The Tainted Plague)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触；<strong>豁免</strong> 强韧 DC 15（见描述）；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d6点体质伤害和1d6点感知伤害；<strong>治愈</strong> 连续2次豁免成功</p><p>即使没有汹涌的深渊大军，世界之伤也会引发一种名为污染瘟疫的超自然疾病。暴露于世界之伤或其原生生物的生物（包括已因这种疾病承受属性伤害的生物），必须每天进行一次 DC 15 的强韧豁免，否则就会感染。感知降到0的生物会被它们所目睹的扭曲心智的恐怖事物逼疯。体质降到0的生物会死亡，身体由内向外腐烂，并在24小时内溶解为原初混沌物质。</p><p>不需要呼吸的生物在抵抗污染瘟疫的豁免上获得+2加值，但任何饮用或食用世界之伤境内任何东西的生物，都必须立即进行豁免并承受-5减值，除非事先使用了@UUID[Compendium.pf1.spells.Item.xi1uouy7qlpfaqlr]{净化食粮}。</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Tormenting Visions": {
+            "name": "痛苦视域 (Tormenting Visions)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 15；<strong>效果</strong> 目标被可怕的幻象所困扰，这些幻象会在关键时刻使他分心。他的专注检定，以及对抗会令他陷入下列任一状态的效果的豁免，均受到-4减值：困惑、晕眩、反胃、战栗、恶心或震慑。每天一次，当他独处或遇到新奇古怪的事物时，必须通过一次意志豁免，否则受到1d3点感知伤害（如果使用理智系统，则为1d6点理智伤害）。；<strong>治愈</strong> 痛苦视域只能通过移除诅咒后接着施展放逐术来移除，两者须在彼此间隔1分钟内施展。</p>"
+        },
+        "Unluck": {
+            "name": "厄运 (Unluck)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 意志 DC 20；<strong>频率</strong> 1次/小时；<strong>效果</strong> 目标必须重骰任何由GM决定的投骰，并取较差的结果。</p>"
+        },
+        "Unseasonable Weather": {
+            "name": "反季节天气 (Unseasonable Weather)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 区域诅咒；<strong>豁免</strong> 意志 DC 23；<strong>效果</strong> 受诅咒区域的天气发生剧变，甚至会让炽热的沙漠下起雪来。该区域受到你所选的严寒天气、酷热天气或频繁的强烈风暴之一的困扰。天气依然难以预测，并可能随时间变化（由GM裁定），但只要诅咒仍在，基础天气就已被改变。；<strong>治愈</strong> 只有在受影响区域的中心施展移除诅咒，再接着施展操控天气，才能让诅咒的天气恢复正常。</p>"
+        },
+        "Vorel's Phage": {
+            "name": "沃雷尔噬菌体 (Vorel's Phage)",
+            "description": "<p><strong>类型</strong> 疾病；<strong>形式</strong> 接触、摄入；<strong>豁免</strong> 强韧 DC 20；<strong>发作期</strong> 1天；<strong>频率</strong> 1次/天；<strong>效果</strong> 1d4点魅力伤害和1d4点体质伤害；<strong>治愈</strong> 连续2次豁免成功</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        },
+        "Weeping Wound": {
+            "name": "流泪的伤口 (Weeping Wound)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒；<strong>豁免</strong> 强韧 DC 14；<strong>效果</strong> 受害者有一道无法愈合的伤口，使她的最大生命值实际降低，降低量等于她的等级或5点，取较高者。会使受害者的生命值超出此降低后上限的魔法治疗，超出部分作废。</p>"
+        },
+        "Werewolf Lycanthropy": {
+            "name": "狼人兽化症 (Werewolf Lycanthropy)",
+            "description": "<p><strong>类型</strong> 诅咒；<strong>形式</strong> 诅咒，伤口；<strong>豁免</strong> 强韧 DC 15；<strong>发作期</strong> 下一次满月；<strong>频率</strong> 每个满月之夜，或目标受伤时；<strong>效果</strong> 目标变身为一匹狼，由GM控制，直到次日清晨。</p>"
+        },
+        "Zombie Rot": {
+            "name": "腐尸症 (Zombie Rot)",
+            "description": "<table><tr><th>体型</th><th>额外 HD</th></tr><tr><td>超巨型</td><td>+10HD</td></tr></table><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        }
+    }
+}

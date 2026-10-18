@@ -1,0 +1,309 @@
+{
+    "label": "Paizo 合作内容",
+    "folders": {
+        "Classes": "职业",
+        "Human": "人类",
+        "Archetypes": "变体职业",
+        "Dhampir": "吸血裔"
+    },
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        },
+        "actions": {
+            "path": "system.actions",
+            "converter": "actions"
+        }
+    },
+    "entries": {
+        "ARCANE EXEMPLAR ( OMDURA ARCHETYPE)": {
+            "name": "奥法英杰 (ARCANE EXEMPLAR ( OMDURA ARCHETYPE))",
+            "description": "<div><small><strong>这一章还没有拆成条目。</strong>正文是从民间汉化 CHM 整章搬过来的，里面的专长、法术、物品等等都还没有各自建页。认领整理见 待办事项。</small></div><p><strong>变体（导魂者）</strong>是导魂者的变体职业，译自民间汉化 CHM 里 导魂者 底下的「变体」一节。<strong>出自哪本书还没查清</strong>——AoN 没收录导魂者的变体职业，CHM 那边也没标出处；导魂者本身出自《Pathfinder Roleplaying Game: Niobe》（美漫 Niobe 与 Paizo 合作的 Kickstarter 延伸项目，AoN 没收录）。另外第二条（Exemplar of War）整段还是英文，没人译。</p><p>有些导魂者，特别是魔法之神的信徒，会学习操控魔法之力来辅佐她的神明。这些导魂者不会从他们信奉的神祇那里获得神术，但托神之福，他们对奥术能量的使用有着独到见解。</p><p><strong>奥术洞察(Arcane Insight)：奥法英杰可以施展魔战士列表中的法术，将其等级视作魔战士等级。她使用魅力替代智力决定其法术学习，施法能力，法术DC，额外法术及其他任何影响施法的效果。</strong></p><p>如同魔战士，奥法英杰必须每天研习法术书准备法术。奥法英杰起始时拥有一本法术书，其中包含了所有0环的魔战士法术以及3个奥法英杰自己所选择的1环魔战士法术。奥法英杰同样可以选择等于其魅力修正个数的1环魔战士法术加入法术书。每当她获得一个新的奥法英杰等级，她可以将两个新的魔战士法术加入法术书中，这些法术可以是任意她所能释放的环级（以新的奥法英杰等级计算）。无论何时，奥法英杰都可以将其他法术书上的法术加入自己的法术书。（详情参考CRB第218页法术部分）</p><p>此能力改变了法术与祷念。</p><p><strong>法术打击(Spellstrike, Su)：2级时，奥法英杰获得魔战士的“法术打击（Spellstrike）“职业特性。</strong></p><p>此能力替换了神圣之触。</p><p><strong>神圣奥能(Divine Arcana, Ex)：3级时，奥法英杰获得一个魔战士奥能（Magus Arcana）。她在6级与之后每3个等级获得一个额外的魔战士奥能。在决定满足魔战士奥能前置要求时，将奥法英杰的导魂者等级视作魔战士等级。</strong></p><p>如果一个魔战士奥能需要消耗奥能力池的能量点数，奥能英杰可消耗祈神祷告（Invocation）能力的持续时间或准备的法术用来替代能量点数。如果她选择消耗祈神祷告的持续时间，那么每分钟持续时间视为1能量点数。如果她消耗准备的法术，那么法术的每环级视为1能量点数。</p><p>此能力替代了神圣灌注。</p><p><strong>法术唤回(Spell Recall , Su)：5级时，奥法英杰可以唤回她施放过的法术。每天1次，以迅捷动作，她可以唤回任意1个当天准备且施放过的法术。用此能力唤回的法术必须比她所能施放的最高环位法术低至少1环。17级时，她可以无视环位要求，唤回任意法术。此能力在11级和17级各获得每天一次额外使用次数。除此之外，奥法英杰可以消耗自己祈神祷告能力的持续时间，以迅捷动作唤回法术。以此方法使用法术唤回时，她必须消耗等同于法术环级的持续分钟数。</strong></p><p>此能力替代了神圣武器。</p><h3>EXEMPLAR OF WAR</h3><p>Some omduras are chosen by their gods to lead their followers into combat, waging war against the enemies of the faith. These warriors are unable to cast spells, but they command exceptional combat prowess that allows them to excel on the battlefield.</p><p><strong>Divine Training, Ex：An exemplar of war gains a bonus feat at 1st level and every 3 levels thereafter. These bonus feats must be selected from those listed as combat feats.</strong></p><p>At 5th level and every 3 levels thereafter, an exemplar of war can learn a new bonus feat in place of a bonus feat she has already learned. In effect, the exemplar of war loses the old bonus feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or other ability. An exemplar of war can swap out only one feat at any given level and must choose whether or not to swap the feat at the time she gains a new bonus feat for the level.</p><p>This replaces spells.</p><p><strong>Chosen Warrior, Ex：At 3rd level, an exemplar of war gains the Chosen One feat (see page 18) as a bonus feat. At 6th level and every 3 levels thereafter, the exemplar of war gains an additional bonus feat. These feats must be selected from the following list: Blessed by a God or Dragon, Chosen One's Might, or Chosen One's Resilience (see pages 18-19). At 9th level, the following feats are added to the list: Chosen One's Determination and Chosen One's Wrath (see page 19). An exemplar of war can ignore any level prerequisites for these bonus feats, but she must meet all other prerequisites. If the exemplar of war selects Blessed by a God or Dragon as a bonus feat, she can plea for assistance from her god once per day instead of once per week.</strong></p><p>This replaces divine infusion.</p><p>本页译自民间汉化 CHM（原文）。同一批的其他页见 未整理章节。</p>"
+        },
+        "Alternate Spell-Like Ability (Dhampir: Sacred Ancestry)": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Aura (OMD)": {
+            "name": "灵氲（OMD） (Aura (OMD))",
+            "description": "<p>位面异端会散发出与其阵营相符的灵氲，就如同与其德鲁伊等级相同的牧师一般。</p>"
+        },
+        "Commune": {
+            "actions": [
+                {
+                    "name": "施法",
+                    "target": "自己",
+                    "duration": "1轮/等级",
+                    "range": "个人"
+                }
+            ],
+            "name": "通神术 (Commune)",
+            "description": "<p>你与你信奉的神祇或其代理人进行接触，并询问那些可以用简单地使用“是”或“否”回答的问题 (没有特定信仰的牧师可以接触哲学理念相似的神祇)。每施法者等级你可以询问一个问题。你所询问的存在会按照自身的知识答覆你。“不清楚”这种答案也是合理的，因为这些强大的异界存在并非全知全能。如果单字答案容易让人产生误解或是违背神祇的利益，则会用一个简短的句子 (五个单词或更少) 来进行回答。</p><p>该法术在最好的情况下也只能提供信息帮助角色做出决定。被联系的存在会组织其答案以推进自己的目的。如果你发呆、与别人讨论答案、或是去做别的事情的话，法术将会结束。</p>"
+        },
+        "Darkvision (Grachukk)": {
+            "name": "黑暗视觉 (Darkvision (Grachukk))",
+            "description": "<p>受术者获得在完全黑暗的环境中看到60尺远的能力。黑暗视觉只能看到黑白影像，其它方面则同正常视觉一样。</p><p>黑暗视觉可用@UUID[Compendium.pf1.spells.Item.nsxngq65mbrzgwnm]{魔法恒定术}恒定。</p>"
+        },
+        "Detect Undead": {
+            "actions": [
+                {
+                    "name": "施法",
+                    "savingThrow": "无",
+                    "duration": "专注, 至多每等级1分钟 (可解消)",
+                    "area": "锥形发散区域",
+                    "range": "60尺"
+                }
+            ],
+            "name": "侦测死灵 (Detect Undead)",
+            "description": "<p>你可以侦测到不死生物周围散发着的灵氲。你可获得的信息量取决于你对一片特定区域研究了多久。</p><p>第一轮：得知是否有不死生物灵氲的存在。</p><p>第二轮：得知区域内不死生物的数量，以及其中最强者的灵氲强度。若你是善良阵营，最强的不死生物灵氲强度是刺目 (见后文)，且该生物的HD至少两倍于你的角色等级，则你被震慑1轮，法术结束。</p><p>第三轮：每个不死生物的灵氲强度和所在位置。若生物在你的@UUID[Compendium.pf1.spells.Item.nb9ijjhie5l7x2ir]{视线之外}，则你只能知道该生物的方向而非确切位置。</p><p>灵氲强度：每个不死生物的灵氲强度取决于它们的HD，如下表所述。</p><p>残存的灵氲：不死生物被摧毁后，会留下残存的灵氲。若以侦测死灵观察这样的位置，则可发现此处有暗淡的灵氲 (比昏暗灵氲更暗)。灵氲的残存时间取决于该不死生物原本的力量，如下表所述。</p><table class=\"wikitable\">\n<tr><th>HD</th><th>发生源强度</th><th>灵氲残存时间</th></tr>\n<tr><td>1或更低</td><td>昏暗</td><td>1d6轮</td></tr>\n<tr><td>2 – 4</td><td>中等</td><td>1d6分钟</td></tr>\n<tr><td>5 – 10</td><td>强烈</td><td>1d6×10分钟</td></tr>\n<tr><td>11以上</td><td>刺目</td><td>1d6天</td></tr>\n</table><p>每轮你都可以转而侦测新的区域。该法术可穿透障碍，不过1尺厚的岩石，1英吋厚的普通金属，铅薄片或3尺厚的木头或泥土都可以挡住它。</p>"
+        },
+        "Dhampir: Sacred Ancestry": {
+            "name": "吸血裔（Sacred Ancestry） (Dhampir: Sacred Ancestry)"
+        },
+        "Divine Infusion": {
+            "name": "神圣灌注 (Divine Infusion)",
+            "description": "<p><span id=\"神圣灌注\"></span></p><p>在3级和之后每3个等级，导魂者可选择一种神圣灌注。神圣灌注会为神圣之触带来额外增益效果。导魂者可以选择的灌注取决于她选择的能量类型。传导正能量的导魂者获得一项恩惠（Mercy），将其导魂者等级视为圣武士等级并将其神圣之触能力视为“圣疗术（Lay on Hands）”。传导负能量的导魂者获得一项暴行（Cruelty），将其导魂者等级视为反圣武士等级并将其神圣之触能力视为“堕落之触（Touch of Corruption）”。6级，9级，12级时，她将相应等级的圣武士或反圣武士的恩惠或暴行加入可选灌注列表。在决定相关专长，法术和其他效果时，神圣灌注按照传导能量类型分别视为恩惠或暴行。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Divine Might": {
+            "name": "神力克敌 (Divine Might)",
+            "description": "<p><strong>神力克敌 (Divine Might, Su)</strong></p><p><span id=\"神力克敌\"></span></p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Divine Touch": {
+            "name": "神圣之触 (Divine Touch)",
+            "description": "<p><span id=\"神圣之触\"></span></p><p>2级起，导魂者可通过接触传递神圣能量。一个善良阵营的导魂者（或信奉善良神祇的中立导魂者）必须选择正能量。一个邪恶阵营的导魂者（或信奉邪恶神祇的中立导魂者）必须选择负能量。信奉中立神祇的中立导魂者可以选择正能量或是负能量，一旦确定不能更改。此能力每日可以使用的次数等于「1/2导魂者等级+魅力修正」。选择正能量的导魂者每次使用神圣之触可以治疗「1/2导魂者等级×1d6」点生命值。选择负能量的导魂者对活物造成「1/2导魂者等级×1d6」的伤害。导魂者使用此能力一般来说是一个标准动作，但用来治疗自己是一个迅捷动作。导魂者可用此能力影响不死生物，正能量对其造成伤害，负能量对其进行治疗。导魂者只需一只手空闲即可使用此能力。使用神圣之触造成伤害需要一个成功的近战接触检定，但不会引发借机攻击。目标生物对此伤害无法进行豁免检定。任何影响圣武士圣疗术的专长，法术或职业能力均可影响神圣之触。举例说明，@UUID[Compendium.pf1.feats.Item.RDgJ7awoKBhacWsu]{额外圣疗}可给予每日额外两次神圣之触使用次数。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Divine Weapon": {
+            "name": "神圣武器 (Divine Weapon)",
+            "description": "<p><span id=\"神圣武器\"></span></p><p>5级起，导魂者同她所信仰的神之间形成一道神圣的契约。契约给予导魂者呼唤一位天界灵魂，并用以强化她的武器的能力。呼唤灵魂是一个标准动作，效果持续每导魂者等级1分钟。响应契约的灵魂附着在武器上，让武器如同火把一般发光。在第5级，灵魂给予武器+1加值。5级之后的每3级，获得的加值都会+1，20级时达到最高+6。这些加值可以与武器原本的增强加值迭加，但最高不能超过+5；它们也可以被用来给武器增添以下附魔：光能（Brilliant Energy），护身（Defending），炽焰（Flaming），焰爆（Flaming Burst），锋锐（Keen），追击（Speed）。守序阵营的导魂者可额外选择公理（Axiomatic）和慈悯（Merciful）。混乱阵营的导魂者可额外选择混沌（Anarchic）和反噬（Vicious）。善良阵营的导魂者可额外选择瓦解（Disruption）和神圣（Holy）。邪恶阵营的导魂者可额外选择邪恶（Unholy）或血光（Wounding）。中立阵营的导魂者可额外选择斩首（Vorpal）。增添附魔花费的加值与附魔本身的加值相同。增添的附魔与武器的原本附魔同时有效，但重复的并不迭加。在为非魔法武器增添任何附魔前必须先给予其至少+1的增强加值。奖励的增强加值和附魔在每次呼唤灵魂时决定，且在下次呼唤之前无法更改。非导魂者本人持有此武器不会获得任何契约带来的好处，但灵魂依旧存在于武器里，且强化会在武器回到归属者手中后重新生效。双头武器只有一端会被强化。5级的导魂者每天可以使用1次此能力。5级之后的每4级，导魂者都会多获得1次使用次数，17级时达到最多每日4次。一旦附着着灵魂的武器被破坏，在之后30天内、或者直到在导魂者职业上提升了等级，她将无法使用此能力。在此30天期间内，导魂者在攻击和伤害检定上都要受到-1减值。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Greater Divine Might": {
+            "name": "高等神力克敌 (Greater Divine Might)",
+            "description": "<p><span id=\"高等神力克敌\"></span></p><p>18级时，导魂者在使用神力克敌时获得等同其全部魅力调整值与所有导魂者等级的加值。中立阵营的导魂者使用神力克敌时获得等同其全部魅力调整值与导魂者等级-3的加值。</p>"
+        },
+        "Greater Invocation": {
+            "name": "高等祈神祷告 (Greater Invocation)",
+            "description": "<p><span id=\"高等祈神祷告\"></span></p><p>20级时，当导魂者恢复其每日法术位时，她可选择一种祈神祷告效果，在接下来一天中使其盟友与本人获得相应的增益效果。导魂者获得此效果的全部加值。此效果与她的祈神祷告和精通祈神祷告职业能力迭加。</p>"
+        },
+        "Heightened Senses": {
+            "name": "敏感 (Heightened Senses)",
+            "description": "<p>在2级时，拥有蜘蛛化身的化兽侠可以以惊人的速度察觉危险的存在并立刻回避威胁，他获得@UUID[Compendium.pf1.class-abilities.Item.mQHVX4j8EV41R6je]{猎手直觉}侠客天赋，即使他并不属于诡秘猎手之道。</p>"
+        },
+        "Improved Invocation": {
+            "name": "精通祈神祷告 (Improved Invocation)",
+            "description": "<p><span id=\"精通祈神祷告\"></span></p><p>11级时，每当导魂者使用祈神祷告能力，她可以选择两种祈神祷告效果赋予盟友。除此之外，导魂者可从她使用的任意一种祈神祷告中获得增益效果，但她只获得通常一半的加值。</p>"
+        },
+        "Improved Quarry (VAM)": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Invocation": {
+            "name": "祈神祷告 (Invocation)",
+            "description": "<p><strong>祈神祷告 (Invocation, Su)</strong></p><p><span id=\"祈神祷告\"></span></p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Keen Senses (Galemren)": {
+            "name": "感官锐化 (Keen Senses (Galemren))",
+            "description": "<p>受术者的察觉检定获得+2表现加值，并且获得昏暗视觉。已经拥有昏暗视觉的生物在该法术的影响下会使可视距离加倍。</p>"
+        },
+        "Keen Senses (Sin-Galemren)": {
+            "name": "感官锐化 (Keen Senses (Sin-Galemren))",
+            "description": "<p>受术者的察觉检定获得+2表现加值，并且获得昏暗视觉。已经拥有昏暗视觉的生物在该法术的影响下会使可视距离加倍。</p>"
+        },
+        "Languages (Esufey)": {
+            "name": "语言（Esufey） (Languages (Esufey))"
+        },
+        "Languages (Galemren)": {
+            "name": "语言（Galemren） (Languages (Galemren))"
+        },
+        "Languages (Grachukk)": {
+            "name": "语言（Grachukk） (Languages (Grachukk))"
+        },
+        "Languages (Sin-Galemren)": {
+            "name": "语言（Sin-Galemren） (Languages (Sin-Galemren))"
+        },
+        "Low-Light Vision (Galemren)": {
+            "name": "昏暗视觉（Galemren） (Low-Light Vision (Galemren))"
+        },
+        "Low-Light Vision (Sin-Galemren)": {
+            "name": "昏暗视觉（Sin-Galemren） (Low-Light Vision (Sin-Galemren))"
+        },
+        "Master Vampire Hunter": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Omdura": {
+            "name": "导魂者 (Omdura)"
+        },
+        "Orc Ferocity (Grachukk)": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Quarry (VAM)": {
+            "name": "狩猎目标（VAM） (Quarry (VAM))",
+            "description": "<p>在19级时，伊舒瑞安神射手获得游侠的狩猎目标能力。本能力取代高等狩猎目标。</p>",
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Relentless": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Relentless Band": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Remove Vampirism": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Stake": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampire Bane": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampire Hunter": {
+            "name": "吸血鬼猎人 (Vampire Hunter)",
+            "description": "<p><strong>吸血鬼猎人</strong>：</p>"
+        },
+        "Vampire Tracker": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Agility": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Call": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Cunning": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Focus": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Might": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Presence": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Resilience": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Resolve": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Vampiric Sight": {
+            "actions": [
+                {
+                    "name": "使用"
+                }
+            ]
+        },
+        "Weapon Familiarity (Esufey)": {
+            "name": "武器精熟（Esufey） (Weapon Familiarity (Esufey))"
+        },
+        "Weapon Familiarity (Galemren)": {
+            "name": "武器精熟（Galemren） (Weapon Familiarity (Galemren))"
+        },
+        "Weapon Familiarity (Grachukk)": {
+            "name": "武器精熟（Grachukk） (Weapon Familiarity (Grachukk))"
+        },
+        "Weapon Familiarity (Sin-Galemren)": {
+            "name": "武器精熟（Sin-Galemren） (Weapon Familiarity (Sin-Galemren))"
+        }
+    }
+}

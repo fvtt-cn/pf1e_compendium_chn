@@ -1,0 +1,15 @@
+{
+    "label": "智能物品",
+    "mapping": {
+        "tags": {
+            "path": "system.tags",
+            "converter": "tags"
+        }
+    },
+    "entries": {
+        "Crusader's Scabbard": {
+            "name": "圣教军剑鞘 (Crusader's Scabbard)",
+            "description": "<p><strong>灵光</strong> 中等变化系；<strong>施法者等级</strong> 7；<strong>部位</strong> 腰部；<strong>价格</strong> 8,500 gp；<strong>重量</strong> 3磅</p><p>这把@UUID[Compendium.pf-content.pf-wondrous.Item.BC37H2EMO189ynfE]{威力之鞘}上醒目地刻着艾奥梅黛的圣徽。每天3次，剑鞘可以对插在鞘内的任何武器施展@UUID[Compendium.pf1.spells.Item.hl9l92qfalq6c55z]{祝福武器}，但对长剑以外的武器施展时会不情不愿。使用者处于战斗中时，剑鞘会用响亮清晰的声音抛出正义惩戒的威胁，试图挫伤对手的士气（威吓加值+7）。圣教军剑鞘内的意识英勇无畏，会厉声谴责一切怯懦或不诚实的表现。</p><h3>制作</h3><p><strong>需求</strong> 制造奇物、祝福武器、高等魔化武器；<strong>成本</strong> 4,250 gp</p><p><em>（本条为 AI 从英文译出，未经人工校对。）</em></p>"
+        }
+    }
+}
