@@ -35,24 +35,32 @@ class Converters {
     }
 
     value.forEach((type, index) => {
-      if (index > 0) {
-        return;
-      }
       const data = translations[index];
+      if (!data) return;
 
-      value[index].name = data.name;
+      if (data.name) value[index].name = data.name;
 
-      if (value[index].range?.value) {
+      // 距离、持续时间的 value 是公式（「60」「@cl」），单位另存；只有单位是「特殊/见正文」时 value 才是给人看的文字，才能换成译文。
+      // 原来一律换成「60尺」「1分钟/等级」，PF1 求值失败（Unresolved StringTerm），法术和能力的距离、持续时间都算不出来
+      const TEXT_UNITS = ["spec", "seeText"];
+      if (value[index].range?.value && data.range && TEXT_UNITS.includes(value[index].range.units)) {
         value[index].range.value = data.range;
       }
-      if (value[index].save?.description) {
+      if (value[index].save?.description && data.savingThrow) {
         value[index].save.description = data.savingThrow;
       }
-      if (value[index].duration?.value) {
+      if (value[index].duration?.value && data.duration && TEXT_UNITS.includes(value[index].duration.units)) {
         value[index].duration.value = data.duration;
       }
-      if (value[index].target?.value) {
+      if (value[index].target?.value && data.target) {
         value[index].target.value = data.target;
+      }
+      // PF1 v11 的区域和效果是 action 上的字符串字段
+      if (typeof value[index].area === "string" && value[index].area && data.area) {
+        value[index].area = data.area;
+      }
+      if (typeof value[index].effect === "string" && value[index].effect && data.effect) {
+        value[index].effect = data.effect;
       }
       if (data.spellArea) {
         value[index].spellArea = data.spellArea;
